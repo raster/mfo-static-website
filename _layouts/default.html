@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include head.html %}
+</head>
+<body>
+
+<div class="flag-banner header-flag"></div>
+{% include topnav.html %}
+<div id="page_content">
+  <div id="page-body"
+            {{content}}
+  </div>
+</div>
+
+</body>
+{% if site.google_analytics %}
+{% include google_analytics.html %}
+{% endif %}
+</html>
