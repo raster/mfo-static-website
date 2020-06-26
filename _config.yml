@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+
+# set timezone
+timezone: America/New_York
+
+newsletter_url: http://eepurl.com/bpCB8T
+
+event_date_descr: December 12th & 13th, 2020
+
+event_location_descr: Central Florida Fairgrounds & Expo Halls
+
+cta_nav_button_text: APPLY TO EXHIBIT!
+cta_nav_button_url: /exhibit-at-maker-faire-Orlando
+
+cta_footer_text: Subscribe for Info!
+cta_footer_url: http://eepurl.com/bpCB8T
