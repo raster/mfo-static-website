@@ -1,7 +1,7 @@
 ---
 title: Power Racing at Maker Faire Orlando
 layout: default
-permalink: power-racing
+permalink: /power-racing
 
 carousel: true
 carousel-delay: 5000

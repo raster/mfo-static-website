@@ -1,7 +1,7 @@
 ---
 title: About Maker Faire Orlando
 layout: default
-permalink: about
+permalink: /about
 
 ---
 
