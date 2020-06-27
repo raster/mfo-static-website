@@ -1,7 +1,7 @@
 ---
 title: MFO Static Website test
 permalink: /
-layout: default
+layout: full-width
 
 
 carousel: true

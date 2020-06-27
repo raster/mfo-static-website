@@ -15,23 +15,15 @@
     {% else %}
       <div style = "padding-bottom:20px;"></div>
     {% endif %}
-    <div class="container">
     {{ content }}
-    </div>
   </div>
 </div>
 <div style = "padding-bottom:20px;"></div>
 
-<section class="cta-panel" style="margin-top:40px">
-  <div class="container">
-    <div class="row text-center">
-      <div class="col-xs-12">
-        <h3><a href="{{site.cta_footer_url}}">{{site.cta_footer_text}} <i class="fa fa-chevron-right" aria-hidden="true"></i></a></h3>
-      </div>
-    </div>
-  </div>
-</section>
+
+{% include cta-panel-widget.html cta_text=site.cta_footer_text cta_url=site.cta_footer_url %}
 {% include footer.html %}
+
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}
