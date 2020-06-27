@@ -2,18 +2,28 @@
 title: MFO Static Website test
 permalink: /
 layout: default
-slider:
-  - assets/images/slider-homepage/welcome-to-maker-faire.jpg
-  - assets/images/slider-homepage/jedi.jpg
-  - assets/images/slider-homepage/neon-cowboy-hats.jpg
-  - assets/images/slider-homepage/button-making-girl.jpg
 
+
+carousel: true
+carousel-delay: 5000
+carousel-controls: true
+carousel-slides:
+  - image: /assets/images/slider/welcome-to-maker-faire.jpg  
+    caption: Welcome to Maker Faire!
+    url: /welcome-to-maker-faire/
+
+  - image: /assets/images/slider/jedi.jpg  
+    caption: Use the Force!
+    url: /cosplay/
+
+  - image: /assets/images/slider/neon-cowboy-hats.jpg
+    caption: Make Cool Stuff!
+    url: /make-cool-stuff/
+
+  - image: /assets/images/slider/button-making-girl.jpg  
+    caption: Make-a-Button!
+    url: /make-a-button/
 ---
-<!--
-<div>
-<img src="assets/images/slider-homepage/welcome_to_maker_faire.jpg" style="width: 100%; padding: 0px; ">
-</div>
--->
 
 
 <section class="cta-panel">
