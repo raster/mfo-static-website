@@ -13,3 +13,7 @@ gem "rubyzip", ">= 1.3.0"
 gem "faraday", "< 1.0"
 gem "jekyll", ">= 3.6.3"
 gem "activesupport", ">= 6.0.3.1"
+
+group :jekyll_plugins do
+  gem 'jekyll-datapage-generator'
+end
