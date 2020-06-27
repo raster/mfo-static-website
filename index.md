@@ -1,12 +1,21 @@
 ---
 title: MFO Static Website test
 permalink: /
-layout: homepage
----
+layout: default
+slider:
+  - assets/images/slider-homepage/welcome-to-maker-faire.jpg
+  - assets/images/slider-homepage/jedi.jpg
+  - assets/images/slider-homepage/neon-cowboy-hats.jpg
+  - assets/images/slider-homepage/button-making-girl.jpg
 
+---
+<!--
 <div>
 <img src="assets/images/slider-homepage/welcome_to_maker_faire.jpg" style="width: 100%; padding: 0px; ">
 </div>
+-->
+
+
 <section class="cta-panel">
 <div class="container">
 <div class="row text-center">
