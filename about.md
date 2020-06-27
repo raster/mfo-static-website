@@ -28,7 +28,7 @@ carousel-slides:
 
 <div style="margin-top: 20px"></div>
 
-<div class="container">
+
   <div class="row text-center">
     <div class="title-w-border-y">
       <h2>About Maker Faire Orlando</h2>
@@ -64,4 +64,3 @@ carousel-slides:
     </div>
   </div>
   <div style="margin-top: 20px"></div>
-</div>
