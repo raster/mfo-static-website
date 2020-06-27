@@ -30,7 +30,6 @@ carousel-slides:
 
 
 {% include what-is-maker-faire.html %}
-
 {% include makey-border.html %}
 
 {% include call-for-makers-widget.html %}
