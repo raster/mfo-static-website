@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 
+collections:
+   sponsors:
+     output: false
+     sort_by: sponsor-level
+
+
+
 # set timezone
 timezone: America/New_York
 
