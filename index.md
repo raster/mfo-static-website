@@ -25,16 +25,9 @@ carousel-slides:
     url: /make-a-button/
 ---
 
+{% capture cta_event_text %}{{ site.event_date_descr }} – {{ site.event_location_descr }}{% endcapture %}
+{% include cta-panel-widget.html cta_text=cta_event_text cta_url=site.cta_footer_url %}
 
-<section class="cta-panel">
-<div class="container">
-<div class="row text-center">
-<div class="col-xs-12">
-<h3><a href="/attend">{{ site.event_date_descr }} – {{ site.event_location_descr }} <i class="fa fa-chevron-right"></i></a></h3>
-</div>
-</div>
-</div>
-</section>
 
 {% include what-is-maker-faire.html %}
 
@@ -42,12 +35,3 @@ carousel-slides:
 
 {% include call-for-makers-widget.html %}
 {% include sponsors-carousel.html %}
-
-<section class="cta-panel" style="margin-top:40px"><div class="container">
-          <div class="row text-center">
-            <div class="col-xs-12">
-              <h3><a href="{{site.cta_footer_url}}">{{site.cta_footer_text}} <i class="fa fa-chevron-right" aria-hidden="true"></i></a></h3>
-            </div>
-          </div>
-        </div>
-      </section>
