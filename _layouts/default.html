@@ -5,11 +5,15 @@
 </head>
 <body>
 
+
 <div class="flag-banner header-flag"></div>
 {% include topnav.html %}
 <div id="page_content">
   <div id="page-body"
-            {{content}}
+    {% if page.carousel %}
+      {% include carousel.html %}
+    {% endif %}
+    {{ content }}
   </div>
 </div>
 
@@ -17,4 +21,7 @@
 {% if site.google_analytics %}
 {% include google_analytics.html %}
 {% endif %}
+
+
+
 </html>
