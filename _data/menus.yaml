@@ -43,6 +43,7 @@ topnav:
 footernav:
   - title: Maker Faire Orlando
     image: assets/images/site-branding/mfo_two_line_border.png
+    imagealt: Maker Faire Orlando logo
     subfolderitems:
       - page: Email Us
         url: mailto:makers@makerfaireorlando.com
@@ -68,6 +69,7 @@ footernav:
         icon: fa fa-instagram
   - title: Maker Faire
     image: https://global.makerfaire.com/wp-content/themes/MiniMakerFaire/img/Maker-Faire-Logo.png
+    imagealt: Maker Faire logo
     subfolderitems:
       - page: About Maker Faire
         url: https://makerfaire.com/makerfairehistory/
