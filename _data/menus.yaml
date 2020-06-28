@@ -38,4 +38,30 @@ topnav:
       - page: School Educators
         url: /educators
   - title: MAKER LOGIN
-    url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsite
+    url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsitetop
+
+footernav:
+  - title: Maker Faire Orlando
+    subfolderitems:
+    - page: Email Us
+      url: mailto:makers@makerfaireorlando.com
+    - page: Join Our Mailing List
+      url: http://eepurl.com/bpCB8T
+    - page: About
+      url: /about
+    - page: Privacy Policy
+      url: http://www.themakereffect.org/privacy/
+    - page: Maker Login
+      url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsitefooter
+    - page: Create Maker Account
+      url: http://makers.makerfaireorlando.com/dashboard?action=register&ref=mfostaticsitefooter
+  - title: Maker Faire
+    subfolderitems:
+    - page: About Maker Faire
+      url: https://makerfaire.com/makerfairehistory/
+    - page: Find a Faire Near You
+      url: https://makerfaire.com/map/
+    - page: Be a Maker
+      url: https://makerfaire.com/be-a-maker/
+    - page: Maker Faire FAQs
+      url: https://help.makermedia.com/hc/en-us/categories/200333245-Maker-Faire
