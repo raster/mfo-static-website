@@ -23,7 +23,17 @@
 
 {% include cta-panel-widget.html cta_text=site.cta_footer_text cta_url=site.cta_footer_url %}
 {% include footer.html %}
+{% include scripts.html %}
 
+{% if page.carousel %}
+  <script language="JavaScript" type="text/javascript">
+    $(document).ready(function(){
+      $('#myCarousel').carousel({
+        interval: {{page.carousel-delay}}
+      })
+    });
+  </script>
+{% endif %}
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}
