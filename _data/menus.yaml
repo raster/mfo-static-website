@@ -57,13 +57,13 @@ footernav:
       - page: Create Maker Account
         url: http://makers.makerfaireorlando.com/dashboard?action=register&ref=mfostaticsitefooter
     socialitems:
-      - social: Facebook
+      - title: Facebook
         url: https://www.facebook.com/makerfaireorlando/
         icon: fa fa-facebook
-      - social: Twitter
+      - title: Twitter
         url: https://twitter.com/orlmakerfaire
         icon: fa fa-twitter
-      - social: Instagram
+      - title: Instagram
         url: https://www.instagram.com/makerfaireorlando/
         icon: fa fa-instagram
   - title: Maker Faire
@@ -78,15 +78,15 @@ footernav:
       - page: Maker Faire FAQs
         url: https://help.makermedia.com/hc/en-us/categories/200333245-Maker-Faire
     socialitems:
-      - social: Facebook
+      - title: Facebook
         url: https://www.facebook.com/makerfaire/
         icon: fa fa-facebook
-      - social: Twitter
+      - title: Twitter
         url: https://twitter.com/makerfaire
         icon: fa fa-twitter
-      - social: Instagram
+      - title: Instagram
         url: https://www.instagram.com/makerfaire/
         icon: fa fa-instagram
-      - social: Pinterest
+      - title: Pinterest
         url: http://www.pinterest.com/makemagazine/maker-faire/
         icon: fa fa-pinterest
