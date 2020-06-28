@@ -42,26 +42,51 @@ topnav:
 
 footernav:
   - title: Maker Faire Orlando
+    image: assets/images/site-branding/mfo_two_line_border.png
     subfolderitems:
-    - page: Email Us
-      url: mailto:makers@makerfaireorlando.com
-    - page: Join Our Mailing List
-      url: http://eepurl.com/bpCB8T
-    - page: About
-      url: /about
-    - page: Privacy Policy
-      url: http://www.themakereffect.org/privacy/
-    - page: Maker Login
-      url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsitefooter
-    - page: Create Maker Account
-      url: http://makers.makerfaireorlando.com/dashboard?action=register&ref=mfostaticsitefooter
+      - page: Email Us
+        url: mailto:makers@makerfaireorlando.com
+      - page: Join Our Mailing List
+        url: http://eepurl.com/bpCB8T
+      - page: About
+        url: /about
+      - page: Privacy Policy
+        url: http://www.themakereffect.org/privacy/
+      - page: Maker Login
+        url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsitefooter
+      - page: Create Maker Account
+        url: http://makers.makerfaireorlando.com/dashboard?action=register&ref=mfostaticsitefooter
+    socialitems:
+      - social: Facebook
+        url: https://www.facebook.com/makerfaireorlando/
+        icon: fa fa-facebook
+      - social: Twitter
+        url: https://twitter.com/orlmakerfaire
+        icon: fa fa-twitter
+      - social: Instagram
+        url: https://www.instagram.com/makerfaireorlando/
+        icon: fa fa-instagram
   - title: Maker Faire
+    image: https://global.makerfaire.com/wp-content/themes/MiniMakerFaire/img/Maker-Faire-Logo.png
     subfolderitems:
-    - page: About Maker Faire
-      url: https://makerfaire.com/makerfairehistory/
-    - page: Find a Faire Near You
-      url: https://makerfaire.com/map/
-    - page: Be a Maker
-      url: https://makerfaire.com/be-a-maker/
-    - page: Maker Faire FAQs
-      url: https://help.makermedia.com/hc/en-us/categories/200333245-Maker-Faire
+      - page: About Maker Faire
+        url: https://makerfaire.com/makerfairehistory/
+      - page: Find a Faire Near You
+        url: https://makerfaire.com/map/
+      - page: Be a Maker
+        url: https://makerfaire.com/be-a-maker/
+      - page: Maker Faire FAQs
+        url: https://help.makermedia.com/hc/en-us/categories/200333245-Maker-Faire
+    socialitems:
+      - social: Facebook
+        url: https://www.facebook.com/makerfaire/
+        icon: fa fa-facebook
+      - social: Twitter
+        url: https://twitter.com/makerfaire
+        icon: fa fa-twitter
+      - social: Instagram
+        url: https://www.instagram.com/makerfaire/
+        icon: fa fa-instagram
+      - social: Pinterest
+        url: http://www.pinterest.com/makemagazine/maker-faire/
+        icon: fa fa-pinterest
