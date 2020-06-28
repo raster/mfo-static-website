@@ -17,3 +17,6 @@ assets/images/.DS_Store
 assets/images/site-branding/.DS_Store
 assets/images/slider-homepage/.DS_Store
 _mdwriter.cson
+
+_data/exhibits.json
+_data/pets.json
