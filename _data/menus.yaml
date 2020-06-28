@@ -1,0 +1,41 @@
+#helpful guide: https://jekyllrb.com/tutorials/navigation/
+#WATCH YOUR SPACING!
+topnav:
+  - title: ABOUT
+    subfolderitems:
+      - page: What is Maker Faire?
+        url: /about
+      - page: Media
+        url: /media
+  - title: THINGS TO SEE & DO
+    subfolderitems:
+      - page: Makers & Exhibits
+        url: /makers
+      - page: Event Schedule
+        url: /schedule
+      - page: Hands-On Workshops
+        url: /workshops
+      - page: Combat Robots
+        url: /combat-robots
+      - page: Power Racing
+        url: /power-racing
+      - page: Nerdy Derby
+        url: /nerdy-derby
+  - title: GET INVOLVED
+    subfolderitems:
+      - page: Exhibit at Maker Faire Orlando
+        url: /exhibit-at-maker-faire-orlando
+      - page: Volunteer
+        url: /volunteer
+      - page: Become a Sponsor
+        url: /become-a-sponsor
+  - title: ATTEND
+    subfolderitems:
+      - page: Tickets & Info
+        url: /attend
+      - page: Homeschool Educators
+        url: /homeschool
+      - page: School Educators
+        url: /educators
+  - title: MAKER LOGIN
+    url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsite
