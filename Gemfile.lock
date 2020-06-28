@@ -249,6 +249,7 @@ DEPENDENCIES
   jekyll (>= 3.6.3)
   jekyll-datapage-generator
   jekyll-remote-theme
+  jekyll-seo-tag
   nokogiri (>= 1.10.4)
   rubyzip (>= 1.3.0)
 
