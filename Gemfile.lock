@@ -111,7 +111,6 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
-    jekyll-datapage-generator (1.2.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.13.0)
@@ -247,7 +246,6 @@ DEPENDENCIES
   faraday (< 1.0)
   github-pages
   jekyll (>= 3.6.3)
-  jekyll-datapage-generator
   jekyll-remote-theme
   jekyll-seo-tag
   nokogiri (>= 1.10.4)
