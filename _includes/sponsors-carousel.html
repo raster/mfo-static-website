@@ -1,26 +1,29 @@
 <section class="sponsor-slide">
-                  <div class="container">
-                                <div class="row sponsor_panel_title">
-                                   <div class="col-xs-12 text-center">
-                                    <div class="title-w-border-r">
-                                      <h2 class="sponsor-slide-title">Sponsors</h2>
-                                    </div>
-                                   </div>
-                                </div>
-                                <div class="row">
-      	                          <div class="col-xs-12">
-				    <div id="carousel-sponsors-slider" class="carousel slide" data-ride="carousel" data-interval="3000">
-				    <!-- Wrapper for slides -->
-            {% for sponsor in site.sponsors %}
-            <div> {{ sponsor.sponsor-name }} </div>
-            <div><a href="{{sponsor.sponsor-url}}"><img src="assets/images/sponsors/{{sponsor.sponsor-image}}" style="max-width:200px;"></a></div>
-            {% endfor %}
-        <div class="row sponsor_panel_bottom">
-          				<div class="col-xs-12 text-center">
-            					<p><a href="{{'/become-a-sponsor' | relative_url}}">Become a Sponsor</a><span>•</span>
-              						<a href="{{'/sponsors' | relative_url}}">All {{site.event_year}} Sponsors</a>
-            					</p>
-          				</div>
-        			</div>
-                                </div></div><!-- #container -->
-                                </div></div></section>
+  <div class="container">
+    <div class="row sponsor_panel_title">
+       <div class="col-xs-12 text-center">
+        <div class="title-w-border-r">
+          <h2 class="sponsor-slide-title">Sponsors</h2>
+        </div>
+       </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+		    <div id="carousel-sponsors-slider" class="carousel slide" data-ride="carousel" data-interval="3000">
+			    <!-- Wrapper for slides -->
+          {% for sponsor in site.sponsors %}
+          <div> {{ sponsor.sponsor-name }} </div>
+          <div><a href="{{sponsor.sponsor-url}}"><img src="assets/images/sponsors/{{sponsor.sponsor-image}}" style="max-width:200px;"></a></div>
+          {% endfor %}
+          <div class="row sponsor_panel_bottom">
+    				<div class="col-xs-12 text-center">
+    					<p><a href="{{'/become-a-sponsor' | relative_url}}">Become a Sponsor</a><span>•</span>
+  						<a href="{{'/sponsors' | relative_url}}">All {{site.event_year}} Sponsors</a>
+    					</p>
+  			    </div>
+    			</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
