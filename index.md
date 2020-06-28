@@ -1,5 +1,5 @@
 ---
-title: MFO Static Website test
+title: Welcome to Maker Faire Orlando!
 permalink: /
 layout: full-width
 
