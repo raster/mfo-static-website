@@ -2,8 +2,8 @@
   Uses _data/menus.yaml to build the footer menu
 
   I purposely duplicated the code for the two sides of the footer
-  with Maker Faire Orlando and Maker Faire in the event
-  we wanted to differentiate them later.
+  with Maker Faire Orlando and Maker Faire since the Maker Faire
+  side has different formatting
 
   Old way of doing selection, I wanted to get away from using the hardcoded event name
     {% assign mfo = site.data.menus.footernav
@@ -32,7 +32,7 @@
   	    <div class="menu-footer-left-container">
           <ul id="menu-footer-menu" class="list-unstyled">
             {% for item in mfo.subfolderitems %}
-                  <li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{ item.url }}">{{ item.page }}</a></li>
+              <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{ item.url }}">{{ item.page }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -53,12 +53,18 @@
           <div class="row">
             <div class="col-xs-6">
               <ul class="list-unstyled">
-                {% for item in mf.subfolderitems %}
-                      <li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{ item.url }}">{{ item.page }}</a></li>
+                {% for item in mf.subfolderitems limit:4 %}
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{ item.url }}">{{ item.page }}</a></li>
                 {% endfor %}
               </ul>
             </div>
             <div class="col-xs-6 footer-no-rt-pad">
+              <ul class="list-unstyled footer-right-col">
+                <li> <p>Explore Making</p></li>
+                {% for item in mf.subfolderitems offset:5 %}
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{{ item.url }}">{{ item.page }}</a></li>
+                {% endfor %}
+              </ul>
             </div>
           </div>
             <div class="row">

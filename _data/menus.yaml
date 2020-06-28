@@ -42,7 +42,7 @@ topnav:
 
 footernav:
   - title: Maker Faire Orlando
-    image: assets/images/site-branding/mfo_two_line_border.png
+    image: assets/images/site-branding/mfo_one_line_border.png
     imagealt: Maker Faire Orlando logo
     subfolderitems:
       - page: Email Us
@@ -77,8 +77,16 @@ footernav:
         url: https://makerfaire.com/map/
       - page: Be a Maker
         url: https://makerfaire.com/be-a-maker/
-      - page: Maker Faire FAQs
-        url: https://help.makermedia.com/hc/en-us/categories/200333245-Maker-Faire
+      - page: Become a Make&#58; Community Member
+        url: https://community.make.co/?utm_source=mfglobal&utm_medium=footer
+      - page: Make&#58; News & Projects
+        url: https://makezine.com/?utm_source=mfglobal&utm_medium=footer
+      - page: Maker Shed
+        url: https://www.makershed.com/?utm_source=mfglobal&utm_medium=footer
+      - page: Maker Camp
+        url: https://makercamp.com/?utm_source=mfglobal&utm_medium=footer
+      - page: Get The Magazine
+        url: https://readerservices.makezine.com/mk/default.aspx?utm_source=mfglobal&utm_medium=footer&pc=MK&pk=M8JMK
     socialitems:
       - title: Facebook
         url: https://www.facebook.com/makerfaire/
