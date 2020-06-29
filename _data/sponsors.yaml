@@ -1,0 +1,81 @@
+sponsors:
+  - name: Make
+    url: https://www.makezine.com
+    logo: makeLogo_url_2012.png
+    level: 2
+    active: true
+  - name: Sundance
+    url: https://www.sundanceusa.com
+    logo: Sundance-Logo-Final_horz_CMYK.png
+    level: 3
+    active: true
+  - name: Prusa Reseach
+    url: https://www.prusa3d.com/
+    logo: prusaresearch.png
+    level: 3
+    active: true
+  - name: Boca Bearing
+    url: https://www.bocabearings.com/
+    logo: boca_bearings_small.png
+    level: 3
+    active: true
+  - name: TLC Engineering
+    url: https://tlc-engineers.com/
+    logo: tlc-engineering.jpg
+    level: 5
+    active: true
+  - name: DeltaMaker 3D Printers
+    url: https://www.deltamaker.com
+    logo: deltamaker-logo-3d-printers.png
+    level: 4
+    active: true
+  - name: Black Wolf Group
+    url: https://twomenandatruck.com/movers/fl/orlando/west
+    logo: black_wolf_group.jpg
+    level: 4
+    active: true
+  - name: Two Men & a Truck
+    url: https://twomenandatruck.com/movers/fl/orlando/west
+    logo: two-men-and-a-truck.jpg
+    level: 4
+    active: true
+  - name: Orange Technical College
+    url: http://www.ocpstechcenters.net/
+    logo: OTC_Horiz.png
+    level: 4
+    active: true
+  - name: Watershed Innovation
+    url: http://www.correctcraft.com/watershed/
+    logo: watershed-v5.png
+    level: 4
+    active: true
+  - name: OpenBuilds
+    url: https://openbuilds.com/
+    logo: OpenBuilds.png
+    level: 4
+    active: false
+  - name: Keene Village Plastics
+    url: https://www.villageplastics.com/
+    logo: KVP-Logo-2017.jpg
+    level: 4
+    active: true
+  - name: Dorado Graphix
+    url: https://doradographix.com/
+    logo: DoradoLogo3x2.jpg
+    level: 5
+    active: true
+  - name: Skycraft
+    url: https://www.skycraftsurplus.com
+    logo: skycraft_saucer_logo_wht-line-Maker.png
+    level: 5
+    active: true
+  - name: Brasfield & Gorrie
+    url: https://www.brasfieldgorrie.com/
+    logo: Brasfield-Gorrie-Logo-Blue-JPG.jpg
+    level: 5
+    active: true
+  - name: Amphenol Custom Cable
+    url: http://www.customcable.com/amph
+    logo: amphenol.jpg
+    level: 5
+    active: true
