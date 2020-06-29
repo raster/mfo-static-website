@@ -1,3 +1,10 @@
+sponsorlevels:
+  - 1: Goldsmith Sponsors
+  - 2: Silversmith Sponsors
+  - 3: Coppersmith Sponsors
+  - 4: Blacksmith Sponsors
+  - 5: Contributing Sponsors
+
 sponsors:
   - name: Make
     url: https://www.makezine.com
