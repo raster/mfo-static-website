@@ -1,5 +1,6 @@
+{% assign sponsor-carousel=true %}
 <section class="sponsor-slide">
-  <div class="container">
+  <div class="container" style="width:90%">
     <div class="row sponsor_panel_title">
        <div class="col-xs-12 text-center">
         <div class="title-w-border-r">
@@ -11,19 +12,61 @@
       <div class="col-xs-12">
 		    <div id="carousel-sponsors-slider" class="carousel slide" data-ride="carousel" data-interval="3000">
 			    <!-- Wrapper for slides -->
-          {% for sponsor in site.sponsors %}
-          <div> {{ sponsor.sponsor-name }} </div>
-          <div><a href="{{sponsor.sponsor-url}}"><img src="assets/images/sponsors/{{sponsor.sponsor-image}}" style="max-width:200px;"></a></div>
-          {% endfor %}
-          <div class="row sponsor_panel_bottom">
-    				<div class="col-xs-12 text-center">
-    					<p><a href="{{'/become-a-sponsor' | relative_url}}">Become a Sponsor</a><span>•</span>
-  						<a href="{{'/sponsors' | relative_url}}">All {{site.event_year}} Sponsors</a>
-    					</p>
-  			    </div>
-    			</div>
+          <div class="carousel-inner" role="listbox">
+            {% assign itemnum=1 %}
+            {% for level in site.data.sponsors.sponsorlevels %}
+              {% assign sponsors = site.data.sponsors.sponsors | where: 'active', 'true' | where: 'level', forloop.index | sort: 'name' %}
+              {% if sponsors.size > 0 %}
+                {% if itemnum == 1 %}
+                  <div class="item active">
+                  {% assign itemnum = itemnum+1 %}
+                  {{itemnum}}
+                {% else %}
+                  <div class="item">
+                {% endif %}
+                  <div class="row sponsors-row">
+                    <div class="col-xs-12">
+                      <div class="faire-sponsors-box">
+                        {% for sponsor in sponsors %}
+                          <div class="sponsors-box-xl">
+                            <a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" alt="{{sponsor.name}} logo" class="img-responsive" style="max-width:150px; max-height: 150px; margin-left: auto; margin-right:auto;"></a>
+                          </div>
+                        {% endfor %}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
         </div>
       </div>
     </div>
   </div>
+    <div class="row sponsor_panel_bottom">
+				<div class="col-xs-12 text-center">
+					<p><a href="{{'/become-a-sponsor' | relative_url}}">Become a Sponsor</a><span>•</span>
+					<a href="{{'/sponsors' | relative_url}}">All {{site.event_year}} Sponsors</a>
+					</p>
+		    </div>
+  	</div>
+  </div>
 </section>
+
+{% comment %}
+{% for level in site.data.sponsors.sponsorlevels %}
+  {% assign sponsors = (site.data.sponsors.sponsors | where: 'active', 'true' | where: 'level', forloop.index | sort: 'name' %}
+  {% if sponsors.size > 0 %}
+    {% comment %}The next line has an intentional misspelling to match the maker faire theme css{% endcomment %}
+    <div class="row spnosors-row">
+      <div class="col-xs-12">
+        <h2 class="text-center sponsors-type">{{level[forloop.index]}}</h2>
+          <div class="faire-sponsors-box">
+          {% for sponsor in sponsors %}
+            <div class="sponsors-box-lg" id="{{sponsor.name}}"><a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-height:150px; width:auto;" alt="{{sponsor.name}}"></a></div>
+          {% endfor %}
+          </div>
+      </div>
+    </div>
+   {% endif %}
+{% endfor %}
+{% endcomment %}|

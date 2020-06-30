@@ -36,6 +36,17 @@
   </script>
 {% endif %}
 
+{% if sponsor-carousel %}
+  <script language="JavaScript" type="text/javascript">
+    $(document).ready(function(){
+      $('#carousel-sponsors-slider').carousel({
+        interval: {{page.carousel-delay}}
+      })
+    });
+  </script>
+{% endif %}
+
+
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}
