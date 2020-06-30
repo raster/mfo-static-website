@@ -2,6 +2,7 @@
 title: Sponsor Maker Faire Orlando
 permalink: /become-a-sponsor
 layout: default
+redirect_from: "/sponsor"
 ---
 
 # We need your help to educate & inspire!

@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
+
 
 #begin seo
 title: Maker Faire Orlando
