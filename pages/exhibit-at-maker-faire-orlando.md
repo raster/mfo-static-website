@@ -10,11 +10,12 @@ layout: default
 We need people willing to share the things they create and their passion for making. Join us and help inspire thousands in our community.
 
 There is no fee for individuals or community groups to exhibit at Maker Faire Orlando. There is a $100 fee for individuals, small companies and startups to sell products you make at the event. Established companies and those looking to advertise are encouraged to sponsor Maker Faire Orlando which includes significant sponsor benefits.
-<hr>
+
+---
 
 ## Due to the uncertain COVID-19 environment, we are not currently accepting applications for Maker Faire Orlando 2020.
 
-<hr>
+---
 
 ### Getting started when our Call For Makers is open:
 
