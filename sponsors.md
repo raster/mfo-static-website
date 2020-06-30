@@ -14,15 +14,15 @@ permalink: /sponsors
 
 
   {% for level in site.data.sponsors.sponsorlevels %}
-    {% assign sponsors = (site.data.sponsors.sponsors | where: 'active', 'true' | where: 'level', forloop.index | sort: 'name' %}
+    {% assign sponsors = site.data.sponsors.sponsors | where: 'active', 'true' | where: 'level', forloop.index | sort: 'name' %}
     {% if sponsors.size > 0 %}
       {% comment %}The next line has an intentional misspelling to match the maker faire theme css{% endcomment %}
-      <div class="row spnosors-row">
+      <div class="row spnosors-row" style="padding-bottom:0px">
         <div class="col-xs-12">
           <h2 class="text-center sponsors-type">{{level[forloop.index]}}</h2>
             <div class="faire-sponsors-box">
             {% for sponsor in sponsors %}
-              <div class="sponsors-box-lg" id="{{sponsor.name}}"><a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-height:150px; width:auto;" alt="{{sponsor.name}}"></a></div>
+              <div class="sponsors-box-lg" id="{{sponsor.name}}"><a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-width:150px; max-height:150px; margin-left: auto; margin-right:auto;" alt="{{sponsor.name}}"></a></div>
             {% endfor %}
             </div>
         </div>
