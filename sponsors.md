@@ -22,7 +22,9 @@ permalink: /sponsors
           <h2 class="text-center sponsors-type">{{level[forloop.index]}}</h2>
             <div class="faire-sponsors-box">
             {% for sponsor in sponsors %}
-              <div class="sponsors-box-lg" id="{{sponsor.name}}"><a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-width:150px; max-height:150px; margin-left: auto; margin-right:auto;" alt="{{sponsor.name}}"></a></div>
+              <div class="sponsors-box-lg" style="width: 200px" id="{{sponsor.name}}">
+                <a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-width:150px; max-height:150px; margin-left: auto; margin-right:auto;" alt="{{sponsor.name}}"></a>
+              </div>
             {% endfor %}
             </div>
         </div>
