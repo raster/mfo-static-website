@@ -1,0 +1,21 @@
+---
+name: "Gypsy's Weavings"
+slug: gypsys-weavings
+id: 34827
+status: 1
+url: http://www.gypsysweavings.etsy.com
+excerpt: "chainmaile creations and accessories. Her husband The Blue Fool will also be joining her with his card game The Abandons which funded last year on kickstarter! "
+description: "Using armoury patterns that can date back to the Estrucians of old, I make everything from bracelets to purses. I do mostly accessories, though. I have, at times, gone back to the roots and make functional armour as well for renaissance festivals and combat groups. I also make items for furries who need scales instead of fur.
+
+Update: Due to a recent acquisition I'll have a traditional core vintage violet wand with me! If you're a fan of Nikola Tesla, violet wands (aka the ray) and tesla coils are not unknown to you. Getting a chance to feel it though is rare! I'll have a vintage (from what I can find it's from the 1940s) violet \"ray\" machine and a modern solid state. Satisfy your curiosity and get to see, and for the daring feel, one for yourself!"
+location: Spirit Building
+images:
+  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
+    medium: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
+    large: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
+    full: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
+maker:
+  - name: "Gypsy Anakhet al-Badawiyya"
+    description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
+photo_link: http://104.41.139.123/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
+---

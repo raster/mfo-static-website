@@ -1,0 +1,14 @@
+---
+name: "TRY DI!"
+slug: try-di
+id: 35561
+status: 1
+url: https://www.floridadi.org
+excerpt: "Test your creativity and try a Destination Imagination Challenge."
+description: "Build a free standing bridge using limited materials (1 index card, 1 mailing label, 2 straws, &amp; 2 paper clips) that can span a gap of 6, 8 or 10 inches.  Bonus points for each spider your bridge can support.  Or create a bug using provided materials and tell us about it.  If we have enough space, we can bring KEVA planks as well (a fun building/creating activity that is also appropriate for very young children)."
+location: Unassigned
+maker:
+  - name: "Florida Destination Imagination"
+    description: "Florida Destination Imagination promotes STEAM and project based learning in Florida by supporting Destination Imagination and presenting an annual competition celebrating creative problem solving."
+photo_link: http://104.41.139.123/wp-content/uploads/2018/07/10-percent-florida-di-logo-2.png
+---

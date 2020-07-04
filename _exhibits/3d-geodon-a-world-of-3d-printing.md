@@ -1,0 +1,19 @@
+---
+name: "3D GeoDon - A World of 3D Printing"
+slug: 3d-geodon-a-world-of-3d-printing
+id: 35286
+status: 3
+url: 
+excerpt: "Explore the world of possibilities with 3D printing."
+description: "3D Printing exhibit including several 3D printers on display, actively printing 3D objects. 3D printed objects on display demonstrating possibilities and capabilities of today’s 3D printing technologies.Small 3D samples will be available as give-aways to attendees (while supplies last). My experience with and passion for 3D printing techniques and equipment, makes me uniquely qualified to entertain questions and provide troubleshooting to attendees."
+location: Unassigned
+images:
+  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A.jpeg
+    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A.jpeg
+    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A.jpeg
+    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A.jpeg
+maker:
+  - name: "3DGeoDon"
+    description: "Maker and 3D printer. I own several printer ranging from inexpensive to more expensive. I consider myself to be of Intermedite to Advanced  skill level."
+photo_link: http://104.41.139.123/wp-content/uploads/2019/08/2B39041E-58DB-49B7-9033-7321E988877F-779x1024.jpeg
+---
