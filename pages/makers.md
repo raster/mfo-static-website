@@ -1,12 +1,15 @@
 ---
 layout: default
+permalink: /makers
 ---
 
-
-<h1>Exhibits (generated from JSON)</h1>
+<h1>Exhibits</h1>
 
 <ul>
-{% for exhibit in site.data.exhibits %}
-    <li><a href="{{ exhibit.project_name | datapage_url: 'exhibits' }}">{{exhibit.project_name}}</a></li>
+
+{% for exhibit in site.exhibits %}
+    {% if exhibit.status == 1 %}
+      <li><a href="{{ exhibit.url }}">{{ exhibit.name }}</a></li>
+    {% endif %}
 {% endfor %}
 </ul>
