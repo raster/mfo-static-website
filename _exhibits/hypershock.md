@@ -11,5 +11,6 @@ maker:
   - name: "HyperShock &#8211; Battlebots"
     description: "We competed on Discovery's BattleBots with our award-winning robot, HyperShock!"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/HyperShock-Team-S2019-1-1024x683.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 16:16:33"
+last-exported: "2020-04-07 17:18:22"
 ---

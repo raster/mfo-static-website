@@ -17,5 +17,6 @@ Locally I've worked as a photographer, filmmaker, and technical supervisor for m
 
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-29 14:47:22"
+last-exported: "2020-04-07 17:18:22"
 ---

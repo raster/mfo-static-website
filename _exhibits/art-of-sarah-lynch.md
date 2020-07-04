@@ -16,5 +16,6 @@ maker:
   - name: "Art of Sarah Lynch"
     description: "Multi-media Artist"
 photo_link: http://104.41.139.123/wp-content/uploads/2018/07/me2o18-1024x1024.png
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-01 14:21:14"
+last-exported: "2020-04-07 17:18:22"
 ---

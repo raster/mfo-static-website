@@ -11,5 +11,6 @@ maker:
   - name: "Incognegro Arts"
     description: "Eduardo (Eddie for short) is a true Connoisseur of the arts. Drawing since he was a child, his eye for details has been matched only by his desire to create. As the mediums through which art has evolved so too have his skill sets. From Illustration to 3D rendering and animation, and even visual effects; his experience branches out over many realms of visual and digital arts.  He is also way too humble to feel comfortable talking about himself in the third person. "
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 10:51:10"
+last-exported: "2020-04-07 17:18:22"
 ---

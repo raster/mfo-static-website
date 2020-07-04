@@ -14,5 +14,6 @@ maker:
 Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's graphic designer and is also a robot fabricator, as well as a future dentist!
 "
 photo_link: 
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-06 16:28:51"
+last-exported: "2020-04-07 17:18:22"
 ---

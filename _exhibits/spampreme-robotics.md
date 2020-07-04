@@ -16,5 +16,6 @@ maker:
   - name: "Jack Sopotnick"
     description: "Here for the robot fights"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/7573B1B7-FF7C-4466-8E2B-B1C6F1E19345-1024x791.jpeg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-06 17:20:15"
+last-exported: "2020-04-07 17:18:22"
 ---

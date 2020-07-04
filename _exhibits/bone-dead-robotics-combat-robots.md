@@ -16,5 +16,6 @@ maker:
   - name: "Bone Dead Robotics"
     description: "We are a combat robotics team who builds and competes fighting robots. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/BDR-Logo.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-06 18:05:53"
+last-exported: "2020-04-07 17:18:22"
 ---

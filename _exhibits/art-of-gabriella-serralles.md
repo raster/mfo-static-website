@@ -16,5 +16,6 @@ maker:
   - name: "Art of Gabriella Serralles"
     description: "I’m a first generation Puerto Rican story artist and designer with a fierce passion for storytelling. I communicate story and message following the work and style of Steve Ahn (Nickelodeon Studios, Cartoon Network, Dreamworks) and Phil Craven (Dreamworks). With a passion and skill for storytelling, I combined the visual and traditional techniques in media. Writing was never enough, so I learned the art of visual storytelling so I could truly connect and engage with my audience"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/businesscard1.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-05 14:51:42"
+last-exported: "2020-04-07 17:18:22"
 ---

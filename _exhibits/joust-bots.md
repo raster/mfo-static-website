@@ -21,5 +21,6 @@ maker:
   - name: "DaVinci Learning Academy"
     description: "DaVinci Learning Academy's mission is to encourage, enhance,  support and enrich each individual families academic, elective enrichment and social learning goals. Our students are engaged in a wide variety of STEM and artistic endeavors."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 14:45:01"
+last-exported: "2020-04-07 17:18:22"
 ---

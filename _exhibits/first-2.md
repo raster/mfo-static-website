@@ -32,5 +32,6 @@ Renaissance Robotics is a group of middle and high school kids who participate i
 Renaissance Robotics has participated in numerous demos and often brings additional robots, projects and random geek toys with them. RCX, NXT, EV3, Arduino, Sphero, Ollie, LittleBits, etc.
 "
 photo_link: http://104.41.139.123/wp-content/uploads/2015/06/RRlogo-1024x791.gif
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-05 09:09:36"
+last-exported: "2020-04-07 17:18:23"
 ---

@@ -16,5 +16,6 @@ maker:
   - name: "Mark Helwig Illustration and Sculpture"
     description: "I am an award winning illustrator and sculptor living in the greater Orlando area. My specialization is fantasy and horror with a touch of the whimsical and a focus on character. I have won multiple awards at shows like Dragon Con and my clients range from small game companies to large publishers such as Oxford University press and private collectors all over the world."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/09/Mark-Helwig-banner-1-1024x433.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-02 17:53:36"
+last-exported: "2020-04-07 17:18:23"
 ---

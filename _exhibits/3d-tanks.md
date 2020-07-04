@@ -16,5 +16,6 @@ maker:
   - name: "Boca Bearings"
     description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
 photo_link: http://104.41.139.123/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-26 12:40:40"
+last-exported: "2020-04-07 17:18:22"
 ---

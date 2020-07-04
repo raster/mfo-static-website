@@ -13,5 +13,6 @@ maker:
   - name: "SCORE"
     description: "A non-profit organization of volunteers that counsel and mentor people who want to start a business, are already in business and want to grow or people who are already in business and are floundering and need help righting the ship."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 12:33:04"
+last-exported: "2020-04-07 17:18:23"
 ---

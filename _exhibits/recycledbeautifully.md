@@ -18,5 +18,6 @@ maker:
   - name: "Recycled Beautifully"
     description: "Recycled Beautifully is proud to say that \"We Recycle\"! All of our hand wrapped jewelry is made using recycled copper or aluminum wire that we pull out of T.V.'s that people throw in the trash. By using recycled wire we are able to not only keep these items out of the landfills but we are also able to keep our jewelry priced at amazingly low prices."
 photo_link: http://104.41.139.123/wp-content/uploads/2017/07/IMG_0019.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-27 17:16:40"
+last-exported: "2020-04-07 17:18:23"
 ---

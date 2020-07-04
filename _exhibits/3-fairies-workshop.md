@@ -20,5 +20,6 @@ maker:
   - name: "Ali Wagner"
     description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/07/3wanddark.png
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-27 16:38:26"
+last-exported: "2020-04-07 17:18:22"
 ---

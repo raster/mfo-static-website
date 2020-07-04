@@ -16,5 +16,6 @@ maker:
   - name: "Bart Jordan"
     description: "We are an equipment & supply provider that specializes in training our customers on the techniques and applications afforded by the products we sell. This includes applying our products for \"out of the box\" thinkers - meaning that we work with entrepreneurs to help them achieve their vision by testing our products in ways that are not always shown in the owners manual or material specification."
 photo_link: http://104.41.139.123/wp-content/uploads/2017/09/DoradoLogo2x1.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-27 17:51:13"
+last-exported: "2020-04-07 17:18:23"
 ---

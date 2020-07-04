@@ -11,5 +11,6 @@ maker:
   - name: "Central Florida Steampunk Association"
     description: "The Central Florida Steampunk Association (CFSA) strives to bring Steampunk to anyone who is interested in the genre, or interested in learning how we make our props and costumes.  Our members have experience in leather working, jewelry making, sewing, prop making, simple wearable electronics, and much more.  We frequently hold classes in an effort to share our knowledge base and encourage learners to try new skills.  We'll have several items on display to showcase some of the skills and classes we have to offer.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2017/10/Adobe-Spark-1-1024x1024.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-06 10:58:31"
+last-exported: "2020-04-07 17:18:22"
 ---

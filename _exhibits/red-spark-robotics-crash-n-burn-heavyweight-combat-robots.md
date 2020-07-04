@@ -17,5 +17,6 @@ maker:
   - name: "Red Spark Robotics"
     description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 18:09:15"
+last-exported: "2020-04-07 17:18:23"
 ---

@@ -11,5 +11,6 @@ maker:
   - name: "Hampton and Chadwick Hardee"
     description: "Hampton is in an accelerated first grade class at Northlake Parkway Community School in Lake Nona.  He loves watching Battlebots with his daddy!"
 photo_link: http://104.41.139.123/wp-content/uploads/2018/10/Hampy-Daddy-1024x683.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-11 21:28:27"
+last-exported: "2020-04-07 17:18:22"
 ---

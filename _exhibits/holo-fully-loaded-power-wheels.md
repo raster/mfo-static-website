@@ -16,5 +16,6 @@ maker:
   - name: "Katie"
     description: "I'm a maker in the Maitland area who loves all things holographic. My hobbies are power racing, 3d printing, and binging Netflix while doing prototyping work for my business P3D Creations. "
 photo_link: http://104.41.139.123/wp-content/uploads/2017/10/IMG_20150913_200114960-1-539x1024.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-08-17 18:45:24"
+last-exported: "2020-04-07 17:18:22"
 ---

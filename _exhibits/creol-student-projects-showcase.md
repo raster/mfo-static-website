@@ -24,5 +24,6 @@ maker:
   - name: "CREOL, The College of Optics and Photonics"
     description: "CREOL, The College of Optics and Photonics at University of Central Florida is a world leader in education, research, and industrial partnership in the field of optics and photonics. Students at CREOL use spare time to design and build demonstration setups that showcase the concepts and applications of photonics, from topics as simple as the reflection and refraction of light, to technologies as complicated as fiber communication and optical imaging. With these home-made setups, we have participated in a variety of university and community outreach events including CREOL’s Optics Day, STEM day, K-12 teach-in etc every year."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/UILexternal_KGrgb_CREOL-The-College-of-Optics-and-Photonics-300dpi-1024x209.png
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-27 16:33:58"
+last-exported: "2020-04-07 17:18:22"
 ---

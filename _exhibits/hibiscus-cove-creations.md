@@ -28,5 +28,6 @@ I have a small assortment of clay-work including dragons, birds, flowers, and bo
 
 My jewelry collection of earrings and bracelets is small but each handmade using glass, stone, metal, and hand worked leather"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/07281820102-1024x687.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-29 17:41:40"
+last-exported: "2020-04-07 17:18:22"
 ---

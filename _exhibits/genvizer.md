@@ -16,5 +16,6 @@ maker:
   - name: "GenVizer"
     description: "specializes in 3D animation technology for video games and virtual reality products."
 photo_link: http://104.41.139.123/wp-content/uploads/2017/09/20170601_083609-1024x768.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-05 15:26:03"
+last-exported: "2020-04-07 17:18:22"
 ---

@@ -16,5 +16,6 @@ maker:
   - name: "Colin Holzemer"
     description: "Huge fan of Battlebots fighting his brand new SkyLift robot in the Antweight division.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2018/11/ColinPic.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 18:07:33"
+last-exported: "2020-04-07 17:18:23"
 ---

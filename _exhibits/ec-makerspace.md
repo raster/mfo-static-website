@@ -16,5 +16,6 @@ maker:
   - name: "EC MakerSpace"
     description: "The EC MakerSpace provides a place for students, faculty, and other members of the Eckerd College community to embrace their creativity and develop new skills in an environment conducive to independent thought and innovation. We have students experienced in woodworking, blacksmithing, 3D-printing, coding, and much more! Through office hours, workshops, and other events, the EC MakerSpace gives students a place to explore their interests while gaining hands-on experience in a wide variety of fields."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/ecms-logo-1.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-26 12:48:40"
+last-exported: "2020-04-07 17:18:22"
 ---

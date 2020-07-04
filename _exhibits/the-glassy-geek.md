@@ -16,5 +16,6 @@ maker:
   - name: "The Glassy Geek"
     description: "I'm a stained glass and fused glass artist, focusing primarily on geek culture.  My work can be found online or at sci-fi and comic cons in the southeast.  I work in both copper foil and lead came methods of stained glass construction, and often incorporate fused glass elements or painted elements fired in the kiln."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/GlassyGeekSquareLogo.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:49:59"
+last-exported: "2020-04-07 17:18:23"
 ---

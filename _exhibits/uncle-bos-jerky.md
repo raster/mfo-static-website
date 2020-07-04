@@ -25,5 +25,6 @@ maker:
   - name: "Uncle Bo"
     description: "about 20 years ago, a friend of the family gave us a food dehydrator, using the recipe that came with the unit I made some Beef jerky. It was awful! It was worse than the generic store bought stuff. As I make my own steak rubs, wing sauces etcetera ... I decided to make my own jerky recipe. After about 6 months of trial and error, I came up with my original recipe jerky. Using this as a base, I have created 7 additional flavors. "
 photo_link: http://104.41.139.123/wp-content/uploads/2016/10/Logo-trans-1024x939.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-30 16:45:38"
+last-exported: "2020-04-07 17:18:23"
 ---

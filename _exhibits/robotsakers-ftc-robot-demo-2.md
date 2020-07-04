@@ -16,5 +16,6 @@ maker:
   - name: "FTC Team #7579 RobotSakers"
     description: "RobotSakers was launched as a FIRST Tech Challenge program by a group of students with an interest in engineering and robotics.  Our team’s mission is to inspire young people to become leaders in Science, Technology, Engineering, and Mathematics by developing partnerships with industry professionals to solve annual engineering challenges put forth by FIRST.  We are building a foundation of technical skills, social skills, and values to create leaders in the STEM community."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/Robotsakers-logo.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-09-09 22:03:24"
+last-exported: "2020-04-07 17:18:23"
 ---

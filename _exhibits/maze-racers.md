@@ -16,5 +16,6 @@ maker:
   - name: "Andy Geremia"
     description: "Andy Geremia is a father of three and always makes time to play games. He is sales engineer by day and a board game designer the rest of the time!"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Headshot-852x1024.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:01:44"
+last-exported: "2020-04-07 17:18:23"
 ---

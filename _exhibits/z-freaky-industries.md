@@ -22,5 +22,6 @@ maker:
   - name: "Z Freaky Industries"
     description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:30:25"
+last-exported: "2020-04-07 17:18:24"
 ---

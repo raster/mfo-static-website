@@ -18,5 +18,6 @@ maker:
 
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
 photo_link: http://104.41.139.123/wp-content/uploads/2017/10/simpleLogo.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 12:38:38"
+last-exported: "2020-04-07 17:18:23"
 ---

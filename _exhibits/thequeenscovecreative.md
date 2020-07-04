@@ -16,5 +16,6 @@ maker:
   - name: "The Queens Cove Creative"
     description: "I am an illustrator, graphic designer and Fine Artist currently working as a independent artist and recently have had artwork licensed by Lucasfilm, Netflix and Nickelodeon for Topps collector card sets. I'll also be featured in the upcoming official Netflix  \"Stranger Things\" artbook published by penguin publishing and the Printed in Blood company."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/FinalQueensCovelogo.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-07 11:38:10"
+last-exported: "2020-04-07 17:18:23"
 ---

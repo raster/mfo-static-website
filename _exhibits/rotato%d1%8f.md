@@ -11,5 +11,6 @@ maker:
   - name: "Victor Soto"
     description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 16:20:51"
+last-exported: "2020-04-07 17:18:23"
 ---

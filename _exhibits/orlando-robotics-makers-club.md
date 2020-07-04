@@ -17,5 +17,6 @@ maker:
     description: "Daytime:  Embedded electronics engineer, Product prototyper.
 Mytime: Maker, geek, robotics mentor."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:19:57"
+last-exported: "2020-04-07 17:18:23"
 ---

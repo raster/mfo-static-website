@@ -11,5 +11,6 @@ maker:
   - name: "Gator Robotics"
     description: "Robotics club that builds combat robots."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-13 10:52:26"
+last-exported: "2020-04-07 17:18:22"
 ---

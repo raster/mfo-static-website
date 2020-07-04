@@ -18,5 +18,6 @@ maker:
   - name: "Gypsy Anakhet al-Badawiyya"
     description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
 photo_link: http://104.41.139.123/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-11-07 20:38:03"
+last-exported: "2020-04-07 17:18:22"
 ---

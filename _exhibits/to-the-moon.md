@@ -13,5 +13,6 @@ maker:
   - name: "Park Maitland School"
     description: "Students from grades 3 through 6 of Park Maitland School take part in programmed Design Thinking classes twice a week. In their newly renovated Maker Space, students hone their 21st Century Skills of collaboration, problem solving, creativity, and critical thinking through project based learning. Students are encouraged to tinker and are taught the design process through different modes and hands-on learning experiences. Science, technology, engineering, the arts, and math all play a role in their learning! Students further share their learning to authentic audiences through showcases, hands-on exhibits, and by creating learning experiences for others."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/09/PMS-Logo.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-14 20:28:57"
+last-exported: "2020-04-07 17:18:23"
 ---

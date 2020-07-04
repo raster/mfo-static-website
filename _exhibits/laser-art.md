@@ -16,5 +16,6 @@ maker:
   - name: "David Zurcher"
     description: "Laser and electronics are my passion. Since working in a planetarium in the mid 1990's I've enjoyed creating art with laser light!"
 photo_link: http://104.41.139.123/wp-content/uploads/2016/10/IMG_3133.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-19 12:57:11"
+last-exported: "2020-04-07 17:18:22"
 ---

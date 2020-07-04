@@ -18,5 +18,6 @@ maker:
   - name: "The fandom rabbit hole"
     description: "Fandom inspired jewelry and art. Handmade jewelry and glass paintings inspired by the love of our favorite stories. Using art to express creativity every day. "
 photo_link: http://104.41.139.123/wp-content/uploads/2015/08/interweb.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-09-09 22:00:30"
+last-exported: "2020-04-07 17:18:23"
 ---

@@ -11,5 +11,6 @@ maker:
   - name: "Martin Mason"
     description: "International combat robot competitor.  Director of 1500 member Mountie Makerspace in Los Angeles California. "
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-08 20:55:28"
+last-exported: "2020-04-07 17:18:23"
 ---

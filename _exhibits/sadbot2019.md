@@ -10,5 +10,6 @@ maker:
   - name: "Charles Guan"
     description: "Charles thinks robots are horrible but builds them anyways. MIT Mechanical Engineering, design instructor, BattleBots contestant, fine 80s van connoisseur, and co-founder of a drone company."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/m6ysUikjWfNM3xcqgZsF6XpX9LRs6HUI_edited.png
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 17:11:14"
+last-exported: "2020-04-07 17:18:23"
 ---

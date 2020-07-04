@@ -16,5 +16,6 @@ maker:
   - name: "Smart lab 3.0"
     description: "I enjoying exploring museums- I love science museums, unfortunately there are just not enough science museums.  So I design and create pop-up science museums that allow kids and their families to discover science in a fun interactive setting"
 photo_link: http://104.41.139.123/wp-content/uploads/2017/08/Caroline-Nolan-2017-1024x768.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:14:57"
+last-exported: "2020-04-07 17:18:23"
 ---

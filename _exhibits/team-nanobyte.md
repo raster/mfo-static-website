@@ -16,5 +16,6 @@ maker:
   - name: "Team Nanobyte"
     description: "This year will be our first attempt at combat robotics.  We will be entering one beetleweight robot (Cybershock) and keeping our fingers crossed that we do pretty good."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/10/Cybershock-3d-1024x744.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 17:30:16"
+last-exported: "2020-04-07 17:18:23"
 ---

@@ -16,5 +16,6 @@ maker:
   - name: "Agustin Acosta Jr."
     description: "We make electronic hobby kits including Arduino fun kits."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:37:42"
+last-exported: "2020-04-07 17:18:23"
 ---

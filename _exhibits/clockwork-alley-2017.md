@@ -15,5 +15,6 @@ images:
 maker:
   - name: "Clockwork Alley"
     photo_link: http://104.41.139.123/wp-content/uploads/2017/08/logo.jpg
-last-exported: "07/04/2020 05:03:40 pm"
+last-modified-db: "2019-10-27 17:47:48"
+last-exported: "2020-04-07 17:18:22"
 ---

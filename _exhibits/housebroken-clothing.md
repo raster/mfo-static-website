@@ -16,5 +16,6 @@ maker:
   - name: "Scott Marino"
     description: "Hand Screen Printed Original Art Work on Clothing. All Art is Drawn and Hand Screen Printed by the Artist, Scott Marino."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-27 17:31:02"
+last-exported: "2020-04-07 17:18:22"
 ---

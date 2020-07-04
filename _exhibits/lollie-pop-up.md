@@ -16,5 +16,6 @@ maker:
   - name: "Lollie Pop Up"
     description: "Lollie Pop Up learned basic pop up techniques through books and video tutorial. Various techniques were utilized to make holiday, birthday, get well, retirement, and thank you cards more fun. Please visit @lolliepopup on Instagram to see examples of pop up cards, explosion boxes, and other paper crafts that were created for friends. "
 photo_link: http://104.41.139.123/wp-content/uploads/2018/11/IMG_8746-1024x1024.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 14:29:35"
+last-exported: "2020-04-07 17:18:23"
 ---

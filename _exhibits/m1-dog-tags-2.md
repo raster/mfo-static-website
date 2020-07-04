@@ -16,5 +16,6 @@ maker:
   - name: "David Welborn"
     description: "I am a flight instructor most of the time and drive boats at Disney part time. On weekends we like to bring the military trailer out to fun events and make vintage dog tags with any message the customer wants.  Is great to get out there and meet people and honor our military."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/09/20161015_101148-1024x576.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-11 21:01:56"
+last-exported: "2020-04-07 17:18:23"
 ---

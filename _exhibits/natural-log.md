@@ -13,5 +13,6 @@ maker:
 
 By day, I'm a software engineer working on autonomous trucks."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-09-02 20:17:45"
+last-exported: "2020-04-07 17:18:23"
 ---

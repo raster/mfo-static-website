@@ -22,5 +22,6 @@ Additionally, I competed with his senior design team at International Robogames 
 I was the designer of a 250lb heavyweight \"Bellator\" for the 2019 Battlebots televised competition, in which my robot was selected to compete, however network conflicts regarding sponsorship forced us to withdraw.
 When I am not building combat robots, I also enjoy other high-powered radio controlled vehicles, including a 10ft 50lb cargo aircraft which debuted (and crashed spectacularly) at FliteFest South in 2018"
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-06 17:44:12"
+last-exported: "2020-04-07 17:18:22"
 ---

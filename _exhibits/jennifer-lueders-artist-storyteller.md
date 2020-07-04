@@ -16,5 +16,6 @@ maker:
   - name: "Jennifer Lueders"
     description: "My name is Jennifer Lueders and I am an artist.  Since I was a wee girl back in the Appalachian Mountains,  I was steeped in the cultural tradition of storytelling, which can be traced back to England, Ireland, and Scotland.  The old folk tales, grand ditties, and riddles that we would share, often inspired me to create delightful pictures in my imagination.  I would take these images and sketch my own drawings and handmade books.  After high school, I received a higher education, pursued art and teaching for a long while. My husband and I enjoy traveling and have explored many places and at one time we lived in Germany, near the homestead of the Brothers Grimm.  Now we reside in beautiful, sunny Florida. Besides selling whimsical and fantasy art at conventions and art festivals, I am currently a few children's books.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/06/MINI-FAIRY-WITH-BUTTERFLY_mini-1024x1014.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-08 08:09:58"
+last-exported: "2020-04-07 17:18:22"
 ---

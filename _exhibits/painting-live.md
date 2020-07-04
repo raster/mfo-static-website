@@ -11,5 +11,6 @@ maker:
   - name: "Bianca Roman-Stumpff"
     description: "Acrylic painter of random randomness."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-11-02 17:59:00"
+last-exported: "2020-04-07 17:18:23"
 ---

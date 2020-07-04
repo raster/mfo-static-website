@@ -33,5 +33,6 @@ KidsRobotAcademy founder Dr. Jean Duteau, a robotic engineer, entrepreneur, and 
 team-building environment, and thus generating intense interest and excitement for Science, Technology and Engineering.
 Note : The Robots Shop Opening soon In Orlando and Miami"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 13:34:20"
+last-exported: "2020-04-07 17:18:23"
 ---

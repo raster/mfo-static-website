@@ -11,5 +11,6 @@ maker:
   - name: "Eagle Power Racers"
     description: "We are Georgia Southern University's Power Racing Team. We are coming to the Maker Fair to race in the power wheel series."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-14 20:41:44"
+last-exported: "2020-04-07 17:18:23"
 ---

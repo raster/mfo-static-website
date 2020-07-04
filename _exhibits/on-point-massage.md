@@ -16,5 +16,6 @@ maker:
   - name: "On Point Massage"
     description: "Established in 2015 On Point Massage began as a mobile massage company. In 2019 we opened our first brick and mortar location in Winter Park, Florida. We believe that massage should be available to everyone and can be added to any event. We strive to keep our prices low while maintaining a high level of care. We look forward to helping you. "
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-08-17 18:59:21"
+last-exported: "2020-04-07 17:18:23"
 ---

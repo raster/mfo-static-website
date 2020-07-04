@@ -11,5 +11,6 @@ maker:
   - name: "Trenton Makers"
     description: "Matt is a mechanical engineering supervisor for an engineering firm in Philadelphia. On the weekends he builds and races electric go karts with the power racing series."
 photo_link: 
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-02 20:57:41"
+last-exported: "2020-04-07 17:18:23"
 ---

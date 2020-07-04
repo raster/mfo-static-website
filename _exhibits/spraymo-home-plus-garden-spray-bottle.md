@@ -15,5 +15,6 @@ maker:
   - name: "Mario de la Guardia"
     description: "Mario de la Guardia has over 2 decades of product development experience including several patents."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
-last-exported: "07/04/2020 05:03:41 pm"
+last-modified-db: "2019-10-26 12:39:17"
+last-exported: "2020-04-07 17:18:23"
 ---
