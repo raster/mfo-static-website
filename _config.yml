@@ -20,11 +20,20 @@ defaults:
 #end seo
 
 collections:
-   sponsors:
-     output: false
-     sort_by: sponsor-level
+  sponsors:
+    output: false
+    sort_by: sponsor-level
+  exhibits:
+    output: true
+    sort_by: Name
 
-
+defaults:
+  -
+    scope:
+      path: ""
+      type: "exhibits" # a collection in your site, in plural form
+    values:
+      layout: "exhibit"
 
 # set timezone
 timezone: America/New_York
