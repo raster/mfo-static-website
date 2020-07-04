@@ -23,4 +23,5 @@ maker:
   - name: "Wild Raccoon Vinyl"
     description: "We are just starting to create anything and everything we can get our hands on. We will have mostly vinyl decals and stickers. "
 photo_link: http://104.41.139.123/wp-content/uploads/2016/10/avatar.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

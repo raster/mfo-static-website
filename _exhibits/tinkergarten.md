@@ -16,4 +16,5 @@ maker:
   - name: "Tinkergarten"
     description: "Tinkergarten is outdoor play and learning for kids 18 months - 8 years! Tinkergarten brings early childhood education to a park near you. In our classes, kids enjoy the freedom of independent exploration through well-designed play-based activities that lend from the best of research and best practice to promote the development of critical capabilities, including self reliance, creativity, persistence and problem solving. Tinkergarten classes are led by a trained, certified community of leaders — often parents — who bring a healthy, social, and engaging learning experience to their community."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/tg_final_logo_color-1-1024x682.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

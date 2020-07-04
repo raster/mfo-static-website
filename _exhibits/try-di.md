@@ -11,4 +11,5 @@ maker:
   - name: "Florida Destination Imagination"
     description: "Florida Destination Imagination promotes STEAM and project based learning in Florida by supporting Destination Imagination and presenting an annual competition celebrating creative problem solving."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/07/10-percent-florida-di-logo-2.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

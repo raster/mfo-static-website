@@ -16,4 +16,5 @@ maker:
   - name: "Junk Yard Dog"
     description: "Team of combat robots"
 photo_link: http://104.41.139.123/wp-content/uploads/2018/10/Color-dog.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -16,4 +16,5 @@ maker:
   - name: "Stratton Schaller"
     description: "My dad and I started to participate in Makerfaire in 2015. We loved the different robotics and creations made by the exhibitors and decided to take part in the Power Racing Series race. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/Crash-test-1024x864.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

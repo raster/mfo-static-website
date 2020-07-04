@@ -10,4 +10,5 @@ location: Robot Ruckus - Axe Backwards Heavyweight Arena
 maker:
   - name: "ARC Robotics US"
     photo_link: 
+last-exported: "07/04/2020 05:03:40 pm"
 ---

@@ -11,4 +11,5 @@ maker:
   - name: "Stephanie Newell"
     description: "I am a graduate student in computer science working on social robotics at the Florida Institute of Technology. After obtaining my bachelors degree in molecular biology I gained an interest in robotics. I've learned most of what I know from online tutorials and other help from the maker community. My current robotics projects is focused on leveraging the power of narrative in robotics to help youth and young adults struggling with issues of identity with no one in their community to help. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/15656525925062916758312563362226-768x1024.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

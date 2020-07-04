@@ -11,4 +11,5 @@ maker:
   - name: "Team X"
     description: "Combat robot builders."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/10/2DBBE9DE-D5FA-46BA-AE4F-CAC10D5EEFA4.jpeg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

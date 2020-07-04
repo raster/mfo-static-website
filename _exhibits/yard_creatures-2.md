@@ -11,4 +11,5 @@ maker:
   - name: "Chuck Peterson"
     description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
 photo_link: 
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -17,4 +17,5 @@ maker:
   - name: "Cherry Pit Crafts"
     description: "Creators of handcrafted all natural bath and body products"
 photo_link: http://104.41.139.123/wp-content/uploads/2015/06/cherrieslogo.png
+last-exported: "07/04/2020 05:03:40 pm"
 ---

@@ -12,4 +12,5 @@ maker:
   - name: "Ron &#8211; The Happy Extruder Presents 3D Printing"
     description: "Ron Rosario Bit by the 3D Printing bug, Ron decided to take the plunge. Once he found out how great the 3D Printing community was, he set out on a quest to give back to the community. With a background in DIY and hands on projects, 3D Printing was just the next step in being able to create whatever came to mind."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/07/Screen-Shot-2018-07-24-at-6.09.37-PM-555x1024.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

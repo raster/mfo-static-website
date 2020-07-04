@@ -16,4 +16,5 @@ maker:
   - name: "Stephen Emery"
     description: "An electronics engineer with an interest in old-school switching logic."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/11/profile_pic_small.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

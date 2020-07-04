@@ -16,4 +16,5 @@ maker:
   - name: "Konnected Inc"
     description: "Konnected is a local Orlando startup that is disrupting the home security space and putting homeowners back in control of their home alarm system. Our flagship product, the Konnected Alarm Panel, launched on Kickstarter in 2017 and has become a huge hit with DIY smart home enthusiasts. The Konnected Alarm Panel allows you to convert your home's old and outdated wired alarm system into a modern smart home alarm, integrating with popular home automation hubs like SmartThings and Home Assistant. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/konnected-logo-blue-1024x195.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

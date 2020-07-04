@@ -24,4 +24,5 @@ maker:
   - name: "Pepakura Papercraft"
     description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
 photo_link: http://104.41.139.123/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -16,4 +16,5 @@ maker:
   - name: "Digital Painting Wolf"
     description: "I am a 16 year old digital artist.  I have been drawing for over a year, and it has completely changed my life.  My step sister and my mother are my biggest inspirations.  They both draw and they help me to improve.  Ever since my first drawing I have not stopped practicing, and now I have over 200 drawings.  Art helps me with my depression and anxiety, and I would love to share my experience and my art with others.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2017/07/profile.png
+last-exported: "07/04/2020 05:03:40 pm"
 ---

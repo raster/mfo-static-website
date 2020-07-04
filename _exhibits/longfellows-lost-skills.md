@@ -19,4 +19,5 @@ maker:
     description: "I'm a junior at Florida Polytechnic University majoring in Mechanical Engineering with a deep passion for math, physics, and creative innovation. 
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/Profile.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

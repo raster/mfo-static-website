@@ -11,4 +11,5 @@ maker:
   - name: "Fracture Mechanics"
     description: "Two engineers that like to make things as much as calculate things"
 photo_link: http://104.41.139.123/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

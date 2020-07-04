@@ -16,4 +16,5 @@ maker:
   - name: "GenkiGoth Studios"
     description: "GenkiGoth Studios is comprised of Miriam and Dee Jay, two Florida based artists whose combined backgrounds in classical, urban, and multi-media art embrace their love of nerd culture through their loosely narrative, but mostly spontaneous paintings."
 photo_link: http://104.41.139.123/wp-content/uploads/2017/09/GGS-logo-default-1002x1024.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

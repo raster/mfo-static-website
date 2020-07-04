@@ -11,4 +11,5 @@ maker:
   - name: "Carol Franklin"
     description: "Carol Franklin is an internationally-acclaimed fiber artist and teacher living in Orlando, Florida. Practicing the ancient Japanese fiber craft of kumihimo (literally \"coming together of threads\") for nearly two decades, she has lectured, taught and exhibited work in Japan and throughout North America. Carol's work ranges from creating vivid images through joined braids to making rich jewelry combining silk, precious metals, glasswork and gems. Her teaching focuses on making this deeply Japanese form accessible to North American students. She is a Founding Member of the American Kumihimo Society and serves on its Advisory Council."
 photo_link: http://104.41.139.123/wp-content/uploads/2016/10/headshot.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

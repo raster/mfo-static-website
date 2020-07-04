@@ -16,4 +16,5 @@ maker:
   - name: "The Monster Cafe"
     description: "Two sisters and one goal… create unusual, whimsical and fantastic monsters. With this in mind, encouragement from family and friends, The Monster Café was born on ETSY in 2009.  Since then we have attended conventions of all types throughout central and east coast Florida meeting wonderful people, artists and crafters.  Our work has been featured in a gallery or two, hundreds of special order requests, and even had our autograph requested.  Its been a wonderful crazy ride and we have so much more to share!  Thank you to each and every one who have supported our work and our love of tiny monsters."
 photo_link: http://104.41.139.123/wp-content/uploads/2015/08/fbbanner2.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

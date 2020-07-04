@@ -18,4 +18,5 @@ maker:
     description: "Just Okay Co is a design company based in Orlando Florida owned by Matt Verdier and known for their fun and affirming apparel and merchandise.
 "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/2019logo2.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

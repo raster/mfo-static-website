@@ -16,4 +16,5 @@ maker:
   - name: "Hagerty Robotics"
     description: "We are Hagerty Robotics from Oviedo, Florida. We are a program that aims to spread STEM to our community through our three teams that compete in the various competition levels FIRST and VEX has to offer. Last year, our robot took us all the way to the world championships where we placed second. We hope to share our robot and the FIRST motto to the next generation of young innovators."
 photo_link: http://104.41.139.123/wp-content/uploads/2017/09/Hagerty.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

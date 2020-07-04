@@ -16,4 +16,5 @@ maker:
   - name: "Library of Quirky &#8211; Shelley Kappeler"
     description: "I am Maker of all things Geek and quirky.  I paint on quarry stone using a wide variety of mediums: POSCA paint pens, Chameleon Alcohol Ink Blenders, and Derwent Inktense. Marrying these products together gives my work a unique folk art feel, so you see each item is handmade and not manufactured.  I am a longtime FIRST Robotics coach and LEGO enthusiast and member of the Greater Florida LEGO Users Group.  Stop by and meet and MAKE with me!"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/Screen-Shot-2019-07-29-at-8.31.06-AM.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -11,4 +11,5 @@ maker:
   - name: "Doom Squad"
     description: "Tyler Nguyen is a 9 year old who loves fighting combat robots.  He has had a year of success fighting 3 pound robots, and is now moving on to 30 pound robots.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2018/08/ty-and-flag-pic.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

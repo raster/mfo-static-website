@@ -11,4 +11,5 @@ maker:
   - name: "Team RocketCat Robotics"
     description: "Team RocketCat Robotics is a combat robotics team focused on building attractive, effective robots. The team hopes to use our robots to inspire others to find a passion for robotics and STEM. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/rocketcat.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

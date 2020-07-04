@@ -18,4 +18,5 @@ maker:
 
 Much ouf our experiments run on open source arduino and raspberry pi software.  We have been at the palm beach maker fair before and this is our first time at the orlando maker fair.  "
 photo_link: 
+last-exported: "07/04/2020 05:03:40 pm"
 ---

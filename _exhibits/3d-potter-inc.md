@@ -11,4 +11,5 @@ maker:
   - name: "3D Potter"
     description: "3D Potter is the only manufacturer of large scale 3D printers exclusive for clay/ceramics."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/3DPotter_Logo_Color-1024x336.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

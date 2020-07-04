@@ -23,4 +23,5 @@ maker:
 
 \"...The Legion is an all-volunteer organization formed for the express purpose of bringing together costume enthusiasts under a collective identity within which to operate. The Legion seeks to promote interest in Star Wars through the building and wearing of quality costumes, and to facilitate the use of these costumes for Star Wars-related events as well as contributions to the local community through costumed charity and volunteer work...\""
 photo_link: http://104.41.139.123/wp-content/uploads/2016/06/image.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

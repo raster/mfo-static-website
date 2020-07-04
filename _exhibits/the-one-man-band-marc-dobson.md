@@ -16,4 +16,5 @@ maker:
   - name: "The One Man Band, Marc Dobson"
     description: "My day job is performing as a real, manually controlled One Man Band playing 9.1 instruments at once on a rig I've created and continue to enhance. I perform mainly at fairs and festivals across North America. In 2019, I've added and am still developing a (costume) singing robot \"Bot The Robot\" and I am also a Singing Santa :)  "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/EBT-L-CLOFAIR-0706-1-Edit-1.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

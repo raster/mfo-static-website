@@ -11,4 +11,5 @@ maker:
   - name: "Aydar Rakhmatullin"
     description: "Interested in combat robotics. Member of the team \"Panzer Jagers\""
 photo_link: 
+last-exported: "07/04/2020 05:03:41 pm"
 ---

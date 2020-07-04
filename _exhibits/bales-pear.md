@@ -16,4 +16,5 @@ maker:
   - name: "Earl Pancoast"
     description: "Combat robot builder"
 photo_link: http://104.41.139.123/wp-content/uploads/2017/08/12953188_1167146003309214_1268559014_o-1024x768.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

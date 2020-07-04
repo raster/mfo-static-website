@@ -16,4 +16,5 @@ maker:
   - name: "Tipsy Robot Racing"
     description: "Tipsy Robot Racing is a family group of makers who enjoy building and competing in combat robotics and Power Racing Series.  We enjoy designing and fabricating parts in our garage based maker space."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/IMG_3638-1024x768.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

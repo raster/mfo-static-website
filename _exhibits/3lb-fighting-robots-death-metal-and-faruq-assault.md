@@ -11,4 +11,5 @@ maker:
   - name: "Riffs of Wrath Robotics"
     description: "Builder of fighting robots large and small"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

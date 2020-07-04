@@ -18,4 +18,5 @@ maker:
   - name: "Sirius Cybernetics"
     description: "A combat robotics team specializing in meltybrain spinners."
 photo_link: 
+last-exported: "07/04/2020 05:03:41 pm"
 ---

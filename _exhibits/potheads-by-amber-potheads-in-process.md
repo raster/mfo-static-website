@@ -16,4 +16,5 @@ maker:
   - name: "Potheads by Amber"
     description: "Potheads are whimsical little succulent planters, or small sculptures with a function.  They are hand sculpted from clay, handprinted with a color clay, black washed and fired three times.  All made by Amber, a self taught sculptor who started out teaching kids and beginning adults ceramics in Chicago Illinois.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/IMG_3343-1024x1024.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -22,4 +22,5 @@ I came up with a concept of creating arcade machines from re-purposed wine and w
 This started out about a year ago when I made one for myself and then for my neighbors, friends and family.  Suddenly, Barrel of Kong was created and I have been building this in my free time and on weekends in my garage and selling them to individuals all over the state of Florida.
 They have been a huge hit and I am getting referrals from past customers."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/BOK.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

@@ -11,4 +11,5 @@ maker:
   - name: "Underdog Robotics"
     description: "A group of combat robot builders from New England."
 photo_link: 
+last-exported: "07/04/2020 05:03:41 pm"
 ---

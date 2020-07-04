@@ -16,4 +16,5 @@ maker:
   - name: "Alan Ostrander / AEO Studios, Inc."
     description: "Alan O is the founder/creative director of AEO Studios, Inc.  AEO is a Theatrical Makeup/Special FX/Prop & Production Company located in Orlando for 23+years.  With a retail showroom & production center in E Orlando, AEO fabricates all types of custom props/set pieces/costume accessories and more using a wide range of molding materials and methods."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/logo-small-digital.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

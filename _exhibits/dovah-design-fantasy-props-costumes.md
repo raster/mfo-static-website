@@ -16,4 +16,5 @@ maker:
   - name: "Samantha Bork"
     description: "I am a prop and costume artist based in sunny Central Florida, USA. Cosplaying and prop making have been my hobbies since 2014, when I was inspired to start by famous prop artists and my favorite video game, Skyrim. There is something incredibly satisfying about bringing fantasy props and costumes into the real world, especially a badass weapon or set of armor."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/2019-Dovah-Logo_Color-Black-Text.png
+last-exported: "07/04/2020 05:03:40 pm"
 ---

@@ -13,4 +13,5 @@ maker:
 
 Mineral Element Browser (MEOWSER) has two parts.  A custom wooden cabinet containing APEX mineral samples with LED lighting has a giant touch screen overlay for navigation.  Next to the wooden cabinet is a large touch screen monitor that displays the Periodic Table.  You can point at elements on the Periodic Table to illuminate rocks containing that element.  Also, you can point at rocks to illuminate elements found in that rock.  An Arduino serves as the computer - cabinet interface.   Arduino software, Computer software, and electronic circuits were built to drive this stuff.  An interactive chemistry quiz challenges participants."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/Meowser.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

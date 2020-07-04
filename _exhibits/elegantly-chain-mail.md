@@ -22,4 +22,5 @@ maker:
   - name: "robyn cassibba"
     description: "I have been making chain mail jewelry for 4 years now. I started because I have a hard time finding jewelry that fits me and doesn't effect my delicate skin. when I started I found a lot of people were interested in the jewelry I was wearing so I decided to try selling it. so I started to sell online now I think I am ready to get out there and sell at events."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/56184164_1025455330911557_8337655840894877696_n.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

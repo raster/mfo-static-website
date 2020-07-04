@@ -18,4 +18,5 @@ maker:
   - name: "Tampa Hackerspace"
     description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
 photo_link: http://104.41.139.123/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -16,4 +16,5 @@ maker:
   - name: "Cassaundra Henderson"
     description: "Hi, I’m Cassaundra Henderson. I am a local Orlando design artist who creates unique streetwear designs on quality fabrics and canvases. My brand is founded on quality, creativity and innovation."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/A24F7AF9-E350-4C11-AA32-DABB58325DFA-768x1024.jpeg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

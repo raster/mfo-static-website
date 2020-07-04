@@ -16,4 +16,5 @@ maker:
   - name: "ClearCrawler by Jeremy S. Cook"
     description: "Jeremy is an engineer with over 10 years experience in manufacturing automation, and has a BSME from Clemson University. Now he writes about technology and makes interesting contraptions, building anything that comes into his mind!"
 photo_link: http://104.41.139.123/wp-content/uploads/2016/05/profile-pic-jcook-1024x1024.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

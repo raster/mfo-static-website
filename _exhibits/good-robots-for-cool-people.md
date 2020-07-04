@@ -17,4 +17,5 @@ maker:
   - name: "Good Robots for Cool People"
     description: "Good Robots for Cool People (Formerly Team Poor Life Choices) has competed in various robot competitions since 2001. Most recently we went on Battlebots with \"Battle Royale With Cheese\" a 250 cheese burger! We have two new robots we are bringing to Orlando to compete in Robot Ruckus! "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/31886606_628554060838846_2143054192393060352_n.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

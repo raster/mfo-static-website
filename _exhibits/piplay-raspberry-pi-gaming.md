@@ -17,4 +17,5 @@ maker:
     description: "Shea Silverman has been using computers since he was two years old.  He has always been drawn to technology, video games, education, and the public sector. He is an employee at the Center for Distributed Learning at UCF, where he spends his time researching and developing new ways to enhance online learning.  He is a member of the Orlando makerspace FamiLAB, and alumni of the University of Central Florida.  He has been published in 2600: The Hacker Quarterly, was a technical reviewer for the Raspberry Pi Networking Cookbook, and has been previously 
 published by Packt."
 photo_link: http://104.41.139.123/wp-content/uploads/2015/06/IMGP0453-1385501391_420_420_75_s_c1.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

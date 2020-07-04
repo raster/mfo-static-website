@@ -27,4 +27,5 @@ maker:
 beautiful and deeply emotional artistic expressions.  He has practiced fractal art since the late 90’s and is a true pioneer of this stimulating new art form which is recognized by its multifaceted patterns and infinite detail. Internationally published since 2005, coordinator of the International Fractal Art Symposiums and winner of multiple international contests, Joseph has contributed to the evolution of fractal art as an artist, lecturer and instructor. His diversity in fractal art continues to legitimize its relevance as an art form. 
 "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

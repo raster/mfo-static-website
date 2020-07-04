@@ -17,4 +17,5 @@ maker:
     description: "Since 2013, Valencia College has offered to students a Technical Certificate in Rapid Prototyping, 
 the 2nd such program established in Florida. Projects completed by our students include custom 3D printed electric violins (one of which was played by Valencia Professor Neal Phillips at an Orlando City soccer game), braille relief maps of our campus for sight-impaired students, and a variety of teaching/learning artifacts for Faculty use in multiple disciplines at the College."
 photo_link: http://104.41.139.123/wp-content/uploads/2016/07/vc-logo-web-box-rev-1024x156.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

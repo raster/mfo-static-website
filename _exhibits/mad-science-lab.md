@@ -25,4 +25,5 @@ Mad Science of North East Central Florida has won numerous awards, including the
 Check out Mad Science online at CFL.MadScience.org. Call today and find out just how easy it can be to Spark Imaginative Learning for your child!
 "
 photo_link: http://104.41.139.123/wp-content/uploads/2018/09/MixedColorLogo-Small.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

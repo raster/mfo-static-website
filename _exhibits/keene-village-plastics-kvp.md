@@ -16,4 +16,5 @@ maker:
   - name: "Keene Village Plastics (KVP)"
     description: "Manufacturer of high quality filaments used in 3D printing.  With over 15 different materials currently available, more in development, and the ability to extrude your materials, no one has the capability or expertise that Keene Village Plastics has in the industry.  1.75MM and 3MM (2.85mm) available."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/KVP-Logo-Large-2017-1024x791.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

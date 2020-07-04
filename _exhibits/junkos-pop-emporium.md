@@ -16,4 +16,5 @@ maker:
   - name: "Junko Takagi Gillespie"
     description: "A native of Shizuoka Ken, Japan, Junko spent the last 20+ years teaching Japanese language and culture to elementary school students in Haines City, Florida. She has always created amazing origami creations as a hobby, but recently has discovered an untapped talent for combining her love for pop culture with her technical skills. Junko really enjoys using pop culture as inspiration for her accessories and 3D origami sculptures, and she hopes that the public will find them just as fun!"
 photo_link: http://104.41.139.123/wp-content/uploads/2015/06/junko-profile.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

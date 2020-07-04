@@ -16,4 +16,5 @@ maker:
   - name: "Arcanic Artistry"
     description: "Laser cut nerdy artwork, various gaming designs, and tabletop rpg accessories to enhance your home and playspace."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/07/AA-Logo-image-1-1024x1024.png
+last-exported: "07/04/2020 05:03:40 pm"
 ---

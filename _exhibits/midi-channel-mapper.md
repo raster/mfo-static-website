@@ -16,4 +16,5 @@ maker:
   - name: "MIDI-chlorians Collective"
     description: "The MIDI-chlorians are a collective of performing musicians and engineers. We make solutions to musical problems using common tools like Arduinos and Rapsberry Pis and share them with the maker community."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/midi_channel_mapper_2-1024x678.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -16,4 +16,5 @@ maker:
   - name: "Bientro, LLC"
     description: "Everything is handmade and never mass-produced! Bientro, LLC are local leather artists at various shops in Central Florida. We create handcrafted leather goods and original art. We love steampunk and cosplayers and will work with you to create custom leather goods. Everything we make is unique and takes time to craft. At Bientro Leather, we use real leather, high-grade gemstones and crystals, and bright aluminum for the chainmaille jewelry."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/Bientro_logo_FB500.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

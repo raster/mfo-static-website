@@ -17,4 +17,5 @@ maker:
   - name: "Galaxy Middle School Science &amp; STEM"
     description: "A group of middle school teachers with a maker spirit.  Working with 11-14 year-olds requires an outside of the box approach.  We are constantly planning and building things to use with our lessons and activities.  We Make things for our 8th grade lock-in, Science Olympiad, the STEM Academy, and science classes."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

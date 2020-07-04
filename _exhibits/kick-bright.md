@@ -20,4 +20,5 @@ images:
 maker:
   - name: "Kick Bright"
     photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

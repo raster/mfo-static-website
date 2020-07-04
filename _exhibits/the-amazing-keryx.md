@@ -20,4 +20,5 @@ maker:
   - name: "Vyd Keryx &#8211; ArtVyd.com"
     description: "Independent studio artist with an MFA from FSU. My artwork is focused on HERO. I combine principles of Joseph Campbell & Bob Rauschenberg with Pop Culture materials. My hometown is Sanibel island, Florida. Art Handler. Member of IATSE 647: setting up broadway plays in local theaters; I specialize in video.  "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/ArtVyd.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

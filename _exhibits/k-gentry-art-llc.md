@@ -20,4 +20,5 @@ I am a character illustrator/designer for the animation and game industry.  My p
 I have also illustrated for the children’s book, medical, editorial, music, and print industries. Although my first love is pencil, I completes my character designs and illustrations on a Mac utilizing Industry standard professional software and a Wacom Cintiq 24HD.
 "
 photo_link: http://104.41.139.123/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

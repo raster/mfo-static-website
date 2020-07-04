@@ -22,4 +22,5 @@ I am grateful for the support I have received and the opportunities that I have 
 
 We can live our lives ignoring the beauty all around us and just see gray, but I choose to seek out beauty and share it with others. I hope to inspire people to find the art in all that they do. After all, even in the coldness of technology, we can find beauty, if we just look for it."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Steve-Winter-Park-Magazine_Smiling.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

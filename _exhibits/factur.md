@@ -16,4 +16,5 @@ maker:
 Our instructors at Factur teach skills in woodworking, metal working, metal smithing, glass fusing, glassblowing, woodturning, laser cutting & etching, 3D printing, electronics, jewelry making, sewing, leather crafts, aerosol painting (UV reactive, 3D, & Glow-in-the-Dark), CNC skills, and others.
 Our Entrepreneurs can create what you need. Our members consist of Entrepreneurs and DIYers."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/factur-logo-800x800.png
+last-exported: "07/04/2020 05:03:40 pm"
 ---

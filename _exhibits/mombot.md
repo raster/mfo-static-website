@@ -11,4 +11,5 @@ maker:
   - name: "Barbara McMahon / Team Slaughterhouse"
     description: "I have been competing with MomBot for 2 1/2 years.  In June, I won the beetleweight class at Robot Rebellion 2.2 at DARC.  My son Ian has been a combat robot builder for over 15 years."
 photo_link: http://104.41.139.123/wp-content/uploads/2018/08/IMG_20180811_174719.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

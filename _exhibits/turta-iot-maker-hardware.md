@@ -16,4 +16,5 @@ maker:
   - name: "Turta.io"
     description: "We are makers who create development boards for other makers. Our team created development hardware mainly for maker community. We have numbers of devices that can be used for community events such as hackatons. We also have been participated in other maker faires such as New York Maker Faire and Bay Area Maker Faire. We also organized Istanbul Maker Faires 3 years in row."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/Turta-Logo-Sq-2000px-1024x1024.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

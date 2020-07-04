@@ -11,4 +11,5 @@ maker:
   - name: "107 AVIATION"
     description: "A new life with drones. A local commercial drone pilot and owner of 107 Aviation, a drone services company. Background in embedded electronics design from Florida Tech and local community maker at MakerFX. "
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/107aviation_square-1-1024x1024.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

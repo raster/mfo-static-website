@@ -19,4 +19,5 @@ In the past two decades, Laura's quest for creating and adventure inspires her t
 capturing images with her unique style. Her works have been published in numerous 
 magazines and newspapers. Recently, Laura's art has evolved into blending her photography with cool objects creating unique 4-D mixed media art designed to fascinate and encourage the viewers to appreciate functional art."
 photo_link: http://104.41.139.123/wp-content/uploads/2015/07/lm-photo.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

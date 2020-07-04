@@ -20,4 +20,5 @@ maker:
   - name: "Rebel Legion"
     description: "We are the Ra Kura Base of the Rebel Legion, serving the state of Florda.  The Rebel Legion is an international costuming club dedicated to sharing and enjoying costuming talents, promoting the quality and improvement of Star Wars costumes, and giving back to the community through works of charity and volunteerism."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/RaKuraBase.png
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -16,4 +16,5 @@ maker:
   - name: "New World Vulture"
     description: "Makes and sells jewelry and terrariums out of roadkill animal bones and leather"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/10/IMG_20190927_162009_929-1.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

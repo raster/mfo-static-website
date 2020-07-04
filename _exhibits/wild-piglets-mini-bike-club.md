@@ -16,4 +16,5 @@ maker:
   - name: "Doug Leppard"
     description: "Group of us returning to our youth to ride mini bikes for fun.  Some are engineers, some business people, some from military and all for fun."
 photo_link: 
+last-exported: "07/04/2020 05:03:41 pm"
 ---

@@ -11,4 +11,5 @@ maker:
   - name: "The aRUSTocrats"
     description: "Weirdo machinist and engineer who loves making rideable projects, like ebikes and gokarts, using digital design and fabrication."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/profile.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---

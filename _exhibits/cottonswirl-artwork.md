@@ -19,4 +19,5 @@ maker:
     description: "Chibi Character Art
 15 year old Sarah Mae Hubbard designs artwork and video games in her particular chibi style."
 photo_link: http://104.41.139.123/wp-content/uploads/2019/09/CS_Redesign_-_Copy1.jpg
+last-exported: "07/04/2020 05:03:40 pm"
 ---

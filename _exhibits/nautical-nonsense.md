@@ -11,4 +11,5 @@ maker:
   - name: "Team Overboard"
     description: "A combat robotics team from California is ready to see what the East Coast is all about."
 photo_link: 
+last-exported: "07/04/2020 05:03:41 pm"
 ---

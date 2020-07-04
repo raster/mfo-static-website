@@ -16,4 +16,5 @@ maker:
   - name: "East Coast Robotics"
     description: "My teammates and I worked for Robogames and Combots in the Bay Area for 14 years (pitrunner, arena builders, arena wranglers, safety crew and head judge) we work the Winter Challenge in Brazil and competed in Battlebots with a 60lb bot 2000-2004 and I am currently one of the fabricators, pit crew as well as transport drone driver for Tombstone in Battlebots.  Our team, East Coast Robotics, led by two of our lead designers/fabricators: Michael Thombs and Steve Rys, even introduced airborne combat to the arena in 2013 on Discovery's \"Killer Robots\" with a quadcopter style flame-shooting bot!  We are educators and always looking for opportunities to bring something new and creative (and fun) to the sport mainly to expose the youngsters to just how exciting engineering is when it collides with creativity :)"
 photo_link: http://104.41.139.123/wp-content/uploads/2019/08/mauler5150-1024x1024.jpg
+last-exported: "07/04/2020 05:03:41 pm"
 ---
