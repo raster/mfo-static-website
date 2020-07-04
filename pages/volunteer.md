@@ -24,3 +24,11 @@ Volunteers who work at least a 4 hour shift will receive free admission for the 
 * Community service hours are available from The Maker Effect Foundation, a 501(c)(3) public charity.
 
 * If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at volunteers@themakereffect.org
+
+
+{% comment %}
+This is the iframe code that was used on wordpress to bring in the salesforce volunteer form.
+Placing here for reference. Suggest building an HTML include or page variable or such so that it can be easily added / removed on the page.
+
+<iframe id="advanced_iframe" name="advanced_iframe" src="https://themakereffect.secure.force.com/volunteers/GW_Volunteers__VolunteersJobListingFS?ShowSkills=1&amp;ShowDescription=1&amp;ShowShifts=1" width="100%" height="2000" scrolling="auto" frameborder="0" allowtransparency="true" style=";width:100%;height:2000px;"></iframe>
+{% endcomment %}
