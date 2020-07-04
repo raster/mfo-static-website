@@ -10,8 +10,12 @@
 <div id="page_content">
   <div id="page-body"
     <div class="container">
-    <h1>{{page.name}}</h1>  
+    <!- last-modifed-db: {{page.last-modified-db}}->
+    <!- last-exported:   {{page.last-exported}}->
+
+    <h1>{{page.name}}</h1>
     {{content}}
+
     </div>
   </div>
 </div>
