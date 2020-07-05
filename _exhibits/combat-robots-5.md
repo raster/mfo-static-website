@@ -7,15 +7,15 @@ url: https://www.facebook.com/battlebeachllc
 excerpt: "Shrederator, Uppercut, Upbeat, Bambulance"
 description: "Combat robots from Team LOGICOM in the heavyweight and beetleweight weight classes."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred-300x216.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred.jpg
 maker:
   - name: "Team LOGICOM"
     description: "Team LOGICOM has been competing in combat robots for almost 20 years. You may have seen our robot, Captain Shrederator, on Discovery Channel's \"Battlebots.\" You may have seen our other robot, Shrederator Tiger Claw, on Youku's \"This is Fighting Robots!\""
-photo_link: http://104.41.139.123/wp-content/uploads/2018/10/makers-faire-orlando-2018-1024x424.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/makers-faire-orlando-2018-1024x424.jpg
 last-modified-db: "2019-11-06 17:22:07"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

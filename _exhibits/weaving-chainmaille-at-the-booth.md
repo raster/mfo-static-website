@@ -7,15 +7,15 @@ url: http://www.steampunkgarage.com
 excerpt: "Pop by the Steampunk Garage booth to catch a glimpse of chainmaille being constructed - one painstaking ring at a time!  Feel free to grill the maker on any chainmaille-related trivia while you're there.  "
 description: "Pop by the Steampunk Garage booth to catch a glimpse of chainmaille being constructed - one painstaking ring at a time!  Feel free to grill the maker on any chainmaille-related trivia while you're there.  Jenifer has been weaving maille for over 15 years and has many offbeat and one-of-a-kind pieces of chainmaille unlike anything you've ever seen before.  She has an extensive knowledge base of the maille you've seen around the world: in museums, hotels, the movies, even in space!"
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201.jpg
 maker:
   - name: "Steampunk Garage"
     description: "Handmade steel and titanium chainmaille mixed with antique keys, clock parts, construction nails, and recycled stuff."
-photo_link: http://104.41.139.123/wp-content/uploads/2018/11/store-logojpg-1024x1024.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/store-logojpg-1024x1024.jpg
 last-modified-db: "2019-11-07 20:39:27"
-last-exported: "2020-04-07 17:18:24"
+last-exported: "2020-05-07 09:35:10"
 ---

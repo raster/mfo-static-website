@@ -6,15 +6,15 @@ status: 1
 url: 
 description: "A trio of engineers and a lumberjack theme hope to make an impact at Robot Ruckus!"
 location: Robot Ruckus - Small Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/stumpgrinder.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/stumpgrinder.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/stumpgrinder.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/stumpgrinder.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1-300x232.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1-1024x791.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1.jpg
 maker:
   - name: "Lumberjacks"
     description: "A trio of three engineers looking to make robotic history"
-photo_link: http://104.41.139.123/wp-content/uploads/2019/11/lumberjacks.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/lumberjacks.jpg
 last-modified-db: "2019-11-06 16:55:34"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

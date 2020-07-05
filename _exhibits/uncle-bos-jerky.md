@@ -16,15 +16,15 @@ Come visit our booth to...
 3- Check out my arduino powered commercial dehydrator.
 4- and buy a bag or two for the road."
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-300x275.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-1024x939.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1.png
 maker:
   - name: "Uncle Bo"
     description: "about 20 years ago, a friend of the family gave us a food dehydrator, using the recipe that came with the unit I made some Beef jerky. It was awful! It was worse than the generic store bought stuff. As I make my own steak rubs, wing sauces etcetera ... I decided to make my own jerky recipe. After about 6 months of trial and error, I came up with my original recipe jerky. Using this as a base, I have created 7 additional flavors. "
-photo_link: http://104.41.139.123/wp-content/uploads/2016/10/Logo-trans-1024x939.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Logo-trans-1024x939.png
 last-modified-db: "2019-10-30 16:45:38"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:10"
 ---

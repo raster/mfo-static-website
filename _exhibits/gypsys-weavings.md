@@ -9,15 +9,15 @@ description: "Using armoury patterns that can date back to the Estrucians of old
 
 Update: Due to a recent acquisition I'll have a traditional core vintage violet wand with me! If you're a fan of Nikola Tesla, violet wands (aka the ray) and tesla coils are not unknown to you. Getting a chance to feel it though is rare! I'll have a vintage (from what I can find it's from the 1940s) violet \"ray\" machine and a modern solid state. Satisfy your curiosity and get to see, and for the daring feel, one for yourself!"
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n-300x196.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n.jpg
 maker:
   - name: "Gypsy Anakhet al-Badawiyya"
     description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
-photo_link: http://104.41.139.123/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
 last-modified-db: "2019-11-07 20:38:03"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:09"
 ---

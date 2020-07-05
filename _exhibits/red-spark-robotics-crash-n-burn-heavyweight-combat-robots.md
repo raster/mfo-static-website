@@ -8,15 +8,15 @@ excerpt: "Canadian heavyweight multibot \"Crash n' Burn\" are making the trip to
 description: "Crash n' Burn took on Megabyte, Touro Maximus, and Last Rites at RoboGames.
 How will they fare against actual Battlebots?"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-300x169.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-1024x576.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail.png
 maker:
   - name: "Red Spark Robotics"
     description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
 last-modified-db: "2019-11-06 18:09:15"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

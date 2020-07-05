@@ -13,10 +13,15 @@ description: "Our exhibit consists of two robots;  \"Battlesuit: Hyperchicken\" 
 
 Both robots are fully electric RC vehicles powered by LiPo batteries."
 location: Unassigned
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_6642-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_6642-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_6642-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_6642.jpg
 maker:
   - name: "Good Robots for Cool People"
     description: "Good Robots for Cool People (Formerly Team Poor Life Choices) has competed in various robot competitions since 2001. Most recently we went on Battlebots with \"Battle Royale With Cheese\" a 250 cheese burger! We have two new robots we are bringing to Orlando to compete in Robot Ruckus! "
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/31886606_628554060838846_2143054192393060352_n.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/31886606_628554060838846_2143054192393060352_n.jpg
 last-modified-db: "2019-10-11 21:33:10"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:09"
 ---

@@ -9,10 +9,15 @@ description: "Boca Bearings will be to make a regular Power Wheels into a Racing
 
 For this project, we've searched Craigslist until we've found a Power Wheels that we thought was best for the project. A used Power Wheels was desired since we are going to mostly just keep the plastic covering of the Power Wheels and not use the stock motor or throttle. The Power Wheels we ended up going with is the Power Wheels Dune Racer."
 location: Unassigned
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418.jpg
 maker:
   - name: "Boca Bearings"
     description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
-photo_link: http://104.41.139.123/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-09-25 15:42:03"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

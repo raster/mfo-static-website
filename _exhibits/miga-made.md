@@ -11,15 +11,15 @@ description: "Robots, unicorn shoes and more.
 Miga made products are inventive, unique, and locally crafted items.
 Hang out, take photos, watch us make little robots, you may even meet some larger than life robot characters."
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693-225x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
 maker:
   - name: "Miga Made"
     description: "Join @Stachelightning as he shows off his robots, costumes, set pieces, fun products and then some."
-photo_link: 
+image-primary: 
 last-modified-db: "2019-10-27 16:29:10"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

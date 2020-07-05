@@ -7,10 +7,15 @@ url: Http://astromech.net
 excerpt: "Running and in progress builds of robots from Star Wars"
 description: "we build many of the droids from the star wars universe"
 location: Spirit Building
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
 maker:
   - name: "Southern R2 Builders Group"
     description: "We are the Florida chapter of the world wide R2 Builders club. We help each other build our favorite little buddy from Star Wars, R2-D2 and his friends."
-photo_link: 
+image-primary: 
 last-modified-db: "2019-10-27 17:37:46"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

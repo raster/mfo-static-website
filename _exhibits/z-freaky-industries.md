@@ -13,15 +13,15 @@ Perhaps building an electric skateboard is an interest? Well, I've made a few of
 
 Or maybe you want to get started with Arduinos as small as a grain of rice? I will also be sharing my adventures in using the ATTINY10 and the magic of its low power capabilities!"
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116.jpg
 maker:
   - name: "Z Freaky Industries"
     description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
 last-modified-db: "2019-10-26 13:30:25"
-last-exported: "2020-04-07 17:18:24"
+last-exported: "2020-05-07 09:35:10"
 ---

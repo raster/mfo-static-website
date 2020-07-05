@@ -7,11 +7,16 @@ url:
 excerpt: "Electric power cart."
 description: "Home built electric power cart built to power racing series specs."
 location: Unassigned
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1-300x232.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1-1024x791.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1.png
 maker:
   - name: "Taco Bug &#8211; Power Series"
     description: "This will be our second race ever. 
 Our first race was at the Atlanta 2019 Maker faire. "
-photo_link: http://104.41.139.123/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1024x791.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1024x791.png
 last-modified-db: "2019-10-30 16:25:17"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

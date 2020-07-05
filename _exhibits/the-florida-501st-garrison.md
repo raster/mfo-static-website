@@ -12,17 +12,17 @@ The 501st legion prides itself on \"Bad Guys Doing Good\", across the entire leg
 
 If you're interested in learning what it takes to join the 501st Legion and your local squad please stop by and check out our booth."
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1-300x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
 maker:
   - name: "The 501st Legion &#8211; Florida Garrison"
     description: "From the official 501st Legion Charter:
 
 \"...The Legion is an all-volunteer organization formed for the express purpose of bringing together costume enthusiasts under a collective identity within which to operate. The Legion seeks to promote interest in Star Wars through the building and wearing of quality costumes, and to facilitate the use of these costumes for Star Wars-related events as well as contributions to the local community through costumed charity and volunteer work...\""
-photo_link: http://104.41.139.123/wp-content/uploads/2016/06/image.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/06/image.png
 last-modified-db: "2019-10-27 16:29:48"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:10"
 ---

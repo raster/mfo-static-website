@@ -11,10 +11,15 @@ description: "SprayMo® is a breakthrough in hand held spray bottle technology t
 •	Does so much more than traditional hand held spray bottles
 The secret is our proprietary “Pump Handle Technology,” which addresses the shortcomings and issues of traditional bottle sprayers relating to: health, convenience, durability, &amp; the environment."
 location: Opportunity Building
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-274x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-936x1024.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook.jpg
 maker:
   - name: "Mario de la Guardia"
     description: "Mario de la Guardia has over 2 decades of product development experience including several patents."
-photo_link: http://104.41.139.123/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
 last-modified-db: "2019-10-26 12:39:17"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

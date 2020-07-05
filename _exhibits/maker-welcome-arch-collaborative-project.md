@@ -9,14 +9,14 @@ description: "We will be erecting a 15' wide by 10' tall truss archway welcoming
 
 NO STICKERS, TAPE, OR OTHER ADHESIVES ALLOWED!"
 location: Unassigned
-images:
-  - thumbnail: https://www.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch_rendering.jpg
-    medium: https://www.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch_rendering.jpg
-    large: https://www.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch_rendering.jpg
-    full: https://www.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch_rendering.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch-300x255.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch-1024x869.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch.jpg
 maker:
   - name: "STAGE EQUIPMENT AND LIGHTING"
-    photo_link: 
+    image-primary: 
 last-modified-db: "2019-10-07 14:15:14"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

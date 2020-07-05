@@ -9,14 +9,14 @@ description: "Learn to solder and make your very own light up Makey Pin or level
 
 Check out details on our new advanced at http://www.makerfx.org/2017/10/advanced-soldering-training-maker-faire-orlando-2017/"
 location: Curiosity Building
-images:
-  - thumbnail: https://www.makerfaireorlando.com/wp-content/uploads/2017/10/advanced-lts.jpg
-    medium: https://www.makerfaireorlando.com/wp-content/uploads/2017/10/advanced-lts.jpg
-    large: https://www.makerfaireorlando.com/wp-content/uploads/2017/10/advanced-lts.jpg
-    full: https://www.makerfaireorlando.com/wp-content/uploads/2017/10/advanced-lts.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-300x200.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o.jpg
 maker:
   - name: "Maker Faire Orlando"
-    photo_link: http://104.41.139.123/wp-content/uploads/2017/10/makey.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/makey.png
 last-modified-db: "2019-10-26 14:26:04"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

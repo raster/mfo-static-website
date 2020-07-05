@@ -10,10 +10,15 @@ Smee - 3lb lifter
 Fast Owen - 1lb walking bar spinner
 Faster Owen - 3lb experimental gyroscopic bar spinner"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq-300x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq-1024x1024.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq.jpg
 maker:
   - name: "TeamFlightPlan"
     description: "International robot fighting team!"
-photo_link: http://104.41.139.123/wp-content/uploads/2018/10/LogoBlack-1024x172.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/LogoBlack-1024x172.png
 last-modified-db: "2019-11-06 17:34:29"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

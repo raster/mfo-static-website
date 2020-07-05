@@ -13,15 +13,15 @@ Sound cool?  Wait 'till you see it in person!  Stop by our booth and talk to som
 
 Familab will feature our Makeathon game, Paddle War Domination!  Come try your hand at a mechanical Pong-type game."
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_6605.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_6605.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_6605.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_6605.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1-300x199.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1-1024x678.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1.jpg
 maker:
   - name: "FamiLAB"
     description: "FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills & tools to improve ourselves and enrich the world around us."
-photo_link: http://104.41.139.123/wp-content/uploads/2015/05/Top-Logo3.gif
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/Top-Logo3.gif
 last-modified-db: "2019-10-29 14:48:27"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

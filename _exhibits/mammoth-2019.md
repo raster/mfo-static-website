@@ -12,14 +12,14 @@ description: "Mammoth is a 250lb Combat Robot featured on Discovery Channel's Ba
 We're thankful to be proudly sponsored by the following companies:
 ● Stanley Black &amp; Decker ● Newark Electronics ● Harbor Designs ● Max Amps Batteries ● HobbyWing ● Sticker Mule ● NPC Robotics ●"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-254x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2.jpg
 maker:
   - name: "Ricky Willems"
-    photo_link: http://104.41.139.123/wp-content/uploads/2018/10/me-1-768x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

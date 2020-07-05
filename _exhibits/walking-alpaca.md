@@ -10,16 +10,16 @@ Orion built the original design using legos with motors. The boys then built mod
 The alpaca was not able to walk, due to the limitations of the motor that they used (another learning moment!), so they mounted it on wheels for practical motion, allowing the legs to \"walk\" now that there was no longer weight on them.
 This would be an amazing exhibit for young makers to see. It is truly impressive to see what two kids were able to build with enough hard work (over 100 hours) and determination!"
 location: Unassigned
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-252x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-860x1024.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2.jpg
 maker:
   - name: "Orion West"
     description: "Orion is 10 years old, but has been building from a very early age. By the time he was five years old, he could take apart and reassemble a carburetor. This past spring, he and another boy, Inesh Mohan, spent over 100 hours designing and building a walking alpaca for an Odyssey of the Mind competition. Due to the type of technical difficulties that occur when you venture WAAAYYY outside of the box, they did not end up completing the event before time was called, but their design and build was 100% child-driven and created. \"Outside Assistance\" from adults was strictly prohibited due to the contest rules. 
 After all of the time, effort, blood, sweat and tears that the boys put in without being able to fully demonstrate their creation, their one request was that they be allowed to exhibit at Maker Faire, which they faithfully attend every year."
-photo_link: http://104.41.139.123/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
 last-modified-db: "2019-11-08 14:35:58"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:10"
 ---

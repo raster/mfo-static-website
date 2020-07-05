@@ -9,15 +9,15 @@ description: "Local radio show and podcast To a Certain Degree is hosting a type
 
 To a Certain Degree is live every Monday from 7-9a on WPRK with interviews of Orlando residents who are doing neat things. You can subscribe to the podcast wherever you get your podcasts!"
 location: Unassigned
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207.jpg
 maker:
   - name: "To a Certain Degree"
     description: "Orlando radio show and podcast To a Certain Degree will be set up with some old-school tech at the typewriter table. Write a thank-you note to the makers, volunteers, and staff who put so much time and effort into Maker Faire Orlando!"
-photo_link: http://104.41.139.123/wp-content/uploads/2019/11/tacd1ahi-1024x853.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/tacd1ahi-1024x853.png
 last-modified-db: "2019-11-07 15:47:52"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:10"
 ---

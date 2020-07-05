@@ -6,14 +6,14 @@ status: 1
 url: 
 description: "Mastadon is the largest heavyweight robot ever built."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-300x200.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-1024x683.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019.jpg
 maker:
   - name: "Combat Robots &#8211; Mastodon (Team Captain: Ricky Willems)"
-    photo_link: 
+    image-primary: 
 last-modified-db: "2019-11-06 16:10:20"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

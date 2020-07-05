@@ -7,9 +7,14 @@ url:
 excerpt: "Beetle Weight Combat Robot"
 description: "Beetle Weight Combat Robot"
 location: Robot Ruckus - Small Arena
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture-1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture-1-300x202.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture-1.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture-1.jpg
 maker:
   - name: "Angel Zamora"
-    photo_link: 
+    image-primary: 
 last-modified-db: "2019-11-06 17:07:27"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

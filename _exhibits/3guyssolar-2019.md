@@ -9,15 +9,15 @@ description: "Learn the fundamental of off grid or net zero living when you visi
 Our Solar Pros will be on hand to describe the process from manufacturing, installation, system sizing plus the process to collect the power company approval and receive Federal Tax credits. 
 For more information you can check out our website www.3GuysSolar.com or on Like us on Facebook at www.Facebook.com/3GuysSolar."
 location: Unassigned
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/20180616_121345143_iOS.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/20180616_121345143_iOS.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/20180616_121345143_iOS.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/20180616_121345143_iOS.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n-300x169.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n.jpg
 maker:
   - name: "3 Guys Solar"
     description: "3 Guys Solar is a solar contractor working in central Florida for more than 5 years installing Solar PV Systems."
-photo_link: http://104.41.139.123/wp-content/uploads/2016/08/3-GS-logo.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/08/3-GS-logo.jpg
 last-modified-db: "2019-09-02 20:33:33"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

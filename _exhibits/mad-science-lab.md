@@ -7,11 +7,11 @@ url: http://CFL.MadScience.org
 excerpt: "Mad Science brings hands-on Science and STEM to students across Central Florida. Come by and learn how creating and making using Science can be FUN!"
 description: "Mad Science brings hands-on Science and STEM to students across Central Florida. Come by and learn how creating and making using Science can be FUN! We'll have a mix of Free and Paid activities, sure to get your inner Mad Maker Scientist working!"
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-300x250.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-1024x854.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M.png
 maker:
   - name: "Mad Science"
     description: "Mad Science provides high-energy and hands-on Science programs for kids aged 2-14. We are the world’s leading fun science provider!
@@ -24,7 +24,7 @@ Mad Science of North East Central Florida has won numerous awards, including the
 
 Check out Mad Science online at CFL.MadScience.org. Call today and find out just how easy it can be to Spark Imaginative Learning for your child!
 "
-photo_link: http://104.41.139.123/wp-content/uploads/2018/09/MixedColorLogo-Small.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/MixedColorLogo-Small.png
 last-modified-db: "2019-10-26 12:51:00"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

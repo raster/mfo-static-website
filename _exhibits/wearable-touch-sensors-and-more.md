@@ -9,15 +9,15 @@ description: "Sparky the crocheted cat has a new sweater vest, which will have a
 
 The exhibit will feature people spinning yarn, demonstrating weaving on different types of looms, and a free take-away (or do it now) weaving activity."
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-117x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
 maker:
   - name: "Drunken Monkey Spinners and Weavers of Orlando"
     description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
-photo_link: 
+image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-04-07 17:18:24"
+last-exported: "2020-05-07 09:35:10"
 ---

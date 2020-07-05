@@ -12,14 +12,14 @@ Kick Bright Shop also carries a large selection of pop-culture related items lik
 In August 2015 they opened their first physical store in Artegon Marketplace in Orlando, Florida (pictured above). In less than a year the store was successful enough to double in size. In January 2017 Artegon abruptly closed despite the success of the individually owned small businesses operating there leaving Kick Bright without a permanent home.
 Jeffrey and Kristin are looking to the future, whether it be a permanent new location or traveling pop-ups. Stay tuned right here, it’s always an adventure."
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o.jpg
 maker:
   - name: "Kick Bright"
-    photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:09"
 ---

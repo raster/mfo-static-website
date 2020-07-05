@@ -10,15 +10,15 @@ description: "Combat robot for insect weight class. Competing with 2 150g robots
 2. Stumpy Unleashed (150g) : Vertical Disc Spinner
 3. Unknown Avenger (3lb) : Wedge/Grabber robot. Module design with different fronts dependent on opponent."
 location: Robot Ruckus - Small Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
 maker:
   - name: "Team Ice"
     description: "Robot Combat "
-photo_link: 
+image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:10"
 ---

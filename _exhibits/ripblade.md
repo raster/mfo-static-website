@@ -7,10 +7,15 @@ url:
 excerpt: "Demonstration of battle robot (one pound class)"
 description: "Competing with other robots."
 location: Robot Ruckus - Small Arena
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-300x265.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
 maker:
   - name: "Kwin-alt"
     description: "Son (and father) amateur team. "
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
 last-modified-db: "2019-11-06 18:01:32"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:10"
 ---

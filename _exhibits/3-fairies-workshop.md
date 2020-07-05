@@ -11,15 +11,15 @@ Once each sculpture is cast and painted, I spray them with a matte finish and at
 
 I also feature a few truly one of a kind pieces, sculpted from polymer clay and then hand painted in acrylic paint. These are also of a few fan favorite characters."
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-225x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199.jpg
 maker:
   - name: "Ali Wagner"
     description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
-photo_link: http://104.41.139.123/wp-content/uploads/2018/07/3wanddark.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
 last-modified-db: "2019-10-27 16:38:26"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

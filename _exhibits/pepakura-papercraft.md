@@ -15,15 +15,15 @@ Pepakura Designer allows you to scale and print larger 3d models for things such
 
 I'd show off some of the cosplay armor/projects I've made in the last year or two as well."
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
 maker:
   - name: "Pepakura Papercraft"
     description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
-photo_link: http://104.41.139.123/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

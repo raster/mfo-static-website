@@ -13,10 +13,15 @@ Just make sure you see us before the competitors have bought all the spare parts
 
 FingerTech Robotics is proud to sponsor Robot Ruckus and the competing teams."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena, Spirit Building
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis.jpg
 maker:
   - name: "FingerTech Robotics"
     description: "FingerTech Robotics is North America's top manufacturer of combat robotics parts.  If you're interested in building your first combat robot, check out the \"Viper\" Combat Robot kit, which includes everything you need to build a fully functional, competitive 1lb antweight. FingerTech also carries a complete line of wheels, motors, electronics, and other components if you want to build a bot from the ground up. Worldwide shipping! Head over to www.FingerTechRobotics.com."
-photo_link: http://104.41.139.123/wp-content/uploads/2019/10/FingerTech-Logo-Maker-Faire-1024x238.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FingerTech-Logo-Maker-Faire-1024x238.png
 last-modified-db: "2019-11-06 16:27:51"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:09"
 ---

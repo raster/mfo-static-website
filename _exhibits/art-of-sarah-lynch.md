@@ -7,15 +7,15 @@ url: http://www.confusingdrawings.tumblr.com
 excerpt: "17-year-old digital artist "
 description: "I'm Sarah Lynch, a 17-year-old multi-media artist. I do mostly fandom-related art, but I also do some original work. I'll be drawing and showing my art, and some future projects of mine!"
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/poopy.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/poopy.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/poopy.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/poopy.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018-300x300.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018-1024x1024.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018.png
 maker:
   - name: "Art of Sarah Lynch"
     description: "Multi-media Artist"
-photo_link: http://104.41.139.123/wp-content/uploads/2018/07/me2o18-1024x1024.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2o18-1024x1024.png
 last-modified-db: "2019-11-01 14:21:14"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

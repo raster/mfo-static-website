@@ -15,15 +15,15 @@ Concierge set up and staffing
 Bubble murals can be great as a stand-alone piece, but they also create a perfect backdrop for an optional signature sculpture, such as a giant Makey, while the community follows our instructions to build a mural representative of the location where it's built.
 Community participants build the mural over a day or two so it can be built entirely by Maker Faire patrons without staff support. Airigami would provide all equipment, materials, design, and instructions. This can be a DIY project, your staff and volunteers would manage the construction, or we can deliver, setup, and provide staff to oversee it. Cost for this mural as a DIY project is $1500. To have Airigami artists on site, we’re looking at $500-$1500/day in addition to the project cost, depending on the level of support needed."
 location: Unassigned
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-150x150.jpeg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-300x200.jpeg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
 maker:
   - name: "Airigami"
     description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
-photo_link: http://104.41.139.123/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

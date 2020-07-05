@@ -7,9 +7,14 @@ url:
 excerpt: "Xxxxxxxxx"
 description: "Xxxxxxxxxxxxxxxxxx"
 location: Unassigned
+image-primary:
+  - thumbnail: 
+    medium: 
+    large: 
+    full: 
 maker:
   - name: "Xxxx"
-    photo_link: 
+    image-primary: 
 last-modified-db: "2019-09-10 19:18:38"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

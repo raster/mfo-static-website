@@ -7,9 +7,14 @@ url:
 excerpt: "A combat robot designed to flip and competing in the 30Lb 'Sportsman' Class"
 description: "A full pressure (800PSI) british-style rear hinge flipping combat robot. Welded aluminum core structure with dual feed tanks and a carbon fibre buffer tank to flip an opponent within half a second."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208-300x169.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208-1024x576.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208.png
 maker:
   - name: "ARC Robotics US"
-    photo_link: 
+    image-primary: 
 last-modified-db: "2019-11-06 17:14:00"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

@@ -7,15 +7,15 @@ url: http://www.teambonedead.com
 excerpt: "This is for our combat robot team which plans to compete at the Robot Ruckus. We plan to bring our 30lb Sportsman robot \"Reckoning.\" "
 description: "We are a team competing in the Robot Ruckus. We are bringing our 30lb Sportsman \"Reckoning\" to compete at the event. We have competed in combat robots for 10 years now and we are proud of all the progress has made with the return of 'Battlebots.' We are also members of our local universities' combat robot club and makerspace which we hope to talk about with the public to further promote interest in STEM."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1-300x296.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1.jpg
 maker:
   - name: "Bone Dead Robotics"
     description: "We are a combat robotics team who builds and competes fighting robots. "
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/BDR-Logo.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

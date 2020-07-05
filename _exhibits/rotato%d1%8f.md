@@ -7,10 +7,15 @@ url: https://battlebots.com/robot/rotator-2019/
 excerpt: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 description: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-300x200.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-1024x684.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo.jpg
 maker:
   - name: "Victor Soto"
     description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
-photo_link: 
+image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

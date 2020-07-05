@@ -7,15 +7,15 @@ url:
 excerpt: "250 pound fighting robot"
 description: "250 pound fighter plus BattleBot Bale Spear for display"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/E7FC9047-4620-4AA1-AE8D-DDEA5DA50AD4.jpeg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/E7FC9047-4620-4AA1-AE8D-DDEA5DA50AD4.jpeg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/E7FC9047-4620-4AA1-AE8D-DDEA5DA50AD4.jpeg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/E7FC9047-4620-4AA1-AE8D-DDEA5DA50AD4.jpeg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1FA4A91E-8066-47D0-870F-528691BD6792-150x150.jpeg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1FA4A91E-8066-47D0-870F-528691BD6792-300x225.jpeg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1FA4A91E-8066-47D0-870F-528691BD6792-1024x768.jpeg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1FA4A91E-8066-47D0-870F-528691BD6792.jpeg
 maker:
   - name: "Earl Pancoast"
     description: "Combat robot builder"
-photo_link: http://104.41.139.123/wp-content/uploads/2017/08/12953188_1167146003309214_1268559014_o-1024x768.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/12953188_1167146003309214_1268559014_o-1024x768.jpg
 last-modified-db: "2019-11-06 16:49:32"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

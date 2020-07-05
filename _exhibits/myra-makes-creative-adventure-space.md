@@ -13,15 +13,15 @@ In the Inventure area, you can play the upcoming Myra Makes board game, Inventur
 
 Finally, in the sneak peek area, you can explore the in-development Myra Makes app, play some of our prototype card games, and join a read-aloud of our latest in-development story book. Your feedback is extremely valuable to us and we hope you can drop by to share your ideas and thoughts on what Myra Makes should do next!"
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-300x134.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1.png
 maker:
   - name: "Myra Makes"
     description: "Myra Makes is a creative education startup which publishes books and games that help kids develop creative, problem-solving, and emotional skills. "
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
 last-modified-db: "2019-10-26 13:04:35"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

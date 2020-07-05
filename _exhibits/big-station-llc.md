@@ -14,14 +14,14 @@ description: "ABOUT US
 • We are an innovative company with eight years of experience in the area of entertainment equipment. Our priority is to provide families with unforgettable experiences.
 • We are updating constantly our technology, adapting to the needs of our customers."
 location: Unassigned
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/F391AC4E-0067-4FE5-A421-F4B74155A697.jpeg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/F391AC4E-0067-4FE5-A421-F4B74155A697.jpeg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/F391AC4E-0067-4FE5-A421-F4B74155A697.jpeg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/F391AC4E-0067-4FE5-A421-F4B74155A697.jpeg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-150x150.jpeg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-225x300.jpeg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-768x1024.jpeg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D.jpeg
 maker:
   - name: "Big Station LLC"
-    photo_link: http://104.41.139.123/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
 last-modified-db: "2019-09-02 20:39:24"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---

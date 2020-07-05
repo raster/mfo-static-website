@@ -16,11 +16,11 @@ We will showcase  intelligent Robots built by our students, advanced service rob
 Visitors will be able to see and interact with real robots.
 They will see the anatomy of a working robot, will be able to play robot soccer and robot balloon jousting with the Mbot Robot."
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
 maker:
   - name: "KIDS ROBOTS ACADEMY and THE ROBOTS SHOP"
     description: "The robotic age has arrived 
@@ -32,7 +32,7 @@ Software application = Coding and programing
 KidsRobotAcademy founder Dr. Jean Duteau, a robotic engineer, entrepreneur, and geek dad with 30 years of real world robotics experience. In the late 1980’s he founded Rochester Robotics, which designed and integrated service robots for home, industry, nuclear inspection, & elderly assistance. Present day, he is teaching elementary and middle school children to solve real-world problems with robots in a collaborative 
 team-building environment, and thus generating intense interest and excitement for Science, Technology and Engineering.
 Note : The Robots Shop Opening soon In Orlando and Miami"
-photo_link: http://104.41.139.123/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

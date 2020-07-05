@@ -8,10 +8,15 @@ excerpt: "What's in today's podcast? It might be you... or your idea for a great
 description: "Would you like to be on a podcast? Are you thinking about creating one of your own? What's In a Podcast invites participants to visit our booth to be a part of the podcast by answering a quick question or two on the microphone and be featured in our \"Man on the Street\" segment. We'll chat with you about your own ideas and discuss what it takes to create your own podcast. 
 What's In a Podcast is produced locally and has released nearly 150 episodes over the past 3 years. We hope to meet you at the Faire!"
 location: Unassigned
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1-300x300.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1-1024x1024.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1.png
 maker:
   - name: "What&#8217;s In a Podcast"
     description: "What's In a Podcast is a show about people. We approach this subject by exploring various topics like Free Will, Giraffes, The NBA, Spiderman, a Sea World show about bubbles, etc. You might even hear yourself, or one of your friends featured in our \"Man on the Street\" segments."
-photo_link: http://104.41.139.123/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1024x1024.png
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1024x1024.png
 last-modified-db: "2019-10-16 20:08:57"
-last-exported: "2020-04-07 17:18:24"
+last-exported: "2020-05-07 09:35:10"
 ---

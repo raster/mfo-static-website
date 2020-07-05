@@ -7,15 +7,15 @@ url: http://knickknackatory.com/?p=24
 excerpt: "A hands-on demonstration of binary logic circuits using only switches and relays."
 description: "A hands-on demonstration of binary logic circuits using only switches and relays. Circuits available for attendees to play with include a four-bit adder, river-crossing puzzles, and Ring the Bell, an IoT arcade machine based on the Chinese Ring Puzzle."
 location: Spirit Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side.png
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side.png
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side.png
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side.png
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-150x150.png
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-300x225.png
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-1024x768.png
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1.png
 maker:
   - name: "Stephen Emery"
     description: "An electronics engineer with an interest in old-school switching logic."
-photo_link: http://104.41.139.123/wp-content/uploads/2018/11/profile_pic_small.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
 last-modified-db: "2019-10-27 16:54:07"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

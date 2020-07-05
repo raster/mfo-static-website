@@ -9,10 +9,15 @@ description: "Led by our 5th grade Design Thinking students and our WE Schools c
 
 You will be challenged to make a bridge/boat that can hold as much weight as possible, using humble materials. Put it to the test and see how you stack up to the rest of the competitors on our digital leaderboard! If this challenge is not enough? WE Schools also challenges you to make a difference! See what they are doing to bring the pros of the maker movement into schools around the community and help contribute to their mission of designing, making, and donating fully equipped \"maker carts\" to schools of need!"
 location: Unassigned
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Maker-Challenge-Bridge-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Maker-Challenge-Bridge-300x205.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Maker-Challenge-Bridge-1024x699.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Maker-Challenge-Bridge.jpg
 maker:
   - name: "Park Maitland School"
     description: "Students from grades 3 through 6 of Park Maitland School take part in programmed Design Thinking classes twice a week. In their newly renovated Maker Space, students hone their 21st Century Skills of collaboration, problem solving, creativity, and critical thinking through project based learning. Students are encouraged to tinker and are taught the design process through different modes and hands-on learning experiences. Science, technology, engineering, the arts, and math all play a role in their learning! Students further share their learning to authentic audiences through showcases, hands-on exhibits, and by creating learning experiences for others."
-photo_link: http://104.41.139.123/wp-content/uploads/2018/09/PMS-Logo.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/PMS-Logo.jpg
 last-modified-db: "2019-09-08 11:15:26"
-last-exported: "2020-04-07 17:18:24"
+last-exported: "2020-05-07 09:35:10"
 ---

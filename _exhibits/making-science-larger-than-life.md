@@ -8,15 +8,15 @@ excerpt: "Outrageous and over-the-top tools for reaching our middle school stude
 description: "For years, we have been creating methods that engage our 8th grade students in the state science standards.  It takes a lot to inspire middle schoolers to want to learn.  We host an all night event - 8pm to 8am, called the GMS Lockin.  At the lockin, we have 150+ 8th graders working on varying science topics all night long.  No one sleeps.  All science, all night.  To prepare for this event, we use the idea that we have to do things bigger and better than is done in a normal classroom.  In addition to the guest speakers, unlimited motivating food, and impressive demos around every corner, we have built several life-size games and such to capture their full attention.  We wish to share with you some of the ideas that we have come up with and a few of the builds that we created.  We have a giant, dragon themed smoke ringer and life-sized Guess Who (currently teaching classification, but can be modified to fit any topic),  Giant Kerplunk, an electronic Plinko board, and Candyland (drilling them on the concept of weathering and erosion).
 Galaxy Middle also has started a STEM Academy.  Through this academy, our students are being exposed to STEM activities which a regular education system is unable to provide.  Two days a week, we have our 300+ students engaged in 46 different \"labs\" where they get a glimpse of what possible career paths are open for them to take.  There are several engineering labs - designing sensory toys or gadgets for the disabled, modeling prosthetics for animals, experimenting with recipes for bioplastics, designing and testing launch thrust structures.  Our STEM students are encouraged to think outside of the box and \"make\" using a variety of materials."
 location: Opportunity Building
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-300x187.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-1024x639.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1.jpg
 maker:
   - name: "Galaxy Middle School Science &amp; STEM"
     description: "A group of middle school teachers with a maker spirit.  Working with 11-14 year-olds requires an outside of the box approach.  We are constantly planning and building things to use with our lessons and activities.  We Make things for our 8th grade lock-in, Science Olympiad, the STEM Academy, and science classes."
-photo_link: http://104.41.139.123/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
 last-modified-db: "2019-10-26 13:13:31"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

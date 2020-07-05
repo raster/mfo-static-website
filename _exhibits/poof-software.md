@@ -9,15 +9,15 @@ description: "Learn now to use magic to create awesome software!
 
 *TESTING*   *AGAIN*"
 location: Unassigned
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny.jpg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny.jpg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny.jpg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny.jpg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-300x288.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2.jpg
 maker:
   - name: "TEST Driscoll MFO1"
     description: "adafadsfdasfadf"
-photo_link: http://104.41.139.123/wp-content/uploads/2019/07/Poof-1024x710.jpg
+image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
 last-modified-db: "2019-10-31 20:34:36"
-last-exported: "2020-04-07 17:18:23"
+last-exported: "2020-05-07 09:35:09"
 ---

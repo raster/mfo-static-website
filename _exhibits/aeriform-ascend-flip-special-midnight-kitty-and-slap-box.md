@@ -21,15 +21,15 @@ There are no combat robotics  competitions in our home state. We typically trave
 
 The Team Captain of Team Already Broke (Dominic) was on Discovery's 2019 Season of BattleBots. He was the driver for the red Gemini robot named \"Fred\"."
 location: Combat Robots - Large Arena (Spirit), Combat Robots - Small Arena (Spirit)
-images:
-  - thumbnail: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709.jpeg
-    medium: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709.jpeg
-    large: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709.jpeg
-    full: http://www.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709.jpeg
+image-primary:
+  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-150x150.jpg
+    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-300x188.jpg
+    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-1024x643.jpg
+    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202.jpg
 maker:
   - name: "Team Already Broke"
     description: "A family team that competes at different types of competitions."
-photo_link: 
+image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-04-07 17:18:22"
+last-exported: "2020-05-07 09:35:08"
 ---
