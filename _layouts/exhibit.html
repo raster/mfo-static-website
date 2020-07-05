@@ -14,13 +14,41 @@
     <!- last-exported:   {{page.last-exported}}->
 
     <h1>{{page.name}}</h1>
-    {{content}}
+    <div>
+      <img class="img-responsive entry-image" src="{{page.image-primary.large}}" alt="{{page.name}}">
+      <p class="lead">{{page.description}}</p>
+    </div>
+
+
+
+    <h2>Maker</h2><hr>
+      <div class="row center-block maker-profile-row">
+        <img class="col-md-3 pull-left img-responsive" src="{{page.maker.image-primary}}" alt="{{page.maker.name}}">
+        <div class="col-md-7">
+          <h3>{{page.maker.name}}</h3>
+              {{page.maker.description}}
+        </div>
+      </div>
 
     </div>
+
+    <div style="margin-top:20px;margin-bottom:20px;height:15px;background-color:#00597E"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <a href="/makers"><img class="aligncenter size-full" src="/assets/images/site-branding/explore-the-exhibits.png"></a>
+        </div>
+        <div class="col-sm-6">
+          <a href="/makers"><img class="aligncenter size-full" src="/assets/images/site-branding/meet-the-makers.png"></a>
+        </div>
+      </div>
+    </div>
+
   </div>
 </div>
 <div style = "padding-bottom:20px;"></div>
 
+{% include cta-panel-widget.html cta_text=site.cta_footer_text cta_url=site.cta_footer_url %}
 {% include footer.html %}
 {% include scripts.html %}
 
