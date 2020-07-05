@@ -17,13 +17,13 @@ Visitors will be able to see and interact with real robots.
 They will see the anatomy of a working robot, will be able to play robot soccer and robot balloon jousting with the Mbot Robot."
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
 maker:
-  - name: "KIDS ROBOTS ACADEMY and THE ROBOTS SHOP"
-    description: "The robotic age has arrived 
+  name: "KIDS ROBOTS ACADEMY and THE ROBOTS SHOP"
+  description: "The robotic age has arrived 
 Kids Robot Academy offers a proprietary curriculum that is extremely diverse with many opportunities to learn Science, Technology, Engineering and Math (STEM) through robotics, electronics, circuit design, controls, coding, sensors, navigation software, speech, artificial intelligence and hardware engineering.
 Our Curriculum is based on the three major disciplines of the robotics field:
 Mechanics = Robot Construction
@@ -32,7 +32,7 @@ Software application = Coding and programing
 KidsRobotAcademy founder Dr. Jean Duteau, a robotic engineer, entrepreneur, and geek dad with 30 years of real world robotics experience. In the late 1980’s he founded Rochester Robotics, which designed and integrated service robots for home, industry, nuclear inspection, & elderly assistance. Present day, he is teaching elementary and middle school children to solve real-world problems with robots in a collaborative 
 team-building environment, and thus generating intense interest and excitement for Science, Technology and Engineering.
 Note : The Robots Shop Opening soon In Orlando and Miami"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

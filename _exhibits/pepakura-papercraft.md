@@ -16,14 +16,14 @@ Pepakura Designer allows you to scale and print larger 3d models for things such
 I'd show off some of the cosplay armor/projects I've made in the last year or two as well."
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
 maker:
-  - name: "Pepakura Papercraft"
-    description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
+  name: "Pepakura Papercraft"
+  description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:41"
 ---

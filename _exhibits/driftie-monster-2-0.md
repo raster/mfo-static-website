@@ -8,14 +8,14 @@ excerpt: "Rocket car was good, drifitie was fun, combine the two into one powerh
 description: "Taking the guts of My First Rocket Car, which got wrecked in a crash at Maker Faire Miami, is getting rebuild stronger, and hopefully faster.  And beacuse the people want it, we're covering it in blue fur and putting googly eyes on it.  Because Cookies."
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-184x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-629x1024.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-184x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-629x1024.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1.jpg
 maker:
-  - name: "Team Done. Racing"
-    description: "Power wheels aren't for kids anymore."
-    image-primary: 
+  name: "Team Done. Racing"
+  description: "Power wheels aren't for kids anymore."
+  image-primary: 
 last-modified-db: "2019-10-07 14:31:31"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:40"
 ---

@@ -8,14 +8,14 @@ excerpt: "Are you an accidental historian?  Every day we document the world arou
 description: "You might be a historian without even realizing it! That’s certainly true of many bloggers, urban sketchers, photographers, and more. Learn about the History Center's newest limited run exhibit, The Accidental Historian, which explores how individuals who are absorbed in documenting the world of today accidentally become some of Central Florida’s finest historians for the future. Our booth will also feature a fun make and take activity inspired by our Accidental Historian exhibit!"
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-300x290.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-1024x991.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-300x290.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-1024x991.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle.jpg
 maker:
-  - name: "Orange County Regional History Center"
-    description: "One of Florida’s preeminent cultural institutions, the Orange County Regional History Center advances its mission to honor the past, explore the present, and shape the future through permanent and traveling exhibits, wide-ranging programs, and limited-run exhibitions from other prestigious institutions. With deep roots in Orange County, the History Center opened in 2000 and is operated by Orange County and the nonprofit Historical Society of Central Florida, Inc."
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OCRHC-Stacked-LogoDowntown-Orlando_CMYK.png
+  name: "Orange County Regional History Center"
+  description: "One of Florida’s preeminent cultural institutions, the Orange County Regional History Center advances its mission to honor the past, explore the present, and shape the future through permanent and traveling exhibits, wide-ranging programs, and limited-run exhibitions from other prestigious institutions. With deep roots in Orange County, the History Center opened in 2000 and is operated by Orange County and the nonprofit Historical Society of Central Florida, Inc."
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OCRHC-Stacked-LogoDowntown-Orlando_CMYK.png
 last-modified-db: "2019-10-29 12:05:57"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

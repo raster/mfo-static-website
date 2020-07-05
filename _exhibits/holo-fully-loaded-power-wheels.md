@@ -8,14 +8,14 @@ excerpt: "I love the YouTube channel SimplyNailogical and decided to make my pow
 description: "I love the YouTube channel SimplyNailogical and decided to make my power wheels holographic in honor of her. We built the car in 2017 and put together a website to show the process and updates. Be sure to check it out! You can click through a few of our photos here, or check out our website for even more pics and some updates as we improve the car."
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-225x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-768x1024.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-225x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-768x1024.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823.jpg
 maker:
-  - name: "Katie"
-    description: "I'm a maker in the Maitland area who loves all things holographic. My hobbies are power racing, 3d printing, and binging Netflix while doing prototyping work for my business P3D Creations. "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20150913_200114960-1-539x1024.jpg
+  name: "Katie"
+  description: "I'm a maker in the Maitland area who loves all things holographic. My hobbies are power racing, 3d printing, and binging Netflix while doing prototyping work for my business P3D Creations. "
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20150913_200114960-1-539x1024.jpg
 last-modified-db: "2019-08-17 18:45:24"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

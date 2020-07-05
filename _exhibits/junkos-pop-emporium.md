@@ -8,14 +8,14 @@ excerpt: "Origami, Accessories, and Handmade Collectables"
 description: "Junko combines her amazing craft and origami skills with her love of pop culture to create one of a kind accessories and origami collectibles! Specializing in dragons and \"chibi\" figures inspired by everything from Star Wars to Pokemon, Junko's Pop Emporium has something to thrill and delight audiences of all ages. For those looking to let their geek flag fly on a daily basis, she also utilizes fun ribbons, fabrics, and charms to create custom clip-in hair bows and accessories. Stop by her exhibit space for all your handmade collectible needs, or simply to admire her wares and talk shop!"
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-300x225.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
 maker:
-  - name: "Junko Takagi Gillespie"
-    description: "A native of Shizuoka Ken, Japan, Junko spent the last 20+ years teaching Japanese language and culture to elementary school students in Haines City, Florida. She has always created amazing origami creations as a hobby, but recently has discovered an untapped talent for combining her love for pop culture with her technical skills. Junko really enjoys using pop culture as inspiration for her accessories and 3D origami sculptures, and she hopes that the public will find them just as fun!"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/junko-profile.jpg
+  name: "Junko Takagi Gillespie"
+  description: "A native of Shizuoka Ken, Japan, Junko spent the last 20+ years teaching Japanese language and culture to elementary school students in Haines City, Florida. She has always created amazing origami creations as a hobby, but recently has discovered an untapped talent for combining her love for pop culture with her technical skills. Junko really enjoys using pop culture as inspiration for her accessories and 3D origami sculptures, and she hopes that the public will find them just as fun!"
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/junko-profile.jpg
 last-modified-db: "2019-11-05 15:24:41"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

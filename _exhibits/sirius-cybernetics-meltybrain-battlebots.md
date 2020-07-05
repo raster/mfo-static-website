@@ -10,14 +10,14 @@ description: "Last year we competed for the first time ever, with a brand new be
 We've also taken the electronics of Halo and miniaturized them, resulting in a one-wheeled one-pound Meltybrain spinner, Hit-and-Spin! We hope the titanium terror makes for a good show, if nothing else!"
 location: Robot Ruckus - Small Arena
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-300x225.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-1024x768.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-1024x768.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final.jpg
 maker:
-  - name: "Sirius Cybernetics"
-    description: "A combat robotics team specializing in meltybrain spinners."
-    image-primary: 
+  name: "Sirius Cybernetics"
+  description: "A combat robotics team specializing in meltybrain spinners."
+  image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

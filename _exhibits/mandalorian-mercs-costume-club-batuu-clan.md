@@ -8,13 +8,13 @@ excerpt: "Explore the world of Star Wars costuming and learn how to make your ow
 description: "Come and meet with members of the Mandalorian Mercs Costume Club. Learn what goes into making the armor and be entered to win your own set!"
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-300x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-300x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
 maker:
-  - name: "Mandalorian Mercs Costume Club (Batuu Clan)"
-    description: "The Mandalorian Mercs Costume Club is an international STAR WARS™ costuming organization dedicated to celebrating the STAR WARS™ universe through the creation, display, and wearing of quality character costumes that represent the Mandalorian characters and culture from the STAR WARS™ sagas.
+  name: "Mandalorian Mercs Costume Club (Batuu Clan)"
+  description: "The Mandalorian Mercs Costume Club is an international STAR WARS™ costuming organization dedicated to celebrating the STAR WARS™ universe through the creation, display, and wearing of quality character costumes that represent the Mandalorian characters and culture from the STAR WARS™ sagas.
 
 The MMCC unites individuals with a common love for STAR WARS™ and the Mandalorian culture/characters while encouraging self-improvement, personal growth, family involvement, and fellowship with peers.
 
@@ -27,7 +27,7 @@ Recognized by Lucasfilm LTD. as “The Elite Mandalorian Costuming Organization�
 The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mandalorian Costuming Organization” by promoting the love of STAR WARS™, creation of quality costumes, and spirit of volunteerism.
 
 "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

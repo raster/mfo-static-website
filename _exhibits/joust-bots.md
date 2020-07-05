@@ -13,14 +13,14 @@ Additional static displays include  Tetrix, EV3, Arduino, LEDs, Special Effects 
 description: "DaVinci Robotics Academy's STEM Club Students will be showcasing a wide variety of student projects. Tetrix, EV3, Arduino, LEDs, Special Effects and more."
 location: Curiosity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
 maker:
-  - name: "DaVinci Learning Academy"
-    description: "DaVinci Learning Academy's mission is to encourage, enhance,  support and enrich each individual families academic, elective enrichment and social learning goals. Our students are engaged in a wide variety of STEM and artistic endeavors."
-    image-primary: 
+  name: "DaVinci Learning Academy"
+  description: "DaVinci Learning Academy's mission is to encourage, enhance,  support and enrich each individual families academic, elective enrichment and social learning goals. Our students are engaged in a wide variety of STEM and artistic endeavors."
+  image-primary: 
 last-modified-db: "2019-10-26 14:45:01"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

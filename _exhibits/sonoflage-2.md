@@ -8,16 +8,16 @@ excerpt: "Parsound provides Peace, Privacy, and Productivity through Sound and N
 description: "Visitors will experience Sonoflage, as they hear our system running with adaptive Sound Camoflage, and without it, just playing music.  w"
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-300x222.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-300x222.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA.jpg
 maker:
-  - name: "Parsound"
-    description: "Parsound provides Peace, Privacy, and Productivity to the world through sound. 
+  name: "Parsound"
+  description: "Parsound provides Peace, Privacy, and Productivity to the world through sound. 
 
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

@@ -8,14 +8,14 @@ excerpt: "Ecto 1A (formerly Hot Tub Time Machine) is coming back to podium!"
 description: "Ecto 1A (formerly Hot Tub Time Machine) is a completely new build for 2019!"
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145-150x150.jpeg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145-300x197.jpeg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145.jpeg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145.jpeg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145-150x150.jpeg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145-300x197.jpeg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145.jpeg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/45043932-D5D3-4B08-ACF6-3B8D7DA38145.jpeg
 maker:
-  - name: "Team Witch Doctor"
-    description: "Team Witch Doctor is based in Miami, Florida, and most recently competed in BattleBots on ABC with their multi-bot Witch Doctor and Shaman. The team has been competing combat robots ranging from 150 grams to 250 pounds for the last 10+ years."
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Witch-Doctor-Team-S2019-1024x683.jpg
+  name: "Team Witch Doctor"
+  description: "Team Witch Doctor is based in Miami, Florida, and most recently competed in BattleBots on ABC with their multi-bot Witch Doctor and Shaman. The team has been competing combat robots ranging from 150 grams to 250 pounds for the last 10+ years."
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Witch-Doctor-Team-S2019-1024x683.jpg
 last-modified-db: "2019-11-05 21:01:00"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

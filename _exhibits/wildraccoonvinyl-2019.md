@@ -15,14 +15,14 @@ Our daughter's Girl Scout Troop #999 will also be stopping by with some awesome 
 (Psst! If you are the cute little girl that gave us that Harry Potter crest challenge, we have not forgotten about you, but the craziness of last year, your address got lost. Hope to see you this year!)"
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download-150x150.png
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download-300x300.png
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download.png
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download.png
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download-150x150.png
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download-300x300.png
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download.png
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/download.png
 maker:
-  - name: "Wild Raccoon Vinyl"
-    description: "We are just starting to create anything and everything we can get our hands on. We will have mostly vinyl decals and stickers. "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/avatar.jpg
+  name: "Wild Raccoon Vinyl"
+  description: "We are just starting to create anything and everything we can get our hands on. We will have mostly vinyl decals and stickers. "
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/avatar.jpg
 last-modified-db: "2019-10-28 21:50:01"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

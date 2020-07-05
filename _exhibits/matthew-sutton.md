@@ -8,14 +8,14 @@ excerpt: "I am an illustrator and comic book artists! I regularly create license
 description: "I am always drawing! Well, almost always drawing. From comics pages to trading cards and commissioned pieces I rarely don't have a drawing tool in my hand. I like it that way. If you'd like to see how to start a sketch from scratch, or how to ink like a pro then all you need to do is come by my table! I've also got an assortment of prints and original artwork featuring some of the most iconic characters in comics and pop culture. I'm looking forward to meeting you!"
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-150x150.png
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-251x300.png
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-858x1024.png
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier.png
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-150x150.png
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-251x300.png
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-858x1024.png
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier.png
 maker:
-  - name: "Matthew Sutton"
-    description: "I am an illustrator and comic book artists! I regularly create licensed artwork for properties such as; Star Wars, Spider-Man Homecoming, Stranger Things, Ant-Man 2, and many more. I'm currently working for Marvel Comics, Topps, Upper Deck, Cryptozoic Ent. and several other companies. I also create commissions for clients and fans from all over the world. "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Matt-Sutton-300x225.jpeg
+  name: "Matthew Sutton"
+  description: "I am an illustrator and comic book artists! I regularly create licensed artwork for properties such as; Star Wars, Spider-Man Homecoming, Stranger Things, Ant-Man 2, and many more. I'm currently working for Marvel Comics, Topps, Upper Deck, Cryptozoic Ent. and several other companies. I also create commissions for clients and fans from all over the world. "
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Matt-Sutton-300x225.jpeg
 last-modified-db: "2019-11-04 17:25:09"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

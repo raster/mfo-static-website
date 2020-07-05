@@ -17,16 +17,16 @@ Joseph Presley has been working with fractal art for over 20yrs and will be exhi
 Joseph is also involved with coordinating the International Fractal Art Symposiums.  The next iteration will be held in Florida and he is excited share information about this upcoming event.  The last conference was held in Spain where there were fractal artists from over 16 countries participated.  The meeting that will be held in Sarasota during 2021 will include an academic track for fractal artists world wide as well as a public track and a public education track connecting the city and local schools with the event, building awareness and understanding of this beautifully complex art from."
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-300x169.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-1024x575.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-300x169.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-1024x575.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A.jpg
 maker:
-  - name: "Fractal Abyss"
-    description: "Joseph Presley is a fractal artist based in Bradenton who combines mathematics with modern technology to render multi-layered fractals into
+  name: "Fractal Abyss"
+  description: "Joseph Presley is a fractal artist based in Bradenton who combines mathematics with modern technology to render multi-layered fractals into
 beautiful and deeply emotional artistic expressions.  He has practiced fractal art since the late 90’s and is a true pioneer of this stimulating new art form which is recognized by its multifaceted patterns and infinite detail. Internationally published since 2005, coordinator of the International Fractal Art Symposiums and winner of multiple international contests, Joseph has contributed to the evolution of fractal art as an artist, lecturer and instructor. His diversity in fractal art continues to legitimize its relevance as an art form. 
 "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

@@ -8,14 +8,14 @@ excerpt: "Combat robots"
 description: "Combat robots"
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-150x150.png
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-300x139.png
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-1024x473.png
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030.png
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-150x150.png
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-300x139.png
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-1024x473.png
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030.png
 maker:
-  - name: "Team V"
-    description:
-    image-primary: 
+  name: "Team V"
+  description:
+  image-primary: 
 last-modified-db: "2019-10-07 21:32:23"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

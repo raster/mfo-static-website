@@ -10,14 +10,14 @@ description: "Classified as a touring acoustic duo crashing kitchens around the 
  Help fund our first album: https://www.paypal.me/kitchenkillaz"
 location: Main Stage
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen-300x200.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen-300x200.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen.jpg
 maker:
-  - name: "The Maker Effect Foundation"
-    description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
+  name: "The Maker Effect Foundation"
+  description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
 last-modified-db: "2019-11-06 17:49:12"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

@@ -11,14 +11,14 @@ description: "Combat robot for insect weight class. Competing with 2 150g robots
 3. Unknown Avenger (3lb) : Wedge/Grabber robot. Module design with different fronts dependent on opponent."
 location: Robot Ruckus - Small Arena
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
 maker:
-  - name: "Team Ice"
-    description: "Robot Combat "
-    image-primary: 
+  name: "Team Ice"
+  description: "Robot Combat "
+  image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

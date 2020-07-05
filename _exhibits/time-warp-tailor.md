@@ -8,14 +8,14 @@ excerpt: "Steampunk and other adventurous wearables, constructed from a variety 
 description: "As a tailor and milliner, making hats and clothing for adventurous gentlemen and ladies I collect ....souvenirs....as I travel with my friend Mr. Verne, which I incorporate into my work. My last ensemble included an 18th century skirt, a Victorian corset, a leather coat from 1970, and something called a \"power suit\" from 1990, though I cannot imagine what power it may have wielded since it revealed nothing of the feminine wiles which I find so reliable. Look for 1940's aprons styled into modern skirts using 18th century design and construction methods; hats made from gelatin molds, and vintage jewelry-trimmed fabric totes. I am the costume designer for Opera Orlando's Steampunk \"Tales of Hoffman\" as well as dozens of productions from musical theatre to serious historic events.   I accept short term apprentices as introductory hat-makers."
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-300x225.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-1024x768.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-1024x768.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats.jpg
 maker:
-  - name: "Kim Welborn"
-    description: "I grew up travelling the world and now bring the world into my creations. I have costumed dozens of professional productions, from Opera Orlando's steampunk \"Tales of Hoffman\" to historic reenactments and Carnegie Hall concerts. As the TimeWarpTailor I travel with my friend, Mr. Verne, collecting....\"souvenir?\"...clothing pieces which I incorporate into my wardrobe; one recent ensemble combined an eighteenth century skirt, a 1970's leather trenchcoat, a Victorian corset and a 1990's 'power suit'."
-    image-primary: 
+  name: "Kim Welborn"
+  description: "I grew up travelling the world and now bring the world into my creations. I have costumed dozens of professional productions, from Opera Orlando's steampunk \"Tales of Hoffman\" to historic reenactments and Carnegie Hall concerts. As the TimeWarpTailor I travel with my friend, Mr. Verne, collecting....\"souvenir?\"...clothing pieces which I incorporate into my wardrobe; one recent ensemble combined an eighteenth century skirt, a 1970's leather trenchcoat, a Victorian corset and a 1990's 'power suit'."
+  image-primary: 
 last-modified-db: "2019-10-27 16:27:44"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

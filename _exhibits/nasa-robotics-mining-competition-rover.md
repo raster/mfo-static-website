@@ -10,14 +10,14 @@ description: "We will be demoing the robot that we have been working on for the 
 During the event we will be able to talk about the interesting design work that our club has put into the robot, demonstrating prototype components that we 3D printed out of advanced filaments, and talking about what iterations we plan to implement leading up to when we compete in May."
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-300x219.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-300x219.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render.jpg
 maker:
-  - name: "Lunar Knights"
-    description:
-    image-primary: 
+  name: "Lunar Knights"
+  description:
+  image-primary: 
 last-modified-db: "2019-10-26 17:45:27"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

@@ -16,14 +16,14 @@ The Miles spacecraft is a 6U satellite, about the size of a breadbox, that will 
 The team’s efforts have also been supported by strategic partnerships with Fluid and Reason (http://fluidandreason.com/), Yosemite Space (http://yosemitespace.com/), The DRI (http://thedri.com/), Piedmont Precision Aeroculture (http://ppaeroculture.com/), Brainloop (http://www.brainloop.com/), Basecamp (https://basecamp.com/), Thermal Management Technologies (http://tmtsdl.com/), and Sabalcore (http://www.sabalcore.com/)"
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-150x150.png
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-300x200.png
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange.png
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-150x150.png
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-300x200.png
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange.png
 maker:
-  - name: "Tampa Hackerspace"
-    description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
+  name: "Tampa Hackerspace"
+  description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
 last-modified-db: "2019-10-26 13:18:10"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

@@ -8,14 +8,14 @@ excerpt: "Multi-colored laser projector attached to an analog synthesizer to cre
 description: "This is an interactive display where attendees may use a custom analog synthesizer consisting of voltage controlled quadrature oscillators, low frequency oscillators, voltage controlled amplifiers and voltage processors to create unique abstract patterns in laser light."
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-300x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-1024x1024.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-300x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-1024x1024.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1.jpg
 maker:
-  - name: "David Zurcher"
-    description: "Laser and electronics are my passion. Since working in a planetarium in the mid 1990's I've enjoyed creating art with laser light!"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_3133.jpg
+  name: "David Zurcher"
+  description: "Laser and electronics are my passion. Since working in a planetarium in the mid 1990's I've enjoyed creating art with laser light!"
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_3133.jpg
 last-modified-db: "2019-10-19 12:57:11"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:40"
 ---

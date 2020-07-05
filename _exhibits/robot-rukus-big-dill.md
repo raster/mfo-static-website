@@ -12,14 +12,14 @@ description: "The first prototype was made out of CNC cut particleboard to check
 Lifter is powered by a NPC TP64 with an additional 2 stage chain reduction to allows us to easily lift another 250lb robot."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-300x169.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-1024x576.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-300x169.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-1024x576.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1.jpg
 maker:
-  - name: "Team Food Fight"
-    description: "Combat Robotics Team."
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
+  name: "Team Food Fight"
+  description: "Combat Robotics Team."
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
 last-modified-db: "2019-11-06 16:58:36"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:41"
 ---

@@ -10,14 +10,14 @@ description: "Build from a discarded kids ride on toy the Landspeeder is a 48 vo
 Watch for The Landspeeder on the race track this November!"
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1-300x225.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1-1024x768.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1-1024x768.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5773-1.jpg
 maker:
-  - name: "Uttini Racing"
-    description: "Uttini Racing will be racing their salvaged X-34 Landspeeder in the Power Racing Series event at MFO 2019"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/joe-in-landspeeder-1024x768.jpg
+  name: "Uttini Racing"
+  description: "Uttini Racing will be racing their salvaged X-34 Landspeeder in the Power Racing Series event at MFO 2019"
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/joe-in-landspeeder-1024x768.jpg
 last-modified-db: "2019-10-28 05:54:42"
-last-exported: "2020-05-07 10:07:18"
+last-exported: "2020-05-07 10:33:42"
 ---

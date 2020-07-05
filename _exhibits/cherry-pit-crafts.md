@@ -9,14 +9,14 @@ description: "All geeks need to be pampered after a hard day of video gaming and
 One of our best sellers though are our cherry pit packs. Microwaveable cherry pit packs are filled with dried cherry stones that are reclaimed from a cannery located in Michigan. Cherry pits make a superior filler for natural heat pads because they are not subject to rancidity and pantry pests that can infest other fillers such as rice, corn, flax and barley. When heated in the microwave for two minutes they produce a moist relaxing heat that's perfect for relieving aches and pains.  These packs are reusable and last for many years.  They also conform to the natural contours of the users body in a way that ordinary heating pads just can't beat."
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2-300x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2-300x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
 maker:
-  - name: "Cherry Pit Crafts"
-    description: "Creators of handcrafted all natural bath and body products"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/cherrieslogo.png
+  name: "Cherry Pit Crafts"
+  description: "Creators of handcrafted all natural bath and body products"
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/cherrieslogo.png
 last-modified-db: "2019-10-27 17:00:43"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:40"
 ---

@@ -8,14 +8,14 @@ excerpt: "Projects by Jeremy S. Cook, including several Jansen-style walkers, an
 description: "Jeremy enjoys making all manner of devices, most notably several Jansen walkers, and a new omni-wheel robot that will be spinning on or near his exhibit."
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc-300x169.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc-1024x576.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc-300x169.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc-1024x576.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/logo-template-cc.jpg
 maker:
-  - name: "ClearCrawler by Jeremy S. Cook"
-    description: "Jeremy is an engineer with over 10 years experience in manufacturing automation, and has a BSME from Clemson University. Now he writes about technology and makes interesting contraptions, building anything that comes into his mind!"
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/05/profile-pic-jcook-1024x1024.jpg
+  name: "ClearCrawler by Jeremy S. Cook"
+  description: "Jeremy is an engineer with over 10 years experience in manufacturing automation, and has a BSME from Clemson University. Now he writes about technology and makes interesting contraptions, building anything that comes into his mind!"
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/05/profile-pic-jcook-1024x1024.jpg
 last-modified-db: "2019-10-26 12:45:51"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

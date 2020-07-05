@@ -8,14 +8,14 @@ excerpt: "3D Printing related items including objects that we printed as well as
 description: "We will have a variety of items that we have 3D Printed. We will also have a couple of printers on display. The FK-1 will be the center piece of our display this year and it is the first time it will be seen in public. This project was over 8 months in the making and it is a sight to see. With a build capacity of 1200x400x475mm it has the potential to build some amazing things."
 location: Opportunity Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-300x169.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-1024x576.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-300x169.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-1024x576.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1.jpg
 maker:
-  - name: "Fun King 3D"
-    description: "We are a father and son team that does 3D Printing and Electronic Projects on YouTube. We love to learn, and teach what we learn."
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180312_200118-1024x576.jpg
+  name: "Fun King 3D"
+  description: "We are a father and son team that does 3D Printing and Electronic Projects on YouTube. We love to learn, and teach what we learn."
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180312_200118-1024x576.jpg
 last-modified-db: "2019-10-26 13:28:00"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

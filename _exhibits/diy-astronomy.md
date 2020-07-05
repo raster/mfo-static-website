@@ -8,14 +8,14 @@ excerpt: "The Emil Buehler Planetarium and the Central Florida Astronomical Soci
 description: "The Emil Buehler Planetarium and the Central Florida Astronomical Society will be showcasing some out-of-this-world DIY astronomy projects that you can make yourself! We will also be featuring several astronomy and space related arts and crafts that families and teachers can do to help teach concepts related to the field of astronomy. "
 location: Unassigned
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-225x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-768x1024.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-225x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-768x1024.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915.jpg
 maker:
-  - name: "Emil Buehler Planetarium at Seminole State College"
-    description: "We are featuring astronomical DIY projects including telescopes, space arts and crafts, astronomical accessories, and more. "
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DSC_0116-811x1024.jpg
+  name: "Emil Buehler Planetarium at Seminole State College"
+  description: "We are featuring astronomical DIY projects including telescopes, space arts and crafts, astronomical accessories, and more. "
+  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DSC_0116-811x1024.jpg
 last-modified-db: "2019-11-04 15:05:06"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:40"
 ---

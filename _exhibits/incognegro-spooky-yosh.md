@@ -8,14 +8,14 @@ excerpt: "An artist with prints and crafts for sale. Try'na pay the rent"
 description: "Incognegro, an experienced Illustrator gathering up my supply of custom made products to sell to the general public. It's Capitalism yo'"
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-225x300.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-225x300.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492.jpg
 maker:
-  - name: "Incognegro Arts"
-    description: "Eduardo (Eddie for short) is a true Connoisseur of the arts. Drawing since he was a child, his eye for details has been matched only by his desire to create. As the mediums through which art has evolved so too have his skill sets. From Illustration to 3D rendering and animation, and even visual effects; his experience branches out over many realms of visual and digital arts.  He is also way too humble to feel comfortable talking about himself in the third person. "
-    image-primary: 
+  name: "Incognegro Arts"
+  description: "Eduardo (Eddie for short) is a true Connoisseur of the arts. Drawing since he was a child, his eye for details has been matched only by his desire to create. As the mediums through which art has evolved so too have his skill sets. From Illustration to 3D rendering and animation, and even visual effects; his experience branches out over many realms of visual and digital arts.  He is also way too humble to feel comfortable talking about himself in the third person. "
+  image-primary: 
 last-modified-db: "2019-11-06 10:51:10"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:41"
 ---

@@ -9,14 +9,14 @@ excerpt: "ENLIGHTENED MONKEY ARTS uses cutting edge technology to create a site 
 description: "Enlightened monkey arts will be projecting on a combination of 3D structures creating a unique visual experience specific to Maker Fair Orlando."
 location: Spirit Building
 image-primary:
-  - thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-150x150.jpg
-    medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-300x200.jpg
-    large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-1024x683.jpg
-    full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage.jpg
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-300x200.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-1024x683.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage.jpg
 maker:
-  - name: "Dave Gordon &#8211; Suncoast Makers"
-    description:
-    image-primary: 
+  name: "Dave Gordon &#8211; Suncoast Makers"
+  description:
+  image-primary: 
 last-modified-db: "2019-10-27 16:34:34"
-last-exported: "2020-05-07 10:07:17"
+last-exported: "2020-05-07 10:33:40"
 ---
