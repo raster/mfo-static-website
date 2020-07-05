@@ -17,6 +17,30 @@
     <div>
       <img class="img-responsive entry-image" src="{{page.image-primary.large}}" alt="{{page.name}}">
       <p class="lead">{{page.description}}</p>
+      <div class="row exhibit-social-row">
+        {% if page.website %}
+	       <div class="col-md-2 pull-left"><a href="{{page.website}}" class="btn btn-info" target="_blank">Project Website</a></div>
+        {% endif %}
+           <div class="col-md-5">
+             <ul class="list-inline">
+               {% if page.email %}
+				           <li><a href="mailto:{{page.email}}" target="_blank" <i="" class="fa fa-2x fa-envelope" aria-hidden="true"></a></li>
+               {% endif %}
+               {% if page.twitter %}
+                <li><a href="{{page.twitter}}" target="_blank" <i="" class="fa fa-2x fa-twitter" aria-hidden="true"></a></li>
+               {% endif %}
+               {% if page.instagram %}
+               <li><a href="{{page.instagram}}" target="_blank" <i="" class="fa fa-2x fa-instagram" aria-hidden="true"></a></li>
+               {% endif %}
+               {% if page.facebook %}
+                <li><a href="{{page.facebook}}" target="_blank" <i="" class="fa fa-2x fa-facebook" aria-hidden="true"></a></li>
+               {% endif %}
+               {% if page.youtube %}
+                <li><a href="{{page.youtube}}" target="_blank" <i="" class="fa fa-2x fa-youtube" aria-hidden="true"></a></li>
+               {% endif %}
+            </ul>
+          </div>
+        </div>
     </div>
 
 
