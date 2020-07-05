@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Jack Sopotnick"
     description: "Here for the robot fights"
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7573B1B7-FF7C-4466-8E2B-B1C6F1E19345-1024x791.jpeg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7573B1B7-FF7C-4466-8E2B-B1C6F1E19345-1024x791.jpeg
 last-modified-db: "2019-11-06 17:20:15"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

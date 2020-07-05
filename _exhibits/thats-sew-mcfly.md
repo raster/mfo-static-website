@@ -19,7 +19,7 @@ I taught myself how to sew about five years ago, and as I've made various items 
 Do you need comfort in your life?  Do you know somebody who does?  I am hoping, in some small way, to provide that comfort for you and your loved ones, while using fun, fandom fabrics!  
 With every purchase from my shop, you are helping a small business grow, and I cannot thank you enough.  Also with every purchase, you will be helping a great cause, because one tenth of my profits go towards select charities throughout the year.  Thanks for making a positive difference not only in my life, but also in the world!
 I work happily from home, surrounded by my loving husband and numerous cats and dogs."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/mewithsign-1.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/mewithsign-1.jpg
 last-modified-db: "2019-10-28 13:31:43"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

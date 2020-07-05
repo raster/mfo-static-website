@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "The Crafty Gamer"
     description: "We create tabletop inspired merchandise. Soy Candles, Wax Melts, Reed Diffusers, Room Sprays & Apparel with more items to come."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Logo-Social-1024x1024.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Logo-Social-1024x1024.png
 last-modified-db: "2019-10-20 12:21:22"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

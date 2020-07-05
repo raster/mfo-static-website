@@ -26,7 +26,7 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282.jpg
 maker:
   - name: "Phase Dock Inc."
-    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
+        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

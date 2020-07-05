@@ -17,7 +17,7 @@ maker:
     description: "Cardinal Drones is a small drone operation out of west palm beach fl.  it started as a hobbiest meetup lab and grew into a repair and modification office where we hack drones to do things they werent designed to do.  We me just about anything.  Drones that cut mangos off trees, lift cat carries ( with no cat inside for now), and fully automatic delivery drones for water ballooning and delivering beers to your friends (within the limits of the law)    flying hoverboards (back to the future style not the lame seqway looking exploding ones)  
 
 Much ouf our experiments run on open source arduino and raspberry pi software.  We have been at the palm beach maker fair before and this is our first time at the orlando maker fair.  "
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-10-30 17:45:00"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

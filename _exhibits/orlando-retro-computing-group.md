@@ -16,7 +16,7 @@ maker:
   - name: "2 Pi Labs"
     description: "Daytime:  Embedded electronics engineer, Product prototyper.
 Mytime: Maker, geek, robotics mentor."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-10-28 08:55:23"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

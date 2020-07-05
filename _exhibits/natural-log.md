@@ -17,7 +17,7 @@ maker:
     description: "I've been working on Power Racing Series vehicles for a few years now. This is the first one I led the mechanical side of. I've made custom motor controllers for some of them, and am currently working on the next generation of those.
 
 By day, I'm a software engineer working on autonomous trucks."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

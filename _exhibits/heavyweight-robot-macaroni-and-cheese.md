@@ -21,7 +21,7 @@ I have competed in beetleweight combat robotics in the Dallas area (under Texas 
 Additionally, I competed with his senior design team at International Robogames 2017 with 220lb fighting robot \"Cavalier\" as driver.
 I was the designer of a 250lb heavyweight \"Bellator\" for the 2019 Battlebots televised competition, in which my robot was selected to compete, however network conflicts regarding sponsorship forced us to withdraw.
 When I am not building combat robots, I also enjoy other high-powered radio controlled vehicles, including a 10ft 50lb cargo aircraft which debuted (and crashed spectacularly) at FliteFest South in 2018"
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 17:44:12"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Kim Welborn"
     description: "I grew up travelling the world and now bring the world into my creations. I have costumed dozens of professional productions, from Opera Orlando's steampunk \"Tales of Hoffman\" to historic reenactments and Carnegie Hall concerts. As the TimeWarpTailor I travel with my friend, Mr. Verne, collecting....\"souvenir?\"...clothing pieces which I incorporate into my wardrobe; one recent ensemble combined an eighteenth century skirt, a 1970's leather trenchcoat, a Victorian corset and a 1990's 'power suit'."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-10-27 16:27:44"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:29"
 ---

@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Aberrant Robotics"
     description: "A combat robotics team from Clemson, SC, building robots from 1 lb to 250 lb."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/P1-Bot-S2019-1024x683.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/P1-Bot-S2019-1024x683.jpg
 last-modified-db: "2019-11-06 16:51:56"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

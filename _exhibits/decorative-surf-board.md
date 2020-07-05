@@ -23,7 +23,7 @@ maker:
   - name: "Ankita Nagaraju"
     description: "I'm a self taught artist, who like to experiment different art styles and mediums. I'm very much obsessed with fluid styles of art. I like everything about nature, beaches and all that glitters. My inspiration for art comes from nature photography, our travels and google earth.
 I have been making art for last 8 year and got a chance to experiment many art mediums. I would like get my hands on encaustic art sometime soon in the future. "
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-10-27 17:17:22"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

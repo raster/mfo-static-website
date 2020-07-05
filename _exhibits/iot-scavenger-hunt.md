@@ -20,7 +20,7 @@ image-primary:
 maker:
   - name: "Valencia College Computer Programming"
     description: "Professor, Gadgeteer, friend to cats and bats."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-1024x612.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-1024x612.jpg
 last-modified-db: "2019-11-07 12:11:35"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

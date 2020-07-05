@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Team Loki"
     description: "Team Loki has been building combat robots since 2001."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 17:21:28"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

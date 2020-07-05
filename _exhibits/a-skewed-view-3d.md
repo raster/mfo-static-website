@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "A SKEWED VIEW 3D"
     description: "We are a family run 3d business (father & sons) started last year. We are working on the side from the house atm. We are doing 3 new designs a week for 2018 & are already over 90 designs done. you can find us on youtube & twitter. we put up the stl files for our designs on thingiverse & myminifactory all under A Skewed View 3d. We love to bring ideas to life, if you have any you want brought to reality hit us up. We absolutely love the 3d printing community, next to my family & church this is best community ever been part of. Thank you for reading our profile & have a wonderful day. God bless"
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/BOYS-I.jpeg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/BOYS-I.jpeg
 last-modified-db: "2019-10-26 13:29:02"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

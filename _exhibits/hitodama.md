@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Hitodama"
     description: "Hitodama dabbles in various arts and crafts."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-07-22 21:24:15"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

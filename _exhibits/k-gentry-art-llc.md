@@ -19,7 +19,7 @@ maker:
 I am a character illustrator/designer for the animation and game industry.  My passion and my job is to give visual meaning and definition to a written description of any number of characters and creatures.  Those designs are used by industry professionals as reference to animate the characters.
 I have also illustrated for the children’s book, medical, editorial, music, and print industries. Although my first love is pencil, I completes my character designs and illustrations on a Mac utilizing Industry standard professional software and a Wacom Cintiq 24HD.
 "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
 last-modified-db: "2019-10-27 17:44:11"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

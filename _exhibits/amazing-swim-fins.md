@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "TECreation Development"
     description: "Born into a family that loved water, David became part fish.  After years of sailing, swimming, SCUBA diving, sailboarding, hang gliding, and an engineering degree he decided swim fins need a serious update and TECreation was born.  The foray into swim fin design started in 2006 and has caused him to join the Inventors Council of Central Florida, eventually bringing it into the 21st century.  He has learned about urethane casting and prototyping techniques.  Now he is engaging with the US military to design fins for them."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/David-Woods-Headshot.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/David-Woods-Headshot.jpg
 last-modified-db: "2019-10-26 12:35:36"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Riffs of Wrath Robotics"
     description: "Builder of fighting robots large and small"
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
 last-modified-db: "2019-11-06 17:31:24"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

@@ -26,7 +26,7 @@ image-primary:
 maker:
   - name: "PreciousPlastic.com"
     description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

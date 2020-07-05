@@ -17,7 +17,7 @@ image-primary:
 maker:
   - name: "Sirius Cybernetics"
     description: "A combat robotics team specializing in meltybrain spinners."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

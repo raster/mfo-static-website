@@ -25,7 +25,7 @@ image-primary:
 maker:
   - name: "It&#8217;s All Geek to Me"
     description: "We are two self proclaimed geeks who love fan art. Often the art we would see at cons would be out of our price range. We decided we would try to make art that was still high quality but more affordable. We DO NOT sell prints. We make and sell LAYERED PAPER ART. All of our paper art is custom designed and assembled. We use high quality outdoor vinyl for all of our vinyl projects and decals."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2018-10-14-10.50.31-1-1024x768.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2018-10-14-10.50.31-1-1024x768.jpg
 last-modified-db: "2019-09-02 21:27:19"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

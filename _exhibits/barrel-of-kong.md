@@ -21,7 +21,7 @@ maker:
 I came up with a concept of creating arcade machines from re-purposed wine and whiskey barrels.  The idea came to me because of the game Donkey Kong.  Donkey Kong would throw barrels at Mario to stop him from saving the princess.
 This started out about a year ago when I made one for myself and then for my neighbors, friends and family.  Suddenly, Barrel of Kong was created and I have been building this in my free time and on weekends in my garage and selling them to individuals all over the state of Florida.
 They have been a huge hit and I am getting referrals from past customers."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/BOK.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/BOK.jpg
 last-modified-db: "2019-10-26 13:25:11"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

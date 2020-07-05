@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Cybernath Labs"
     description: "We make interactive games and experiences."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/sean-avatar.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/sean-avatar.png
 last-modified-db: "2019-10-26 13:05:32"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

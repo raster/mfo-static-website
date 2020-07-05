@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Marlin P Jones &amp; Assoicates Inc"
     description: "We are an electronic company that works with hobbyist  and Makers with parts and supplies. We have kits for the kids to create there own items. We supply soldering irons and accessories for the kid to learn how to solder and work with electronics. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/63019_391470484283765_520449786_n.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/63019_391470484283765_520449786_n.jpg
 last-modified-db: "2019-10-26 13:36:56"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

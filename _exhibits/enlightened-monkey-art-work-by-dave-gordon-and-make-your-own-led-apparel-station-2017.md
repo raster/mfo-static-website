@@ -15,7 +15,7 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker-.jpg
 maker:
   - name: "Dave Gordon &#8211; Suncoast Makers"
-    image-primary: 
+        image-primary: 
 last-modified-db: "2019-11-04 13:55:36"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

@@ -26,7 +26,7 @@ maker:
     description: "Joseph Presley is a fractal artist based in Bradenton who combines mathematics with modern technology to render multi-layered fractals into
 beautiful and deeply emotional artistic expressions.  He has practiced fractal art since the late 90’s and is a true pioneer of this stimulating new art form which is recognized by its multifaceted patterns and infinite detail. Internationally published since 2005, coordinator of the International Fractal Art Symposiums and winner of multiple international contests, Joseph has contributed to the evolution of fractal art as an artist, lecturer and instructor. His diversity in fractal art continues to legitimize its relevance as an art form. 
 "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

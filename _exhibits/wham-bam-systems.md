@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Wham Bam Systems"
     description: "We make 3d printing easy, fun, and productive with our 3d printer accessories."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/whambamhorizshadowsmall.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/whambamhorizshadowsmall.jpg
 last-modified-db: "2019-10-21 14:49:41"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:29"
 ---

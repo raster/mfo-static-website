@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Underdog Robotics"
     description: "A group of combat robot builders from New England."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 18:13:55"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:29"
 ---

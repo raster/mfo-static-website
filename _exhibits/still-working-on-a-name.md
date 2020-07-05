@@ -14,7 +14,7 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o.jpg
 maker:
   - name: "Joel &amp; Melissa Fritzinger"
-    image-primary: 
+        image-primary: 
 last-modified-db: "2019-11-06 10:50:22"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

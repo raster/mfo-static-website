@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "ELK Robotics"
     description: "Combat robotics team from Miami Florida. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/C8A7BC13-D0CA-4A0B-8BC0-6788267B0B3D.jpeg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/C8A7BC13-D0CA-4A0B-8BC0-6788267B0B3D.jpeg
 last-modified-db: "2019-11-06 17:39:00"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

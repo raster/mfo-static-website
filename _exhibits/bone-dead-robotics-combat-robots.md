@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Bone Dead Robotics"
     description: "We are a combat robotics team who builds and competes fighting robots. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

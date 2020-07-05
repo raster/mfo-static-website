@@ -17,7 +17,7 @@ maker:
     description: "Parsound provides Peace, Privacy, and Productivity to the world through sound. 
 
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

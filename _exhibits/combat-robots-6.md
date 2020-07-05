@@ -14,7 +14,7 @@ image-primary:
 maker:
   - name: "Team XD &#8211; Combat Robots"
     description: "Competing with a 3HP 30lb Hammer/Lifter in the 30lb sportsman class, and hoping to bring our 250lb Battlebot flipper SubZero"
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 17:16:43"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

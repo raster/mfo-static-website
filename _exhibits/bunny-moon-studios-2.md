@@ -18,7 +18,7 @@ maker:
 I love watercolors because of how unpredictable they are - I can have one thing in mind, but the paints might have something totally different!  And that's part of the magic for me - art has such a voice of its own, and I love seeing what my paintings have to show me both along the way, and once they are done.
 
 "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
 last-modified-db: "2019-10-27 16:36:35"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

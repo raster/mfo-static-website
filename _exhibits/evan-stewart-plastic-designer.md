@@ -14,7 +14,7 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925.jpg
 maker:
   - name: "Evan Stewart / plastic designer"
-    image-primary: 
+        image-primary: 
 last-modified-db: "2019-10-11 21:05:46"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

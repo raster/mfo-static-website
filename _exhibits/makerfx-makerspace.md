@@ -16,7 +16,7 @@ maker:
   - name: "MakerFX Makerspace"
     description: "MakerFX Makerspace is a unique makerspace located in south Orlando and easily accessible by those in the area. This new makerspace is organize by a group of like minded individuals that saw a need for a new space on the south side or Orlando to fill in the geographic gaps. One of our goals is to work hand in hand with other local spaces in the Greater Orlando area. As a program of The Maker Effect Foundation, MakerFX strives to create unique classes, useful workspaces, and share ideas with the maker community. 
 "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-27 17:35:46"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

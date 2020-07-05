@@ -17,7 +17,7 @@ maker:
     description: "Picking up her first peg board in 2011, Silly Rabbit Crafts now travels to 11 different states a year, with over 240+ shows under her belt! Silly Rabbit Crafts has melted over 27 million beads turning them into anything from Earrings to art, and even into fish tanks!
 
 "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/C44-Pac-Man-Set-12-1024x683.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/C44-Pac-Man-Set-12-1024x683.jpg
 last-modified-db: "2019-10-26 14:28:34"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

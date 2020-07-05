@@ -19,7 +19,7 @@ maker:
 Established in 2014, TechWears has been recognized as the \"Best Sustainable Business\" by the Colorado Springs Business Journal, and Drew was recognized as a Creative Industries Leader by the Mayor of Colorado Springs. 
 
 Drew hopes that besides being \"geek chic\" and really cool looking, that his creations will advance important conversations around eco literacy and STEAM Education. Ultimately, Drew hopes to work himself out of a job by eliminating e-waste all together.  "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Drew-Johnson-Headshot-3-1024x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Drew-Johnson-Headshot-3-1024x1024.jpg
 last-modified-db: "2019-10-26 13:57:30"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

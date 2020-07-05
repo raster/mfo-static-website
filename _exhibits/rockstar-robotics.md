@@ -16,7 +16,7 @@ maker:
   - name: "Rockstar Robotics"
     description: "We are a FIRST team located here in Pinehills area.
 We would like to present our robots from our team."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-02 11:47:01"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

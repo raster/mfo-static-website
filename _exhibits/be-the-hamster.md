@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Bug-Eyed Entertainment   A.K.A &#8230;&#8221;Be the Hamster&#8221;"
     description: "I dream up and create creative hands-on-things for kids; to get them interested in Engineering."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Hamster-Logo-2-1024x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Hamster-Logo-2-1024x1024.jpg
 last-modified-db: "2019-08-17 18:42:23"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

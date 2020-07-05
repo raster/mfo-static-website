@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Gray Hollow"
     description: "I'm a Free-lance Illustrator and Comic-Artist. I love to draw Fan-art of comics, videogames,  cartoons, and animated movies.  "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
 last-modified-db: "2019-11-04 17:50:55"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

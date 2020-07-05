@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Moonlighter Makerspace"
     description: "Moonlighter is a membership-based digital fabrication lab, S.T.E.A.M. learning center, and creative co-working space. We feature and support local creators and aspire to engage our communities with fun educational experiences that foster the growing maker movement. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Moonlighter_Logo-967x1024.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Moonlighter_Logo-967x1024.png
 last-modified-db: "2019-10-20 12:20:03"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

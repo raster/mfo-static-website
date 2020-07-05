@@ -19,7 +19,7 @@ image-primary:
 maker:
   - name: "Bryce Hostetler"
     description: "I am a computer science / mathematics student at the University of Florida. I am also interested in music – I have played piano for over 11 years as well as trumpet and bass for four years. In my spare time I have been working on an app called Tonality, which is designed to be the ultimate tool for musicians of all levels. I went to Maker Faire once with my high school robotics team (Roaring Riptide)."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1024x1024.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1024x1024.png
 last-modified-db: "2019-10-28 10:19:26"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:29"
 ---

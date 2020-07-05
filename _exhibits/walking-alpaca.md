@@ -19,7 +19,7 @@ maker:
   - name: "Orion West"
     description: "Orion is 10 years old, but has been building from a very early age. By the time he was five years old, he could take apart and reassemble a carburetor. This past spring, he and another boy, Inesh Mohan, spent over 100 hours designing and building a walking alpaca for an Odyssey of the Mind competition. Due to the type of technical difficulties that occur when you venture WAAAYYY outside of the box, they did not end up completing the event before time was called, but their design and build was 100% child-driven and created. \"Outside Assistance\" from adults was strictly prohibited due to the contest rules. 
 After all of the time, effort, blood, sweat and tears that the boys put in without being able to fully demonstrate their creation, their one request was that they be allowed to exhibit at Maker Faire, which they faithfully attend every year."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
 last-modified-db: "2019-11-08 14:35:58"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:29"
 ---

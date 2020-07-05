@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Purple Fire"
     description: "We are the robotics club at Florida Polytechnic University."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544.png
 last-modified-db: "2019-10-13 10:45:21"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

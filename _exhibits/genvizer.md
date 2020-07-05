@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "GenVizer"
     description: "specializes in 3D animation technology for video games and virtual reality products."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/20170601_083609-1024x768.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/20170601_083609-1024x768.jpg
 last-modified-db: "2019-11-05 15:26:03"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

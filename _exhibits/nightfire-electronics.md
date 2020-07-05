@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Agustin Acosta Jr."
     description: "We make electronic hobby kits including Arduino fun kits."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-10-26 13:37:42"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

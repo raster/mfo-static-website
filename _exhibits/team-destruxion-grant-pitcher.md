@@ -19,7 +19,7 @@ image-primary:
 maker:
   - name: "Team DestruXion/Grant Pitcher"
     description: "Grant dove right into combat robotics Fall 2017 as an apprentice to Kurt Durjan with KurTrox.  He helped build Axe Backwards and competed on Season 3 and 4 of Battlebots. Grant enjoys the friends and competitors he's met at local combat robot battles.  He created a robotics club at his school to help other kids expand their STEM interests. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/attachment_99917800.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/attachment_99917800.jpg
 last-modified-db: "2019-11-06 17:18:03"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

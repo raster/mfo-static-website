@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "HyperShock &#8211; Battlebots"
     description: "We competed on Discovery's BattleBots with our award-winning robot, HyperShock!"
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/HyperShock-Team-S2019-1-1024x683.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/HyperShock-Team-S2019-1-1024x683.jpg
 last-modified-db: "2019-11-06 16:16:33"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:27"
 ---

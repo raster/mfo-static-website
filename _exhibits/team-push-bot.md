@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Ian"
     description: "Young builder of combat robots and drones. "
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 18:00:50"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

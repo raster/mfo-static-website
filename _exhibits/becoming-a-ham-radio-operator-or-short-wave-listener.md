@@ -24,7 +24,7 @@ maker:
   - name: "Ken Vanslette W1HV"
     description: "Ken Vanslette has been a Maker before there was a Maker !  Growing up in Port Clinton, Ohio, a small community on Lake Erie, he was tearing stuff apart by age 4. Things like lawn mower engines and go carts, vacuum tube TVs, large Tesla Coils!  All of this lead to attending Ohio University, in Athens, Ohio, eventually getting a BS Degree in Industrial Engineering.  
 Soon after graduation, he decided to move to Florida to be a part of the Space Program. He helped in some small part with designing Printed Circuit Boards, Solar panels, pumps and valves used in the three main engines of Space Shuttle.  later employed by General Dynamics, he worked on production of US Army Camouflage nets, followed by US military Chemical and Biological Warfare  equipment. His passion through out his career has been Ham Radio and digital electronic design - it is what he still does today.  "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/KenW1HV_Portrait_2019ok-1024x866.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/KenW1HV_Portrait_2019ok-1024x866.jpg
 last-modified-db: "2019-10-16 20:12:56"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

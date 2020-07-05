@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Robert  Davidson &amp; Ryan Harrigan"
     description: "Two digital guys banding together for an electric vehicle"
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1024x768.jpeg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1024x768.jpeg
 last-modified-db: "2019-10-27 09:54:43"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

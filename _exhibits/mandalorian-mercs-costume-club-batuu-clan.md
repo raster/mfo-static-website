@@ -27,7 +27,7 @@ Recognized by Lucasfilm LTD. as “The Elite Mandalorian Costuming Organization�
 The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mandalorian Costuming Organization” by promoting the love of STAR WARS™, creation of quality costumes, and spirit of volunteerism.
 
 "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

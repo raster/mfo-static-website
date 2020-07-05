@@ -32,7 +32,7 @@ Software application = Coding and programing
 KidsRobotAcademy founder Dr. Jean Duteau, a robotic engineer, entrepreneur, and geek dad with 30 years of real world robotics experience. In the late 1980’s he founded Rochester Robotics, which designed and integrated service robots for home, industry, nuclear inspection, & elderly assistance. Present day, he is teaching elementary and middle school children to solve real-world problems with robots in a collaborative 
 team-building environment, and thus generating intense interest and excitement for Science, Technology and Engineering.
 Note : The Robots Shop Opening soon In Orlando and Miami"
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

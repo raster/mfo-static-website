@@ -18,7 +18,7 @@ maker:
     description: "JediJill is Team MISSION SICK's helper, and the S.T.E.A.M. Director for Burns Science and Technology Charter School. She is a Super Silly Scholar and a robot fabricator on Team Kraken-BattleBots.
 Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's graphic designer and is also a robot fabricator, as well as a future dentist!
 "
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

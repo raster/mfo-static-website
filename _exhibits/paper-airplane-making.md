@@ -16,7 +16,7 @@ maker:
     description: "Author of several books and curator of an online website featuring over 800 free paper airplane designs going all the way back to the 1880's,  Dean has been showing kids of all ages how to make and fly fun paper airplanes for nearly 20 years.
 
 I would like to set up a table to make paper airplanes with the kids, and if you have time, I can do demonstrations of the history of paper airplanes for groups."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Screenshot_20181118-135459-1024x640.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Screenshot_20181118-135459-1024x640.png
 last-modified-db: "2019-10-26 13:07:22"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

@@ -17,7 +17,7 @@ maker:
     description: "Neal Ekengren is a Maker from Longwood, FL.   He has degrees in Engineering and Biochemistry and is an IT guru.   
 
 Mineral Element Browser (MEOWSER) has two parts.  A custom wooden cabinet containing APEX mineral samples with LED lighting has a giant touch screen overlay for navigation.  Next to the wooden cabinet is a large touch screen monitor that displays the Periodic Table.  You can point at elements on the Periodic Table to illuminate rocks containing that element.  Also, you can point at rocks to illuminate elements found in that rock.  An Arduino serves as the computer - cabinet interface.   Arduino software, Computer software, and electronic circuits were built to drive this stuff.  An interactive chemistry quiz challenges participants."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Meowser.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Meowser.png
 last-modified-db: "2019-10-27 16:43:01"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

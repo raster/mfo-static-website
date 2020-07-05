@@ -16,7 +16,7 @@ maker:
   - name: "Valencia 3D Printing Lab"
     description: "Since 2013, Valencia College has offered to students a Technical Certificate in Rapid Prototyping, 
 the 2nd such program established in Florida. Projects completed by our students include custom 3D printed electric violins (one of which was played by Valencia Professor Neal Phillips at an Orlando City soccer game), braille relief maps of our campus for sight-impaired students, and a variety of teaching/learning artifacts for Faculty use in multiple disciplines at the College."
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/vc-logo-web-box-rev-1024x156.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/vc-logo-web-box-rev-1024x156.jpg
 last-modified-db: "2019-11-06 16:53:00"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:29"
 ---

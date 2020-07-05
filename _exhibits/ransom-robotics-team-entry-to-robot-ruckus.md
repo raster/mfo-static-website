@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Ransom Everglades Upper School"
     description: "Ransom has been making and competing combat robots for at least a dozen years.  We have in-house CAD, Milling, 3dprint, Metal Hardening and more.  We have also explored Arduino, operate a FarmBot, and of course have VEX EDR teams at the upper school and VEXIQ at our middle school.  "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RE-logo.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RE-logo.png
 last-modified-db: "2019-11-06 16:24:19"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

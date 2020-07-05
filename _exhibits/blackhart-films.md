@@ -21,7 +21,7 @@ As a digital artist I've been working with Blender for over 7 years, and I speci
 Locally I've worked as a photographer, filmmaker, and technical supervisor for many of the local festivals, political campaigns, and productions. I'm also one of the founding board members of the Orlando Filmmaker's Coalition (OFC), a registered non-profit dedicated to educating and providing a space for the local arts community to network and create movies. 
 
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
 last-modified-db: "2019-10-29 14:47:22"
-last-exported: "2020-05-07 09:35:08"
+last-exported: "2020-05-07 09:56:27"
 ---

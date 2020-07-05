@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "Alek Fecteau"
     description: "I am a 15-year-old high school student who recently got into robot combat."
-image-primary: 
+    image-primary: 
 last-modified-db: "2019-11-06 17:57:48"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---

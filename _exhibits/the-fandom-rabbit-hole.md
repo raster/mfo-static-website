@@ -17,7 +17,7 @@ image-primary:
 maker:
   - name: "The fandom rabbit hole"
     description: "Fandom inspired jewelry and art. Handmade jewelry and glass paintings inspired by the love of our favorite stories. Using art to express creativity every day. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/interweb.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/interweb.png
 last-modified-db: "2019-09-09 22:00:30"
-last-exported: "2020-05-07 09:35:10"
+last-exported: "2020-05-07 09:56:28"
 ---

@@ -15,7 +15,7 @@ image-primary:
 maker:
   - name: "107 AVIATION"
     description: "A new life with drones. A local commercial drone pilot and owner of 107 Aviation, a drone services company. Background in embedded electronics design from Florida Tech and local community maker at MakerFX. "
-image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/107aviation_square-1-1024x1024.png
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/107aviation_square-1-1024x1024.png
 last-modified-db: "2019-09-30 16:17:07"
-last-exported: "2020-05-07 09:35:09"
+last-exported: "2020-05-07 09:56:28"
 ---
