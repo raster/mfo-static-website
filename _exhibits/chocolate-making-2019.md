@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Castle-9709-600-by-556-300x278.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Castle-9709-600-by-556.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Castle-9709-600-by-556.jpg
+website: http://www.sapphochocolates.com
+email: Kathryn@sapphochocolates.com
+twitter: https://twitter.com/sapphochoc
+instagram: 
+facebook: https://www.facebook.com/sapphochocolates
+youtube: 
 maker:
   name: "Sappho Chocolates"
   description: "Bringing quality chocolate and technology together is Sappho Chocolates’ passion. They use a 3D printer and vacuforming to create their own chocolate molds. Kathryn Neel, Professional Chocolatier, has been making chocolates for over 20 years as gifts for friends and family. Her two business partners, Charlotte Lambert and Darlene Duncan, tasted Kathryn’s chocolates and asked her why she wasn’t selling them. This was the beginning of Sappho Chocolates. 
@@ -20,5 +26,5 @@ Kathryn also teaches coding and robotics at R School in Volusia County.
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Alafaya-Library-150-BY-150.jpg
 last-modified-db: "2019-11-02 09:27:45"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/43354552_3843860455624087_6063347104338673664_o-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/43354552_3843860455624087_6063347104338673664_o-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/43354552_3843860455624087_6063347104338673664_o.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Cybernath Labs"
   description: "We make interactive games and experiences."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/sean-avatar.png
 last-modified-db: "2019-10-26 13:05:32"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

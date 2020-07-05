@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Hitodama"
   description: "Hitodama dabbles in various arts and crafts."
   image-primary: 
 last-modified-db: "2019-07-22 21:24:15"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

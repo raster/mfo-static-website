@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/NBECAMARO-300x200.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/NBECAMARO.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/NBECAMARO.jpg
+website: http://www.spacecoastcamaros.com/scc/viewtopic.php?f=20&t=41
+email: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/NBECAMARO/
+youtube: 
 maker:
   name: "DION RENTOS"
   description:
   image-primary: 
 last-modified-db: "2019-09-02 19:59:04"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

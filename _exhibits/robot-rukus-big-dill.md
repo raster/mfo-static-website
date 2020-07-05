@@ -16,10 +16,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1.jpg
+website: 
+email: 
+twitter: 
+instagram: https://www.instagram.com/teamfoodfight/
+facebook: 
+youtube: 
 maker:
   name: "Team Food Fight"
   description: "Combat Robotics Team."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
 last-modified-db: "2019-11-06 16:58:36"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

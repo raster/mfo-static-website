@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/0D526187-3E37-47B1-A547-44C067D3B24D-225x300.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/0D526187-3E37-47B1-A547-44C067D3B24D-768x1024.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/0D526187-3E37-47B1-A547-44C067D3B24D.jpeg
+website: https://www.onpointmassagefl.com
+email: lindsay@onpointmassagefl.com
+twitter: 
+instagram: https://www.instagram.com/on_point_massage/
+facebook: https://www.facebook.com/OnPointMassagefl/
+youtube: 
 maker:
   name: "On Point Massage"
   description: "Established in 2015 On Point Massage began as a mobile massage company. In 2019 we opened our first brick and mortar location in Winter Park, Florida. We believe that massage should be available to everyone and can be added to any event. We strive to keep our prices low while maintaining a high level of care. We look forward to helping you. "
   image-primary: 
 last-modified-db: "2019-08-17 18:59:21"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

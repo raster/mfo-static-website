@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/65140959_388545205105208_5591535038383521792_o-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/65140959_388545205105208_5591535038383521792_o-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/65140959_388545205105208_5591535038383521792_o.jpg
+website: http://www.3dprintorlando.com
+email: andy@3dprintorlando.com
+twitter: 
+instagram: https://www.instagram.com/3dprint_orlando/
+facebook: http://www.facebook.com/3DPrintOrlando
+youtube: 
 maker:
   name: "3D Print Orlando"
   description: "3d printing hobby shop based out of Orlando, Florida.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/59129548_360136704612725_6077091167189598208_n.jpg
 last-modified-db: "2019-09-09 20:48:20"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

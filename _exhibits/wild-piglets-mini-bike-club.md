@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/WP_Full_CMYK-01-300x125.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/WP_Full_CMYK-01-1024x425.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/WP_Full_CMYK-01.jpg
+website: 
+email: dougleppard@hotmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Doug Leppard"
   description: "Group of us returning to our youth to ride mini bikes for fun.  Some are engineers, some business people, some from military and all for fun."
   image-primary: 
 last-modified-db: "2019-09-02 20:19:21"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

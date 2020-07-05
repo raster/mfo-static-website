@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/sg1-300x223.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/sg1-1024x760.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/sg1.png
+website: https://galacticproblems-portfolio.tumblr.com/
+email: daniellakrasulski@gmail.com
+twitter: https://twitter.com/GalacticProblem
+instagram: https://www.instagram.com/galactic_problems_
+facebook: 
+youtube: 
 maker:
   name: "Galactic Problems"
   description: "I'm a digital illustrator who loves cartoons, space, and colorful character design!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/spacegirliconforuse.png
 last-modified-db: "2019-11-04 17:29:21"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

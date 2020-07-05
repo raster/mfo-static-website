@@ -20,10 +20,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-300x200.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange.png
+website: https://miles-space.com
+email: wes@miles-space.com
+twitter: https://twitter.com/MilesSpace
+instagram: https://www.instagram.com/milesspace/
+facebook: https://www.facebook.com/MilesSpace/
+youtube: 
 maker:
   name: "Tampa Hackerspace"
   description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
 last-modified-db: "2019-10-26 13:18:10"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

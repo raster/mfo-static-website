@@ -15,10 +15,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Team Ice"
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FIRST-S.FL_.-Regional-2016-6034-300x168.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FIRST-S.FL_.-Regional-2016-6034-1024x573.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FIRST-S.FL_.-Regional-2016-6034.jpg
+website: http://www.teamvoltage.org/
+email: teamvoltage386@gmail.com
+twitter: 
+instagram: https://instagram.com/frcteamvoltage?igshid=xjuvslg3urrq
+facebook: 
+youtube: 
 maker:
   name: "Team Voltage"
   description: "FIRST Robotics Competition team based at Melbourne High School. Demos, showcases, community outreach. "
   image-primary: 
 last-modified-db: "2019-10-26 14:39:16"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

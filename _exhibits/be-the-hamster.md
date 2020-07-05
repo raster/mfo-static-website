@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160424_143432108-169x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160424_143432108-576x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160424_143432108.jpg
+website: http://www.bethehamster.com
+email: bethehamster@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Bug-Eyed Entertainment   A.K.A &#8230;&#8221;Be the Hamster&#8221;"
   description: "I dream up and create creative hands-on-things for kids; to get them interested in Engineering."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Hamster-Logo-2-1024x1024.jpg
 last-modified-db: "2019-08-17 18:42:23"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

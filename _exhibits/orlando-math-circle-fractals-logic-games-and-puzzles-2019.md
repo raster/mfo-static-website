@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/manda-1-268x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/manda-1-916x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/manda-1.jpg
+website: http://www.orlandomathcircle.org
+email: orlandomathcircle@gmail.com
+twitter: https://twitter.com/orlandomathcir?lang=en
+instagram: https://www.instagram.com/orlandomathcircle/?hl=en
+facebook: https://www.facebook.com/OrlandoMathCircle/
+youtube: https://www.youtube.com/channel/UCzAQ60wzwialLar7YtBYwJQ
 maker:
   name: "Orlando Math Circle"
   description: "Orlando Math Circle is a 501(c)3 volunteer non-profit whose mission is to build a diverse and inclusive community of student mathematicians. OMC high school and college students provide engaging and fun opportunities for younger students to do mathematics outside of school.  
@@ -22,5 +28,5 @@ OMC is a grass roots organization working to show that everyone is a math person
 https://youtu.be/fNHfZhvpa2E"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/CBBB47BB-69C0-4360-A270-881E2DC8FD60.png
 last-modified-db: "2019-11-08 09:02:45"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

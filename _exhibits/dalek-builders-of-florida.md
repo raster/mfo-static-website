@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-cover-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-cover.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-cover.jpg
+website: 
+email: daleksofflorida@gmail.com
+twitter: 
+instagram: https://www.instagram.com/daleks.of.florida
+facebook: https://www.facebook.com/FLDaleks/
+youtube: 
 maker:
   name: "Dalek Builders of Florida"
   description: "We are Florida geeks that love Doctor Who and the villainous Daleks, that is why we built them. We love building them and sharing them with other enthusiasts. We will talk up storm about our builds and sharing tips and procedures for the builds. We are always looking to add to our Florida Brigade Skaro Army."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dalek_builders_v3-01-1024x1024.jpg
 last-modified-db: "2019-10-27 16:31:37"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

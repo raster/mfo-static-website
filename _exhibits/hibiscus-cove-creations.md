@@ -18,6 +18,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-300x149.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-1024x508.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4.jpg
+website: http://hibiscuscovecreations.com
+email: Hibiscuscovecreations@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Tita Louria"
   description: "I am a retired 911 police dispatcher living the life of art I have always wanted. I combine my love of color and texture to create things that make not just me happy, but the folks looking at them also.
@@ -29,5 +35,5 @@ I have a small assortment of clay-work including dragons, birds, flowers, and bo
 My jewelry collection of earrings and bracelets is small but each handmade using glass, stone, metal, and hand worked leather"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07281820102-1024x687.jpg
 last-modified-db: "2019-10-29 17:41:40"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

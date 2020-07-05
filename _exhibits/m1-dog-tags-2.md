@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/edited_1468106728427-300x209.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/edited_1468106728427-1024x713.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/edited_1468106728427.jpg
+website: 
+email: davidwelborn@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/m1dogtag/?ref=bookmarks
+youtube: 
 maker:
   name: "David Welborn"
   description: "I am a flight instructor most of the time and drive boats at Disney part time. On weekends we like to bring the military trailer out to fun events and make vintage dog tags with any message the customer wants.  Is great to get out there and meet people and honor our military."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20161015_101148-1024x576.jpg
 last-modified-db: "2019-10-11 21:01:56"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

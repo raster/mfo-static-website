@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Alice_Rabbit_Falling-226x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Alice_Rabbit_Falling-771x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Alice_Rabbit_Falling.jpg
+website: https://www.jenniferlueders.com
+email: jennifer.lueders1@gmail.com
+twitter: https://mobile.twitter.com/JenniferLueder6
+instagram: https://www.instagram.com/jennifer_lueders/
+facebook: https://www.facebook.com/jennifer.lueders.18?ref=bookmarks
+youtube: 
 maker:
   name: "Jennifer Lueders"
   description: "My name is Jennifer Lueders and I am an artist.  Since I was a wee girl back in the Appalachian Mountains,  I was steeped in the cultural tradition of storytelling, which can be traced back to England, Ireland, and Scotland.  The old folk tales, grand ditties, and riddles that we would share, often inspired me to create delightful pictures in my imagination.  I would take these images and sketch my own drawings and handmade books.  After high school, I received a higher education, pursued art and teaching for a long while. My husband and I enjoy traveling and have explored many places and at one time we lived in Germany, near the homestead of the Brothers Grimm.  Now we reside in beautiful, sunny Florida. Besides selling whimsical and fantasy art at conventions and art festivals, I am currently a few children's books.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/06/MINI-FAIRY-WITH-BUTTERFLY_mini-1024x1014.jpg
 last-modified-db: "2019-11-08 08:09:58"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

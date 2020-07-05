@@ -14,11 +14,17 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-1024x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1.jpg
+website: https://www.linkedin.com/in/alanlongfellow/
+email: minecrafter0925@gmail.com
+twitter: 
+instagram: https://www.instagram.com/oganesson118_4918_0925/
+facebook: https://www.facebook.com/alan.longfellow.54
+youtube: 
 maker:
   name: "Alan Longfellow"
   description: "I'm a junior at Florida Polytechnic University majoring in Mechanical Engineering with a deep passion for math, physics, and creative innovation. 
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

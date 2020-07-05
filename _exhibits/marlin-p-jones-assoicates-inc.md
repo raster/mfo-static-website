@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5315-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5315.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5315.jpg
+website: https://www.mpja.com/
+email: mpja@mpja.com
+twitter: https://twitter.com/MPJAonline
+instagram: https://www.instagram.com/mpjaonline/?hl=en
+facebook: https://www.facebook.com/mpja.online/
+youtube: https://www.youtube.com/channel/UCc5GAfqL2me5lZ-RJq0hSew?view_as=subscriber
 maker:
   name: "Marlin P Jones &amp; Assoicates Inc"
   description: "We are an electronic company that works with hobbyist  and Makers with parts and supplies. We have kits for the kids to create there own items. We supply soldering irons and accessories for the kid to learn how to solder and work with electronics. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/63019_391470484283765_520449786_n.jpg
 last-modified-db: "2019-10-26 13:36:56"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

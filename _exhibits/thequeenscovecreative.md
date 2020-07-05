@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/MakersFaireprofl-1-237x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/MakersFaireprofl-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/MakersFaireprofl-1.jpg
+website: https://www.queenscovecreative.com/
+email: jason@LJasonQueen.com
+twitter: 
+instagram: https://www.instagram.com/ljasonqueen/
+facebook: https://www.facebook.com/QueensCoveCreative/
+youtube: 
 maker:
   name: "The Queens Cove Creative"
   description: "I am an illustrator, graphic designer and Fine Artist currently working as a independent artist and recently have had artwork licensed by Lucasfilm, Netflix and Nickelodeon for Topps collector card sets. I'll also be featured in the upcoming official Netflix  \"Stranger Things\" artbook published by penguin publishing and the Printed in Blood company."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FinalQueensCovelogo.jpg
 last-modified-db: "2019-11-07 11:38:10"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

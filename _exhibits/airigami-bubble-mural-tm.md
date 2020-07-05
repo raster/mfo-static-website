@@ -20,10 +20,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-300x200.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
+website: https://www.airigami.com/
+email: Info@airigami.com
+twitter: Http://twitter.com/airigami
+instagram: Http://instagram.com/airigami
+facebook: Http://facebook.com/airigami
+youtube: Http://YouTube.com/larrymoss
 maker:
   name: "Airigami"
   description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSCN4757-300x257.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSCN4757-1024x877.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSCN4757.jpg
+website: https://www.etsy.com/shop/TheDragonsHorde
+email: Snookdragon@gmail.com
+twitter: 
+instagram: https://www.instagram.com/snookdragon/
+facebook: https://www.facebook.com/Thedragonshordegifts/
+youtube: 
 maker:
   name: "SnookDragon (Cid)"
   description: "Making art brings me joy and I create my art from my home where I also raise my two children. Everything I make is done by hand. I start by designing on paper, then sculpt in clay, mold with silicone, and cast copies in durable resin that then are hand finished by me.
@@ -19,5 +25,5 @@ maker:
 I grew up in the wilds of central Florida, surrounded by an array of interesting reptiles that piqued my interest in the fantastic reptilian creatures known as dragons. For as long as I can remember I have had a love for dragons and fantasy creatures and that has always been depicted in my art. Art has always been my focus and I excelled in my studies in school winning several awards in art shows and through college where I studied fine art. Since 2013 I have been selling my handmade figurines on Etsy."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dragonprofile.jpg
 last-modified-db: "2019-11-04 13:16:37"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

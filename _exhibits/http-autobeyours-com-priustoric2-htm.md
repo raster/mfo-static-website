@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180707_125319-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180707_125319-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180707_125319.jpg
+website: http://autobeyours.com/Priustoric2.htm
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "AutoBeYours.com"
   description: "Hybrid car recycler with a tendency toward unusual vehicle design. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/I-think-this-is-the-one-edit-1024x859.jpg
 last-modified-db: "2019-09-02 20:07:27"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

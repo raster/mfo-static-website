@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DSC_0814-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DSC_0814-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DSC_0814.jpg
+website: https://www.anonymescape.com/
+email: info@anonymescape.com
+twitter: https://twitter.com/ANONYMESCAPE
+instagram: https://www.instagram.com/anonymescape
+facebook: https://www.facebook.com/AnonymEscape/
+youtube: 
 maker:
   name: "Anonymous Games"
   description: "Anonymous Games is a family owned Escape Room. We design and build all of our puzzles in house using Maker friendly tools, such as raspberry pi, Arduino, 3D printers."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/PATCH-LOGO-BLACK-1024x1024.jpg
 last-modified-db: "2019-10-26 17:55:07"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

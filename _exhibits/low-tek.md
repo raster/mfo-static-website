@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181001_235709-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181001_235709-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181001_235709.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/channel/UCvv90y__ZriCmDtrjXUUGzw
 maker:
   name: "Low-Tek"
   description: "Low-Tek is a primarily father and son combat robotics team from Charleston, SC. Initially discovering the hobby and competing with a heavyweight in the early 2000s, the interest was rekindled when insect-class bots were discovered in recent years. A beetleweight was built under the new team name, referencing the 'lo-tech' approach with no CAD or fancy machine shop tools being used in the construction."
   image-primary: 
 last-modified-db: "2019-11-06 18:18:25"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

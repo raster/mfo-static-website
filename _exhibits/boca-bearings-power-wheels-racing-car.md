@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_154418.jpg
+website: http://bocabearingsworkshop.blogspot.com/search/label/Power%20Wheels%20Dune%20Racer
+email: info@bocabearings.com
+twitter: https://twitter.com/bocabearing
+instagram: https://www.instagram.com/bocabearingcompany/
+facebook: https://www.facebook.com/BocaBearings/
+youtube: https://www.youtube.com/c/bocabearings
 maker:
   name: "Boca Bearings"
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-09-25 15:42:03"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

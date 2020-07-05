@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch-300x255.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch-1024x869.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Welcome_arch.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "STAGE EQUIPMENT AND LIGHTING"
   description:
   image-primary: 
 last-modified-db: "2019-10-07 14:15:14"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

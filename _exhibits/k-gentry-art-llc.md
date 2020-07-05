@@ -13,6 +13,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb-300x240.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb.jpg
+website: https://www.tkylegentry.com/
+email: kgentryart@gmail.com
+twitter: 
+instagram: https://www.instagram.com/tkgentryart/
+facebook: https://www.facebook.com/tkgentryart/
+youtube: https://www.youtube.com/channel/UCgwB89VLnYrTHzYXtcgTAVw
 maker:
   name: "K Gentry Art LLC"
   description: "\"I use my character design and illustration skills to bring ideas to life\"
@@ -21,5 +27,5 @@ I have also illustrated for the children’s book, medical, editorial, music, an
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
 last-modified-db: "2019-10-27 17:44:11"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

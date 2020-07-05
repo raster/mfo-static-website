@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-300x222.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA.jpg
+website: https://www.parsound.com
+email: pierce@parsound.com
+twitter: https://twitter.com/parsevalsound
+instagram: https://www.instagram.com/parsevalsound/
+facebook: https://www.facebook.com/ParsevalSound/
+youtube: 
 maker:
   name: "Parsound"
   description: "Parsound provides Peace, Privacy, and Productivity to the world through sound. 
@@ -19,5 +25,5 @@ maker:
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vista-Print-Front-1.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vista-Print-Front-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vista-Print-Front-1.jpg
+website: http://lilliepad.events
+email: michelle@lilliepad.events
+twitter: 
+instagram: https://instagram.com/lilliepadevents
+facebook: https://www.facebook.com/lilliepadevents/
+youtube: 
 maker:
   name: "Lillie Pad Events"
   description: "Lillie Pad Events is a mobile makerspace for children.  Lillie Pad Events brings the maker activities to schools, parties and many other events."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vista-Print-Front.jpg
 last-modified-db: "2019-10-26 13:21:49"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

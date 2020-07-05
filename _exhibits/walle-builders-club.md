@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190310_183528-146x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190310_183528-498x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190310_183528.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Wall-e builders club"
   description: "We make walle Robot from the movie walle compleate from scratch "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190518_163051-498x1024.jpg
 last-modified-db: "2019-10-27 17:41:47"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

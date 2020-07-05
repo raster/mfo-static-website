@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_5828-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_5828-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_5828.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Team Loki"
   description: "Team Loki has been building combat robots since 2001."
   image-primary: 
 last-modified-db: "2019-11-06 17:21:28"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

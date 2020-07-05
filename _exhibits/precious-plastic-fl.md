@@ -23,10 +23,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+website: https://www.PreciousPlasticLA.com
+email: preciousplasticfl@gmail.com
+twitter: 
+instagram: http://www.instagram.com/preciousplasticFL
+facebook: http://www.facebook.com/preciousplasticFL/
+youtube: https://www.youtube.com/channel/UCwl1hnB1mRYe4OdF7OWsj2w/featured
 maker:
   name: "PreciousPlastic.com"
   description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207.jpg
+website: https://www.toacertaindegree.com/
+email: 
+twitter: 
+instagram: https://www.instagram.com/toacertaindegree/
+facebook: https://www.facebook.com/certaindegree/
+youtube: 
 maker:
   name: "To a Certain Degree"
   description: "Orlando radio show and podcast To a Certain Degree will be set up with some old-school tech at the typewriter table. Write a thank-you note to the makers, volunteers, and staff who put so much time and effort into Maker Faire Orlando!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/tacd1ahi-1024x853.png
 last-modified-db: "2019-11-07 15:47:52"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock.jpg
+website: https://outreach.rollingrobots.com/battlebots
+email: gkirkman@rollingrobots.com
+twitter: https://twitter.com/RollingRobots
+instagram: https://www.instagram.com/rollingrobots/
+facebook: https://www.facebook.com/pages/Rolling-Robots/64412796439?ref=ts
+youtube: https://youtu.be/foTB7QHvdNg?list=PLuwM9cI0AA9cEmnpZS_tWZuX0C_zeQON6
 maker:
   name: "Rolling Robots Outreach"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

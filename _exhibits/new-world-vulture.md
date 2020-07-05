@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/tcyxoe-preview-300x300.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/tcyxoe-preview.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/tcyxoe-preview.png
+website: https://l.instagram.com/?u=https%3A%2F%2Fwww.etsy.com%2Fshop%2FNewWorldVultureCo%3Fref%3Dsearch_shop_redirect&e=ATNlAISGAwdIsK0noBX__NBIm2YrbQl5ctTpnNDDWrs00qj_xD8Gychx9P3LfAhp9ky_4dd9eXd_3zOZepIdnpOKPbw6bBza
+email: Nwvcreations@gmail.com
+twitter: 
+instagram: https://www.instagram.com/newworldvulture/
+facebook: 
+youtube: 
 maker:
   name: "New World Vulture"
   description: "Makes and sells jewelry and terrariums out of roadkill animal bones and leather"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190927_162009_929-1.jpg
 last-modified-db: "2019-10-21 14:54:14"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

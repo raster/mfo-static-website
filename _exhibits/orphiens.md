@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/group-6-2-2-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/group-6-2-2-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/group-6-2-2.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "clonies inc"
   description: "orphiens are dolls / puppet in a toy sling, complete with a full concept story."
   image-primary: 
 last-modified-db: "2019-10-26 12:37:43"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

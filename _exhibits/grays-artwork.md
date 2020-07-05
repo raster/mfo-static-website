@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/InsomiacSpidey_PrintReady-236x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/InsomiacSpidey_PrintReady-805x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/InsomiacSpidey_PrintReady.jpg
+website: 
+email: grayhollow707@gmail.com
+twitter: https://twitter.com/GrandmastaGray
+instagram: https://www.instagram.com/grandmastagray/?hl=en
+facebook: https://www.facebook.com/Grandmastagray/
+youtube: 
 maker:
   name: "Gray Hollow"
   description: "I'm a Free-lance Illustrator and Comic-Artist. I love to draw Fan-art of comics, videogames,  cartoons, and animated movies.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
 last-modified-db: "2019-11-04 17:50:55"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

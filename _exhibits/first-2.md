@@ -23,6 +23,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1-300x224.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
+website: http://WWW.team5937.com
+email: info@team5937.com
+twitter: https://twitter.com/Team5937
+instagram: 
+facebook: https://www.facebook.com/Team5937
+youtube: https://www.youtube.com/user/Team5937
 maker:
   name: "Renaissance Robotics"
   description: "FIRST Tech Challenge Robotics team.
@@ -33,5 +39,5 @@ Renaissance Robotics has participated in numerous demos and often brings additio
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
 last-modified-db: "2019-11-05 09:09:36"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

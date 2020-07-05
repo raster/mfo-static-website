@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-225x300.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-768x1024.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4.jpeg
+website: 
+email: 
+twitter: 
+instagram: https://www.instagram.com/355s_sparrow/?hl=en
+facebook: 
+youtube: https://www.youtube.com/channel/UCmUhx-jPd4Duz9Y6wHoOI_g?view_as=subscriber
 maker:
   name: "Mario Jayes"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

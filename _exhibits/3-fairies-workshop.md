@@ -16,10 +16,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199.jpg
+website: https://www.etsy.com/shop/bananafairy59
+email: awagner59@gmail.com
+twitter: https://twitter.com/BaFa59
+instagram: https://www.instagram.com/bafa59/
+facebook: https://www.facebook.com/3fairiesworkshop/
+youtube: 
 maker:
   name: "Ali Wagner"
   description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
 last-modified-db: "2019-10-27 16:38:26"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

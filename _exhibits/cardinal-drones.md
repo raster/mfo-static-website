@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Screen-Shot-2016-05-13-at-9.46.17-PM-300x59.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Screen-Shot-2016-05-13-at-9.46.17-PM.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Screen-Shot-2016-05-13-at-9.46.17-PM.png
+website: http://www.cardinaldrones.com
+email: cardinaldrones@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/Cardinaldrones/
+youtube: https://www.youtube.com/channel/UCgYvc98GLPkOJ8zbbNM7-Iw
 maker:
   name: "Cardinal Drones"
   description: "Cardinal Drones is a small drone operation out of west palm beach fl.  it started as a hobbiest meetup lab and grew into a repair and modification office where we hack drones to do things they werent designed to do.  We me just about anything.  Drones that cut mangos off trees, lift cat carries ( with no cat inside for now), and fully automatic delivery drones for water ballooning and delivering beers to your friends (within the limits of the law)    flying hoverboards (back to the future style not the lame seqway looking exploding ones)  
@@ -19,5 +25,5 @@ maker:
 Much ouf our experiments run on open source arduino and raspberry pi software.  We have been at the palm beach maker fair before and this is our first time at the orlando maker fair.  "
   image-primary: 
 last-modified-db: "2019-10-30 17:45:00"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

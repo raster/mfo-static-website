@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-262x300.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-895x1024.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit.png
+website: http://www.DuinoKit.com
+email: Support@DuinoKit.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "DuinoKit &#8211; Arduino based learning kits"
   description: "DuinoKits were developed by a teacher looking to help teach kids about electronics and coding using Arduino."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
 last-modified-db: "2019-11-05 15:22:13"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

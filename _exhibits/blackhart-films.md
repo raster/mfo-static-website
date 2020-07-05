@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-1024x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1.jpg
+website: http://www.blackhartfilms.com
+email: Jeffrey.Hepburn@BlackhartFilms.com
+twitter: https://Twitter.com/BlackhartFilms
+instagram: https://www.instagram.com/blackhartfilms/
+facebook: 
+youtube: https://www.youtube.com/blackhartfilms
 maker:
   name: "Blackhart Films"
   description: "My name is Jeffrey Hepburn- I'm a filmmaker, photographer, and digital artist. I've always been motivated by a passion for making stories and driven to capture moments. I pride myself for having an eye for the interplay between light, colour, and materials- trying to highlight the detail and beauty in even the smallest things we might take for granted day to day.
@@ -23,5 +29,5 @@ Locally I've worked as a photographer, filmmaker, and technical supervisor for m
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
 last-modified-db: "2019-10-29 14:47:22"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

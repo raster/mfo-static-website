@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EBDCD7C2-C6D5-411F-9F2C-1B810522237B-300x300.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EBDCD7C2-C6D5-411F-9F2C-1B810522237B-1022x1024.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EBDCD7C2-C6D5-411F-9F2C-1B810522237B.jpeg
+website: https://artworkanywhere.com
+email: info@artworkanywhere.com
+twitter: 
+instagram: https://instagram.com/artworkanywhere
+facebook: https://facebook.com/artworkanywhere
+youtube: 
 maker:
   name: "Artwork Anywhere"
   description: "Artwork Anywhere is home to Tes Scholtz’s quirky robot art and nerdy suncatchers.  Hand painted on acrylic, they evoke the look of stained glass, and feature pop culture favorites, as well as many of her own designs."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/F64BE7D8-C772-4CEC-928E-8D91056C9891.png
 last-modified-db: "2019-10-27 16:57:28"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

@@ -26,10 +26,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-300x188.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-1024x643.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Team Already Broke"
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

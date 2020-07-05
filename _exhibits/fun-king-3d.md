@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1.jpg
+website: https://www.funking3d.com
+email: 
+twitter: https://twitter.com/FunKing3d
+instagram: https://www.instagram.com/FunKing3D
+facebook: https://www.facebook.com/FunKing3D
+youtube: https://www.youtube.com/FunKing3D
 maker:
   name: "Fun King 3D"
   description: "We are a father and son team that does 3D Printing and Electronic Projects on YouTube. We love to learn, and teach what we learn."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180312_200118-1024x576.jpg
 last-modified-db: "2019-10-26 13:28:00"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

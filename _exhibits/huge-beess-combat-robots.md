@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1-300x245.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1-1024x835.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1.jpg
+website: https://hugebattlebots.com
+email: goldteamrobotics@gmail.com
+twitter: 
+instagram: https://www.instagram.com/HUGEBattlebots
+facebook: https://www.facebook.com/BattlebotsHUGE
+youtube: 
 maker:
   name: "Team HUGE"
   description: "We are the team behind HUGE from Battlebots!
@@ -19,5 +25,5 @@ maker:
 www.facebook.com/BattlebotsHUGE"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1024x835.jpg
 last-modified-db: "2019-11-06 16:56:46"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

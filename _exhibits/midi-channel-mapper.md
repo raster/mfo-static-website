@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190724_110148-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190724_110148-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190724_110148.jpg
+website: https://github.com/bagofarms/midi-channel-mapper
+email: midi.chlorians.collective@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "MIDI-chlorians Collective"
   description: "The MIDI-chlorians are a collective of performing musicians and engineers. We make solutions to musical problems using common tools like Arduinos and Rapsberry Pis and share them with the maker community."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-1024x678.png
 last-modified-db: "2019-10-26 12:49:22"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

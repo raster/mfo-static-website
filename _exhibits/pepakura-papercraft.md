@@ -20,10 +20,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
+website: http://outlawgarage.org
+email: ryan.evans@gmail.com
+twitter: https://twitter.com/rjevans
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Pepakura Papercraft"
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-300x200.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-1024x683.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage.jpg
+website: https://www.enlightenedmonkeyarts.com/
+email: ELLNHAGNEY@GMAIL.COM
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/Enlightenedmonkeyarts/
+youtube: https://www.youtube.com/channel/UCgurSLxEm4d5onlH1WIJCGw
 maker:
   name: "Dave Gordon &#8211; Suncoast Makers"
   description:
   image-primary: 
 last-modified-db: "2019-10-27 16:34:34"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

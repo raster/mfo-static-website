@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/KIMG0584-1-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/KIMG0584-1-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/KIMG0584-1.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Lilith Specht"
   description: "Lilith has been making combat robots since 2003 after seeing it on Comedy Central's BattleBots. From the one pound Antweights, all the way to the 250 pound Heavyweights, she has made them all! She's entirely self-taught in a slew of mechanical things; She can weld, machine, design, and generally fabricate. Her favorite material is steel and her favorite color is grease."
   image-primary: 
 last-modified-db: "2019-11-05 15:17:08"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

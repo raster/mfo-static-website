@@ -21,6 +21,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-1024x575.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A.jpg
+website: http://www.FractalAbyss.com
+email: joefraq@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/FractalAbyssDesigns
+youtube: https://www.youtube.com/channel/UCBv1oq9e7pEgnsYcVEIi-Bw
 maker:
   name: "Fractal Abyss"
   description: "Joseph Presley is a fractal artist based in Bradenton who combines mathematics with modern technology to render multi-layered fractals into
@@ -28,5 +34,5 @@ beautiful and deeply emotional artistic expressions.  He has practiced fractal a
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

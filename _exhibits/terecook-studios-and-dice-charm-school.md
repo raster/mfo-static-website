@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16.jpg
+website: http://terecook.etsy.com
+email: terecooketsy@gmail.com
+twitter: 
+instagram: https://terecookstudios.instagram.com
+facebook: 
+youtube: 
 maker:
   name: "Terecook and DiceCharmSchool"
   description: "Terecook is a group of family and friends who love to make things. So far all we have is an Etsy shop and a lot of ambition, but we've got big plans!"
   image-primary: 
 last-modified-db: "2019-09-09 22:01:49"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

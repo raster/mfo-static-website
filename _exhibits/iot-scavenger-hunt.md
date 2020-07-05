@@ -17,10 +17,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
+website: 
+email: irving2nd2000@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Valencia College Computer Programming"
   description: "Professor, Gadgeteer, friend to cats and bats."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-1024x612.jpg
 last-modified-db: "2019-11-07 12:11:35"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

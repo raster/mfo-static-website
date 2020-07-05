@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-300x75.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
+website: http://www.calculatedcrafts.com
+email: 
+twitter: 
+instagram: https://www.instagram.com/CalculatedCrafts/
+facebook: https://www.facebook.com/calculatedcrafts
+youtube: https://m.youtube.com/channel/UCFWbh-Xpdy40RHpecG36wqA
 maker:
   name: "Calculated Crafts"
   description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_7392-1024x1024.jpg
 last-modified-db: "2019-10-17 08:59:28"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit-300x243.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
+website: https://www.thehopefalls.com/
+email: 
+twitter: 
+instagram: https://www.instagram.com/thesteampirate/?hl=en
+facebook: https://www.facebook.com/HiddenStarGraphics/
+youtube: 
 maker:
   name: "Hidden Star Graphics"
   description: "Hidden Star Graphics creates unique VooDoo/VooDle Dolls based off of our original character VooDoo, Double V (Violet VooDoo) and Minnie VooDoo. VooDoo's make the best companions as they love all sorts of adventures and cosplaying as their favorite characters. 
@@ -19,5 +25,5 @@ maker:
 While our adventurous VooDoo is off exploring and making new friends we also create the webcomic series HopeFalls and Shadows in the Light. "
   image-primary: 
 last-modified-db: "2019-10-27 17:13:35"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

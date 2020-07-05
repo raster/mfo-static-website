@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/thearustocrats-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/thearustocrats.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/thearustocrats.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/thearustocrats
+youtube: 
 maker:
   name: "The aRUSTocrats"
   description: "Weirdo machinist and engineer who loves making rideable projects, like ebikes and gokarts, using digital design and fabrication."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/profile.jpg
 last-modified-db: "2019-08-17 21:44:58"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

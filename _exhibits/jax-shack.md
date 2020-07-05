@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8x12-burn-222x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8x12-burn-756x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8x12-burn.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Jax Shack"
   description: "I use recycled horseshoes,   fractal wood art"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2015-pic-passport-1024x1015.jpg
 last-modified-db: "2019-11-01 14:27:48"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

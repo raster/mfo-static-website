@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-300x300.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-1024x1024.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720.jpeg
+website: 
+email: recycledbeautifully@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Recycled Beautifully"
   description: "Recycled Beautifully is proud to say that \"We Recycle\"! All of our hand wrapped jewelry is made using recycled copper or aluminum wire that we pull out of T.V.'s that people throw in the trash. By using recycled wire we are able to not only keep these items out of the landfills but we are also able to keep our jewelry priced at amazingly low prices."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_0019.jpg
 last-modified-db: "2019-10-27 17:16:40"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

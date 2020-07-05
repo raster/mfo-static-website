@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_201552-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_201552-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20170929_201552.jpg
+website: https://www.blackcoffeeandtees.com
+email: info@housebrokenclothing.com
+twitter: 
+instagram: https://www.instagram.com/housebrokenclothing/?hl=en
+facebook: https://www.facebook.com/housebrokenclothing/
+youtube: 
 maker:
   name: "Scott Marino"
   description: "Hand Screen Printed Original Art Work on Clothing. All Art is Drawn and Hand Screen Printed by the Artist, Scott Marino."
   image-primary: 
 last-modified-db: "2019-10-27 17:31:02"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

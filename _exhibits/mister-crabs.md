@@ -14,11 +14,17 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-touch-tank-pic-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-touch-tank-pic-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-touch-tank-pic.jpg
+website: https://mistercrabs.com
+email: jim@mistercrabs.com
+twitter: https://twitter.com/realjimdeberry
+instagram: 
+facebook: https://www.facebook.com/mistercrabsracingshows/
+youtube: https://www.youtube.com/watch?v=hGfl1hMGarc
 maker:
   name: "Mister Crabs.com"
   description: "Mister Crabs provides Hermit Crab Shows with Touch Stations, Observation Stations, and Crab Race Comedy Shows.
 Learn about land hermit crabs that are native to Florida, see hundreds of their creative hermit crab homes including  from Lego, shells, transparent glass, 3D printed and many others.  Also participate in our create crab shell, create a Crabitat, and learn about our Adopt-a-Hermit program. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo-250x250.jpg
 last-modified-db: "2019-11-08 14:38:10"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

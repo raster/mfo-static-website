@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1-1024x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_2698-1.jpg
+website: http://www.aldebaran-systems.com
+email: dz@aldebaran-systems.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "David Zurcher"
   description: "Laser and electronics are my passion. Since working in a planetarium in the mid 1990's I've enjoyed creating art with laser light!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_3133.jpg
 last-modified-db: "2019-10-19 12:57:11"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

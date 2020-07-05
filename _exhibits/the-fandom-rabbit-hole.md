@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_57301-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_57301-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_57301.jpg
+website: 
+email: TheFandomRabbitHole@Gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "The fandom rabbit hole"
   description: "Fandom inspired jewelry and art. Handmade jewelry and glass paintings inspired by the love of our favorite stories. Using art to express creativity every day. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/interweb.png
 last-modified-db: "2019-09-09 22:00:30"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

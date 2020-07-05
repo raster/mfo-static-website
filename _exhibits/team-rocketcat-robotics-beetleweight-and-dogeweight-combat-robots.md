@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_5325-300x225.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_5325-1024x768.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_5325.jpeg
+website: https://rocketcatrobotics.com/
+email: 
+twitter: https://www.twitter.com/RocketCatRobotics/
+instagram: http://www.instagram.com/rocketcatrobotics
+facebook: https://www.facebook.com/RocketCatRobotics/
+youtube: 
 maker:
   name: "Team RocketCat Robotics"
   description: "Team RocketCat Robotics is a combat robotics team focused on building attractive, effective robots. The team hopes to use our robots to inspire others to find a passion for robotics and STEM. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rocketcat.jpg
 last-modified-db: "2019-11-07 14:42:56"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

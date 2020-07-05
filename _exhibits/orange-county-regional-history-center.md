@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-300x290.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle-1024x991.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AccidentalHistorianwtitle.jpg
+website: http://www.thehistorycenter.org/
+email: 
+twitter: https://twitter.com/HistoryCenterFL
+instagram: https://www.instagram.com/historycenterfl/
+facebook: https://www.facebook.com/thehistorycenter
+youtube: https://www.youtube.com/channel/UCZoEAnY1V9iWYbqUlLbDjxg
 maker:
   name: "Orange County Regional History Center"
   description: "One of Florida’s preeminent cultural institutions, the Orange County Regional History Center advances its mission to honor the past, explore the present, and shape the future through permanent and traveling exhibits, wide-ranging programs, and limited-run exhibitions from other prestigious institutions. With deep roots in Orange County, the History Center opened in 2000 and is operated by Orange County and the nonprofit Historical Society of Central Florida, Inc."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OCRHC-Stacked-LogoDowntown-Orlando_CMYK.png
 last-modified-db: "2019-10-29 12:05:57"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

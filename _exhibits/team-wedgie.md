@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-300x201.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-1024x685.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Todd"
   description: "New to combat robots and ready to build, destroy and repeat."
   image-primary: 
 last-modified-db: "2019-11-06 17:28:14"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

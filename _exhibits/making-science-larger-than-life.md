@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-300x187.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-1024x639.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1.jpg
+website: https://padlet.com/kmcclart/g0v20ir8cqb2
+email: jdkrob@volusia.k12.fl.us
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Galaxy Middle School Science &amp; STEM"
   description: "A group of middle school teachers with a maker spirit.  Working with 11-14 year-olds requires an outside of the box approach.  We are constantly planning and building things to use with our lessons and activities.  We Make things for our 8th grade lock-in, Science Olympiad, the STEM Academy, and science classes."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
 last-modified-db: "2019-10-26 13:13:31"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

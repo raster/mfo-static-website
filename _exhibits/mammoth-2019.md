@@ -17,10 +17,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-254x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2.jpg
+website: https://battlebots.com/robot/mammoth-2019/
+email: mammothbattlebot@gmail.com
+twitter: https://twitter.com/mammothrobot?lang=en
+instagram: 
+facebook: https://www.facebook.com/MammothBattlebot/
+youtube: 
 maker:
   name: "Ricky Willems"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

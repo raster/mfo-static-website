@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1-300x232.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1-1024x791.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1.jpg
+website: 
+email: 
+twitter: 
+instagram: https://instagram.com/last_shadow_robotics?igshid=1thjcddrlla5q
+facebook: 
+youtube: 
 maker:
   name: "Norman"
   description: "Im 15 I go to brhs and building stuff and flying quads is my hobby."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/logo-1024x1024.png
 last-modified-db: "2019-11-06 18:09:59"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

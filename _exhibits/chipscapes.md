@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/EA821A96-9371-48CF-9D39-7308E26D33D1-169x300.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/EA821A96-9371-48CF-9D39-7308E26D33D1.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/EA821A96-9371-48CF-9D39-7308E26D33D1.jpeg
+website: http://www.ChipScapes.com
+email: iSteve@ChipScapes.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Steve Emery"
   description: "My name is Steve Emery, and I create ChipScapes. It's a digital art form based on computer chips. 
@@ -23,5 +29,5 @@ I am grateful for the support I have received and the opportunities that I have 
 We can live our lives ignoring the beauty all around us and just see gray, but I choose to seek out beauty and share it with others. I hope to inspire people to find the art in all that they do. After all, even in the coldness of technology, we can find beauty, if we just look for it."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Steve-Winter-Park-Magazine_Smiling.jpg
 last-modified-db: "2019-10-27 16:53:06"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

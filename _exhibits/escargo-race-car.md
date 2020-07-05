@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/escargot-272x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/escargot.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/escargot.jpg
+website: http://www.seemsreasonable.net
+email: aren.c.hill@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Aren Hill"
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-08-17 21:43:17"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

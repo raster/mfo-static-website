@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-300x200.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-1024x683.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: http://facebook.com/MammothBattlebot
+youtube: 
 maker:
   name: "Combat Robots &#8211; Mastodon (Team Captain: Ricky Willems)"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 16:10:20"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

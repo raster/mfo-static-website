@@ -16,10 +16,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-274x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-936x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook.jpg
+website: http://spraymo.com/
+email: info@spraymo.com
+twitter: 
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/user/spraymo
 maker:
   name: "Mario de la Guardia"
   description: "Mario de la Guardia has over 2 decades of product development experience including several patents."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
 last-modified-db: "2019-10-26 12:39:17"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

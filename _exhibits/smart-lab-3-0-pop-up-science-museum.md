@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/science-zone-300x98.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/science-zone-1024x336.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/science-zone.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Smart lab 3.0"
   description: "I enjoying exploring museums- I love science museums, unfortunately there are just not enough science museums.  So I design and create pop-up science museums that allow kids and their families to discover science in a fun interactive setting"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Caroline-Nolan-2017-1024x768.jpg
 last-modified-db: "2019-10-26 13:14:57"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

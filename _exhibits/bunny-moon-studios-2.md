@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
+website: 
+email: bunnymoonstudios@gmail.com
+twitter: 
+instagram: https://www.instagram.com/bunnymoonstudios/
+facebook: https://www.facebook.com/BunnyMoonStudios/
+youtube: 
 maker:
   name: "Bunny Moon Studios"
   description: "I'm an artist, a faerie, a witchy woman, a stay at home mama.  I love wildflowers, thunderstorms, rainbows, sparkles.  I'm an avid reader, I play video games, and I love getting outside as much as possible with my kids.  
@@ -20,5 +26,5 @@ I love watercolors because of how unpredictable they are - I can have one thing 
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
 last-modified-db: "2019-10-27 16:36:35"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

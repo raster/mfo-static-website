@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1-300x87.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
+website: http://mykatrip.com
+email: info@mykatrip.com
+twitter: 
+instagram: https://www.instagram.com/kaleidoscopeadv/
+facebook: https://www.facebook.com/KaleidoscopeAdv/
+youtube: https://www.youtube.com/channel/UCJrjpze3_ARqjroDODho9Rw
 maker:
   name: "Kaleidoscope Adventures"
   description: "Kaleidoscope is a full-service student tour operator with more than 25+ years of inspiring student travel and a former educator as CEO. We specialize in surprisingly unique educational, performance, sports, senior class trip, festival and cruise travel to more than 40+ student-friendly destinations. We make student safety a priority with a clearly communicated safety plan and trusted partners. Kaleidoscope Adventures is an active member of the Student & Youth Association and licensed, bonded and insured."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo.jpg
 last-modified-db: "2019-10-26 13:55:09"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

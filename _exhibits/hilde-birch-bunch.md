@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1.jpg
+website: 
+email: 
+twitter: https://twitter.com/tabinfl
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/user/FLtab
 maker:
   name: "HildeBirch Bunch"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/57068569_10157222299064727_7706636900714414080_o-1024x641.jpg
 last-modified-db: "2019-10-29 14:43:44"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

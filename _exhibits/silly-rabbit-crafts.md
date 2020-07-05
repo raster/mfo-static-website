@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Tiny-Toons.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Tiny-Toons.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Tiny-Toons.jpg
+website: http://www.Sillyrabbitcrafts.com
+email: sillyrabbit4crafts@gmail.com
+twitter: 
+instagram: https://www.instagram.com/sillyrabbit4crafts/
+facebook: https://www.facebook.com/SillyRabbitCrafts
+youtube: 
 maker:
   name: "Silly Rabbit Crafts"
   description: "Picking up her first peg board in 2011, Silly Rabbit Crafts now travels to 11 different states a year, with over 240+ shows under her belt! Silly Rabbit Crafts has melted over 27 million beads turning them into anything from Earrings to art, and even into fish tanks!
@@ -19,5 +25,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/C44-Pac-Man-Set-12-1024x683.jpg
 last-modified-db: "2019-10-26 14:28:34"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

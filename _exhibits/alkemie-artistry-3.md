@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Bannersmb-300x151.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Bannersmb-1024x516.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Bannersmb.jpg
+website: http://www.alkemieandartistry.com
+email: alkemieandartistry@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/alkemieandartistry/
+youtube: 
 maker:
   name: "Alkemie &amp; Artistry"
   description: "Alkemie & Artistry is a husband and wife team that create Artwork Lanterns/"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/AAA-1024x814.jpg
 last-modified-db: "2019-10-27 16:49:45"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

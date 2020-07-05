@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-300x219.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render.jpg
+website: https://www.lunarknights.org/
+email: president@lunarknights.org
+twitter: https://twitter.com/lunar_knights?lang=en
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/channel/UC7RJbpXbE6AY1tTeauy8x0g
 maker:
   name: "Lunar Knights"
   description:
   image-primary: 
 last-modified-db: "2019-10-26 17:45:27"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

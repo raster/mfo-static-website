@@ -13,11 +13,17 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-1024x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010.jpg
+website: https://www.openbuilds.com
+email: OpenBuilds@OpenBuilds.com
+twitter: https://www.twitter.com/openbuilds
+instagram: https://www.instagram.com/openbuilds/
+facebook: https://facebook.com/openbuilds
+youtube: https://www.youtube.com/user/OpenBuilds
 maker:
   name: "OpenBuilds"
   description: "The OpenBuilds Team is dedicated to Open Source hardware and design. We offer access to tools and advanced technology to anyone with passion, imagination and desire to push their limits as far as possible.
 We believe that the right tools in the hands of those that have this knowledge will change the world making a better future for us all."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/OpenBuilds_Logo_300.jpg
 last-modified-db: "2019-11-06 16:50:09"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1-300x296.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1.jpg
+website: http://www.teambonedead.com
+email: 
+twitter: 
+instagram: https://www.instagram.com/bonedeadrobotics/
+facebook: https://www.facebook.com/BoneDeadRobotics/
+youtube: 
 maker:
   name: "Bone Dead Robotics"
   description: "We are a combat robotics team who builds and competes fighting robots. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

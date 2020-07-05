@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-300x258.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-1024x880.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl.jpg
+website: 
+email: 
+twitter: https://twitter.com/SciNanceTweet
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Bad Owl Robotics"
   description: "I am an educator at Florida Atlantic University's A.D. Henderson School working to bring low-cost combat robotics to the 6-12 grade levels in public school.  My daughters are makers and will be campaigning their own robot. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
 last-modified-db: "2019-11-06 18:11:41"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

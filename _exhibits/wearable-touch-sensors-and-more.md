@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-117x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+website: http://postmodernfiberfun.com
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Drunken Monkey Spinners and Weavers of Orlando"
   description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
   image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

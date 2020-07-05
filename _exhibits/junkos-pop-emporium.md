@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
+website: https://www.etsy.com/shop/JunkosPopEmporium
+email: junkobear19@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/junko.takagi.792
+youtube: 
 maker:
   name: "Junko Takagi Gillespie"
   description: "A native of Shizuoka Ken, Japan, Junko spent the last 20+ years teaching Japanese language and culture to elementary school students in Haines City, Florida. She has always created amazing origami creations as a hobby, but recently has discovered an untapped talent for combining her love for pop culture with her technical skills. Junko really enjoys using pop culture as inspiration for her accessories and 3D origami sculptures, and she hopes that the public will find them just as fun!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/junko-profile.jpg
 last-modified-db: "2019-11-05 15:24:41"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

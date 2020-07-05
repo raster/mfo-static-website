@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/6B9E328B-BD4C-466E-9432-03D444976316-273x300.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/6B9E328B-BD4C-466E-9432-03D444976316-932x1024.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/6B9E328B-BD4C-466E-9432-03D444976316.jpeg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "3DGeoDon"
   description: "Maker and 3D printer. I own several printer ranging from inexpensive to more expensive. I consider myself to be of Intermedite to Advanced  skill level."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2B39041E-58DB-49B7-9033-7321E988877F-779x1024.jpeg
 last-modified-db: "2019-09-09 20:45:56"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

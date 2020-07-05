@@ -16,10 +16,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
+website: https://www.migamade.com
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Miga Made"
   description: "Join @Stachelightning as he shows off his robots, costumes, set pieces, fun products and then some."
   image-primary: 
 last-modified-db: "2019-10-27 16:29:10"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

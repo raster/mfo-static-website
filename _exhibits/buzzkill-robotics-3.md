@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/final-snapshot-300x219.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/final-snapshot.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/final-snapshot.png
+website: 
+email: 
+twitter: https://twitter.com/AKJofficial
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Buzzkill Robotics"
   description: "This page is for my combat robotics team that only consists of me, at the moment. I'm an alumnus of the University of South Florida and I'm an avid maker. I've built remote-controlled lawnmowers and a spot welder out of parts from an old microwave, so this seemed like the natural next step. I want to design things that the public can see and...well...see how they do. It will be great to see how others build things to meet the needs of others. That's the real reason behind joining the Maker Faire group. I enjoy what I do and want to join others who think the way that I do."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buzzkill-robotics-logo-square-1.png
 last-modified-db: "2019-11-06 17:26:21"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

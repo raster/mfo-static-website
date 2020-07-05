@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-300x288.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2.jpg
+website: http://www.poofsoftware.com
+email: info@poofsoftware.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "TEST Driscoll MFO1"
   description: "adafadsfdasfadf"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
 last-modified-db: "2019-10-31 20:34:36"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

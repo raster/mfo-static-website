@@ -24,10 +24,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282.jpg
+website: https://www.phasedock.com
+email: info@phasedock.com
+twitter: https://twitter.com/PhaseDock
+instagram: 
+facebook: https://www.facebook.com/PhaseDockInc/
+youtube: 
 maker:
   name: "Phase Dock Inc."
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

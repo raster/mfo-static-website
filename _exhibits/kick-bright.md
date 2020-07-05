@@ -17,10 +17,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o.jpg
+website: http://kickbrightshop.com/
+email: kickbright@hotmail.com
+twitter: https://twitter.com/kbzshop
+instagram: https://www.instagram.com/kick_bright_shop_and_buttons/
+facebook: https://www.facebook.com/kickbrightzineshop/
+youtube: 
 maker:
   name: "Kick Bright"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

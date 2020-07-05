@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-300x250.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-1024x854.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M.png
+website: http://CFL.MadScience.org
+email: MadScienceRocks@gmail.com
+twitter: 
+instagram: 
+facebook: http://www.facebook.com/MSCentralFlorida
+youtube: 
 maker:
   name: "Mad Science"
   description: "Mad Science provides high-energy and hands-on Science programs for kids aged 2-14. We are the world’s leading fun science provider!
@@ -26,5 +32,5 @@ Check out Mad Science online at CFL.MadScience.org. Call today and find out just
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/MixedColorLogo-Small.png
 last-modified-db: "2019-10-26 12:51:00"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

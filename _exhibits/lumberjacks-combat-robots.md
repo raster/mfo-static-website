@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1-300x232.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1-1024x791.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vert3armor1.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Lumberjacks"
   description: "A trio of three engineers looking to make robotic history"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/lumberjacks.jpg
 last-modified-db: "2019-11-06 16:55:34"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

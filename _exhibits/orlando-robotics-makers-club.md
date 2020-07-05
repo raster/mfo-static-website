@@ -12,11 +12,17 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Logo-highres_369326132-300x298.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Logo-highres_369326132.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Logo-highres_369326132.jpeg
+website: http://www.orlandorobotics.org
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "2 Pi Labs"
   description: "Daytime:  Embedded electronics engineer, Product prototyper.
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-26 13:19:57"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

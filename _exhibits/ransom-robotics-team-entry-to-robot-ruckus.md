@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Battle-Photo-3-Lecter-Appa-292x300.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Battle-Photo-3-Lecter-Appa.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Battle-Photo-3-Lecter-Appa.png
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Ransom Everglades Upper School"
   description: "Ransom has been making and competing combat robots for at least a dozen years.  We have in-house CAD, Milling, 3dprint, Metal Hardening and more.  We have also explored Arduino, operate a FarmBot, and of course have VEX EDR teams at the upper school and VEXIQ at our middle school.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RE-logo.png
 last-modified-db: "2019-11-06 16:24:19"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

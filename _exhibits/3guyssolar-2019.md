@@ -14,10 +14,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/12592355_10208682235519253_3163796130808221980_n.jpg
+website: http://www.3GuysSolar.com
+email: info@3GuysSolar.com
+twitter: 
+instagram: https://www.instagram.com/3guyssolar/
+facebook: https://www.facebook.com/3GuysSolar/
+youtube: https://www.youtube.com/channel/UC1nBtK0d-LRg23w_mVzaC6w
 maker:
   name: "3 Guys Solar"
   description: "3 Guys Solar is a solar contractor working in central Florida for more than 5 years installing Solar PV Systems."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/08/3-GS-logo.jpg
 last-modified-db: "2019-09-02 20:33:33"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

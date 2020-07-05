@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Solar-Powered-Hydroponics-1-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Solar-Powered-Hydroponics-1-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Solar-Powered-Hydroponics-1.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "EcoDeco"
   description: "I am a retired science teacher and former research biologist. In my retirement, I have explored a number of interests, gardening being one of them. In 2013, I became a master gardener for Seminole county. I have been involved in a variety of projects and one of my favorites is \"set and forget\" hydroponics. With this interest and my passion for promoting recycling, I have put a different spin on the method in an attempt to make it visually appealing and practical for anyone to grow their own food. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC_1348-683x1024.jpg
 last-modified-db: "2019-10-26 13:36:01"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171013_175715-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171013_175715-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171013_175715.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Chuck Peterson"
   description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
   image-primary: 
 last-modified-db: "2019-10-07 21:45:13"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

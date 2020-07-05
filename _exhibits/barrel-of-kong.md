@@ -15,6 +15,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Main-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Main-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Main.jpg
+website: http://www.barrelofkong.com
+email: Darrin@barrelofkong.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Barrel of Kong Arcade Machines"
   description: "My name is Darrin and I have a love for the arcade classics from the 80's.
@@ -23,5 +29,5 @@ This started out about a year ago when I made one for myself and then for my nei
 They have been a huge hit and I am getting referrals from past customers."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/BOK.jpg
 last-modified-db: "2019-10-26 13:25:11"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

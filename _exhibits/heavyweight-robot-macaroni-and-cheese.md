@@ -14,6 +14,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/triocad-300x171.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/triocad-1024x583.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/triocad.jpg
+website: 
+email: getrektrobotics@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/getrektrobotics
+youtube: 
 maker:
   name: "Get Rekt Robotics"
   description: "Get Rekt Robotics is run by Brian Bray, a mechanical engineer out of Dallas, Texas.
@@ -23,5 +29,5 @@ I was the designer of a 250lb heavyweight \"Bellator\" for the 2019 Battlebots t
 When I am not building combat robots, I also enjoy other high-powered radio controlled vehicles, including a 10ft 50lb cargo aircraft which debuted (and crashed spectacularly) at FliteFest South in 2018"
   image-primary: 
 last-modified-db: "2019-11-06 17:44:12"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

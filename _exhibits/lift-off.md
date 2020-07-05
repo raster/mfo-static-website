@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LiftOff2-300x127.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LiftOff2-1024x433.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LiftOff2.jpg
+website: 
+email: contact@area51robotics.com
+twitter: 
+instagram: https://www.instagram.com/area51robotics/
+facebook: 
+youtube: 
 maker:
   name: "Area 51 Robotics"
   description: "Area 51 Robotics is an educational robotics company based out of Los Angeles. We develop digital curriculum and work with students, teams and schools."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Area-51_dark_240.jpeg
 last-modified-db: "2019-08-25 12:26:11"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

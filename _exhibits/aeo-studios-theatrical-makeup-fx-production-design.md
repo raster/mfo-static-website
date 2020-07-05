@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/hot-hands-1logo-298x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/hot-hands-1logo.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/hot-hands-1logo.jpg
+website: http://www.aeostudios.com
+email: aeoinfo@aeostudios.com
+twitter: http://www.twitter.com/aeostudios
+instagram: http://www.instagram.com/aeostudios
+facebook: http://www.facebook.com/aeostudios
+youtube: http://www.youtube.com/aeostudios
 maker:
   name: "Alan Ostrander / AEO Studios, Inc."
   description: "Alan O is the founder/creative director of AEO Studios, Inc.  AEO is a Theatrical Makeup/Special FX/Prop & Production Company located in Orlando for 23+years.  With a retail showroom & production center in E Orlando, AEO fabricates all types of custom props/set pieces/costume accessories and more using a wide range of molding materials and methods."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/logo-small-digital.jpg
 last-modified-db: "2019-10-27 16:32:19"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

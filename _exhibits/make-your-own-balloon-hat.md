@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Climer-car-216x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Climer-car-736x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Climer-car.jpg
+website: http://www.BalloonTwisterOrlando.com
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Karen Climer the Balloon Twister"
   description: "Karen Climer has been balloon twisting for more than a decade.  She can make almost anything out of a latex balloon (except a porcupine because it's keep popping itself).  She performs at parties, festivals, libraries, schools, and cruise ships.  At Maker Faire Orlando, Karen isn't making balloon sculptures.  She teaching YOU how to make you own balloon sculptures.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Green-car-3-12-11-copy-736x1024.jpg
 last-modified-db: "2019-11-04 15:40:14"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

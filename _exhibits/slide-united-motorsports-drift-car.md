@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/428BAE1B-125D-4D35-98AB-D065AD8EBE40-300x162.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/428BAE1B-125D-4D35-98AB-D065AD8EBE40-1024x553.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/428BAE1B-125D-4D35-98AB-D065AD8EBE40.jpeg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Slide United Motorsports"
   description: "Local drift Motorsports team. We design/build/make our racecars out of our own home garages. "
   image-primary: 
 last-modified-db: "2019-11-07 15:26:01"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

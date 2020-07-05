@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A82AAE79-4A4A-45AE-9376-184F21603C81-300x225.jpeg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A82AAE79-4A4A-45AE-9376-184F21603C81-1024x768.jpeg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A82AAE79-4A4A-45AE-9376-184F21603C81.jpeg
+website: 
+email: silvertales@gmail.com
+twitter: https://www.twitter.com/silvertales
+instagram: https://www.instagram.com/artofkitsteele
+facebook: 
+youtube: 
 maker:
   name: "Kit Steele"
   description: "Award-winning artist and illustrator, Kit uses watercolor and mixed media to bring life to whimsical and fantastical creations. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/E3AF3777-BC48-4912-B63F-5BFCB455C089.jpeg
 last-modified-db: "2019-10-27 17:27:55"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

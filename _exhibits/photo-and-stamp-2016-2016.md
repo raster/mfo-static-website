@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Grand-Canyon-Sunset-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Grand-Canyon-Sunset.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Grand-Canyon-Sunset.jpg
+website: http://www.photoandstamp.com
+email: photoandstamp@yahoo.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Laura Mollé"
   description: "Laura started her photographic career in Manhattan advertising studios. With her entrepreneurial spirit, after several years in the NYC, she became the sole proprietor of her own commercial and portrait studio in New Jersey. Fifteen years later, she moved to Florida in 1996. Here, she completed her B.A at University of South Florida in 2001 in Mass Communications for Television Production.
@@ -20,5 +26,5 @@ capturing images with her unique style. Her works have been published in numerou
 magazines and newspapers. Recently, Laura's art has evolved into blending her photography with cool objects creating unique 4-D mixed media art designed to fascinate and encourage the viewers to appreciate functional art."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lm-photo.png
 last-modified-db: "2019-10-27 17:18:55"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

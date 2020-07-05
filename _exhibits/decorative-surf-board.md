@@ -19,11 +19,17 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/surf1-1-88x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/surf1-1-301x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/surf1-1.jpg
+website: 
+email: ankita.nagaraju@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Ankita Nagaraju"
   description: "I'm a self taught artist, who like to experiment different art styles and mediums. I'm very much obsessed with fluid styles of art. I like everything about nature, beaches and all that glitters. My inspiration for art comes from nature photography, our travels and google earth.
 I have been making art for last 8 year and got a chance to experiment many art mediums. I would like get my hands on encaustic art sometime soon in the future. "
   image-primary: 
 last-modified-db: "2019-10-27 17:17:22"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

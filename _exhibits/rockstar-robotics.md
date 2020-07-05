@@ -12,11 +12,17 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/71052271_790386661419927_8401706105210279188_n-300x278.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/71052271_790386661419927_8401706105210279188_n.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/71052271_790386661419927_8401706105210279188_n.jpg
+website: http://rockstarrobotics.wixsite.com/rockstarrobot
+email: Rockstarrobotics@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Rockstar Robotics"
   description: "We are a FIRST team located here in Pinehills area.
 We would like to present our robots from our team."
   image-primary: 
 last-modified-db: "2019-11-02 11:47:01"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

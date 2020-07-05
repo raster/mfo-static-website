@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-184x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-629x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1.jpg
+website: http://www.makerfx.org
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Team Done. Racing"
   description: "Power wheels aren't for kids anymore."
   image-primary: 
 last-modified-db: "2019-10-07 14:31:31"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

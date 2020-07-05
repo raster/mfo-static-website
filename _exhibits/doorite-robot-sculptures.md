@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040.jpg
+website: https://www.dooritebots.com/
+email: douglas@dooritebots.com
+twitter: https://twitter.com/DooRiteRobotics
+instagram: https://www.instagram.com/dooriterobotics/
+facebook: https://www.facebook.com/dooritebots/
+youtube: 
 maker:
   name: "DooRite Robot Sculptures"
   description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0018-1-768x1024.jpg
 last-modified-db: "2019-10-26 12:47:24"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

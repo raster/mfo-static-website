@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522.jpg
+website: https://www.etsy.com/shop/ClockworkAlley?ref=shop_sugg
+email: 
+twitter: 
+instagram: https://www.instagram.com/clockworkalley
+facebook: https://www.facebook.com/Clockwork-Alley
+youtube: 
 maker:
   name: "Clockwork Alley"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
 last-modified-db: "2019-10-27 17:47:48"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

@@ -12,10 +12,16 @@ image-primary:
   medium: 
   large: 
   full: 
+website: 
+email: 13Xstudios@gmx.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Xxxx"
   description:
   image-primary: 
 last-modified-db: "2019-09-10 19:18:38"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

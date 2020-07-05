@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AOTLNlI7RWiNE4lesNm6iQ-1-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AOTLNlI7RWiNE4lesNm6iQ-1-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AOTLNlI7RWiNE4lesNm6iQ-1.jpg
+website: https://www.potheadsbyamber.com
+email: potheadsbyamber@gmail.com
+twitter: 
+instagram: https://www.instagram.com/potheadsbyamber/
+facebook: https://www.facebook.com/weatherford00700/
+youtube: https://www.youtube.com/channel/UC4x7lx3J-RfefBx7ncd0PNw
 maker:
   name: "Potheads by Amber"
   description: "Potheads are whimsical little succulent planters, or small sculptures with a function.  They are hand sculpted from clay, handprinted with a color clay, black washed and fired three times.  All made by Amber, a self taught sculptor who started out teaching kids and beginning adults ceramics in Chicago Illinois.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_3343-1024x1024.jpg
 last-modified-db: "2019-10-26 13:02:42"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

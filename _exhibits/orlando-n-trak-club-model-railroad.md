@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-300x148.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-1024x506.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Orlando N-Trak Club Inc"
   description: "Model Railroad Club"
   image-primary: 
 last-modified-db: "2019-10-26 13:53:08"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

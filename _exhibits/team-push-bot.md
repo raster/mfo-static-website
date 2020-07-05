@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Ian"
   description: "Young builder of combat robots and drones. "
   image-primary: 
 last-modified-db: "2019-11-06 18:00:50"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

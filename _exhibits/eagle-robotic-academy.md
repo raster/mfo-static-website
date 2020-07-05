@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px-1.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px-1.jpg
+website: https://www.eagleroboticacademy.com
+email: eagleroboticacademy@gmail.com
+twitter: https://twitter.com/EagleRobotic
+instagram: https://instagram.com/eagle_robotic_academy
+facebook: https://www.facebook.com/eagleroboticacademy
+youtube: 
 maker:
   name: "Eagle Robotic Academy"
   description: "Eagle Robotic Academy is a robotics school in Orlando, FL."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px.jpg
 last-modified-db: "2019-09-02 21:12:52"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

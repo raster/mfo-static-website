@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FB_IMG_1569874597964-1-300x172.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FB_IMG_1569874597964-1.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FB_IMG_1569874597964-1.jpg
+website: https://www.cerobots.com
+email: cerobotsinfo@gmail.com
+twitter: https://twitter.com/CeRobots
+instagram: https://www.instagram.com/cerobots/
+facebook: https://www.facebook.com/cerobots
+youtube: https://www.youtube.com/channel/UCRqx36HDy2aYPBiAtoGxCaQ
 maker:
   name: "CE Robots"
   description: "CE Robots is the creative team behind the 2018 BattleBot Kraken. We'll have the old girl on display, so you can see this amazing machine up close. CE Robots will also have some of our smaller machines competing in the combat robot tournament, so check them out for some bone-jarring destruction."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Kracken-Bot-S2018-1140x924-1024x830.jpg
 last-modified-db: "2019-11-06 16:50:53"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

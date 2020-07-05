@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/team-picture-3-300x209.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/team-picture-3.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/team-picture-3.jpg
+website: 
+email: team7579robotsakers@gmail.com
+twitter: https://twitter.com/robotsakers
+instagram: https://www.instagram.com/robotsakers7579/
+facebook: 
+youtube: 
 maker:
   name: "FTC Team #7579 RobotSakers"
   description: "RobotSakers was launched as a FIRST Tech Challenge program by a group of students with an interest in engineering and robotics.  Our team’s mission is to inspire young people to become leaders in Science, Technology, Engineering, and Mathematics by developing partnerships with industry professionals to solve annual engineering challenges put forth by FIRST.  We are building a foundation of technical skills, social skills, and values to create leaders in the STEM community."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Robotsakers-logo.png
 last-modified-db: "2019-10-29 13:22:23"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

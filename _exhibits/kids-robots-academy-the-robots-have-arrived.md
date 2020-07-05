@@ -21,6 +21,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
+website: https://www.kidsrobotacademy.com/home.html
+email: jduteau@kidsrobotacademy.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "KIDS ROBOTS ACADEMY and THE ROBOTS SHOP"
   description: "The robotic age has arrived 
@@ -34,5 +40,5 @@ team-building environment, and thus generating intense interest and excitement f
 Note : The Robots Shop Opening soon In Orlando and Miami"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

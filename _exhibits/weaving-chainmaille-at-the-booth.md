@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201.jpg
+website: http://www.steampunkgarage.com
+email: steampunkgarage@gmail.com
+twitter: http://www.twitter.com/steampunkgarage
+instagram: http://www.instagram.com/steampunkgarage
+facebook: http://www.facebook.com/steampunkgarage
+youtube: 
 maker:
   name: "Steampunk Garage"
   description: "Handmade steel and titanium chainmaille mixed with antique keys, clock parts, construction nails, and recycled stuff."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/store-logojpg-1024x1024.jpg
 last-modified-db: "2019-11-07 20:39:27"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

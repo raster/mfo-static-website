@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker--300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker--1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker-.jpg
+website: https://www.enlightenedmonkeyarts.com/
+email: Ellnhagney@gmail.com
+twitter: 
+instagram: 
+facebook: https://www.facebook.com/dave.gordon.9883/videos/vb.589589549/10154960482359550/?type=2&amp;theater
+youtube: 
 maker:
   name: "Dave Gordon &#8211; Suncoast Makers"
   description:
   image-primary: 
 last-modified-db: "2019-11-04 13:55:36"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

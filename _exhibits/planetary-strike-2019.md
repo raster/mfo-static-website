@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Planetary-Strike-board-game-300x159.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Planetary-Strike-board-game-1024x541.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Planetary-Strike-board-game.jpg
+website: http://www.claimtofamegames.com
+email: mike@claimtofamegames.com
+twitter: 
+instagram: https://www.instagram.com/planetarystrike/
+facebook: http://www.facebook.com/claimtofamegames
+youtube: https://www.youtube.com/channel/UCLD4UUqNEOkaHt3L1D9Z4mw
 maker:
   name: "CLAIM TO FAME GAMES"
   description: "I'm Mike Chouinard, game designer and owner of Claim to Fame Games. Planetary Strike is my first board game, and it took several years of play testing, and tweaking the design and rules until it was perfect. I self-published in August 2015 and Planetary Strike made its debut at Maker Faire Orlando that same year. All items are produced and assembled locally. We've sold over 4,000 games internationally and have received all 5-star reviews on Facebook, as well as a professional critique by Sahm Reviews. We've now taken it to the next level and have been busy developing the digital version of Planetary Strike, coming to an app store near you soon!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Mike-Chouinard-and-Rocky.jpg
 last-modified-db: "2019-10-15 14:05:48"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

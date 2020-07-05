@@ -18,10 +18,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1-300x199.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1-1024x678.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DSC_0681-1.jpg
+website: http://familab.org
+email: web@familab.org
+twitter: https://twitter.com/familab
+instagram: https://instagram.com/familab/
+facebook: https://www.facebook.com/FamiLAB
+youtube: https://www.youtube.com/channel/UCCSm3ddkAXylJWKz_1d9fTw
 maker:
   name: "FamiLAB"
   description: "FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills & tools to improve ourselves and enrich the world around us."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/Top-Logo3.gif
 last-modified-db: "2019-10-29 14:48:27"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:22"
 ---

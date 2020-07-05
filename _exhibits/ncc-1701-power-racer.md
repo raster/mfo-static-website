@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191103_100859528-1-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191103_100859528-1-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191103_100859528-1.jpg
+website: 
+email: harryarmst@gmail.com
+twitter: 
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/user/harryarmst
 maker:
   name: "Harry"
   description: "Mechanical Engineer by education. Enjoys sustainable living projects. Currently have made or installed at my house: Roof mounted solar PV system; Three, 2 axis solar tracking arrays with 9 panels each; Solar hot water system; Solar home heating systems; Solar ovens; Aquaponics system with Tilapia; Chickens; Biodiesel production; normal gardening using dirt; and a 3000 gallon rainwater collection system. Also enjoy hacking things with Arduino. Member of the MakerFX Makerspace which is part of The Maker Effect Foundation, the group that puts on MakerFaire Orlando!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/24171806338_8d800da229_k-1-677x1024.jpg
 last-modified-db: "2019-11-05 08:36:33"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

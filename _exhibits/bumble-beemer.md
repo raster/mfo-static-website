@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/ACTION-SHOT-300x296.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/ACTION-SHOT.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/ACTION-SHOT.png
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Lazy Gecko Racing"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/17835014_1109992515812267_9157395315728724930_o-1024x1024.png
 last-modified-db: "2019-09-08 11:29:53"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

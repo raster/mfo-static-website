@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/natural-log-small-225x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/natural-log-small-768x1024.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/natural-log-small.jpg
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Brian Silverman"
   description: "I've been working on Power Racing Series vehicles for a few years now. This is the first one I led the mechanical side of. I've made custom motor controllers for some of them, and am currently working on the next generation of those.
@@ -19,5 +25,5 @@ maker:
 By day, I'm a software engineer working on autonomous trucks."
   image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-05-07 10:33:41"
+last-exported: "2020-05-07 12:08:23"
 ---

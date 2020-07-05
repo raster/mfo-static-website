@@ -12,6 +12,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-300x225.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-1024x768.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1.jpg
+website: https://www.etsy.com/shop/ThatsSewMcFly
+email: 
+twitter: 
+instagram: http://www.instagram.com/thatssewmcfly
+facebook: https://www.facebook.com/thatssewmcfly
+youtube: 
 maker:
   name: "That&#8217;s Sew McFly"
   description: "Hello and welcome to That's Sew McFly!
@@ -21,5 +27,5 @@ With every purchase from my shop, you are helping a small business grow, and I c
 I work happily from home, surrounded by my loving husband and numerous cats and dogs."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/mewithsign-1.jpg
 last-modified-db: "2019-10-28 13:31:43"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

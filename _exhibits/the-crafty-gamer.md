@@ -12,10 +12,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA-300x298.png
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
+website: http://www.thecraftygamer.com
+email: contact@thecraftygamer.com
+twitter: http://www.twitter.com/craftygamershop
+instagram: http://www.instagram.com/craftygamershop
+facebook: http://www.facebook.com/craftygamershop
+youtube: 
 maker:
   name: "The Crafty Gamer"
   description: "We create tabletop inspired merchandise. Soy Candles, Wax Melts, Reed Diffusers, Room Sprays & Apparel with more items to come."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Logo-Social-1024x1024.png
 last-modified-db: "2019-10-20 12:21:22"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

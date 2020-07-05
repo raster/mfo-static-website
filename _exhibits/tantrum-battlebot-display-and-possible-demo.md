@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Tantrum-Bot-S2018-1140x832-300x219.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Tantrum-Bot-S2018-1140x832-1024x747.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Tantrum-Bot-S2018-1140x832.jpg
+website: https://www.facebook.com/tantrum.battlebot/
+email: Aren@seemsreasonable.net
+twitter: 
+instagram: https://www.instagram.com/tantrum.battlebot/
+facebook: https://www.facebook.com/tantrum.battlebot/
+youtube: https://www.youtube.com/channel/UCwOE9W-W3esrexXpzc8VA_g
 maker:
   name: "Aren Hill"
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-11-06 17:36:31"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---

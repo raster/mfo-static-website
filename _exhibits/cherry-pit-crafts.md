@@ -13,10 +13,16 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2-300x300.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
+website: https://www.cherrypitcrafts.com/
+email: customerservice@cherrypitcrafts.com
+twitter: https://twitter.com/CherryPitCrafts
+instagram: https://instagram.com/cherrypitcrafts/
+facebook: https://www.facebook.com/CherryPitCrafts
+youtube: 
 maker:
   name: "Cherry Pit Crafts"
   description: "Creators of handcrafted all natural bath and body products"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/cherrieslogo.png
 last-modified-db: "2019-10-27 17:00:43"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

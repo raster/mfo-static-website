@@ -13,6 +13,12 @@ image-primary:
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-300x169.jpg
   large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
   full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2.jpg
+website: https://www.jedijill.com/
+email: muccij@burnsscitech.org
+twitter: https://twitter.com/JillsScholars
+instagram: 
+facebook: https://www.facebook.com/burnsscitech.steamlab.5
+youtube: 
 maker:
   name: "JediJill"
   description: "JediJill is Team MISSION SICK's helper, and the S.T.E.A.M. Director for Burns Science and Technology Charter School. She is a Super Silly Scholar and a robot fabricator on Team Kraken-BattleBots.
@@ -20,5 +26,5 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-05-07 10:33:40"
+last-exported: "2020-05-07 12:08:22"
 ---

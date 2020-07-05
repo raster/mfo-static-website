@@ -12,10 +12,16 @@ image-primary:
   medium: 
   large: 
   full: 
+website: 
+email: 
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 maker:
   name: "Chuck Peterson"
   description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
   image-primary: 
 last-modified-db: "2019-10-07 21:44:34"
-last-exported: "2020-05-07 10:33:42"
+last-exported: "2020-05-07 12:08:23"
 ---
