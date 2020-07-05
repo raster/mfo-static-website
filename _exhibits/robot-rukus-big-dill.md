@@ -21,5 +21,5 @@ maker:
     description: "Combat Robotics Team."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
 last-modified-db: "2019-11-06 16:58:36"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

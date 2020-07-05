@@ -21,7 +21,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D.jpeg
 maker:
   - name: "Big Station LLC"
-        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
+    description:
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
 last-modified-db: "2019-09-02 20:39:24"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

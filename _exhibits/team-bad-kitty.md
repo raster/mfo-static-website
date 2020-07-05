@@ -17,5 +17,5 @@ maker:
     description: "International combat robot competitor.  Director of 1500 member Mountie Makerspace in Los Angeles California. "
     image-primary: 
 last-modified-db: "2019-10-08 20:55:28"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

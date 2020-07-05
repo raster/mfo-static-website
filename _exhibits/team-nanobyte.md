@@ -17,5 +17,5 @@ maker:
     description: "This year will be our first attempt at combat robotics.  We will be entering one beetleweight robot (Cybershock) and keeping our fingers crossed that we do pretty good."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Cybershock-3d-1024x744.jpg
 last-modified-db: "2019-11-06 17:30:16"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

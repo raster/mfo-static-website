@@ -17,5 +17,5 @@ maker:
     description: "15lb combat robot neu disko like regular disko but neu "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7C3DC28C-87E0-4C1A-BA5E-69A193CF258E.jpeg
 last-modified-db: "2019-11-06 18:12:21"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

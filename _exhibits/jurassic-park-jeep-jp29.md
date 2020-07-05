@@ -19,5 +19,5 @@ maker:
     description: "Elliot Hansen is a local resident of the Orlando area that has turned his Delores DMC-12 into his all time favorite movie car, Doc Brown's Time Machine. It features many screen accurate details, from the ever popular Flux Capacitor even down to the smallest of details that only a fan of back to the future would notice. He has spent a few years collecting the parts needed for the conversion and spent a few months finally putting it all together in 2016. "
     image-primary: 
 last-modified-db: "2019-09-02 20:04:13"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

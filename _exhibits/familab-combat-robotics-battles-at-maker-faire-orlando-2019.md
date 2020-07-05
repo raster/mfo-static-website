@@ -20,5 +20,5 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
     image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

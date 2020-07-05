@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522.jpg
 maker:
   - name: "Clockwork Alley"
-        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
+    description:
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
 last-modified-db: "2019-10-27 17:47:48"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

@@ -17,5 +17,5 @@ maker:
     description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
     image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

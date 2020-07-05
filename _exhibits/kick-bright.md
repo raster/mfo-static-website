@@ -19,7 +19,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o.jpg
 maker:
   - name: "Kick Bright"
-        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
+    description:
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

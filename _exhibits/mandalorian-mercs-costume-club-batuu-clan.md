@@ -29,5 +29,5 @@ The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mand
 "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

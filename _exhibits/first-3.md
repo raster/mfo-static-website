@@ -17,5 +17,5 @@ maker:
     description: "Exploding Bacon Robotics, is a 4-H club that among other things, participates in FIRST. Our students learn engineering, computer programming, and hands-on machinery skills, as well as the problem solving, strategic thinking, time management, public speaking, teamwork and leadership skills essential in any career. The goal is to inspire and support these youth members to continue on to higher education in trade schools and STEM programs in college."
     image-primary: 
 last-modified-db: "2019-10-26 14:42:37"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

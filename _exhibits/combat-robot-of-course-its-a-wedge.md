@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208.png
 maker:
   - name: "ARC Robotics US"
-        image-primary: 
+    description:
+    image-primary: 
 last-modified-db: "2019-11-06 17:14:00"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

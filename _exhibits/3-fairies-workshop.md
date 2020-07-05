@@ -21,5 +21,5 @@ maker:
     description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
 last-modified-db: "2019-10-27 16:38:26"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

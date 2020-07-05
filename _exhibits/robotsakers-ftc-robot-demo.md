@@ -17,5 +17,5 @@ maker:
     description: "RobotSakers was launched as a FIRST Tech Challenge program by a group of students with an interest in engineering and robotics.  Our team’s mission is to inspire young people to become leaders in Science, Technology, Engineering, and Mathematics by developing partnerships with industry professionals to solve annual engineering challenges put forth by FIRST.  We are building a foundation of technical skills, social skills, and values to create leaders in the STEM community."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Robotsakers-logo.png
 last-modified-db: "2019-10-29 13:22:23"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

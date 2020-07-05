@@ -19,7 +19,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2.jpg
 maker:
   - name: "Ricky Willems"
-        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
+    description:
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

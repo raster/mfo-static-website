@@ -17,5 +17,5 @@ maker:
     description: "Florida Destination Imagination promotes STEAM and project based learning in Florida by supporting Destination Imagination and presenting an annual competition celebrating creative problem solving."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/10-percent-florida-di-logo-2.png
 last-modified-db: "2019-10-28 19:20:46"
-last-exported: "2020-05-07 09:56:29"
+last-exported: "2020-05-07 10:07:18"
 ---

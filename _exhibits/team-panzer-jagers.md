@@ -17,5 +17,5 @@ maker:
     description: "Interested in combat robotics. Member of the team \"Panzer Jagers\""
     image-primary: 
 last-modified-db: "2019-11-06 16:58:26"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

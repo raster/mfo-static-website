@@ -4,6 +4,7 @@ slug: standard-vendor-spot
 id: 37023
 status: 3
 url: 
+excerpt:
 description: "Vendor space selling handmade bags. "
 location: Unassigned
 image-primary:
@@ -16,5 +17,5 @@ maker:
     description: "Handmade purse, bows, bags and more "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
 last-modified-db: "2019-09-09 22:05:03"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

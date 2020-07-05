@@ -21,5 +21,5 @@ maker:
     description: "Ron Czarnik has been programming, making music, building things and taking them apart for most of his life.  He discovered Arduino microcontrollers at Maker Faire a few years back and since that time he has produced an evolving multitude of unique electronic musical instruments.  His work, twice featured on Instructables.com, incorporates many disciplines including decoupage/collage, recycled art, painting, electronics, woodworking, animatronics, music theory, sound synthesis and interface design.  "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/10624680_509397042530769_4044820606179378939_n.jpg
 last-modified-db: "2019-10-27 16:41:09"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

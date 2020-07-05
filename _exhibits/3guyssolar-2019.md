@@ -19,5 +19,5 @@ maker:
     description: "3 Guys Solar is a solar contractor working in central Florida for more than 5 years installing Solar PV Systems."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/08/3-GS-logo.jpg
 last-modified-db: "2019-09-02 20:33:33"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

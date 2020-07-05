@@ -17,5 +17,5 @@ maker:
     description: "Tipsy Robot Racing is a family group of makers who enjoy building and competing in combat robotics and Power Racing Series.  We enjoy designing and fabricating parts in our garage based maker space."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3638-1024x768.jpg
 last-modified-db: "2019-11-06 16:08:06"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

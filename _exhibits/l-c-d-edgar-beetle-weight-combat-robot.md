@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture-1.jpg
 maker:
   - name: "Angel Zamora"
-        image-primary: 
+    description:
+    image-primary: 
 last-modified-db: "2019-11-06 17:07:27"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

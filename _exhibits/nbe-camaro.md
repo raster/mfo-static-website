@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/NBECAMARO.jpg
 maker:
   - name: "DION RENTOS"
-        image-primary: 
+    description:
+    image-primary: 
 last-modified-db: "2019-09-02 19:59:04"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

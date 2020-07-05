@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181104_182925566.jpg
 maker:
   - name: "Mobile Electronic Assault Team"
-        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Rat-Fish-1024x576.jpg
+    description:
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Rat-Fish-1024x576.jpg
 last-modified-db: "2019-11-06 17:37:58"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

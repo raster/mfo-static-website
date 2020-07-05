@@ -17,5 +17,5 @@ maker:
     description: "Ron Giddens grew up in the small town of Adel, Georgia, where whittling on the front porch was a daily activity. Since then, he has perfected his wood working skills and now makes charming wood furniture, and beautiful wood kitchen accessories. His work includes  wine racks, condiment caddy, electronic tablet stand, and other decor items. "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/ron_giddens.jpg
 last-modified-db: "2019-11-01 14:19:55"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

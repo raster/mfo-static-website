@@ -18,5 +18,5 @@ maker:
     description: "A group of middle school teachers with a maker spirit.  Working with 11-14 year-olds requires an outside of the box approach.  We are constantly planning and building things to use with our lessons and activities.  We Make things for our 8th grade lock-in, Science Olympiad, the STEM Academy, and science classes."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
 last-modified-db: "2019-10-26 13:13:31"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:17"
 ---

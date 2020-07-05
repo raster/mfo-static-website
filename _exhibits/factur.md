@@ -22,5 +22,5 @@ Our instructors at Factur teach skills in woodworking, metal working, metal smit
 Our Entrepreneurs can create what you need. Our members consist of Entrepreneurs and DIYers."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/factur-logo-800x800.png
 last-modified-db: "2019-11-07 19:36:44"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

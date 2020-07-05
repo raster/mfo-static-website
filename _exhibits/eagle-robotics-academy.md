@@ -17,5 +17,5 @@ maker:
     description: "We are a private STEM educator that teaches afterschool programs in three OCPS as well as our office on Saturdays in Orlando. All STEM robotic class include a robot students take home. We Teach block programming classes like Sketch and Microbit as well as 3D print, build and make our own robots."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EAGLE-STEMA-1-2-1024x398.png
 last-modified-db: "2019-09-09 20:52:13"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

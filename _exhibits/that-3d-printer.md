@@ -17,5 +17,5 @@ maker:
     description: "Started 3D printing with a Printrbot and fell in love with the technology.  I draw on my engineering and 3D modeling background to produce custom items to print.  Gaming has always been a big influence; most of what I do is related to games.  "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/cropped-t3dp_logotype.jpg
 last-modified-db: "2019-09-09 20:57:22"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

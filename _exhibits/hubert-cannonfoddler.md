@@ -17,5 +17,5 @@ maker:
     description: "I'm a first time builder in the realm of combat robots. I have been a huge fan of combat robot for many years and didn't actually believe that i could do it until seeing 3lb bots at MakerFaire in 2018. I am excited for the chance to check (and continue to check) that of my bucket list."
     image-primary: 
 last-modified-db: "2019-11-06 17:56:37"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

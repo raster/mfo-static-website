@@ -17,5 +17,5 @@ maker:
     description: "Team LOGICOM has been competing in combat robots for almost 20 years. You may have seen our robot, Captain Shrederator, on Discovery Channel's \"Battlebots.\" You may have seen our other robot, Shrederator Tiger Claw, on Youku's \"This is Fighting Robots!\""
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/makers-faire-orlando-2018-1024x424.jpg
 last-modified-db: "2019-11-06 17:22:07"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

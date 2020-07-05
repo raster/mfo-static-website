@@ -17,5 +17,5 @@ maker:
     description: "8 year old JT loves science and technology.  He is excited to enter the world of robots! "
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1142-683x1024.jpg
 last-modified-db: "2019-11-06 16:59:52"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

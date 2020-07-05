@@ -17,5 +17,5 @@ maker:
     description: "Inventors' Council of Central Florida has been in existence for over 40 years.  We offer free information and support to inventors of all ages to help them determine the next step in the development of their ideas."
     image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/20140914-023-OMF-ICCF-S.jpg
 last-modified-db: "2019-11-01 14:31:39"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

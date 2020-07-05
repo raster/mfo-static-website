@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Technocide-Banner-Black-x720.jpg
 maker:
   - name: "TechnoCide"
-        image-primary: 
+    description:
+    image-primary: 
 last-modified-db: "2019-11-06 17:27:38"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

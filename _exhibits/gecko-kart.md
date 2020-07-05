@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o.jpg
 maker:
   - name: "Lazy Gecko"
-        image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
+    description:
+    image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
 last-modified-db: "2019-10-02 20:55:10"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

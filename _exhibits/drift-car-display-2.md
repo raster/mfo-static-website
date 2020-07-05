@@ -14,7 +14,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049.jpeg
 maker:
   - name: "Collin"
-        image-primary: 
+    description:
+    image-primary: 
 last-modified-db: "2019-11-06 17:48:56"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---

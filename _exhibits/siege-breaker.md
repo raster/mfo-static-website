@@ -17,5 +17,5 @@ maker:
     description: "A combat robotics team from Seattle. Team members compete with the robot 'WAR Hawk' on the TV show BattleBots. We strive to meld art and engineering in fighting robots both look good and pack a punch."
     image-primary: 
 last-modified-db: "2019-11-06 17:46:51"
-last-exported: "2020-05-07 09:56:28"
+last-exported: "2020-05-07 10:07:18"
 ---

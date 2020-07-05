@@ -15,7 +15,8 @@ image-primary:
     full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage.jpg
 maker:
   - name: "Dave Gordon &#8211; Suncoast Makers"
-        image-primary: 
+    description:
+    image-primary: 
 last-modified-db: "2019-10-27 16:34:34"
-last-exported: "2020-05-07 09:56:27"
+last-exported: "2020-05-07 10:07:17"
 ---
