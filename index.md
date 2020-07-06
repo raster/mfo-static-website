@@ -26,7 +26,7 @@ carousel-slides:
 ---
 
 {% capture cta_event_text %}{{ site.event_date_descr }} – {{ site.event_location_descr }}{% endcapture %}
-{% include cta-panel-widget.html cta_text=cta_event_text cta_url=site.cta_footer_url %}
+{% include cta-panel-widget.html cta_text=cta_event_text cta_url=site.cta_event_url %}
 
 
 {% include what-is-maker-faire.html %}
