@@ -44,25 +44,7 @@ event_date_descr: December 12th & 13th, 2020
 
 event_location_descr: Central Florida Fairgrounds & Expo Halls
 
-cta_nav_button_text: APPLY TO EXHIBIT!
-cta_nav_button_url: /exhibit-at-maker-faire-Orlando
-
-cta_footer_text: Subscribe for Info!
-cta_footer_url: http://eepurl.com/bpCB8T
-
 contact_email: makers@makerfaireorlando.com
 
 event_year: 2020
 event_name: Maker Faire Orlando
-
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-
-page_gen:
-  - data: 'pets'
-    template: 'pet'
-    name: 'pet_name'
-    dir: 'pets'
-  - data: 'exhibits'
-    template: 'exhibit'
-    name: 'project_name'
-    dir: 'exhibits'
