@@ -1,0 +1,192 @@
+/*
+Theme Name: MFO Wordpress Theme
+Theme URI: http://www.github.com/makerfaireorlando/mfo-wordpress-theme
+GitHub Theme URI: http://www.github.com/makerfaireorlando/mfo-wordpress-theme
+GitHub Branch: master
+Author: Ian Cole (Maker Faire Orlando)
+Author URI: http://www.github.com/digitalman2112
+Description: Take 5 years of modified Coraline, reskin to look like the new Maker Faire Global theme, and keep on hacking
+Version: 0.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mfo-wordpress-theme
+Tags: one-column, custom-menu, editor-style, featured-images, full-width-template, theme-options
+*/
+
+/* fix for sponsor carousel formatting
+ *
+ */
+
+.carousel-inner>.item {
+background:none;
+border:none;
+}
+
+/* fix for CRED form additional images
+ *
+ */
+.wpt-credfile-preview > img {
+    max-height:500px;
+    width: auto;
+}
+
+
+/* center images in the carousel on an exhibit page
+ *
+ */
+.exhibitPhotos .carousel-inner > .item > img {
+    margin: 0 auto;
+    max-height:600px;
+    width: auto;
+}
+
+.exhibitPhotos .carousel-control.left, .carousel-control.right {
+   background-image:none !important;
+   filter:none !important;
+}
+
+.exhibitPhotos .single-image > img {
+    margin: 0 auto;
+    max-height:600px;
+    width: auto;
+}
+
+.exhibit-oembed {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* ensure that content isnt touching footer */
+.gmf-footer {
+ //   margin-top: 40px;
+}
+
+/* this section was in the header of milwaukee, not in the main css
+ * !important was added to overcome load order issue
+ */
+a.btn,
+a.btn-b-ghost {
+	font-size: 120%;
+	color: #FFF;
+	background-color: #005980 !important;
+	border-width: 2px;
+}
+/*end section*/
+
+
+/* overrides */
+/* This hides menu items - I'd rather see them and realize the menu needs to be edited */
+.navbar-nav>li:nth-of-type(1n+7) {
+    /*display: none;*/
+    display: block?
+}
+
+
+/* This causes unneeded breaks in the news page */
+.recent-post-panel .recent-post-post:nth-child(5) {
+    /*clear: both*/
+    clear: none;
+}
+
+/* need a different image source */
+.flag-banner {
+    width: 100%;
+    height: 15px;
+    background-image: url("images/bg-border.png");
+    background-repeat: repeat-x;
+    transform: rotate(180deg);
+}
+
+
+/* STUFF FOR ISOTOPE - NEEDS TO BE CLEANED UP */
+.item {
+  /*width: 25%;*/
+  /*border: 1px solid darkgray;*/
+  background: white;
+  padding-top: 0px;
+  text-align: center;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  border: 1px solid #e5e5e5;
+  min-width: 300px;
+  display:inline-block;
+}
+
+.title-container {
+	max-width: 280px;
+  margin-left:auto;
+  	margin-right:auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.title-container a {
+  font-size: 14px;
+}
+
+.excerpt-container {
+max-width: 270px;
+  margin-left: auto;
+  	margin-right:auto;
+  margin-bottom: 10px;
+}
+.wp-post-image {
+	display: block;
+  	margin-left:auto;
+  	margin-right:auto;
+  	border-radius: 4px 0px 0px 4px;
+  	/* keep woocommerce img class away */
+  	max-width:none !important;
+}
+
+.img-container {
+ //min-height:300px;
+ // height:auto;
+ //padding:10px;
+ display:inline-block;
+}
+
+.img-container a {
+ display:inline-block;
+}
+
+.img-container img {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.button-group {
+  background: rgb(242, 242, 242);
+  padding: 10px;
+  text-align: center;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.exhibits-container {
+margin:20px;
+}
+
+
+//makers search and filter
+
+.exhibits-search row {
+  height: 100px;
+}
+
+.mtm .mtm-search {
+ // min-height: 120px;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.search-filter-label {
+  color:#fff;
+}
+
+#maker-search-input {
+  min-width: 300px;
+}
