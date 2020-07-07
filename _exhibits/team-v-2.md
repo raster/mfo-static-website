@@ -4,13 +4,6 @@ slug: team-v-2
 id: 37963
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
-  - id: 142
-    slug: robotics
-    name: Robotics
 excerpt: "Combat robots"
 description: "Combat robots"
 location: Unassigned
@@ -25,10 +18,18 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 142
+    slug: robotics
+    name: Robotics
+combat-robot: 0
 maker:
   name: "Team V"
   description:
   image-primary: 
 last-modified-db: "2019-10-07 21:32:23"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

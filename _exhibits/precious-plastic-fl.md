@@ -4,10 +4,6 @@ slug: precious-plastic-fl
 id: 39133
 status: 4
 url: https://www.PreciousPlasticLA.com
-categories:
-  - id: 152
-    slug: upcycling
-    name: Upcycling
 excerpt: "Please see my adobe spark presentation for a detailed description of the project.
 
 Essentially it would work like this:
@@ -33,10 +29,15 @@ twitter:
 instagram: http://www.instagram.com/preciousplasticFL
 facebook: http://www.facebook.com/preciousplasticFL/
 youtube: https://www.youtube.com/channel/UCwl1hnB1mRYe4OdF7OWsj2w/featured
+categories:
+  - id: 152
+    slug: upcycling
+    name: Upcycling
+combat-robot: 0
 maker:
   name: "PreciousPlastic.com"
   description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

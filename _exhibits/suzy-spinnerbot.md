@@ -4,10 +4,6 @@ slug: suzy-spinnerbot
 id: 37134
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Fairy weight entry into Robot Ruckus"
 description: "A \"dustpan\" style fairy weight combat robot."
 location: Combat Robots - Small Arena (Spirit)
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: https://www.youtube.com/channel/UCQHKb19P7QWsjfKpHP3cOLg
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Victory Or Dustpan"
   description: "Robot Ruckus fairy weight entry Suzy Spinnerbot."
   image-primary: 
 last-modified-db: "2019-11-06 17:34:02"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

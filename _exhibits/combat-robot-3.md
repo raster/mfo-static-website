@@ -4,10 +4,6 @@ slug: combat-robot-3
 id: 36134
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Part of the Robot Ruckus. Competing in the insect weight class (150g and 3lb weight class)"
 description: "Combat robot for insect weight class. Competing with 2 150g robots and 1 3lb robot.
 1. Scoop (150g) : Lifter
@@ -25,10 +21,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Team Ice"
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

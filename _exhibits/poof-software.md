@@ -4,10 +4,6 @@ slug: poof-software
 id: 34825
 status: 3
 url: http://www.poofsoftware.com
-categories:
-  - id: 116
-    slug: education
-    name: Education
 excerpt: "Learn now to use magic to create awesome software!"
 description: "Learn now to use magic to create awesome software!
 
@@ -24,10 +20,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 116
+    slug: education
+    name: Education
+combat-robot: 0
 maker:
   name: "TEST Driscoll MFO1"
   description: "adafadsfdasfadf"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
 last-modified-db: "2019-10-31 20:34:36"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

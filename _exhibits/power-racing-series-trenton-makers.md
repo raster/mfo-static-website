@@ -4,16 +4,6 @@ slug: power-racing-series-trenton-makers
 id: 38711
 status: 1
 url: 
-categories:
-  - id: 273
-    slug: electric-vehicles
-    name: Electric Vehicles
-  - id: 118
-    slug: electronics
-    name: Electronics
-  - id: 275
-    slug: vehicles
-    name: Vehicles
 excerpt: "The Trenton Makers (Trenton NJ) will race RhomBUS at the Orlando edition of the Power Racing Series"
 description: "The Trenton Makers (Trenton NJ) will race RhomBUS at the Orlando edition of the Power Racing Series. RhomBUS is a 48V electric go-kart powered by a brushless DC motor"
 location: Unassigned
@@ -28,10 +18,21 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 273
+    slug: electric-vehicles
+    name: Electric Vehicles
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 275
+    slug: vehicles
+    name: Vehicles
+combat-robot: 0
 maker:
   name: "Trenton Makers"
   description: "Matt is a mechanical engineering supervisor for an engineering firm in Philadelphia. On the weekends he builds and races electric go karts with the power racing series."
   image-primary: 
 last-modified-db: "2019-10-02 20:57:41"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

@@ -4,13 +4,6 @@ slug: learn-to-solder
 id: 39180
 status: 1
 url: 
-categories:
-  - id: 118
-    slug: electronics
-    name: Electronics
-  - id: 154
-    slug: workshop
-    name: Hands-On Workshop
 excerpt: "Soldering is easy! We'll teach you how!"
 description: "Learn to solder and make your very own light up Makey Pin or level up with our new advanced kit!
 
@@ -27,10 +20,18 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
+combat-robot: 0
 maker:
   name: "Maker Faire Orlando"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/makey.png
 last-modified-db: "2019-10-26 14:26:04"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

@@ -4,10 +4,6 @@ slug: decorative-surf-board
 id: 35281
 status: 1
 url: 
-categories:
-  - id: 112
-    slug: art
-    name: Art
 excerpt: "I'm an resin artist and will be displaying my Original Art works for Sale.I'm also open for commissions.
 
 
@@ -29,11 +25,16 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+combat-robot: 0
 maker:
   name: "Ankita Nagaraju"
   description: "I'm a self taught artist, who like to experiment different art styles and mediums. I'm very much obsessed with fluid styles of art. I like everything about nature, beaches and all that glitters. My inspiration for art comes from nature photography, our travels and google earth.
 I have been making art for last 8 year and got a chance to experiment many art mediums. I would like get my hands on encaustic art sometime soon in the future. "
   image-primary: 
 last-modified-db: "2019-10-27 17:17:22"
-last-exported: "2020-07-07 11:43:22"
+last-exported: "2020-07-07 19:10:00"
 ---

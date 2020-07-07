@@ -4,10 +4,6 @@ slug: power-racer-2
 id: 37543
 status: 1
 url: 
-categories:
-  - id: 275
-    slug: vehicles
-    name: Vehicles
 excerpt: "We are turning an Audi power wheel into a powerful racing machine."
 description: "We are Georgia Southern University's Power Racing Team. We are coming to Orlando to participate in our first power wheels race. We are racing an Audi power wheel."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 275
+    slug: vehicles
+    name: Vehicles
+combat-robot: 0
 maker:
   name: "Eagle Power Racers"
   description: "We are Georgia Southern University's Power Racing Team. We are coming to the Maker Fair to race in the power wheel series."
   image-primary: 
 last-modified-db: "2019-10-14 20:41:44"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

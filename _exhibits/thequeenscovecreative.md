@@ -4,19 +4,6 @@ slug: thequeenscovecreative
 id: 34868
 status: 1
 url: https://www.queenscovecreative.com/
-categories:
-  - id: 112
-    slug: art
-    name: Art
-  - id: 114
-    slug: comics
-    name: Comics
-  - id: 124
-    slug: illustration
-    name: Illustration
-  - id: 148
-    slug: steampunk
-    name: SteamPunk
 excerpt: "An exhibit of illustrations, graphics and fine arts I have created. As well as collector cards I create some of which are licensed by Lucasfilm, Nickelodeon, Netflix, and Topps. I will also do live painting/drawing to show my technique and process. "
 description: "I am a professional fine artist, illustrator, and graphic designer. I have a BFA in Graphic Arts from Marshall University as well as a Masters of Arts in painting and illustration. I work as an independent artist and currently am licensed by Topps where I have had the pleasure of working on multiple cards sets including Star Wars, Stranger Things and Teenage Mutant Ninja Turtles. My work is a mix of traditional subject matter with modern technology. I sell a mix of traditional watercolors, oils, and marker as well as computer-created prints. Most recently I have had work selected by Netflix to be featured in the upcoming Art of Stranger Things artbook that will be released October 15th."
 location: Spirit Building
@@ -31,10 +18,24 @@ twitter:
 instagram: https://www.instagram.com/ljasonqueen/
 facebook: https://www.facebook.com/QueensCoveCreative/
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+  - id: 114
+    slug: comics
+    name: Comics
+  - id: 124
+    slug: illustration
+    name: Illustration
+  - id: 148
+    slug: steampunk
+    name: SteamPunk
+combat-robot: 0
 maker:
   name: "The Queens Cove Creative"
   description: "I am an illustrator, graphic designer and Fine Artist currently working as a independent artist and recently have had artwork licensed by Lucasfilm, Netflix and Nickelodeon for Topps collector card sets. I'll also be featured in the upcoming official Netflix  \"Stranger Things\" artbook published by penguin publishing and the Printed in Blood company."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FinalQueensCovelogo.jpg
 last-modified-db: "2019-11-07 11:38:10"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

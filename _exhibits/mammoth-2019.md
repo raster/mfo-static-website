@@ -4,25 +4,6 @@ slug: mammoth-2019
 id: 37565
 status: 1
 url: https://battlebots.com/robot/mammoth-2019/
-categories:
-  - id: 340
-    slug: battlebot
-    name: BattleBot
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
-  - id: 118
-    slug: electronics
-    name: Electronics
-  - id: 119
-    slug: engineering
-    name: Engineering
-  - id: 122
-    slug: hackerspace
-    name: Hackerspace
-  - id: 142
-    slug: robotics
-    name: Robotics
 excerpt: "Mammoth is a 250lb Combat Robot featured on Discovery Channel's BattleBots. Armed with a rotating arm 6 feet in diameter, Mammoth is likely the largest heavyweight combat robot ever constructed. "
 description: "Mammoth is a 250lb Combat Robot featured on Discovery Channel's BattleBots. Armed with a rotating arm 6 feet in diameter, Mammoth is likely the largest heavyweight combat robot ever constructed. Mammoth will be kicking bot and taking names this year in the Orlando MakerFaire's Robot Ruckus, and the team will be available for pictures and questions when not fighting or repairing. 
 
@@ -42,10 +23,30 @@ twitter: https://twitter.com/mammothrobot?lang=en
 instagram: 
 facebook: https://www.facebook.com/MammothBattlebot/
 youtube: 
+categories:
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 122
+    slug: hackerspace
+    name: Hackerspace
+  - id: 142
+    slug: robotics
+    name: Robotics
+combat-robot: 0
 maker:
   name: "Ricky Willems"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

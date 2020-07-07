@@ -4,13 +4,6 @@ slug: laser-art
 id: 37770
 status: 4
 url: http://www.aldebaran-systems.com
-categories:
-  - id: 112
-    slug: art
-    name: Art
-  - id: 118
-    slug: electronics
-    name: Electronics
 excerpt: "Multi-colored laser projector attached to an analog synthesizer to create laser abstract patterns."
 description: "This is an interactive display where attendees may use a custom analog synthesizer consisting of voltage controlled quadrature oscillators, low frequency oscillators, voltage controlled amplifiers and voltage processors to create unique abstract patterns in laser light."
 location: Unassigned
@@ -25,10 +18,18 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+  - id: 118
+    slug: electronics
+    name: Electronics
+combat-robot: 0
 maker:
   name: "David Zurcher"
   description: "Laser and electronics are my passion. Since working in a planetarium in the mid 1990's I've enjoyed creating art with laser light!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_3133.jpg
 last-modified-db: "2019-10-19 12:57:11"
-last-exported: "2020-07-07 11:43:22"
+last-exported: "2020-07-07 19:10:00"
 ---

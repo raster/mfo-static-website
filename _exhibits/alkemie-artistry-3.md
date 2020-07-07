@@ -4,10 +4,6 @@ slug: alkemie-artistry-3
 id: 36955
 status: 1
 url: http://www.alkemieandartistry.com
-categories:
-  - id: 112
-    slug: art
-    name: Art
 excerpt: "Artwork Lanterns"
 description: "Artwork done with clay, paint, resin, and lit with led fairy lights, placed inside lanterns."
 location: Spirit Building
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: https://www.facebook.com/alkemieandartistry/
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+combat-robot: 0
 maker:
   name: "Alkemie &amp; Artistry"
   description: "Alkemie & Artistry is a husband and wife team that create Artwork Lanterns/"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/AAA-1024x814.jpg
 last-modified-db: "2019-10-27 16:49:45"
-last-exported: "2020-07-07 11:43:22"
+last-exported: "2020-07-07 19:10:00"
 ---

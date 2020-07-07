@@ -4,6 +4,29 @@ slug: kids-robots-academy-the-robots-have-arrived
 id: 35772
 status: 1
 url: https://www.kidsrobotacademy.com/home.html
+excerpt: "Our exhibit will showcase educational and service robots from around the world. 
+Robots will patrol the exhibit, greet and entertain visitors to our booth.
+We will showcase  Intelligent Robots built by our students, Advanced service robots and various educational and Vintage robots 
+from Dr. Duteau private Robot collection.
+Visitors will Meet and SEE the amazing TEMI Home service Robot for the first time in Florida. Imagine !!!!! A real Robot right in your very own home, school or office. TEMI is being called the I Phone of Home service robots.  
+Come see Robotic history in the making."
+description: "Our exhibit will showcase educational and service robots from around the world. 
+Robots will patrol the exhibit, greet and entertain visitors to our booth.
+We will showcase  intelligent Robots built by our students, advanced service robots and various educational and old school robots from Dr. Duteau private Robot collection.
+Visitors will be able to see and interact with real robots.
+They will see the anatomy of a working robot, will be able to play robot soccer and robot balloon jousting with the Mbot Robot."
+location: Opportunity Building
+image-primary:
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
+website: https://www.kidsrobotacademy.com/home.html
+email: jduteau@kidsrobotacademy.com
+twitter: 
+instagram: 
+facebook: 
+youtube: 
 categories:
   - id: 111
     slug: arduino
@@ -53,29 +76,7 @@ categories:
   - id: 143
     slug: software
     name: Software
-excerpt: "Our exhibit will showcase educational and service robots from around the world. 
-Robots will patrol the exhibit, greet and entertain visitors to our booth.
-We will showcase  Intelligent Robots built by our students, Advanced service robots and various educational and Vintage robots 
-from Dr. Duteau private Robot collection.
-Visitors will Meet and SEE the amazing TEMI Home service Robot for the first time in Florida. Imagine !!!!! A real Robot right in your very own home, school or office. TEMI is being called the I Phone of Home service robots.  
-Come see Robotic history in the making."
-description: "Our exhibit will showcase educational and service robots from around the world. 
-Robots will patrol the exhibit, greet and entertain visitors to our booth.
-We will showcase  intelligent Robots built by our students, advanced service robots and various educational and old school robots from Dr. Duteau private Robot collection.
-Visitors will be able to see and interact with real robots.
-They will see the anatomy of a working robot, will be able to play robot soccer and robot balloon jousting with the Mbot Robot."
-location: Opportunity Building
-image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
-website: https://www.kidsrobotacademy.com/home.html
-email: jduteau@kidsrobotacademy.com
-twitter: 
-instagram: 
-facebook: 
-youtube: 
+combat-robot: 0
 maker:
   name: "KIDS ROBOTS ACADEMY and THE ROBOTS SHOP"
   description: "The robotic age has arrived 
@@ -89,5 +90,5 @@ team-building environment, and thus generating intense interest and excitement f
 Note : The Robots Shop Opening soon In Orlando and Miami"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

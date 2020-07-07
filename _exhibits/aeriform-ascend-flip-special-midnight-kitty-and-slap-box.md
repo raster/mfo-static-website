@@ -4,10 +4,6 @@ slug: aeriform-ascend-flip-special-midnight-kitty-and-slap-box
 id: 36727
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "A 1lb, three 30lb, and a 250lb combat robots."
 description: "1lb Midnight Kitty is driven by a 7 year old girl. She has placed as high as 3rd in a competition.
 
@@ -36,10 +32,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Team Already Broke"
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-07-07 11:43:22"
+last-exported: "2020-07-07 19:10:00"
 ---

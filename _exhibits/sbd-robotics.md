@@ -4,16 +4,6 @@ slug: sbd-robotics
 id: 34853
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
-  - id: 134
-    slug: power-racing
-    name: Power Racing
-  - id: 142
-    slug: robotics
-    name: Robotics
 excerpt: "We will have no less than 1 Power Racer with us, and hopefully a 220 lb robot."
 description: "We will have no less than 1 Power Racer with us, and will also have several ant weight combat robots of which most will be for static display.  We will also be bringing some of the tools used for designing and building our projects which again will mostly be for static display."
 location: Robot Ruckus - Small Arena
@@ -28,10 +18,21 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 134
+    slug: power-racing
+    name: Power Racing
+  - id: 142
+    slug: robotics
+    name: Robotics
+combat-robot: 0
 maker:
   name: "Tipsy Robot Racing"
   description: "Tipsy Robot Racing is a family group of makers who enjoy building and competing in combat robotics and Power Racing Series.  We enjoy designing and fabricating parts in our garage based maker space."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3638-1024x768.jpg
 last-modified-db: "2019-11-06 16:08:06"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

@@ -4,10 +4,6 @@ slug: team-push-bot
 id: 36221
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Combat fighting robots 1 lb and 150 gram categories "
 description: "We are Team Push Bot and will be bringing our 1 lb robot Tetanus and our 150 gram robot name Micro Mauler."
 location: Robot Ruckus - Small Arena
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Ian"
   description: "Young builder of combat robots and drones. "
   image-primary: 
 last-modified-db: "2019-11-06 18:00:50"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

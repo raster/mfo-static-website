@@ -4,10 +4,6 @@ slug: combat-robot-2
 id: 36008
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Team Technocide will have three insect class robots including \"Venom\", \"Recon\" and \"KRAWL\"."
 description: "Participating in the Combat Robotics Exhibit."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: https://www.youtube.com/channel/UCslfKen2hz6jJMeQgCzp5bA?view_as=subscriber
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "TechnoCide"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:27:38"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

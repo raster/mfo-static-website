@@ -4,16 +4,6 @@ slug: jax-shack
 id: 35410
 status: 1
 url: 
-categories:
-  - id: 115
-    slug: craft
-    name: Craft
-  - id: 135
-    slug: props
-    name: Props
-  - id: 150
-    slug: talk
-    name: Talk
 excerpt: "self contained workshop and sales room by means of a 6x14ft enclosed trailer"
 description: "trailer is self contained for work and sales to the public and for demonstration purposes"
 location: Unassigned
@@ -28,10 +18,21 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 135
+    slug: props
+    name: Props
+  - id: 150
+    slug: talk
+    name: Talk
+combat-robot: 0
 maker:
   name: "Jax Shack"
   description: "I use recycled horseshoes,   fractal wood art"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2015-pic-passport-1024x1015.jpg
 last-modified-db: "2019-11-01 14:27:48"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

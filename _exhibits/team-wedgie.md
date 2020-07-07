@@ -4,13 +4,6 @@ slug: team-wedgie
 id: 37195
 status: 1
 url: 
-categories:
-  - id: 340
-    slug: battlebot
-    name: BattleBot
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "We like the build and the destroy!"
 description: "What do you get with two beetles and a 12lb combat robot? Pieces of fun!"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -25,10 +18,18 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Todd"
   description: "New to combat robots and ready to build, destroy and repeat."
   image-primary: 
 last-modified-db: "2019-11-06 17:28:14"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

@@ -4,10 +4,6 @@ slug: red-spark-robotics-crash-n-burn-heavyweight-combat-robots
 id: 36603
 status: 1
 url: https://www.redsparkrobotics.ca
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Canadian heavyweight multibot \"Crash n' Burn\" are making the trip to entertain YOU!"
 description: "Crash n' Burn took on Megabyte, Touro Maximus, and Last Rites at RoboGames.
 How will they fare against actual Battlebots?"
@@ -23,10 +19,15 @@ twitter: https://twitter.com/FingerTech_Bots/
 instagram: https://www.instagram.com/fingertech_robotics/
 facebook: https://www.facebook.com/redsparkrobotics/
 youtube: https://www.youtube.com/user/FingerTechRobotics
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Red Spark Robotics"
   description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
 last-modified-db: "2019-11-06 18:09:15"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

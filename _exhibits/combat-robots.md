@@ -4,19 +4,6 @@ slug: combat-robots
 id: 36306
 status: 1
 url: 
-categories:
-  - id: 340
-    slug: battlebot
-    name: BattleBot
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
-  - id: 119
-    slug: engineering
-    name: Engineering
-  - id: 142
-    slug: robotics
-    name: Robotics
 excerpt: "fighting combat robots"
 description: "f  i  g  h  t  i  n  g   c  o  m  b  a  t   r  o  b  o  t  s"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -31,10 +18,24 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 142
+    slug: robotics
+    name: Robotics
+combat-robot: 0
 maker:
   name: "Craig Danby"
   description: "builder of combat robots for Battlebots "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
 last-modified-db: "2019-11-06 18:05:13"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

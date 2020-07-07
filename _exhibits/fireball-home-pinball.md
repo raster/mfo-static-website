@@ -4,13 +4,6 @@ slug: fireball-home-pinball
 id: 34003
 status: 3
 url: http://www.fireballpinball.com
-categories:
-  - id: 111
-    slug: arduino
-    name: Arduino
-  - id: 137
-    slug: raspberry-pi
-    name: Raspberry Pi
 excerpt: "Its a pinball machine. With a Raspberry Pi. We made it. It's awesome."
 description: "It all started when… I saw a Fireball Home edition playfield on eBay locally – I purchased it ($135!) with the intent of lighting the lamps with an Arduino, framing it, and hanging it on the wall of my office. My boys saw it and asked “can you make it play?” – Now this was either an innocent question – or a challenge by my sons. Not one to let a challenge go unanswered, I started thinking about the problem – how hard could it be?
 
@@ -36,10 +29,18 @@ twitter: http://www.twitter.com/raisinggeeks
 instagram: 
 facebook: http://www.facebook.com/fireballpinball
 youtube: 
+categories:
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 137
+    slug: raspberry-pi
+    name: Raspberry Pi
+combat-robot: 0
 maker:
   name: "RaisingGeeks"
   description: "I like to make stuff. Occasionally, that stuff is awesome :')"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/ic_familab_shirt_450x550.png
 last-modified-db: "2019-10-14 21:17:37"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

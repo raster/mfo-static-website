@@ -4,10 +4,6 @@ slug: taco-bug-power-series
 id: 40291
 status: 1
 url: 
-categories:
-  - id: 134
-    slug: power-racing
-    name: Power Racing
 excerpt: "Electric power cart."
 description: "Home built electric power cart built to power racing series specs."
 location: Unassigned
@@ -22,11 +18,16 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 134
+    slug: power-racing
+    name: Power Racing
+combat-robot: 0
 maker:
   name: "Taco Bug &#8211; Power Series"
   description: "This will be our second race ever. 
 Our first race was at the Atlanta 2019 Maker faire. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1024x791.png
 last-modified-db: "2019-10-30 16:25:17"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

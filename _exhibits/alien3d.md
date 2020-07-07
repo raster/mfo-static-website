@@ -4,10 +4,6 @@ slug: alien3d
 id: 37470
 status: 3
 url: https://www.alien3d.us
-categories:
-  - id: 108
-    slug: 3d-printing
-    name: 3D Printing
 excerpt: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
 description: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter: https://www.twitter.com/alienslacker
 instagram: https://www.instagram.com/alienslacker
 facebook: https://www.facebook.com/alien3dus
 youtube: https://www.youtube.com/alien3d
+categories:
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+combat-robot: 0
 maker:
   name: "Alien3D LLC"
   description: "Distributor of UFOs, Unidentified Filament Objects - Monthly Mystery Boxes - 3D Printers, Accessories and Filament"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/alien3d-sba.jpg
 last-modified-db: "2019-09-09 21:53:22"
-last-exported: "2020-07-07 11:43:22"
+last-exported: "2020-07-07 19:10:00"
 ---

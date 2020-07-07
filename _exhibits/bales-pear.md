@@ -4,13 +4,6 @@ slug: bales-pear
 id: 35497
 status: 1
 url: 
-categories:
-  - id: 340
-    slug: battlebot
-    name: BattleBot
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "250 pound fighting robot"
 description: "250 pound fighter plus BattleBot Bale Spear for display"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -25,10 +18,18 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Earl Pancoast"
   description: "Combat robot builder"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/12953188_1167146003309214_1268559014_o-1024x768.jpg
 last-modified-db: "2019-11-06 16:49:32"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:00"
 ---

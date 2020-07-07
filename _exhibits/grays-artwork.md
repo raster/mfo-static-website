@@ -4,13 +4,6 @@ slug: grays-artwork
 id: 36491
 status: 1
 url: 
-categories:
-  - id: 112
-    slug: art
-    name: Art
-  - id: 124
-    slug: illustration
-    name: Illustration
 excerpt: "Gray's exhibit displays a combination of both traditional and digital fan-art."
 description: "Gray is a digital/traditional artist who creates fan-art inspired pieces. Some of those pieces include comic-book characters such as spider-man. Other inspirations are characters of video games, anime, cartoons, and Animated Movies."
 location: Spirit Building
@@ -25,10 +18,18 @@ twitter: https://twitter.com/GrandmastaGray
 instagram: https://www.instagram.com/grandmastagray/?hl=en
 facebook: https://www.facebook.com/Grandmastagray/
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+  - id: 124
+    slug: illustration
+    name: Illustration
+combat-robot: 0
 maker:
   name: "Gray Hollow"
   description: "I'm a Free-lance Illustrator and Comic-Artist. I love to draw Fan-art of comics, videogames,  cartoons, and animated movies.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
 last-modified-db: "2019-11-04 17:50:55"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

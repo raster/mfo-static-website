@@ -4,13 +4,6 @@ slug: clockwork-alley-2017
 id: 37502
 status: 1
 url: https://www.etsy.com/shop/ClockworkAlley?ref=shop_sugg
-categories:
-  - id: 260
-    slug: jewelry
-    name: Jewelry
-  - id: 148
-    slug: steampunk
-    name: SteamPunk
 excerpt: "Handmade steampunk inspired jewelry."
 description: "Handmade steampunk inspired jewelry."
 location: Spirit Building
@@ -25,10 +18,18 @@ twitter:
 instagram: https://www.instagram.com/clockworkalley
 facebook: https://www.facebook.com/Clockwork-Alley
 youtube: 
+categories:
+  - id: 260
+    slug: jewelry
+    name: Jewelry
+  - id: 148
+    slug: steampunk
+    name: SteamPunk
+combat-robot: 0
 maker:
   name: "Clockwork Alley"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
 last-modified-db: "2019-10-27 17:47:48"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:00"
 ---

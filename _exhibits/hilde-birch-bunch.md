@@ -4,6 +4,20 @@ slug: hilde-birch-bunch
 id: 35610
 status: 1
 url: 
+excerpt: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
+description: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
+location: Opportunity Building
+image-primary:
+  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-150x150.jpg
+  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-300x225.jpg
+  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-1024x768.jpg
+  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1.jpg
+website: 
+email: 
+twitter: https://twitter.com/tabinfl
+instagram: 
+facebook: 
+youtube: https://www.youtube.com/user/FLtab
 categories:
   - id: 108
     slug: 3d-printing
@@ -53,24 +67,11 @@ categories:
   - id: 143
     slug: software
     name: Software
-excerpt: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
-description: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
-location: Opportunity Building
-image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1-1024x768.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/45820084_10156851916164727_6746136480793493504_o-1.jpg
-website: 
-email: 
-twitter: https://twitter.com/tabinfl
-instagram: 
-facebook: 
-youtube: https://www.youtube.com/user/FLtab
+combat-robot: 0
 maker:
   name: "HildeBirch Bunch"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/57068569_10157222299064727_7706636900714414080_o-1024x641.jpg
 last-modified-db: "2019-10-29 14:43:44"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

@@ -4,10 +4,6 @@ slug: lift-off
 id: 36715
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Lift Off is a 30lb combat robot. "
 description: "Lift Off is a 30lb combat robot. It features hinged scooplets / dustpan wedge and a lifting arm. "
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: https://www.instagram.com/area51robotics/
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Area 51 Robotics"
   description: "Area 51 Robotics is an educational robotics company based out of Los Angeles. We develop digital curriculum and work with students, teams and schools."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Area-51_dark_240.jpeg
 last-modified-db: "2019-08-25 12:26:11"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

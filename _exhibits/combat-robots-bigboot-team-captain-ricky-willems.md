@@ -4,10 +4,6 @@ slug: combat-robots-bigboot-team-captain-ricky-willems
 id: 34829
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt:
 description: "Mastadon is the largest heavyweight robot ever built."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: http://facebook.com/MammothBattlebot
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Combat Robots &#8211; Mastodon (Team Captain: Ricky Willems)"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 16:10:20"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:00"
 ---

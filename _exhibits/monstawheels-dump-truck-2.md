@@ -4,10 +4,6 @@ slug: monstawheels-dump-truck-2
 id: 38366
 status: 4
 url: 
-categories:
-  - id: 134
-    slug: power-racing
-    name: Power Racing
 excerpt: "Powerwheels Racer created at Familab - All wheel drive - Direct drive at each wheel - Adjustable ride height"
 description: "Formerly my daughters' Big Jake Dump Truck. One owner - Since the 90's."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 134
+    slug: power-racing
+    name: Power Racing
+combat-robot: 0
 maker:
   name: "Chuck Peterson"
   description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
   image-primary: 
 last-modified-db: "2019-10-07 21:44:34"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

@@ -4,10 +4,6 @@ slug: orphiens
 id: 37781
 status: 1
 url: 
-categories:
-  - id: 136
-    slug: puppets
-    name: Puppets
 excerpt: "Orphiens. An invasion of fun for the whole family. Babies from another planet that are in need of adoption on planet earth."
 description: "I'm Marcelino Hoyo, sculptor and mold maker with a passion to make something old school that's fun for kids. Orphiens are dolls / puppets in a toy sling, made with flexible rubber heads, arms and legs and a soft fabric body. Orphiens are capable of many fun facial expressions, making them look realistic and are definitely fun attention getters. for me it has been a 20 year project and feel that Makers Faire would be the right venue to introduce the Orohiens to the world. thank you"
 location: Opportunity Building
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 136
+    slug: puppets
+    name: Puppets
+combat-robot: 0
 maker:
   name: "clonies inc"
   description: "orphiens are dolls / puppet in a toy sling, complete with a full concept story."
   image-primary: 
 last-modified-db: "2019-10-26 12:37:43"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

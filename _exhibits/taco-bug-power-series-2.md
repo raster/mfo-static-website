@@ -4,10 +4,6 @@ slug: taco-bug-power-series-2
 id: 40294
 status: 4
 url: 
-categories:
-  - id: 134
-    slug: power-racing
-    name: Power Racing
 excerpt: "Power wheels racing series."
 description: "Custom built electric race cart."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 134
+    slug: power-racing
+    name: Power Racing
+combat-robot: 0
 maker:
   name: "Erika Bernal, Johnny Bernal, Atlas Bernal, Jake Bernal, and Archie Bernal."
   description: "These are the rest of my children that will help support the race team, Taco Bug, and the exhibit. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-2-1024x791.png
 last-modified-db: "2019-10-30 14:31:04"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

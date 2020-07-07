@@ -4,10 +4,6 @@ slug: gcd-armory
 id: 35337
 status: 1
 url: 
-categories:
-  - id: 135
-    slug: props
-    name: Props
 excerpt: "A showcase of cool unique personalized prop work. "
 description: "Gifted Concepts & Designs will be showcasing some of the unique and custom props they’ve designed. Each with a distinct manner of construction. Combining various materials to make the imagination come to life. "
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 135
+    slug: props
+    name: Props
+combat-robot: 0
 maker:
   name: "Gifted Concepts &amp; Designs"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/1072AA45-42CC-4B3B-8C47-46949F15EF23.png
 last-modified-db: "2019-10-18 17:29:31"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

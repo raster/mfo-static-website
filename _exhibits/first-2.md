@@ -4,22 +4,6 @@ slug: first-2
 id: 34874
 status: 1
 url: http://WWW.team5937.com
-categories:
-  - id: 116
-    slug: education
-    name: Education
-  - id: 119
-    slug: engineering
-    name: Engineering
-  - id: 120
-    slug: first-robotics
-    name: FIRST Robotics
-  - id: 127
-    slug: lego
-    name: LEGO
-  - id: 142
-    slug: robotics
-    name: Robotics
 excerpt: "Renaissance Robotics is a homeschooled, community based FIRST Tech Challenge team that has been competing in the Central Florida area since 2012 . FIRST Tech Challenge is a STEM education program for grades 7-12, using robots playing in a sports type model. FIRST has STEM education opportunities for grades K-12th.
 
 Are you a Jouster? or a Jester? Come see us and test your skill with Renaissance Robotics' new Joust-Bots! Can you beat the Gauntlet?
@@ -45,6 +29,23 @@ twitter: https://twitter.com/Team5937
 instagram: 
 facebook: https://www.facebook.com/Team5937
 youtube: https://www.youtube.com/user/Team5937
+categories:
+  - id: 116
+    slug: education
+    name: Education
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 120
+    slug: first-robotics
+    name: FIRST Robotics
+  - id: 127
+    slug: lego
+    name: LEGO
+  - id: 142
+    slug: robotics
+    name: Robotics
+combat-robot: 0
 maker:
   name: "Renaissance Robotics"
   description: "FIRST Tech Challenge Robotics team.
@@ -55,5 +56,5 @@ Renaissance Robotics has participated in numerous demos and often brings additio
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
 last-modified-db: "2019-11-05 09:09:36"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

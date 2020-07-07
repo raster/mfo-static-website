@@ -4,10 +4,6 @@ slug: wham-bam-systems
 id: 37967
 status: 4
 url: http://www.WhamBamSystems.com
-categories:
-  - id: 108
-    slug: 3d-printing
-    name: 3D Printing
 excerpt: "Live 3d printing and explanations of how 3d printers work with a 3d printed souvenir for the kids to take away. "
 description: "Live 3d printing and explanations of how 3d printers work with a 3d printed souvenir for the kids to take away. Raffles and giveaways with no purchase necessary. Demonstrations of how our products work in live 3d printing situations."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter: https://twitter.com/whambamsystems
 instagram: https://www.instagram.com/whambamsystems
 facebook: https://www.facebook.com/WhamBamSystems
 youtube: https://www.youtube.com/whambamsystems
+categories:
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+combat-robot: 0
 maker:
   name: "Wham Bam Systems"
   description: "We make 3d printing easy, fun, and productive with our 3d printer accessories."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/whambamhorizshadowsmall.jpg
 last-modified-db: "2019-10-21 14:49:41"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:03"
 ---

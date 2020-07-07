@@ -4,28 +4,6 @@ slug: uncle-bos-jerky
 id: 36224
 status: 1
 url: http://www.unclebosjerky.com
-categories:
-  - id: 111
-    slug: arduino
-    name: Arduino
-  - id: 116
-    slug: education
-    name: Education
-  - id: 118
-    slug: electronics
-    name: Electronics
-  - id: 119
-    slug: engineering
-    name: Engineering
-  - id: 193
-    slug: food
-    name: Food
-  - id: 123
-    slug: handmade
-    name: Handmade
-  - id: 267
-    slug: screenprinting
-    name: Screen Printing
 excerpt: "In 2017, we completed a successful KickStarter campaign to help Uncle Bo get USDA approved.
 Last year we passed out samples but didn't have enough product to sell.
 This year we we will be debuting 4 new flavors, and will have plenty of all 8 flavors for sale!"
@@ -49,10 +27,33 @@ twitter:
 instagram: 
 facebook: http://www.facebook.com/pages/Uncle-Bos-Jerky
 youtube: 
+categories:
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 193
+    slug: food
+    name: Food
+  - id: 123
+    slug: handmade
+    name: Handmade
+  - id: 267
+    slug: screenprinting
+    name: Screen Printing
+combat-robot: 0
 maker:
   name: "Uncle Bo"
   description: "about 20 years ago, a friend of the family gave us a food dehydrator, using the recipe that came with the unit I made some Beef jerky. It was awful! It was worse than the generic store bought stuff. As I make my own steak rubs, wing sauces etcetera ... I decided to make my own jerky recipe. After about 6 months of trial and error, I came up with my original recipe jerky. Using this as a base, I have created 7 additional flavors. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Logo-trans-1024x939.png
 last-modified-db: "2019-10-30 16:45:38"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:03"
 ---

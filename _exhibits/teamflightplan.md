@@ -4,10 +4,6 @@ slug: teamflightplan
 id: 36062
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Four supremely awful robots are coming all the way to new york to fail catastrophically right in your home arena!"
 description: "ThunderSnow - 15/30lb front hinged flipper
 Smee - 3lb lifter
@@ -25,10 +21,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "TeamFlightPlan"
   description: "International robot fighting team!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/LogoBlack-1024x172.png
 last-modified-db: "2019-11-06 17:34:29"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

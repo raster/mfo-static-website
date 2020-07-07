@@ -4,10 +4,6 @@ slug: team-get-rekt-at-robot-ruckus-2019
 id: 37035
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Robots:
 BackStabber:Antweight 
 P.F.R (Perfect Fighting Robot):Fairyweight"
@@ -24,10 +20,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: https://www.youtube.com/channel/UC_anZpZVNrWKbURRuYSorPg
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Team Get Rekt Combat Robots"
   description: "We build robots to destroy other robots."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/FDBC1039-0EAC-4A6A-AC22-3C4A018C4894.jpeg
 last-modified-db: "2019-11-06 18:04:28"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

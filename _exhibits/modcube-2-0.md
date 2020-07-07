@@ -4,19 +4,6 @@ slug: modcube-2-0
 id: 37068
 status: 1
 url: http://www.modcube.com
-categories:
-  - id: 108
-    slug: 3d-printing
-    name: 3D Printing
-  - id: 121
-    slug: gaming
-    name: Gaming
-  - id: 330
-    slug: laser-cutting-engraving
-    name: Laser Cutting & Engraving
-  - id: 131
-    slug: manufacturing
-    name: Manufacturing
 excerpt: "ModCube 2.0 is a completely modular, magnetic toy and puzzle system for \"kids\" of all ages! Allowing you to change both the faces of each cube, and the position of the cubes relative to one another, the puzzling possibilities are nearly endless."
 description: "ModCube 2.0 is a completely modular, magnetic toy and puzzle system for \"kids\" of all ages! Allowing you to change both the faces of each cube, and the position of the cubes relative to one another, the puzzling and gaming possibilities are nearly endless. Check out our video below to see it in action!!
 
@@ -33,10 +20,24 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 121
+    slug: gaming
+    name: Gaming
+  - id: 330
+    slug: laser-cutting-engraving
+    name: Laser Cutting & Engraving
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+combat-robot: 0
 maker:
   name: "Steve Garber"
   description: "Steve has always wanted to be an inventor (since he was 5 years old!), and grew up constantly taking things apart and (sometimes) successfully putting them back together. After graduating with a degree in mechanical engineering, his basement became a bit of a mad science lab as he built a 3D printer, then brought in a laser cutter (exhausting through the dryer vent!). He began using them to create all sorts of crazy things, and in 2015 launched the ModCube via Kickstarter to an extremely positive reception - ending up producing tens of thousands of ModCubes, and hundreds of thousands of tokens! Now, after several years secretly beavering away on design and prototyping in \"the lab\", he is ready to show the world the new ModCube 2.0!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/SteveGarberMakerProfilePic3-1.png
 last-modified-db: "2019-10-26 12:34:58"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:02"
 ---

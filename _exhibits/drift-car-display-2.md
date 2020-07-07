@@ -4,10 +4,6 @@ slug: drift-car-display-2
 id: 41093
 status: 1
 url: 
-categories:
-  - id: 275
-    slug: vehicles
-    name: Vehicles
 excerpt: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
 description: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: https://www.instagram.com/barn_built_drifting/
 facebook: https://m.facebook.com/barnbuiltdrifting/
 youtube: 
+categories:
+  - id: 275
+    slug: vehicles
+    name: Vehicles
+combat-robot: 0
 maker:
   name: "Collin"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:48:56"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

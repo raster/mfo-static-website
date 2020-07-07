@@ -4,28 +4,6 @@ slug: fractal-abyss
 id: 37711
 status: 1
 url: http://www.FractalAbyss.com
-categories:
-  - id: 112
-    slug: art
-    name: Art
-  - id: 116
-    slug: education
-    name: Education
-  - id: 118
-    slug: electronics
-    name: Electronics
-  - id: 143
-    slug: software
-    name: Software
-  - id: 146
-    slug: special-effects
-    name: Special Effects
-  - id: 151
-    slug: tools
-    name: Tools
-  - id: 321
-    slug: virtual-reality
-    name: Virtual Reality
 excerpt: "Fractal Art Exhibit by Joseph Presley
 
 Limited edition fine art prints on paper, canvas &amp; metal.
@@ -49,6 +27,29 @@ twitter:
 instagram: 
 facebook: https://www.facebook.com/FractalAbyssDesigns
 youtube: https://www.youtube.com/channel/UCBv1oq9e7pEgnsYcVEIi-Bw
+categories:
+  - id: 112
+    slug: art
+    name: Art
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 143
+    slug: software
+    name: Software
+  - id: 146
+    slug: special-effects
+    name: Special Effects
+  - id: 151
+    slug: tools
+    name: Tools
+  - id: 321
+    slug: virtual-reality
+    name: Virtual Reality
+combat-robot: 0
 maker:
   name: "Fractal Abyss"
   description: "Joseph Presley is a fractal artist based in Bradenton who combines mathematics with modern technology to render multi-layered fractals into
@@ -56,5 +57,5 @@ beautiful and deeply emotional artistic expressions.  He has practiced fractal a
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

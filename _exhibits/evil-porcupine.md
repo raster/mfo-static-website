@@ -4,10 +4,6 @@ slug: evil-porcupine
 id: 36795
 status: 3
 url: http://www.nonabots.com
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Evil Porcupine is a 1 lb. spinnerbot made from lexan and plexiglass."
 description: "Evil Porcupine is a 1 lb. spinnerbot made from lexan and plexiglass."
 location: Unassigned
@@ -22,10 +18,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Hampton and Chadwick Hardee"
   description: "Hampton is in an accelerated first grade class at Northlake Parkway Community School in Lake Nona.  He loves watching Battlebots with his daddy!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Hampy-Daddy-1024x683.jpg
 last-modified-db: "2019-10-11 21:28:27"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

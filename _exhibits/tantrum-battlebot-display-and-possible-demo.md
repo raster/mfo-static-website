@@ -4,10 +4,6 @@ slug: tantrum-battlebot-display-and-possible-demo
 id: 36075
 status: 1
 url: https://www.facebook.com/tantrum.battlebot/
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Come view Tantrum from TV's Battlebots, you may even see it running at 100%, a thing never before seen!
 "
 description: "Team Seems Reasonable from California is excited to bring our Battlebot to show off and hopefully inspire some people to start building more cool things."
@@ -23,10 +19,15 @@ twitter:
 instagram: https://www.instagram.com/tantrum.battlebot/
 facebook: https://www.facebook.com/tantrum.battlebot/
 youtube: https://www.youtube.com/channel/UCwOE9W-W3esrexXpzc8VA_g
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Aren Hill"
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-11-06 17:36:31"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

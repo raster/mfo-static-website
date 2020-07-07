@@ -4,13 +4,6 @@ slug: its-all-geek-to-me
 id: 34881
 status: 3
 url: 
-categories:
-  - id: 112
-    slug: art
-    name: Art
-  - id: 115
-    slug: craft
-    name: Craft
 excerpt: "As two self proclaimed geeks who love fan art, we often found that the art we would see at cons would be out of our price range. We decided we would try to make art that was still high quality but more affordable. Most of our art pieces range from $15 - $25. 
 
 All of our paper art is digitally designed, cut out of paper, and them assembled by hand very carefully with a little bit of glue and sometimes tweezers. This makes each piece a unique work of art!
@@ -35,10 +28,18 @@ twitter:
 instagram: 
 facebook: https://www.facebook.com/itsallgeektomepaperandvinyl
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+  - id: 115
+    slug: craft
+    name: Craft
+combat-robot: 0
 maker:
   name: "It&#8217;s All Geek to Me"
   description: "We are two self proclaimed geeks who love fan art. Often the art we would see at cons would be out of our price range. We decided we would try to make art that was still high quality but more affordable. We DO NOT sell prints. We make and sell LAYERED PAPER ART. All of our paper art is custom designed and assembled. We use high quality outdoor vinyl for all of our vinyl projects and decals."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2018-10-14-10.50.31-1-1024x768.jpg
 last-modified-db: "2019-09-02 21:27:19"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

@@ -4,13 +4,6 @@ slug: robot-rukus-big-dill
 id: 35734
 status: 1
 url: 
-categories:
-  - id: 340
-    slug: battlebot
-    name: BattleBot
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "250lb Combat Robot for Robot Rukus.
 
 "
@@ -29,10 +22,18 @@ twitter:
 instagram: https://www.instagram.com/teamfoodfight/
 facebook: 
 youtube: 
+categories:
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "Team Food Fight"
   description: "Combat Robotics Team."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
 last-modified-db: "2019-11-06 16:58:36"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

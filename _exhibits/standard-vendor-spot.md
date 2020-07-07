@@ -4,16 +4,6 @@ slug: standard-vendor-spot
 id: 37023
 status: 3
 url: 
-categories:
-  - id: 271
-    slug: fabric-arts
-    name: Fabric Arts
-  - id: 270
-    slug: fiber-arts
-    name: Fiber Arts
-  - id: 269
-    slug: sewing
-    name: Sewing
 excerpt:
 description: "Vendor space selling handmade bags. "
 location: Unassigned
@@ -28,10 +18,21 @@ twitter:
 instagram: 
 facebook: https://www.facebook.com/TiffanyMitchellDesigns/
 youtube: 
+categories:
+  - id: 271
+    slug: fabric-arts
+    name: Fabric Arts
+  - id: 270
+    slug: fiber-arts
+    name: Fiber Arts
+  - id: 269
+    slug: sewing
+    name: Sewing
+combat-robot: 0
 maker:
   name: "Tiffany Mitchell Designs"
   description: "Handmade purse, bows, bags and more "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
 last-modified-db: "2019-09-09 22:05:03"
-last-exported: "2020-07-07 11:43:25"
+last-exported: "2020-07-07 19:10:02"
 ---

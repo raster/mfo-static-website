@@ -4,10 +4,6 @@ slug: g3-robotics
 id: 36230
 status: 1
 url: 
-categories:
-  - id: 284
-    slug: combat-robots
-    name: Combat Robots
 excerpt: "Fighting robots"
 description: "Fighting combat robots
 
@@ -24,10 +20,15 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+combat-robot: 0
 maker:
   name: "The Variable Constant"
   description: "Cosplay, Robots, Photography"
   image-primary: 
 last-modified-db: "2019-11-06 18:02:23"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:01"
 ---

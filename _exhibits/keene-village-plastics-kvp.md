@@ -4,10 +4,6 @@ slug: keene-village-plastics-kvp
 id: 38265
 status: 1
 url: https://www.villageplastics.com
-categories:
-  - id: 108
-    slug: 3d-printing
-    name: 3D Printing
 excerpt: "Manufacturer of high quality filaments used in 3D printing.  With over 20 different materials currently available, more in development, and the ability to extrude your materials, no one has the capability or expertise that Keene Village Plastics has in the industry.  1.75MM and 3MM (2.85mm) available."
 description: "One of the original manufacturers of high quality 3D printing filaments and plastic welding rod.  Original suppliers to MakerBot, 3Dsystems, Lulzbot and many others, we have over 15 years of experience making 3D printing filaments.  With over 20 different materials currently available, more in development, and the ability to extrude materials that you provide, no one has the capacity, capability, quality or expertise that Keene Village Plastics has in the industry.  For 3D filaments, 1.75MM and 3MM (2.85mm) are available."
 location: Opportunity Building
@@ -22,10 +18,15 @@ twitter: https://twitter.com/keeneplastics
 instagram: https://Instagram.com/keeneplastics
 facebook: https://www.facebook.com/Keene-Village-Plastics-1527989150595136/
 youtube: 
+categories:
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+combat-robot: 0
 maker:
   name: "Keene Village Plastics (KVP)"
   description: "Manufacturer of high quality filaments used in 3D printing.  With over 15 different materials currently available, more in development, and the ability to extrude your materials, no one has the capability or expertise that Keene Village Plastics has in the industry.  1.75MM and 3MM (2.85mm) available."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KVP-Logo-Large-2017-1024x791.jpg
 last-modified-db: "2019-11-01 14:19:23"
-last-exported: "2020-07-07 11:43:24"
+last-exported: "2020-07-07 19:10:01"
 ---

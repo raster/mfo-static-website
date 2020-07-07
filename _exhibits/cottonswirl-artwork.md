@@ -4,10 +4,6 @@ slug: cottonswirl-artwork
 id: 37599
 status: 1
 url: 
-categories:
-  - id: 112
-    slug: art
-    name: Art
 excerpt: "Character artwork,
 Make your own superhero video game and a make your own  button maker."
 description: "Two grid walls with sellable artwork.
@@ -24,11 +20,16 @@ twitter:
 instagram: 
 facebook: 
 youtube: 
+categories:
+  - id: 112
+    slug: art
+    name: Art
+combat-robot: 0
 maker:
   name: "CottonSwirl Artwork"
   description: "Chibi Character Art
 15 year old Sarah Mae Hubbard designs artwork and video games in her particular chibi style."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CS_Redesign_-_Copy1.jpg
 last-modified-db: "2019-10-27 16:45:59"
-last-exported: "2020-07-07 11:43:23"
+last-exported: "2020-07-07 19:10:00"
 ---
