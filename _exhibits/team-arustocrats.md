@@ -40,5 +40,5 @@ maker:
   description: "Weirdo machinist and engineer who loves making rideable projects, like ebikes and gokarts, using digital design and fabrication."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/profile.jpg
 last-modified-db: "2019-08-17 21:44:58"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

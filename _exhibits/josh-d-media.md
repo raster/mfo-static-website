@@ -40,5 +40,5 @@ maker:
   description: "I am an artist from Tampa FL that creates art using a wide range of mediums, from illustration to computer graphics. In my free time I enjoy making 3D models with Blender, 3D printing, video editing, and playing music with my band."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/profile.jpg
 last-modified-db: "2019-10-27 17:24:35"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

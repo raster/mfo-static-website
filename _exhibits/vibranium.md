@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Doom Squad"
   description: "I've been doing combat robotics for a little under a year. I was lucky enough to build my Fingertech Viper kit at Maker MIA (https://www.facebook.com/makemiamakerspace/) with Team Witch doctor. As of writing this I have taken part in 3 different competitions and took second twice and third once. I enjoy watching combat robotics on TV and enjoy it."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/vibranium-purple-square-1024x768.jpg
 last-modified-db: "2019-11-06 17:19:05"
-last-exported: "2020-07-07 19:10:03"
+last-exported: "2020-07-07 19:11:55"
 ---

@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Colin Holzemer"
   description: "Huge fan of Battlebots fighting his brand new SkyLift robot in the Antweight division.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/ColinPic.jpg
 last-modified-db: "2019-11-06 18:07:33"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

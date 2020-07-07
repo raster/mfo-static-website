@@ -42,5 +42,5 @@ maker:
 I grew up in the wilds of central Florida, surrounded by an array of interesting reptiles that piqued my interest in the fantastic reptilian creatures known as dragons. For as long as I can remember I have had a love for dragons and fantasy creatures and that has always been depicted in my art. Art has always been my focus and I excelled in my studies in school winning several awards in art shows and through college where I studied fine art. Since 2013 I have been selling my handmade figurines on Etsy."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dragonprofile.jpg
 last-modified-db: "2019-11-04 13:16:37"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

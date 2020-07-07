@@ -43,5 +43,5 @@ maker:
   description: "Hitodama dabbles in various arts and crafts."
   image-primary: 
 last-modified-db: "2019-07-22 21:24:15"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

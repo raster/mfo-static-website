@@ -52,11 +52,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Bone Dead Robotics"
   description: "We are a combat robotics team who builds and competes fighting robots. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

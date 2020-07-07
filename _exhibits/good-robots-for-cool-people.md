@@ -31,11 +31,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Good Robots for Cool People"
   description: "Good Robots for Cool People (Formerly Team Poor Life Choices) has competed in various robot competitions since 2001. Most recently we went on Battlebots with \"Battle Royale With Cheese\" a 250 cheese burger! We have two new robots we are bringing to Orlando to compete in Robot Ruckus! "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/31886606_628554060838846_2143054192393060352_n.jpg
 last-modified-db: "2019-10-11 21:33:10"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

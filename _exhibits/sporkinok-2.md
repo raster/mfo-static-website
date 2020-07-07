@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Lilith Specht"
   description: "Lilith has been making combat robots since 2003 after seeing it on Comedy Central's BattleBots. From the one pound Antweights, all the way to the 250 pound Heavyweights, she has made them all! She's entirely self-taught in a slew of mechanical things; She can weld, machine, design, and generally fabricate. Her favorite material is steel and her favorite color is grease."
   image-primary: 
 last-modified-db: "2019-11-05 15:17:08"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

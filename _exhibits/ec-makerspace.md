@@ -67,5 +67,5 @@ maker:
   description: "The EC MakerSpace provides a place for students, faculty, and other members of the Eckerd College community to embrace their creativity and develop new skills in an environment conducive to independent thought and innovation. We have students experienced in woodworking, blacksmithing, 3D-printing, coding, and much more! Through office hours, workshops, and other events, the EC MakerSpace gives students a place to explore their interests while gaining hands-on experience in a wide variety of fields."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/ecms-logo-1.jpg
 last-modified-db: "2019-10-26 12:48:40"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

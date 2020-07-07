@@ -69,5 +69,5 @@ maker:
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

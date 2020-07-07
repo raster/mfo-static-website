@@ -34,11 +34,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Victor Soto"
   description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
   image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

@@ -25,11 +25,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Mario Jayes"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

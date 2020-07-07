@@ -32,5 +32,5 @@ maker:
   description: "Opera sings to every heart, connecting us to our history, to our humanity, and to our community. It is Opera Orlando’s privilege and responsibility to carry on opera’s legacy by sharing emotionally compelling and unique stories. We strive to introduce audiences new and old to the beauty and splendor of the greatest of all art forms."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/09CABE7C-49FA-4258-8651-5AFEBA1031DD.jpeg
 last-modified-db: "2019-10-27 16:28:31"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

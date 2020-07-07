@@ -28,5 +28,5 @@ maker:
   description: "Team Witch Doctor is based in Miami, Florida, and most recently competed in BattleBots on ABC with their multi-bot Witch Doctor and Shaman. The team has been competing combat robots ranging from 150 grams to 250 pounds for the last 10+ years."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Witch-Doctor-Team-S2019-1024x683.jpg
 last-modified-db: "2019-11-05 21:01:00"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

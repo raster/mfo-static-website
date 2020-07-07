@@ -55,5 +55,5 @@ Check out Mad Science online at CFL.MadScience.org. Call today and find out just
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/MixedColorLogo-Small.png
 last-modified-db: "2019-10-26 12:51:00"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

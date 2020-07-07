@@ -34,5 +34,5 @@ maker:
   description: "I am an illustrator and comic book artists! I regularly create licensed artwork for properties such as; Star Wars, Spider-Man Homecoming, Stranger Things, Ant-Man 2, and many more. I'm currently working for Marvel Comics, Topps, Upper Deck, Cryptozoic Ent. and several other companies. I also create commissions for clients and fans from all over the world. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Matt-Sutton-300x225.jpeg
 last-modified-db: "2019-11-04 17:25:09"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

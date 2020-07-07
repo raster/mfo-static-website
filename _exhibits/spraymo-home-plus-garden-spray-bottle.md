@@ -38,5 +38,5 @@ maker:
   description: "Mario de la Guardia has over 2 decades of product development experience including several patents."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
 last-modified-db: "2019-10-26 12:39:17"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

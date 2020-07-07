@@ -36,11 +36,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team Already Broke"
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:52"
 ---

@@ -58,5 +58,5 @@ maker:
 Soon after graduation, he decided to move to Florida to be a part of the Space Program. He helped in some small part with designing Printed Circuit Boards, Solar panels, pumps and valves used in the three main engines of Space Shuttle.  later employed by General Dynamics, he worked on production of US Army Camouflage nets, followed by US military Chemical and Biological Warfare  equipment. His passion through out his career has been Ham Radio and digital electronic design - it is what he still does today.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/KenW1HV_Portrait_2019ok-1024x866.jpg
 last-modified-db: "2019-10-16 20:12:56"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

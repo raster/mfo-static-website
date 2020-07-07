@@ -31,5 +31,5 @@ maker:
   description: "We create tabletop inspired merchandise. Soy Candles, Wax Melts, Reed Diffusers, Room Sprays & Apparel with more items to come."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Logo-Social-1024x1024.png
 last-modified-db: "2019-10-20 12:21:22"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

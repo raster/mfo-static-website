@@ -23,11 +23,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Aren Hill"
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-11-06 17:36:31"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

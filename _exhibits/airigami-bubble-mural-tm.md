@@ -39,5 +39,5 @@ maker:
   description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:52"
 ---

@@ -25,11 +25,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team XD &#8211; Combat Robots"
   description: "Competing with a 3HP 30lb Hammer/Lifter in the 30lb sportsman class, and hoping to bring our 250lb Battlebot flipper SubZero"
   image-primary: 
 last-modified-db: "2019-11-06 17:16:43"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

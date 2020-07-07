@@ -25,11 +25,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team Ice"
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

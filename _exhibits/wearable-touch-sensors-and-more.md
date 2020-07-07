@@ -39,5 +39,5 @@ maker:
   description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
   image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-07-07 19:10:03"
+last-exported: "2020-07-07 19:11:55"
 ---

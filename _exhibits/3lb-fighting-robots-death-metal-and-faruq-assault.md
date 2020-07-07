@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Riffs of Wrath Robotics"
   description: "Builder of fighting robots large and small"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
 last-modified-db: "2019-11-06 17:31:24"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

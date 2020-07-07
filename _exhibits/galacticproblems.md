@@ -33,5 +33,5 @@ maker:
   description: "I'm a digital illustrator who loves cartoons, space, and colorful character design!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/spacegirliconforuse.png
 last-modified-db: "2019-11-04 17:29:21"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

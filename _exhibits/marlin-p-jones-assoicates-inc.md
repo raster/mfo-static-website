@@ -40,5 +40,5 @@ maker:
   description: "We are an electronic company that works with hobbyist  and Makers with parts and supplies. We have kits for the kids to create there own items. We supply soldering irons and accessories for the kid to learn how to solder and work with electronics. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/63019_391470484283765_520449786_n.jpg
 last-modified-db: "2019-10-26 13:36:56"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

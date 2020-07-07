@@ -40,5 +40,5 @@ maker:
   description: "DuinoKits were developed by a teacher looking to help teach kids about electronics and coding using Arduino."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
 last-modified-db: "2019-11-05 15:22:13"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

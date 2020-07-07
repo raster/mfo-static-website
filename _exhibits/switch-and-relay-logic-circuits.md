@@ -55,5 +55,5 @@ maker:
   description: "An electronics engineer with an interest in old-school switching logic."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
 last-modified-db: "2019-10-27 16:54:07"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

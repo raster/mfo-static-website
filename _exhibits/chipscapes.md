@@ -55,5 +55,5 @@ I am grateful for the support I have received and the opportunities that I have 
 We can live our lives ignoring the beauty all around us and just see gray, but I choose to seek out beauty and share it with others. I hope to inspire people to find the art in all that they do. After all, even in the coldness of technology, we can find beauty, if we just look for it."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Steve-Winter-Park-Magazine_Smiling.jpg
 last-modified-db: "2019-10-27 16:53:06"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

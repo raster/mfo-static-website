@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Alek Fecteau"
   description: "I am a 15-year-old high school student who recently got into robot combat."
   image-primary: 
 last-modified-db: "2019-11-06 17:57:48"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

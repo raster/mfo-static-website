@@ -80,5 +80,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-27 17:35:46"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

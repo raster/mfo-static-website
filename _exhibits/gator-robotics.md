@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Gator Robotics"
   description: "Robotics club that builds combat robots."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n.jpg
 last-modified-db: "2019-10-13 10:52:26"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

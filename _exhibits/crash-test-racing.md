@@ -28,5 +28,5 @@ maker:
   description: "My dad and I started to participate in Makerfaire in 2015. We loved the different robotics and creations made by the exhibitors and decided to take part in the Power Racing Series race. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Crash-test-1024x864.jpg
 last-modified-db: "2019-10-20 12:20:22"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

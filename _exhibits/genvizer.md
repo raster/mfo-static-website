@@ -82,5 +82,5 @@ maker:
   description: "specializes in 3D animation technology for video games and virtual reality products."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/20170601_083609-1024x768.jpg
 last-modified-db: "2019-11-05 15:26:03"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

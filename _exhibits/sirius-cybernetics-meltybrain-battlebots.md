@@ -39,11 +39,11 @@ categories:
   - id: 143
     slug: software
     name: Software
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Sirius Cybernetics"
   description: "A combat robotics team specializing in meltybrain spinners."
   image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

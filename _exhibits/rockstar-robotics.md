@@ -46,12 +46,12 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Rockstar Robotics"
   description: "We are a FIRST team located here in Pinehills area.
 We would like to present our robots from our team."
   image-primary: 
 last-modified-db: "2019-11-02 11:47:01"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

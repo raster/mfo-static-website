@@ -31,5 +31,5 @@ maker:
   description: "I'm a Free-lance Illustrator and Comic-Artist. I love to draw Fan-art of comics, videogames,  cartoons, and animated movies.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
 last-modified-db: "2019-11-04 17:50:55"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

@@ -40,5 +40,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

@@ -40,5 +40,5 @@ maker:
   description: "I am Maker of all things Geek and quirky.  I paint on quarry stone using a wide variety of mediums: POSCA paint pens, Chameleon Alcohol Ink Blenders, and Derwent Inktense. Marrying these products together gives my work a unique folk art feel, so you see each item is handmade and not manufactured.  I am a longtime FIRST Robotics coach and LEGO enthusiast and member of the Greater Florida LEGO Users Group.  Stop by and meet and MAKE with me!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-29-at-8.31.06-AM.png
 last-modified-db: "2019-11-06 10:49:44"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

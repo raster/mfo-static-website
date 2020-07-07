@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team X"
   description: "Combat robot builders."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2DBBE9DE-D5FA-46BA-AE4F-CAC10D5EEFA4.jpeg
 last-modified-db: "2019-11-06 17:01:29"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

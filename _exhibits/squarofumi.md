@@ -52,5 +52,5 @@ maker:
   description: "Squarofumi was founded in 2009, focused on delivering technology products and services. Founded by a group of art and technology enthusiasts, Squarofumi aims to deliver unique experiences and quality products through design engineering and thinking outside the box."
   image-primary: 
 last-modified-db: "2019-10-26 13:33:25"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

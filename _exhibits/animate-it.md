@@ -37,5 +37,5 @@ maker:
   description: "I make animated cakes for children dying with cancer. For example, if I make a dog cake, the mouth opens and closes and barks, the paws tap, the ears wiggle and the tail wags. For a dragon, the wings flap, the mouth opens and roars, the tail wags and the claws move."
   image-primary: 
 last-modified-db: "2019-11-07 14:29:57"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:52"
 ---

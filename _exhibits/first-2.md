@@ -56,5 +56,5 @@ Renaissance Robotics has participated in numerous demos and often brings additio
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
 last-modified-db: "2019-11-05 09:09:36"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

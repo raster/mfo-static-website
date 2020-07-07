@@ -30,5 +30,5 @@ maker:
   description: "We are a group of glass crafters who enjoy working together on projects in our studio. Stained glass, fused glass and mosaics are some of the basic techniques employed and we continue to expand our knowledge about the craft and enjoy sharing this with those interested in trying a new craft.  We believe in upcycling window and bottle glass that would end up in landfills, into beautiful art that can be used in everyday life."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_1394.jpg
 last-modified-db: "2019-10-27 16:46:46"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

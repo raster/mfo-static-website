@@ -28,11 +28,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "HyperShock &#8211; Battlebots"
   description: "We competed on Discovery's BattleBots with our award-winning robot, HyperShock!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/HyperShock-Team-S2019-1-1024x683.jpg
 last-modified-db: "2019-11-06 16:16:33"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

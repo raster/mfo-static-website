@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team Overboard"
   description: "A combat robotics team from California is ready to see what the East Coast is all about."
   image-primary: 
 last-modified-db: "2019-11-06 17:29:17"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

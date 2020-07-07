@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Victory Or Dustpan"
   description: "Robot Ruckus fairy weight entry Suzy Spinnerbot."
   image-primary: 
 last-modified-db: "2019-11-06 17:34:02"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

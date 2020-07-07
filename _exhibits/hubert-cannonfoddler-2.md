@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Sean L (Hubert&#8217;s builder)"
   description: "I'm a first time builder in the realm of combat robots. I have been a huge fan of combat robot for many years and didn't actually believe that i could do it until seeing 3lb bots at MakerFaire in 2018. I am excited for the chance to check (and continue to check) that of my bucket list."
   image-primary: 
 last-modified-db: "2019-10-07 21:32:46"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

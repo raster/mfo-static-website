@@ -34,5 +34,5 @@ maker:
   description: "Maker and 3D printer. I own several printer ranging from inexpensive to more expensive. I consider myself to be of Intermedite to Advanced  skill level."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2B39041E-58DB-49B7-9033-7321E988877F-779x1024.jpeg
 last-modified-db: "2019-09-09 20:45:56"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:52"
 ---

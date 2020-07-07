@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team Loki"
   description: "Team Loki has been building combat robots since 2001."
   image-primary: 
 last-modified-db: "2019-11-06 17:21:28"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

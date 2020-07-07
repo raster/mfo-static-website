@@ -31,5 +31,5 @@ maker:
   description: "Andy Geremia is a father of three and always makes time to play games. He is sales engineer by day and a board game designer the rest of the time!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Headshot-852x1024.png
 last-modified-db: "2019-10-26 13:01:44"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

@@ -42,5 +42,5 @@ maker:
 By day, I'm a software engineer working on autonomous trucks."
   image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

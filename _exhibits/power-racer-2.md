@@ -28,5 +28,5 @@ maker:
   description: "We are Georgia Southern University's Power Racing Team. We are coming to the Maker Fair to race in the power wheel series."
   image-primary: 
 last-modified-db: "2019-10-14 20:41:44"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

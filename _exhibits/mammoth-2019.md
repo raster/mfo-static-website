@@ -42,11 +42,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Ricky Willems"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

@@ -28,11 +28,11 @@ categories:
   - id: 332
     slug: metalworking
     name: Metalworking
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "ARC Robotics US"
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:14:00"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

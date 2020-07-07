@@ -42,5 +42,5 @@ Rayvenwoodmanor has had wonderful opportunities to design items gifted especiall
 Rayvenwoodmanor Jewelry has been seen on Season 5 of \"The Vampire Diaries\" on the CW Network, an episode of \"Hart of Dixie\" on on the CW Network and seen on celebrities like the infamous Psychedelic Furs, American Actress / Producer / Writer Stephanie Drapeau, Actor Alexander Polinsky, and Actress Candy Washington. Our jewelry was also showcased included in The Artisan Group® press swag bags at GBK’s Gift Lounges for the 2014 and the 2015 Prime Time Emmys. Other Rayvenwoodmanor jewelry pieces have been gifted to various television shows and celebrities through unique opportunities with the The Artisan Group®. "
   image-primary: 
 last-modified-db: "2019-09-09 21:59:30"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

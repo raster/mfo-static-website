@@ -25,11 +25,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team V"
   description:
   image-primary: 
 last-modified-db: "2019-10-07 21:32:23"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

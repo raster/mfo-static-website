@@ -25,11 +25,11 @@ categories:
   - id: 130
     slug: makerspace
     name: Makerspace
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Martin Mason"
   description: "International combat robot competitor.  Director of 1500 member Mountie Makerspace in Los Angeles California. "
   image-primary: 
 last-modified-db: "2019-10-08 20:55:28"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

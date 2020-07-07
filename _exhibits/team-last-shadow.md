@@ -25,11 +25,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Norman"
   description: "Im 15 I go to brhs and building stuff and flying quads is my hobby."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/logo-1024x1024.png
 last-modified-db: "2019-11-06 18:09:59"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

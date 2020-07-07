@@ -28,11 +28,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team Bad Ideas"
   description: "A combat robotics team from Seattle. Team members compete with the robot 'WAR Hawk' on the TV show BattleBots. We strive to meld art and engineering in fighting robots both look good and pack a punch."
   image-primary: 
 last-modified-db: "2019-11-06 17:46:51"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:55"
 ---

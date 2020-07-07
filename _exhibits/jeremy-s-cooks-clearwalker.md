@@ -46,5 +46,5 @@ maker:
   description: "Jeremy is an engineer with over 10 years experience in manufacturing automation, and has a BSME from Clemson University. Now he writes about technology and makes interesting contraptions, building anything that comes into his mind!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/05/profile-pic-jcook-1024x1024.jpg
 last-modified-db: "2019-10-26 12:45:51"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:54"
 ---

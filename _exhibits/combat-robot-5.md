@@ -25,11 +25,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Combat robots/ Don Doerfler Brutus robotics"
   description: "15lb combat robot neu disko like regular disko but neu "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7C3DC28C-87E0-4C1A-BA5E-69A193CF258E.jpeg
 last-modified-db: "2019-11-06 18:12:21"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

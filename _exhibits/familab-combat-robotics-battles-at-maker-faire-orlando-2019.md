@@ -23,7 +23,7 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "JediJill"
   description: "JediJill is Team MISSION SICK's helper, and the S.T.E.A.M. Director for Burns Science and Technology Charter School. She is a Super Silly Scholar and a robot fabricator on Team Kraken-BattleBots.
@@ -31,5 +31,5 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:53"
 ---

@@ -27,11 +27,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Team Gruff"
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Gruff-Team-S2019-1024x683.jpg
 last-modified-db: "2019-11-06 18:08:14"
-last-exported: "2020-07-07 19:10:01"
+last-exported: "2020-07-07 19:11:53"
 ---

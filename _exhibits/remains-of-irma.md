@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Fracture Mechanics"
   description: "Two engineers that like to make things as much as calculate things"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
 last-modified-db: "2019-10-13 10:45:01"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

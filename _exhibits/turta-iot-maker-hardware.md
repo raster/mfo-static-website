@@ -52,5 +52,5 @@ maker:
   description: "We are makers who create development boards for other makers. Our team created development hardware mainly for maker community. We have numbers of devices that can be used for community events such as hackatons. We also have been participated in other maker faires such as New York Maker Faire and Bay Area Maker Faire. We also organized Istanbul Maker Faires 3 years in row."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-Logo-Sq-2000px-1024x1024.png
 last-modified-db: "2019-10-26 12:39:59"
-last-exported: "2020-07-07 19:10:03"
+last-exported: "2020-07-07 19:11:55"
 ---

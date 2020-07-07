@@ -25,11 +25,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Kwin-alt"
   description: "Son (and father) amateur team. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
 last-modified-db: "2019-11-06 18:01:32"
-last-exported: "2020-07-07 19:10:03"
+last-exported: "2020-07-07 19:11:55"
 ---

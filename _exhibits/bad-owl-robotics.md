@@ -22,11 +22,11 @@ categories:
   - id: 284
     slug: combat-robots
     name: Combat Robots
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Bad Owl Robotics"
   description: "I am an educator at Florida Atlantic University's A.D. Henderson School working to bring low-cost combat robotics to the 6-12 grade levels in public school.  My daughters are makers and will be campaigning their own robot. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
 last-modified-db: "2019-11-06 18:11:41"
-last-exported: "2020-07-07 19:10:00"
+last-exported: "2020-07-07 19:11:52"
 ---

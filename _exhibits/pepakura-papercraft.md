@@ -45,5 +45,5 @@ maker:
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---

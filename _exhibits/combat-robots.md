@@ -31,11 +31,11 @@ categories:
   - id: 142
     slug: robotics
     name: Robotics
-combat-robot: 0
+combat-robot: 1
 maker:
   name: "Craig Danby"
   description: "builder of combat robots for Battlebots "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
 last-modified-db: "2019-11-06 18:05:13"
-last-exported: "2020-07-07 19:10:02"
+last-exported: "2020-07-07 19:11:54"
 ---
