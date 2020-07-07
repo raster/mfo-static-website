@@ -4,6 +4,8 @@ slug: kumihimo-ancient-art-for-tomorrows-technology
 id: 36480
 status: 1
 url: 
+categories:
+  - Craft
 excerpt: "Kumihimo - the ancient Japanese art of braiding - provides products for many modern applications. Try your hand at creating a braid using traditional equipment."
 description: "Since the days of the samurai, Japanese craftsmen have used five types of custom stands to create a variety of braided cords that serve many different purposes. Learn more about both modern and ancient applications and try your hand at using the most basic of the five stands: the maru dai."
 location: Curiosity Building
@@ -23,5 +25,5 @@ maker:
   description: "Carol Franklin is an internationally-acclaimed fiber artist and teacher living in Orlando, Florida. Practicing the ancient Japanese fiber craft of kumihimo (literally \"coming together of threads\") for nearly two decades, she has lectured, taught and exhibited work in Japan and throughout North America. Carol's work ranges from creating vivid images through joined braids to making rich jewelry combining silk, precious metals, glasswork and gems. Her teaching focuses on making this deeply Japanese form accessible to North American students. She is a Founding Member of the American Kumihimo Society and serves on its Advisory Council."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/headshot.jpg
 last-modified-db: "2019-10-31 18:54:49"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

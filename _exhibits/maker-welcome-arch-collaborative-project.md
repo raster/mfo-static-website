@@ -4,6 +4,8 @@ slug: maker-welcome-arch-collaborative-project
 id: 39085
 status: 1
 url: 
+categories:
+  - Maker Community
 excerpt: "We will be erecting a 15' wide by 10' tall archway welcoming makers and attendees, we invite you to help make it pretty!"
 description: "We will be erecting a 15' wide by 10' tall truss archway welcoming makers and attendees, we invite you to help make it pretty!  Bring your additions to the arch and attach them via cable ties so we have a beautiful maker made entrance way.
 
@@ -25,5 +27,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-07 14:15:14"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

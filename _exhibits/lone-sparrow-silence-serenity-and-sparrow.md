@@ -4,6 +4,9 @@ slug: lone-sparrow-silence-serenity-and-sparrow
 id: 37816
 status: 1
 url: 
+categories:
+  - Combat Robots
+    Robotics
 excerpt: " Beetleweight and  Antweight combat robots competing at the Battles at Maker Faire Orlando 2018. "
 description: "2 combat robots build by a teenager with a passion for robotics. If not in competition these robots will be open for examination by others."
 location: Robot Ruckus - Small Arena
@@ -23,5 +26,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

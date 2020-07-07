@@ -4,6 +4,15 @@ slug: becoming-a-ham-radio-operator-or-short-wave-listener
 id: 39589
 status: 1
 url: 
+categories:
+  - Automation
+    Education
+    Electronics
+    Engineering
+    Hands-On Workshop
+    Manufacturing
+    Science Fair
+    Software
 excerpt: "Basic introduction to electronics for Junior and Senior High School students looking for a career choice."
 description: "It is never too early for students to start looking for a career choice well before graduating from High School.  The choices are endless, but some offer opportunities that few could hope to experience.  A professional career in business entrepreneurship or technical fields is a choice few would consider, but offers an exciting life experience.
 
@@ -32,5 +41,5 @@ maker:
 Soon after graduation, he decided to move to Florida to be a part of the Space Program. He helped in some small part with designing Printed Circuit Boards, Solar panels, pumps and valves used in the three main engines of Space Shuttle.  later employed by General Dynamics, he worked on production of US Army Camouflage nets, followed by US military Chemical and Biological Warfare  equipment. His passion through out his career has been Ham Radio and digital electronic design - it is what he still does today.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/KenW1HV_Portrait_2019ok-1024x866.jpg
 last-modified-db: "2019-10-16 20:12:56"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

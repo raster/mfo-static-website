@@ -4,6 +4,12 @@ slug: disney-emergency-amateur-radio-service
 id: 37693
 status: 1
 url: http://wd4wdw.org
+categories:
+  - Electronics
+    Engineering
+    Space
+    Talk
+    Vehicles
 excerpt: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 description: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 location: Unassigned
@@ -23,5 +29,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:40"
 ---

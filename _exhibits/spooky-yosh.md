@@ -4,6 +4,15 @@ slug: spooky-yosh
 id: 37276
 status: 3
 url: 
+categories:
+  - Art
+    Craft
+    Handmade
+    Jewelry
+    Props
+    Special Effects
+    Sustainability
+    Upcycling
 excerpt: "Spooky, adorable, and curiously dark crafts from home decor to jewelry. All created by a scenic artistic named Yoshi!"
 description: "From dark macabre paper mache human skulls that hold succulents to hand painted canvas pieces that have spooky images that can glow in black light! All handmade by a scenic and graphic designer native to the orlando area. Yoshi has been in love with the Halloween realm of theme park entertainment and she designs her own interpretation of the bizarre and macabre. "
 location: Unassigned
@@ -24,5 +33,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/43984324_1414885788643123_6479562871641473024_n.jpg
 last-modified-db: "2019-10-11 21:57:49"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

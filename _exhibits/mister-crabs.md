@@ -4,6 +4,20 @@ slug: mister-crabs
 id: 35760
 status: 1
 url: https://mistercrabs.com
+categories:
+  - 3D Printing
+    Art
+    Craft
+    Education
+    Engineering
+    Food
+    Handmade
+    Hands-On Workshop
+    LEGO
+    Maker Community
+    Music
+    Props
+    Talk
 excerpt: "Mister Crabs provides Hermit Crab Shows with Touch Stations, Observation Stations, and Crab Race Comedy Shows.
 Learn about land hermit crabs that are native to Florida, see hundreds of their creative hermit crab homes including  from Legos, shells, transparent glass, 3D printed and many others.  Also participate in your create crab shell, create a Crabitat, and learn about our Adopt-a-Hermit program. "
 description: "Mister Crabs is an interactive exhibit for all ages featuring lots of laughs, education, science and Hermit Crab engineering as you participate in a race to the hermit cup. Each players receives a novelty prize. The show runs continuously, features Touch Stations, Observation Stations, and Crab Race Comedy Shows.
@@ -26,5 +40,5 @@ maker:
 Learn about land hermit crabs that are native to Florida, see hundreds of their creative hermit crab homes including  from Lego, shells, transparent glass, 3D printed and many others.  Also participate in our create crab shell, create a Crabitat, and learn about our Adopt-a-Hermit program. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo-250x250.jpg
 last-modified-db: "2019-11-08 14:38:10"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

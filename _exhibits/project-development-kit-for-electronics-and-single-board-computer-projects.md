@@ -4,6 +4,19 @@ slug: project-development-kit-for-electronics-and-single-board-computer-projects
 id: 36801
 status: 4
 url: https://www.phasedock.com
+categories:
+  - Arduino
+    Automation
+    Education
+    Electronics
+    Engineering
+    Internet of Things
+    Kits
+    Maker Community
+    Makerspace
+    Manufacturing
+    Raspberry Pi
+    Robotics
 excerpt: "Wanted: Makers with Raspberry Pi, Arduino and other electronics projects. The WorkBench Project Development Kit protects your electronics, and makes it easy to manage and transport your project. Plus - you'll be proud to show it off!"
 description: "The Phase DockTM WorkBench prototyping solution is for Makers who are working with electronics and single-board computers such as Raspberry Pis and Arduinos. Many times electronics are screwed down to pieces of plywood, or not secured to anything. Screws in plywood make it hard to adjust the placement of components; failing to secure the project leaves it vulnerable to wires pulling out, or pieces getting lost. We have Maker friends who have moderate to large projects underway -- who simply cannot move their projects for fear of breaking a connection.
 
@@ -35,5 +48,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

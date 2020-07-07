@@ -4,6 +4,8 @@ slug: g3-robotics
 id: 36230
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt: "Fighting robots"
 description: "Fighting combat robots
 
@@ -25,5 +27,5 @@ maker:
   description: "Cosplay, Robots, Photography"
   image-primary: 
 last-modified-db: "2019-11-06 18:02:23"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:40"
 ---

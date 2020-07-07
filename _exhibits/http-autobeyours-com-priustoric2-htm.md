@@ -4,6 +4,15 @@ slug: http-autobeyours-com-priustoric2-htm
 id: 36939
 status: 1
 url: http://autobeyours.com/Priustoric2.htm
+categories:
+  - Arduino
+    Art
+    Automation
+    Craft
+    Electric Vehicles
+    Electronics
+    SteamPunk
+    Vehicles
 excerpt: "hybrid boatcar "
 description: "a Rat Rod powered by a Toyota Prius that resembles an antique Chris Craft.
 The rear half is a functioning antique boat, the front half conceals a front wheel drive Hybrid motor.
@@ -25,5 +34,5 @@ maker:
   description: "Hybrid car recycler with a tendency toward unusual vehicle design. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/I-think-this-is-the-one-edit-1024x859.jpg
 last-modified-db: "2019-09-02 20:07:27"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

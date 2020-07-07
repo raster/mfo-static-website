@@ -4,6 +4,12 @@ slug: baltimore-burners-electric-vehicle-racing
 id: 38342
 status: 1
 url: 
+categories:
+  - Electric Vehicles
+    Electronics
+    Engineering
+    Power Racing
+    Vehicles
 excerpt: "We've evolved from burning down on the track to burning out on the track! Along the way we've built art cars, fun cars, fast cars, and the legendary TrainRex. Stay tuned for our next wacky adventure!"
 description: "We've evolved from burning down on the track to burning out on the track! Along the way we've built art cars, fun cars, fast cars, and the legendary TrainRex. Stay tuned for our next wacky adventure!"
 location: Unassigned
@@ -23,5 +29,5 @@ maker:
   description: "We've evolved from burning down on the track to burning out on the track! Along the way we've built art cars, fun cars, fast cars, and the legendary TrainRex. Stay tuned for our next wacky adventure!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/wide_BaHa.png
 last-modified-db: "2019-10-02 20:53:21"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

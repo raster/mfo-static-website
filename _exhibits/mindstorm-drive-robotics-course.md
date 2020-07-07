@@ -4,6 +4,12 @@ slug: mindstorm-drive-robotics-course
 id: 37810
 status: 1
 url: 
+categories:
+  - Automation
+    Education
+    Electric Vehicles
+    Engineering
+    Robotics
 excerpt: "MindstormDrive is a student created, themed robotics obstacle course designed specifically with the Lego Mindstorm robots in mind! Equipped with remote controlled robots, Orlando Makers will be challenged to traverse the course to the finish line as they try to beat our course! "
 description: "Our themed obstacle course will be a hands-on exhibit where attendees will have an opportunity to remotely control a Lego Mindstorm bot in a race around an 8 foot by 8 foot course full of traps, pits, balance beams, levelers, and so much more! The design team of 3rd - 5th grade students will be on hand as \"experts\" to guide you through the course, give pointers on how to beat their bot, and answer any questions regarding the making of our exhibit! "
 location: Unassigned
@@ -23,5 +29,5 @@ maker:
   description: "Students from grades 3 through 6 of Park Maitland School take part in programmed Design Thinking classes twice a week. In their newly renovated Maker Space, students hone their 21st Century Skills of collaboration, problem solving, creativity, and critical thinking through project based learning. Students are encouraged to tinker and are taught the design process through different modes and hands-on learning experiences. Science, technology, engineering, the arts, and math all play a role in their learning! Students further share their learning to authentic audiences through showcases, hands-on exhibits, and by creating learning experiences for others."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/PMS-Logo.jpg
 last-modified-db: "2019-09-09 19:52:40"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

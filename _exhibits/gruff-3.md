@@ -4,6 +4,9 @@ slug: gruff-3
 id: 36948
 status: 1
 url: 
+categories:
+  - BattleBot
+    Combat Robots
 excerpt:
 description: "Heavyweight Combat Robot from Holiday, FL
 BattleBots 2019 Competitor
@@ -25,5 +28,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Gruff-Team-S2019-1024x683.jpg
 last-modified-db: "2019-11-06 18:08:14"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:40"
 ---

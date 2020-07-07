@@ -4,6 +4,20 @@ slug: orlando-robotics-makers-club
 id: 36984
 status: 1
 url: http://www.orlandorobotics.org
+categories:
+  - 3D Printing
+    Arduino
+    Drones
+    Education
+    Electronics
+    Engineering
+    FIRST Robotics
+    Hackerspace
+    Maker Community
+    Makerspace
+    Raspberry Pi
+    Robotics
+    Science Fair
 excerpt: "We're a local Orlando-based group of makers who meet regularly to discuss, share ideas and work on robotics, electronics, Arduinos, 3D-printing, FPV drones, and other techie activities."
 description: "Orlando Robotics &amp; Makers Club is an organization in central Orlando made up of over 680 makers of all ages who meet monthly to discuss techie activities such as robotics, 3D-printing, electronics, Arduinos, FPV drones, and several other technical topics.  We meet at the Melrose center in the downtown Orlando library and also at MakerFX Makerspace.  There is no charge for out meetings."
 location: Opportunity Building
@@ -24,5 +38,5 @@ maker:
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-26 13:19:57"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

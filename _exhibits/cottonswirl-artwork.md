@@ -4,6 +4,8 @@ slug: cottonswirl-artwork
 id: 37599
 status: 1
 url: 
+categories:
+  - Art
 excerpt: "Character artwork,
 Make your own superhero video game and a make your own  button maker."
 description: "Two grid walls with sellable artwork.
@@ -26,5 +28,5 @@ maker:
 15 year old Sarah Mae Hubbard designs artwork and video games in her particular chibi style."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CS_Redesign_-_Copy1.jpg
 last-modified-db: "2019-10-27 16:45:59"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

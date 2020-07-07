@@ -4,6 +4,23 @@ slug: hilde-birch-bunch
 id: 35610
 status: 1
 url: 
+categories:
+  - 3D Printing
+    Arduino
+    Art
+    Automation
+    Craft
+    Education
+    Electronics
+    Engineering
+    Hackerspace
+    Handmade
+    Laser Cutting & Engraving
+    Maker Community
+    Makerspace
+    Raspberry Pi
+    Science Fair
+    Software
 excerpt: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
 description: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
 location: Opportunity Building
@@ -23,5 +40,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/57068569_10157222299064727_7706636900714414080_o-1024x641.jpg
 last-modified-db: "2019-10-29 14:43:44"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:40"
 ---

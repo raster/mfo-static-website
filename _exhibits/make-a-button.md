@@ -4,6 +4,12 @@ slug: make-a-button
 id: 35099
 status: 1
 url: http://www.makerfx.org/buttons
+categories:
+  - Art
+    Craft
+    Education
+    Hands-On Workshop
+    Makerspace
 excerpt: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own!"
 description: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own! We are bringing parts to make 5,000 1\" buttons and 5,000 2.25\" buttons - will you help us make 10,000 buttons in one weekend?!
 
@@ -30,5 +36,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-26 14:35:09"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

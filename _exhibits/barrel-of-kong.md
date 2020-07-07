@@ -4,6 +4,8 @@ slug: barrel-of-kong
 id: 39207
 status: 1
 url: http://www.barrelofkong.com
+categories:
+  - Arcade
 excerpt: "Barrel of Kong makes classic 80's arcade machines from repurposed wine and whiskey barrels.
 There are 60 games included in the arcade machine such as a Frogger, Donkey Kong, Pac Man, Ms Pac Man, Galaga and many more."
 description: "I have a love of classic 80's arcade games and had an idea about a year ago to create an arcade machine from a repurposed wine barrel.  The idea came from my love for the game Donkey Kong.  Donkey Kong would throw barrels at Mario to stop him from saving the princess.  I made my first one for myself and then friends and family asked me to make more for them.  Next thing I knew I was selling them all of the state of Florida.
@@ -29,5 +31,5 @@ This started out about a year ago when I made one for myself and then for my nei
 They have been a huge hit and I am getting referrals from past customers."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/BOK.jpg
 last-modified-db: "2019-10-26 13:25:11"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

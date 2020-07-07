@@ -4,6 +4,15 @@ slug: hauntrepreneurs
 id: 34910
 status: 3
 url: http://hauntrepreneurs.com
+categories:
+  - Art
+    Automation
+    Cosplay
+    Craft
+    Education
+    Hands-On Workshop
+    Props
+    Special Effects
 excerpt: "Everything Haunted and Horror, Hauntrepreneurs is themed attraction design and consulting firm specializing helping people get started in the haunted attraction business. Booth demonstrations include, scenic and faux painting, special FX makeup and prop making, "
 description: "Everything Haunted and Horror, Hauntrepreneurs is themed attraction design and consulting firm specializing helping people get started in the haunted attraction business. Booth demonstrations include, scenic and faux painting, special FX makeup and prop making, "
 location: Unassigned
@@ -23,5 +32,5 @@ maker:
   description: "Everything Haunted and Horror, Hauntrepreneurs is themed attraction design and consulting firm specializing helping people get started in the haunted attraction business. Booth demonstrations include, scenic and faux painting, special FX makeup and prop making, "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/404994_416632531683474_678520938_n.jpg
 last-modified-db: "2019-10-11 21:29:00"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:40"
 ---

@@ -4,6 +4,12 @@ slug: dr-quinn-medicine-kart
 id: 35703
 status: 1
 url: http://teamlazygecko.com
+categories:
+  - Electric Vehicles
+    Electronics
+    Engineering
+    Metalworking
+    Power Racing
 excerpt: "Power Racing Series Entry, electric go-kart &amp; drivers themed as characters from Dr.Quinn Medicine Woman."
 description: "Power Racing Series Entry, electric go-kart & drivers themed as characters from Dr.Quinn Medicine Woman."
 location: Unassigned
@@ -25,5 +31,5 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:25"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:40"
 ---

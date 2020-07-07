@@ -4,6 +4,8 @@ slug: taco-bug-power-series-2
 id: 40294
 status: 4
 url: 
+categories:
+  - Power Racing
 excerpt: "Power wheels racing series."
 description: "Custom built electric race cart."
 location: Unassigned
@@ -23,5 +25,5 @@ maker:
   description: "These are the rest of my children that will help support the race team, Taco Bug, and the exhibit. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-2-1024x791.png
 last-modified-db: "2019-10-30 14:31:04"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

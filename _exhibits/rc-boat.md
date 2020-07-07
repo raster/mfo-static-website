@@ -4,6 +4,8 @@ slug: rc-boat
 id: 38526
 status: 1
 url: https://www.bocabearings.com/blogs/2018/rc-boat-project-update-9
+categories:
+  - 3D Printing
 excerpt: "The RC boat"
 description: "The RC boat (now named kilo due to the fact that its net weight is 2.2 lbs.) has been tested in different bodies of water. This boat was model after the Chris-Craft high-end boats. It's powered by a basic RC battery, a speed controller and a receiver set-up. 
 "
@@ -24,5 +26,5 @@ maker:
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-10-07 16:36:24"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

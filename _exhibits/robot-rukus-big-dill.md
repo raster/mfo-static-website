@@ -4,6 +4,9 @@ slug: robot-rukus-big-dill
 id: 35734
 status: 1
 url: 
+categories:
+  - BattleBot
+    Combat Robots
 excerpt: "250lb Combat Robot for Robot Rukus.
 
 "
@@ -27,5 +30,5 @@ maker:
   description: "Combat Robotics Team."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
 last-modified-db: "2019-11-06 16:58:36"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

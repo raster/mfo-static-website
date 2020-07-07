@@ -4,6 +4,28 @@ slug: longfellows-lost-skills
 id: 37647
 status: 1
 url: https://www.linkedin.com/in/alanlongfellow/
+categories:
+  - 3D Printing
+    Arduino
+    Art
+    Automation
+    CNC
+    Electronics
+    Engineering
+    Hackerspace
+    Handmade
+    Hands-On Workshop
+    Invention
+    Maker Community
+    Makerspace
+    Manufacturing
+    Metalworking
+    Raspberry Pi
+    Talk
+    Tools
+    Upcycling
+    Woodworking
+    Writing and Publishing
 excerpt: "Provides a showcase and demonstration of creations made from Maker-related skills that are no longer common knowledge since the advent of computer technology (such as using machinists' hand tools, manual drafting, restoring vintage tools, etc.)  You don't need a fancy $15,000 CNC machine to make a wooden chair - all you need is a chisel, a saw, a hand plane, and a couple of Maker skills lost to history... until now."
 description: "I provide short demonstrations on what I (Alan Longfellow) call \"lost skills\" such as using hand tools to make accurate measurements, using a wood plane rather than an expensive milling machine, manual drafting equipment rather than clunky CAD software, restoring old, rusty yard-sale tools with nothing but steel wool and WD-40, among many other things.
 
@@ -26,5 +48,5 @@ maker:
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

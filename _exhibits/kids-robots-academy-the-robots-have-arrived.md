@@ -4,6 +4,23 @@ slug: kids-robots-academy-the-robots-have-arrived
 id: 35772
 status: 1
 url: https://www.kidsrobotacademy.com/home.html
+categories:
+  - Arduino
+    Automation
+    Education
+    Electric Vehicles
+    Electronics
+    Engineering
+    FIRST Robotics
+    Gaming
+    Handmade
+    Internet of Things
+    Invention
+    Kits
+    LEGO
+    Raspberry Pi
+    Robotics
+    Software
 excerpt: "Our exhibit will showcase educational and service robots from around the world. 
 Robots will patrol the exhibit, greet and entertain visitors to our booth.
 We will showcase  Intelligent Robots built by our students, Advanced service robots and various educational and Vintage robots 
@@ -40,5 +57,5 @@ team-building environment, and thus generating intense interest and excitement f
 Note : The Robots Shop Opening soon In Orlando and Miami"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

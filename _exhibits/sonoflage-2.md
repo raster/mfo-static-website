@@ -4,6 +4,21 @@ slug: sonoflage-2
 id: 37326
 status: 1
 url: https://www.parsound.com
+categories:
+  - 3D Printing
+    3D Scanning
+    Automation
+    CNC
+    Electronics
+    Engineering
+    Hackathon
+    Internet of Things
+    Laser Cutting & Engraving
+    Raspberry Pi
+    Software
+    Sustainability
+    Virtual Reality
+    Woodworking
 excerpt: "Parsound provides Peace, Privacy, and Productivity through Sound and Noise Control.  We have invented the World's First Smart Soundscape.  We call it, \"Sonoflage\". "
 description: "Visitors will experience Sonoflage, as they hear our system running with adaptive Sound Camoflage, and without it, just playing music.  w"
 location: Opportunity Building
@@ -25,5 +40,5 @@ maker:
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

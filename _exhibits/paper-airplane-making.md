@@ -4,6 +4,8 @@ slug: paper-airplane-making
 id: 36918
 status: 1
 url: http://www.theonlinepaperairplanemuseum.com
+categories:
+  - Craft
 excerpt:
 description: "Paper"
 location: Opportunity Building
@@ -25,5 +27,5 @@ maker:
 I would like to set up a table to make paper airplanes with the kids, and if you have time, I can do demonstrations of the history of paper airplanes for groups."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Screenshot_20181118-135459-1024x640.png
 last-modified-db: "2019-10-26 13:07:22"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

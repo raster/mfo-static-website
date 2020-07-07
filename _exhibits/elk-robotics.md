@@ -4,6 +4,8 @@ slug: elk-robotics
 id: 36131
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt: "A combat robotics team from Miami Florida."
 description: "Elk Robotics is a combat robots team from Miami Florida. The team was founded in 2016 and has since been fighting in the 1lb, 3lb, 12lb, and 15lb class."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -23,5 +25,5 @@ maker:
   description: "Combat robotics team from Miami Florida. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/C8A7BC13-D0CA-4A0B-8BC0-6788267B0B3D.jpeg
 last-modified-db: "2019-11-06 17:39:00"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:40"
 ---

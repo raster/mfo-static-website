@@ -4,6 +4,13 @@ slug: sirius-cybernetics-meltybrain-battlebots
 id: 35063
 status: 1
 url: https://www.swallenhardware.io/battlebots
+categories:
+  - 3D Printing
+    BattleBot
+    Combat Robots
+    Electronics
+    Engineering
+    Software
 excerpt: "Back for the second year, now spinning in two weight classes!"
 description: "Last year we competed for the first time ever, with a brand new beatleweight robot, Halo! We took second place after a roller coaster of an event. It's since been to the UK, where we fought the best of the best in Bugglebots. Now making its third competitive appearance, we hope it will be deadlier and tougher than ever.
 
@@ -25,5 +32,5 @@ maker:
   description: "A combat robotics team specializing in meltybrain spinners."
   image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

@@ -4,6 +4,15 @@ slug: gypsys-weavings
 id: 34827
 status: 1
 url: http://www.gypsysweavings.etsy.com
+categories:
+  - Cosplay
+    Craft
+    Education
+    Handmade
+    Jewelry
+    Metalworking
+    Props
+    SteamPunk
 excerpt: "chainmaile creations and accessories. Her husband The Blue Fool will also be joining her with his card game The Abandons which funded last year on kickstarter! "
 description: "Using armoury patterns that can date back to the Estrucians of old, I make everything from bracelets to purses. I do mostly accessories, though. I have, at times, gone back to the roots and make functional armour as well for renaissance festivals and combat groups. I also make items for furries who need scales instead of fur.
 
@@ -25,5 +34,5 @@ maker:
   description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
 last-modified-db: "2019-11-07 20:38:03"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:40"
 ---

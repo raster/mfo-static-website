@@ -4,6 +4,11 @@ slug: animate-it
 id: 34866
 status: 4
 url: http://www.gerisues.org/animated_cakes
+categories:
+  - 3D Printing
+    Automation
+    Electronics
+    Engineering
 excerpt: "I make animated cakes for children dying of cancer.  "
 description: "Cake animation using microprocessors to control movement and sound of animated parts for cakes. For example, if I make a dog cake, the mouth opens and closes and barks, the paws tap, the ears wiggle and the tail wags. For a dragon, the wings flap, the mouth opens and roars, the tail wags and the claws move."
 location: Opportunity Building
@@ -23,5 +28,5 @@ maker:
   description: "I make animated cakes for children dying with cancer. For example, if I make a dog cake, the mouth opens and closes and barks, the paws tap, the ears wiggle and the tail wags. For a dragon, the wings flap, the mouth opens and roars, the tail wags and the claws move."
   image-primary: 
 last-modified-db: "2019-11-07 14:29:57"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

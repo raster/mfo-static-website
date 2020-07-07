@@ -4,6 +4,9 @@ slug: back-to-the-future-time-machine
 id: 36762
 status: 4
 url: 
+categories:
+  - Props
+    Vehicles
 excerpt: "It's back from the future, Doc Brown's time machine is stopping by Maker Faire Orlando for guests to check out"
 description: "The most famous movie car this side of 1985 has been built by its owner to be as screen accurate as possible. The Delorean DMC-12 based time machine took Elliot a few years of parts collecting and upgrading to get it to its current state, fun fact: it can be transformed into a Back to the Future Part 2 car with simple modification to the fusion reactor. Thankfully it's 2017 so picking up plutonium at the corner 7/11 is convenient other wise we would need to make Mr.Fusion a permanent installation. 
 
@@ -25,5 +28,5 @@ maker:
   description: "Elliot Hansen is a local resident of the Orlando area that has turned his Delores DMC-12 into his all time favorite movie car, Doc Brown's Time Machine. It features many screen accurate details, from the ever popular Flux Capacitor even down to the smallest of details that only a fan of back to the future would notice. He has spent a few years collecting the parts needed for the conversion and spent a few months finally putting it all together in 2016. "
   image-primary: 
 last-modified-db: "2019-10-28 17:39:57"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

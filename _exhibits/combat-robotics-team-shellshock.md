@@ -4,6 +4,8 @@ slug: combat-robotics-team-shellshock
 id: 36758
 status: 1
 url: https://outreach.rollingrobots.com/battlebots
+categories:
+  - BattleBot
 excerpt: "BattleBots Team Shellshock. Will display our robot and demonstrate its turtle power in the battle box."
 description: "A team of High School Students will demonstrate their robot Shellshock.  The team participated in BattleBots 2019 and was featured in episode 7.
 The team hopes to inspire other young builders.  Have a look at the inner workings of a full body spinner robot with a turtle theme."
@@ -24,5 +26,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

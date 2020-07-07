@@ -4,6 +4,13 @@ slug: nasa-robotics-mining-competition-rover
 id: 35266
 status: 1
 url: https://www.lunarknights.org/
+categories:
+  - 3D Printing
+    Automation
+    Engineering
+    Raspberry Pi
+    Robotics
+    Space
 excerpt: "We built a Mars rover to compete in the NASA Robotics Mining Competition"
 description: "We will be demoing the robot that we have been working on for the past year for the NASA Robotics Mining Competition. The robot is designed to traverse and mine the same soil simulant that NASA and builders of real extraterrestrial rovers use to test their robots that actually go to space. The robot is designed to be the closest you can get to a fully functional Mars Rover without actually going to Mars. 
 
@@ -25,5 +32,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-26 17:45:27"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

@@ -4,6 +4,16 @@ slug: tampa-hackerspace
 id: 37613
 status: 1
 url: http://www.tampahackerspace.com
+categories:
+  - 3D Printing
+    Arduino
+    CNC
+    Craft
+    Electronics
+    Hackerspace
+    Makerspace
+    Raspberry Pi
+    Woodworking
 excerpt: "Tampa Hackerspace"
 description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area.  We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, Machine Shop, Wood Shop and more, so please come check out our booth and talk to our members!  
 
@@ -25,5 +35,5 @@ maker:
   description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
 last-modified-db: "2019-10-26 13:15:49"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

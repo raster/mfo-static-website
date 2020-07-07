@@ -4,6 +4,8 @@ slug: lumberjacks-combat-robots
 id: 37894
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt:
 description: "A trio of engineers and a lumberjack theme hope to make an impact at Robot Ruckus!"
 location: Robot Ruckus - Small Arena
@@ -23,5 +25,5 @@ maker:
   description: "A trio of three engineers looking to make robotic history"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/lumberjacks.jpg
 last-modified-db: "2019-11-06 16:55:34"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

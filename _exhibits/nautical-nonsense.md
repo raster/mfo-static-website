@@ -4,6 +4,8 @@ slug: nautical-nonsense
 id: 37141
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt: "It's like Deep Six, but way smaller."
 description: "A 15lb combat robot designed to be as ridiculous as its big brother."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -23,5 +25,5 @@ maker:
   description: "A combat robotics team from California is ready to see what the East Coast is all about."
   image-primary: 
 last-modified-db: "2019-11-06 17:29:17"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

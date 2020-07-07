@@ -4,6 +4,9 @@ slug: team-v-2
 id: 37963
 status: 1
 url: 
+categories:
+  - Combat Robots
+    Robotics
 excerpt: "Combat robots"
 description: "Combat robots"
 location: Unassigned
@@ -23,5 +26,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-07 21:32:23"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

@@ -4,6 +4,8 @@ slug: skylift
 id: 36520
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt: "Antweight Combat Robot"
 description: "Colin is in 1st grade.  Maker Faire Orlando 2018 was his first robot fight and Maker Faire 2019 will be his fifth.  This year there are two more bots on the team in addition to SkyLift.  Rainbow Poison (Rylee) and Cliff Flipper (Adam)."
 location: Robot Ruckus - Small Arena
@@ -23,5 +25,5 @@ maker:
   description: "Huge fan of Battlebots fighting his brand new SkyLift robot in the Antweight division.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/ColinPic.jpg
 last-modified-db: "2019-11-06 18:07:33"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

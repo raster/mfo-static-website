@@ -4,6 +4,12 @@ slug: natural-log
 id: 37152
 status: 1
 url: 
+categories:
+  - Electric Vehicles
+    Electronics
+    Engineering
+    Power Racing
+    Woodworking
 excerpt: "Plywood box that looks like a log and goes fast"
 description: "This is my Power Racing Series cart. This will be its third race. It's a plywood box (no metal structure)."
 location: Unassigned
@@ -25,5 +31,5 @@ maker:
 By day, I'm a software engineer working on autonomous trucks."
   image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

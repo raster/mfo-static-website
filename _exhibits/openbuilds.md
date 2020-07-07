@@ -4,6 +4,25 @@ slug: openbuilds
 id: 38347
 status: 1
 url: https://www.openbuilds.com
+categories:
+  - 3D Printing
+    3D Scanning
+    Automation
+    CNC
+    Education
+    Electronics
+    Engineering
+    FIRST Robotics
+    Hackerspace
+    Illustration
+    Invention
+    Laser Cutting & Engraving
+    Maker Community
+    Makerspace
+    Manufacturing
+    Metalworking
+    Robotics
+    Tools
 excerpt: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System.
 "
 description: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System."
@@ -25,5 +44,5 @@ maker:
 We believe that the right tools in the hands of those that have this knowledge will change the world making a better future for us all."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/OpenBuilds_Logo_300.jpg
 last-modified-db: "2019-11-06 16:50:09"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

@@ -4,6 +4,14 @@ slug: anonymous-games-puzzles
 id: 39994
 status: 1
 url: https://www.anonymescape.com/
+categories:
+  - 3D Printing
+    Arduino
+    Art
+    Craft
+    Electronics
+    Gaming
+    Hands-On Workshop
 excerpt: "Various Puzzles from our Escape Rooms showing how we make our Escape Rooms"
 description: "Visitors can try our all in one Escape Room game \"Internal Threat\". It's a portable puzzle box that takes about 15-20 minutes to play. You have to decipher codes and use your brains to find the double agent. 
 
@@ -25,5 +33,5 @@ maker:
   description: "Anonymous Games is a family owned Escape Room. We design and build all of our puzzles in house using Maker friendly tools, such as raspberry pi, Arduino, 3D printers."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/PATCH-LOGO-BLACK-1024x1024.jpg
 last-modified-db: "2019-10-26 17:55:07"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

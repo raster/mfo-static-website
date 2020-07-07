@@ -4,6 +4,14 @@ slug: robomustache
 id: 37670
 status: 1
 url: http://robomustache.com
+categories:
+  - Art
+    Craft
+    Handmade
+    Jewelry
+    Kits
+    Laser Cutting & Engraving
+    Woodworking
 excerpt: "A collection of wooden robot and animal assembly kits."
 description: "RoboMustache is a collection of laser cut wooden robot and animal assembly kits, accessories and more."
 location: Opportunity Building
@@ -23,5 +31,5 @@ maker:
   description: "Charles Wade is a designer, maker and the founder of RoboMustache. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/20150612_112453-SQUARE-1024x1024.jpg
 last-modified-db: "2019-10-26 13:03:27"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

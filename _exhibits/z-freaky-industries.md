@@ -4,6 +4,20 @@ slug: z-freaky-industries
 id: 37001
 status: 1
 url: 
+categories:
+  - Arduino
+    Cosplay
+    Education
+    Electric Vehicles
+    Electronics
+    Engineering
+    Internet of Things
+    Invention
+    Power Racing
+    Software
+    Special Effects
+    Talk
+    Vehicles
 excerpt: "Featuring presentations of CAN bus, IoT, Python applications, LED matrixes as wearables, electric skateboards, and advanced Arduino embedded systems."
 description: "Hi! Ever found yourself intrigued about the smaller quirks of automotive J1939 CAN bus? Perhaps you've thought about integrating it in your next project with an Arduino? I'll be featuring projects utilizing it and share my tips and tricks with getting started on CAN bus.
 
@@ -29,5 +43,5 @@ maker:
   description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
 last-modified-db: "2019-10-26 13:30:25"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

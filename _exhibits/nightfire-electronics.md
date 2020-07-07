@@ -4,6 +4,15 @@ slug: nightfire-electronics
 id: 35004
 status: 1
 url: http://www.vakits.com
+categories:
+  - Arduino
+    Craft
+    Electronics
+    Engineering
+    Kits
+    Manufacturing
+    Music
+    Special Effects
 excerpt: "We have electronic kits and supplies. "
 description: "We design and make our own kits. From fun kits to educational kits to industrial kits. We are a family business located in Ocala, FL."
 location: Opportunity Building
@@ -23,5 +32,5 @@ maker:
   description: "We make electronic hobby kits including Arduino fun kits."
   image-primary: 
 last-modified-db: "2019-10-26 13:37:42"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

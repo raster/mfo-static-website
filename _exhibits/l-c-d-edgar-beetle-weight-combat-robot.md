@@ -4,6 +4,8 @@ slug: l-c-d-edgar-beetle-weight-combat-robot
 id: 35829
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt: "Beetle Weight Combat Robot"
 description: "Beetle Weight Combat Robot"
 location: Robot Ruckus - Small Arena
@@ -23,5 +25,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:27"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

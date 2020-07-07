@@ -4,6 +4,8 @@ slug: surrenderbotics
 id: 37004
 status: 4
 url: 
+categories:
+  - Combat Robots
 excerpt: "Silly and sometimes ok combat robots "
 description: "I make funny robots that sometimes work and sometimes look funny getting completely exploded. Have snuck onto TV with bots like Surrenderbot and Hand of Time."
 location: Combat Robots - Large Arena (Spirit), Combat Robots - Small Arena (Spirit)
@@ -23,5 +25,5 @@ maker:
   description: "I make silly robots like Surrenderbot and Free hugs "
   image-primary: 
 last-modified-db: "2019-11-06 18:06:46"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

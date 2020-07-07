@@ -4,6 +4,8 @@ slug: gruff-jr-combat-robotics
 id: 37281
 status: 1
 url: 
+categories:
+  - Combat Robots
 excerpt: "1lb Antweight Entry requesting waitlist"
 description: "1lb Antweight Entry"
 location: Unassigned
@@ -23,5 +25,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Gruff-Team-S2019-1024x683.jpg
 last-modified-db: "2019-10-31 14:49:52"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:40"
 ---

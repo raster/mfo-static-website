@@ -4,6 +4,32 @@ slug: ocls
 id: 34018
 status: 1
 url: https://www.ocls.info/
+categories:
+  - 3D Printing
+    Arduino
+    Cosplay
+    Craft
+    Education
+    Fabric Arts
+    Fiber Arts
+    Gaming
+    Handmade
+    Hands-On Workshop
+    Internet of Things
+    Jewelry
+    Kits
+    LEGO
+    Maker Community
+    Makerspace
+    Photography
+    Raspberry Pi
+    Robotics
+    Science Fair
+    Sewing
+    Software
+    Upcycling
+    Virtual Reality
+    Woodworking
 excerpt: "Swing by our booth to program and race Dash robots through obstacle courses and mazes. See if you can beat the clock and race to the top of the leader board! "
 description: "<p>Swing by our booth to program and race Dash robots through obstacle courses and mazes. See if you can beat the clock and race to the top of the leader board! 
 
@@ -25,5 +51,5 @@ maker:
   description: "The Orange County Library System brings value to the residents of the district through collections, staff, services and facilities. The Library connects our changing community to the evolving world of ideas, information and technology. Through continuous innovation, the Orange County Library System will create a well informed, well connected community, making Orange County a great place to live, learn, work, and play."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Square_Logo.gif
 last-modified-db: "2019-10-26 14:33:27"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

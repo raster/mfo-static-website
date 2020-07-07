@@ -4,6 +4,24 @@ slug: 3d-makertropes
 id: 35011
 status: 1
 url: http://www.makertropes.com
+categories:
+  - 3D Printing
+    3D Scanning
+    Art
+    Automation
+    CNC
+    Education
+    Engineering
+    Handmade
+    Invention
+    Laser Cutting & Engraving
+    Maker Community
+    Makerspace
+    Props
+    Puppets
+    Special Effects
+    SteamPunk
+    Woodworking
 excerpt: "A display of three-dimensional stroboscopic zoetropes that I call Makertropes."
 description: "A display of three-dimensional stroboscopic zoetropes that I call Makertropes.  This exhibit builds on the successful creation of the Marvelous Mechanical Makey Making Machine created for MFO 2017.  There will be some new creations and upgrades to the animation from what was learned last year.   And some interactive elements as well."
 location: Spirit Building
@@ -23,5 +41,5 @@ maker:
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-01 14:25:35"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

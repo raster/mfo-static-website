@@ -4,6 +4,9 @@ slug: 3guyssolar-2019
 id: 35018
 status: 3
 url: http://www.3GuysSolar.com
+categories:
+  - Solar
+    Sustainability
 excerpt: "Solar Energy Contractor"
 description: "Learn the fundamental of off grid or net zero living when you visit the show trailer created by 3 Guys Solar. We created a visual display to show that solar energy can be utilized to power everything from charging our cell phones, running cooling fans to power an entire home or factory. Located in the booth will be sample Photovoltaic and Solar Thermal collectors so you can get up close to see how they work and were constructed. We will demonstrate a small solar generator that is portable and can be used for camping or disaster relief. We run several videos on a large television that we shot using a Typhoon Drone with 4K camera to show how emerging technologies have improved the solar installation process.
 Our Solar Pros will be on hand to describe the process from manufacturing, installation, system sizing plus the process to collect the power company approval and receive Federal Tax credits. 
@@ -25,5 +28,5 @@ maker:
   description: "3 Guys Solar is a solar contractor working in central Florida for more than 5 years installing Solar PV Systems."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/08/3-GS-logo.jpg
 last-modified-db: "2019-09-02 20:33:33"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:39"
 ---

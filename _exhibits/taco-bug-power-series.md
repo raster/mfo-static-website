@@ -4,6 +4,8 @@ slug: taco-bug-power-series
 id: 40291
 status: 1
 url: 
+categories:
+  - Power Racing
 excerpt: "Electric power cart."
 description: "Home built electric power cart built to power racing series specs."
 location: Unassigned
@@ -24,5 +26,5 @@ maker:
 Our first race was at the Atlanta 2019 Maker faire. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-1024x791.png
 last-modified-db: "2019-10-30 16:25:17"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

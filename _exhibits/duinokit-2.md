@@ -4,6 +4,12 @@ slug: duinokit-2
 id: 40403
 status: 1
 url: http://www.DuinoKit.com
+categories:
+  - Arduino
+    Education
+    Electronics
+    Hackerspace
+    Makerspace
 excerpt: "Arduino based learning kits."
 description: "Learn to build and code using our plug-and-play learning kits.  No soldering or breadboarding."
 location: Spirit Building
@@ -23,5 +29,5 @@ maker:
   description: "DuinoKits were developed by a teacher looking to help teach kids about electronics and coding using Arduino."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
 last-modified-db: "2019-11-05 15:22:13"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:40"
 ---

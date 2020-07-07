@@ -4,6 +4,8 @@ slug: slide-united-motorsports-drift-car
 id: 41166
 status: 2
 url: 
+categories:
+  - Vehicles
 excerpt: "1993 Nissan 240sx pro-am drift car"
 description: "Formula drift pro-am drift car designed and built in a home garage using maker’s tools (3d printing, welding, etc...) and an engineering background. "
 location: Unassigned
@@ -23,5 +25,5 @@ maker:
   description: "Local drift Motorsports team. We design/build/make our racecars out of our own home garages. "
   image-primary: 
 last-modified-db: "2019-11-07 15:26:01"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

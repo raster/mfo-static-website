@@ -4,6 +4,14 @@ slug: uncle-bos-jerky
 id: 36224
 status: 1
 url: http://www.unclebosjerky.com
+categories:
+  - Arduino
+    Education
+    Electronics
+    Engineering
+    Food
+    Handmade
+    Screen Printing
 excerpt: "In 2017, we completed a successful KickStarter campaign to help Uncle Bo get USDA approved.
 Last year we passed out samples but didn't have enough product to sell.
 This year we we will be debuting 4 new flavors, and will have plenty of all 8 flavors for sale!"
@@ -32,5 +40,5 @@ maker:
   description: "about 20 years ago, a friend of the family gave us a food dehydrator, using the recipe that came with the unit I made some Beef jerky. It was awful! It was worse than the generic store bought stuff. As I make my own steak rubs, wing sauces etcetera ... I decided to make my own jerky recipe. After about 6 months of trial and error, I came up with my original recipe jerky. Using this as a base, I have created 7 additional flavors. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Logo-trans-1024x939.png
 last-modified-db: "2019-10-30 16:45:38"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

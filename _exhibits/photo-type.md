@@ -4,6 +4,10 @@ slug: photo-type
 id: 37544
 status: 1
 url: 
+categories:
+  - Electronics
+    Photography
+    Raspberry Pi
 excerpt: "Participants can pose for a photo and then watch as it is typed onto a page as ASCII Art"
 description: "The Maker Photo Booth utilizes an Arduino and custom software written in NodeJS to take photos and process them."
 location: Opportunity Building
@@ -23,5 +27,5 @@ maker:
   description: "We make interactive games and experiences."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/sean-avatar.png
 last-modified-db: "2019-10-26 13:05:32"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

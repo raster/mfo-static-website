@@ -4,6 +4,16 @@ slug: squarofumi
 id: 38033
 status: 1
 url: http://www.sqfmi.com
+categories:
+  - Arduino
+    Education
+    Electronics
+    Engineering
+    Hackathon
+    Hackerspace
+    Internet of Things
+    Kits
+    Software
 excerpt: "Squarofumi was founded in 2009, focused on delivering technology products and services. Founded by a group of art and technology enthusiasts, Squarofumi aims to deliver unique experiences and quality products through design engineering and thinking outside the box."
 description: "Squarofumi was founded in 2009, focused on delivering technology products and services. Founded by a group of art and technology enthusiasts, Squarofumi aims to deliver unique experiences and quality products through design engineering and thinking outside the box. We create products to inspire the next generation of makers and the like."
 location: Opportunity Building
@@ -23,5 +33,5 @@ maker:
   description: "Squarofumi was founded in 2009, focused on delivering technology products and services. Founded by a group of art and technology enthusiasts, Squarofumi aims to deliver unique experiences and quality products through design engineering and thinking outside the box."
   image-primary: 
 last-modified-db: "2019-10-26 13:33:25"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

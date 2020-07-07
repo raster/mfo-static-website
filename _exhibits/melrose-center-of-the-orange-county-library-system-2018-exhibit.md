@@ -4,6 +4,15 @@ slug: melrose-center-of-the-orange-county-library-system-2018-exhibit
 id: 37151
 status: 1
 url: http://www.ocls.info/melrose
+categories:
+  - Arduino
+    Craft
+    Electronics
+    Engineering
+    Indie Gaming
+    Makerspace
+    Software
+    Virtual Reality
 excerpt: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
 description: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
 location: Curiosity Building
@@ -24,5 +33,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/melrose-logo.jpg
 last-modified-db: "2019-10-28 13:22:24"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---

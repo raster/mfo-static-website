@@ -4,6 +4,17 @@ slug: switch-and-relay-logic-circuits
 id: 36813
 status: 1
 url: http://knickknackatory.com/?p=24
+categories:
+  - Arcade
+    Arduino
+    Education
+    Electronics
+    Engineering
+    Gaming
+    Indie Gaming
+    Internet of Things
+    Invention
+    Raspberry Pi
 excerpt: "A hands-on demonstration of binary logic circuits using only switches and relays."
 description: "A hands-on demonstration of binary logic circuits using only switches and relays. Circuits available for attendees to play with include a four-bit adder, river-crossing puzzles, and Ring the Bell, an IoT arcade machine based on the Chinese Ring Puzzle."
 location: Spirit Building
@@ -23,5 +34,5 @@ maker:
   description: "An electronics engineer with an interest in old-school switching logic."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
 last-modified-db: "2019-10-27 16:54:07"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:42"
 ---

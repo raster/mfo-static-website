@@ -4,6 +4,8 @@ slug: joust-bots
 id: 34872
 status: 1
 url: 
+categories:
+  - Robotics
 excerpt: "DaVinci Robotics Academy's STEM Club Students will be showcasing a wide variety of student projects including their JOUST-BOTS where Makers Faire attendees can test their  robot driving skills on our ring jousting course. 
 
 Are you a Jouster? or a Jester? Come see us and test your skill with our Joust-Bots!
@@ -28,5 +30,5 @@ maker:
   description: "DaVinci Learning Academy's mission is to encourage, enhance,  support and enrich each individual families academic, elective enrichment and social learning goals. Our students are engaged in a wide variety of STEM and artistic endeavors."
   image-primary: 
 last-modified-db: "2019-10-26 14:45:01"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:40"
 ---

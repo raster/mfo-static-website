@@ -4,6 +4,11 @@ slug: enlightened-monkey-art-work-by-dave-gordon-and-make-your-own-led-apparel-s
 id: 37452
 status: 1
 url: https://www.enlightenedmonkeyarts.com/
+categories:
+  - Art
+    Cosplay
+    Craft
+    Props
 excerpt: "Technology based artwork exhibited with a make your own LED Apparel station: our booth offers visitors the opportunity to create their own light up apparel and trinkets and LEDs.  For a fee, Visitors may create light up hats, pins, barrettes, masks, etc.
 "
 description: "At The Make Your Own Apparel Station visitors choose a base product, LED(s) and then choose from a variety of decorations to adorn the product. Decorations may include stickers, small butterflies, jewels, feathers, etc.   Dave's art will include at least four sculptures made from found items that use various forms of lighting to create mood and features. (see images below.)"
@@ -24,5 +29,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-04 13:55:36"
-last-exported: "2020-05-07 12:08:22"
+last-exported: "2020-07-07 11:01:40"
 ---

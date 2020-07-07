@@ -4,6 +4,25 @@ slug: makerfx-makerspace
 id: 35073
 status: 1
 url: http://www.makerfx.org
+categories:
+  - 3D Printing
+    Arduino
+    Art
+    CNC
+    Cosplay
+    Craft
+    Electronics
+    Engineering
+    Internet of Things
+    Maker Community
+    Makerspace
+    Props
+    Raspberry Pi
+    Robotics
+    Screen Printing
+    Sewing
+    Tools
+    Woodworking
 excerpt: "MakerFX Makerspace is a program of The Maker Effect Foundation located in south Orlando. "
 description: "Having started out in the shop of the local DeltaMaker 3D Printer factory, MakerFX now has their own dedicated space in South Orlando and a growing community of makers that are in many different realms of making. From bee keeping, 3D printing, circuit board design, costuming/cosplay, woodworking and more, the members of MakerFX strive to make our community of makers a hub of learning for South Orlando."
 location: Spirit Building
@@ -24,5 +43,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-27 17:35:46"
-last-exported: "2020-05-07 12:08:23"
+last-exported: "2020-07-07 11:01:41"
 ---
