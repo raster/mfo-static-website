@@ -5,34 +5,27 @@ id: 36064
 status: 1
 url: 
 categories:
-  - arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    education:
-      id: 116
-      slug: education
-      name: Education
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    gaming:
-      id: 121
-      slug: gaming
-      name: Gaming
-    internet-of-things:
-      id: 139
-      slug: internet-of-things
-      name: Internet of Things
-    raspberry-pi:
-      id: 137
-      slug: raspberry-pi
-      name: Raspberry Pi
-    software:
-      id: 143
-      slug: software
-      name: Software
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 121
+    slug: gaming
+    name: Gaming
+  - id: 139
+    slug: internet-of-things
+    name: Internet of Things
+  - id: 137
+    slug: raspberry-pi
+    name: Raspberry Pi
+  - id: 143
+    slug: software
+    name: Software
 excerpt: "An electronic scavenger hunt using multiple IoT nodes scattered throughout Maker Faire. "
 description: "Visiting Maker Faire? Document your travels through Maker Faire by entering your secret code on the IoT node at each participating exhibit.  Track your progress and compete to visit more exhibits than your friends in a set period of time.  Win swag and get a certificate mapping your participation.
 
@@ -57,5 +50,5 @@ maker:
   description: "Professor, Gadgeteer, friend to cats and bats."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-1024x612.jpg
 last-modified-db: "2019-11-07 12:11:35"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

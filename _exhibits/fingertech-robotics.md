@@ -5,18 +5,15 @@ id: 38798
 status: 1
 url: https://www.fingertechrobotics.com/
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
-    kits:
-      id: 126
-      slug: kits
-      name: Kits
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 126
+    slug: kits
+    name: Kits
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: "Enjoying Robot Ruckus and wondering how to get involved?  FingerTech Robotics can get you started in combat robots!  We sell everything you need for your first bot: wheels, motors, electronics, batteries, hardware; or take home a whole \"Viper\" robot kit!
 Just make sure you see us before the competitors have bought all the spare parts!  :D
 
@@ -42,5 +39,5 @@ maker:
   description: "FingerTech Robotics is North America's top manufacturer of combat robotics parts.  If you're interested in building your first combat robot, check out the \"Viper\" Combat Robot kit, which includes everything you need to build a fully functional, competitive 1lb antweight. FingerTech also carries a complete line of wheels, motors, electronics, and other components if you want to build a bot from the ground up. Worldwide shipping! Head over to www.FingerTechRobotics.com."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FingerTech-Logo-Maker-Faire-1024x238.png
 last-modified-db: "2019-11-06 16:27:51"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

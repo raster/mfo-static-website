@@ -5,10 +5,9 @@ id: 36012
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "Combat Robot team from Orlando, FL: We have 3 robots competing this year.  Doomzday (Antweight), Cybershock (Beetleweight) and Sassy Pants (Dogeweight).  Come on out and watch the carnage!!!"
 description: "Combat Robot team from Orlando, FL: We have 3 robots competing this year.  Doomzday (Antweight), Cybershock (Beetleweight) and Sassy Pants (Dogeweight).  Come on out and watch the carnage!!!"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -28,5 +27,5 @@ maker:
   description: "This year will be our first attempt at combat robotics.  We will be entering one beetleweight robot (Cybershock) and keeping our fingers crossed that we do pretty good."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Cybershock-3d-1024x744.jpg
 last-modified-db: "2019-11-06 17:30:16"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

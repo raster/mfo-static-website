@@ -5,10 +5,9 @@ id: 36809
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "Educator Bringing Combat Robotics to the classroom"
 description: "I will be showing several combat robots including a \"Dollar Tree\" Foam board robot that is being tested for use in the classroom."
 location: Combat Robots - Large Arena (Spirit), Combat Robots - Small Arena (Spirit)
@@ -28,5 +27,5 @@ maker:
   description: "I am an educator at Florida Atlantic University's A.D. Henderson School working to bring low-cost combat robotics to the 6-12 grade levels in public school.  My daughters are makers and will be campaigning their own robot. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
 last-modified-db: "2019-11-06 18:11:41"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

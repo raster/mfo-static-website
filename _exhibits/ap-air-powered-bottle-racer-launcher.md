@@ -5,34 +5,27 @@ id: 35504
 status: 1
 url: https://www.bocabearings.com/
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    art:
-      id: 112
-      slug: art
-      name: Art
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    gaming:
-      id: 121
-      slug: gaming
-      name: Gaming
-    workshop:
-      id: 154
-      slug: workshop
-      name: Hands-On Workshop
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 112
+    slug: art
+    name: Art
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 121
+    slug: gaming
+    name: Gaming
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
 excerpt: "The AP Bottle Racer Launcher features a double-launching mechanism"
 description: "The AP Bottle Racer Launcher features a double-launching mechanism, where one air pressure source can be attached to race two bottle rocket cars side by side for 30 feet or more, depending on the air pressure used. Below are the specifications.  
 
@@ -56,5 +49,5 @@ maker:
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-11-06 15:41:36"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:22"
 ---

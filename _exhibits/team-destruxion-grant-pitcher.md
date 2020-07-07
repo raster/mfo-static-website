@@ -5,10 +5,9 @@ id: 35943
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "Combat Robotics "
 description: "Combat Robotics team currently competing with 
 Beetle Weight - Spinner Spinner Chicken Dinner and  
@@ -32,5 +31,5 @@ maker:
   description: "Grant dove right into combat robotics Fall 2017 as an apprentice to Kurt Durjan with KurTrox.  He helped build Axe Backwards and competed on Season 3 and 4 of Battlebots. Grant enjoys the friends and competitors he's met at local combat robot battles.  He created a robotics club at his school to help other kids expand their STEM interests. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/attachment_99917800.jpg
 last-modified-db: "2019-11-06 17:18:03"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

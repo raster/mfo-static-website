@@ -5,10 +5,9 @@ id: 34829
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt:
 description: "Mastadon is the largest heavyweight robot ever built."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -28,5 +27,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 16:10:20"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

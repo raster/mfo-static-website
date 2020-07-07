@@ -5,22 +5,18 @@ id: 37495
 status: 1
 url: http://www.genkigothstudios.com
 categories:
-  - art:
-      id: 112
-      slug: art
-      name: Art
-    comics:
-      id: 114
-      slug: comics
-      name: Comics
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    illustration:
-      id: 124
-      slug: illustration
-      name: Illustration
+  - id: 112
+    slug: art
+    name: Art
+  - id: 114
+    slug: comics
+    name: Comics
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 124
+    slug: illustration
+    name: Illustration
 excerpt: "GenkiGoth Studios is comprised of Miriam and Dee Jay, two Florida based artists whose combined backgrounds in classical, urban, and multi-media art embrace their love of nerd culture through their loosely narrative, but mostly spontaneous paintings."
 description: "Stencil and/or acrylic painted canvas, both original and fanart specializing in general pop culture (comics, anime, gaming, etc). While the majority of our work is approached in spray paint, we can make a selection of stencils specifically for the general audience, where the image can be made through stippling rather than spray paint."
 location: Spirit Building
@@ -40,5 +36,5 @@ maker:
   description: "GenkiGoth Studios is comprised of Miriam and Dee Jay, two Florida based artists whose combined backgrounds in classical, urban, and multi-media art embrace their love of nerd culture through their loosely narrative, but mostly spontaneous paintings."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/GGS-logo-default-1002x1024.jpg
 last-modified-db: "2019-10-27 17:30:18"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

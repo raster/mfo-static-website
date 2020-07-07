@@ -5,90 +5,69 @@ id: 37647
 status: 1
 url: https://www.linkedin.com/in/alanlongfellow/
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    art:
-      id: 112
-      slug: art
-      name: Art
-    automation:
-      id: 200
-      slug: automation
-      name: Automation
-    cnc:
-      id: 113
-      slug: cnc
-      name: CNC
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    hackerspace:
-      id: 122
-      slug: hackerspace
-      name: Hackerspace
-    handmade:
-      id: 123
-      slug: handmade
-      name: Handmade
-    workshop:
-      id: 154
-      slug: workshop
-      name: Hands-On Workshop
-    invention:
-      id: 125
-      slug: invention
-      name: Invention
-    maker-community:
-      id: 129
-      slug: maker-community
-      name: Maker Community
-    makerspace:
-      id: 130
-      slug: makerspace
-      name: Makerspace
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    metalworking:
-      id: 332
-      slug: metalworking
-      name: Metalworking
-    raspberry-pi:
-      id: 137
-      slug: raspberry-pi
-      name: Raspberry Pi
-    talk:
-      id: 150
-      slug: talk
-      name: Talk
-    tools:
-      id: 151
-      slug: tools
-      name: Tools
-    upcycling:
-      id: 152
-      slug: upcycling
-      name: Upcycling
-    woodworking:
-      id: 153
-      slug: woodworking
-      name: Woodworking
-    writing-publishing:
-      id: 331
-      slug: writing-publishing
-      name: Writing and Publishing
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 112
+    slug: art
+    name: Art
+  - id: 200
+    slug: automation
+    name: Automation
+  - id: 113
+    slug: cnc
+    name: CNC
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 122
+    slug: hackerspace
+    name: Hackerspace
+  - id: 123
+    slug: handmade
+    name: Handmade
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
+  - id: 125
+    slug: invention
+    name: Invention
+  - id: 129
+    slug: maker-community
+    name: Maker Community
+  - id: 130
+    slug: makerspace
+    name: Makerspace
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 332
+    slug: metalworking
+    name: Metalworking
+  - id: 137
+    slug: raspberry-pi
+    name: Raspberry Pi
+  - id: 150
+    slug: talk
+    name: Talk
+  - id: 151
+    slug: tools
+    name: Tools
+  - id: 152
+    slug: upcycling
+    name: Upcycling
+  - id: 153
+    slug: woodworking
+    name: Woodworking
+  - id: 331
+    slug: writing-publishing
+    name: Writing and Publishing
 excerpt: "Provides a showcase and demonstration of creations made from Maker-related skills that are no longer common knowledge since the advent of computer technology (such as using machinists' hand tools, manual drafting, restoring vintage tools, etc.)  You don't need a fancy $15,000 CNC machine to make a wooden chair - all you need is a chisel, a saw, a hand plane, and a couple of Maker skills lost to history... until now."
 description: "I provide short demonstrations on what I (Alan Longfellow) call \"lost skills\" such as using hand tools to make accurate measurements, using a wood plane rather than an expensive milling machine, manual drafting equipment rather than clunky CAD software, restoring old, rusty yard-sale tools with nothing but steel wool and WD-40, among many other things.
 
@@ -111,5 +90,5 @@ maker:
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---

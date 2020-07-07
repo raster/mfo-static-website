@@ -5,10 +5,9 @@ id: 35003
 status: 1
 url: https://www.jedijill.com/
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "MISSION STATUS : SICK --Combat Robotics:
 We will be competing with our ant-weight and beetle-weight robots and cheering like crazy for every competitor there!"
 description: "We have an ant-weight (1lb.) robot named \"Hognose,\" and a beetle-weight (3 lb.) robot named \"Ptarmegeddon.\""
@@ -31,5 +30,5 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

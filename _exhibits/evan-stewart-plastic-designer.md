@@ -5,38 +5,30 @@ id: 37114
 status: 3
 url: 
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    education:
-      id: 116
-      slug: education
-      name: Education
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    workshop:
-      id: 154
-      slug: workshop
-      name: Hands-On Workshop
-    invention:
-      id: 125
-      slug: invention
-      name: Invention
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    software:
-      id: 143
-      slug: software
-      name: Software
-    talk:
-      id: 150
-      slug: talk
-      name: Talk
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
+  - id: 125
+    slug: invention
+    name: Invention
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 143
+    slug: software
+    name: Software
+  - id: 150
+    slug: talk
+    name: Talk
 excerpt: "Plastic and electronic products are made for high production. Samples.Electronic and plastic...talk about 3d metal modeling.and metal molds"
 description: "Software development tools to developers  for ready high speed manufacturing. Altium software.Circuitmaker.Free cad 3d modeling.samples of work."
 location: Unassigned
@@ -56,5 +48,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-11 21:05:46"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

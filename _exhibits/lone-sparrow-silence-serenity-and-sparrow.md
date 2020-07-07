@@ -5,14 +5,12 @@ id: 37816
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: " Beetleweight and  Antweight combat robots competing at the Battles at Maker Faire Orlando 2018. "
 description: "2 combat robots build by a teenager with a passion for robotics. If not in competition these robots will be open for examination by others."
 location: Robot Ruckus - Small Arena
@@ -32,5 +30,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

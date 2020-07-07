@@ -5,10 +5,9 @@ id: 36663
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "Low-Tek combat robotics team from Charleston, SC"
 description: "Low-Tek will be bringing multiple combat robots to compete in the Robot Ruckus event at Orlando Maker Faire."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -28,5 +27,5 @@ maker:
   description: "Low-Tek is a primarily father and son combat robotics team from Charleston, SC. Initially discovering the hobby and competing with a heavyweight in the early 2000s, the interest was rekindled when insect-class bots were discovered in recent years. A beetleweight was built under the new team name, referencing the 'lo-tech' approach with no CAD or fancy machine shop tools being used in the construction."
   image-primary: 
 last-modified-db: "2019-11-06 18:18:25"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---

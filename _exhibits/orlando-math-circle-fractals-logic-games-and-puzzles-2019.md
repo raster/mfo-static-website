@@ -5,18 +5,15 @@ id: 36527
 status: 1
 url: http://www.orlandomathcircle.org
 categories:
-  - art:
-      id: 112
-      slug: art
-      name: Art
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    education:
-      id: 116
-      slug: education
-      name: Education
+  - id: 112
+    slug: art
+    name: Art
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 116
+    slug: education
+    name: Education
 excerpt: "Help us create the world's largest Sierpinski Triangle Fractal made out of individual triangles.  We will show you how you can make your own 2 dimensional and even  3 dimensional fractals."
 description: "The Orlando Math Circle volunteers will lead hands on math activities and games for young and old.  There will be building and intriguing questions with Geometiles, mathematical games and the creation of triangles for the Trianglethon.  The Trianglethon is a community mathematics and arts project that will teach participants about fractals: how an endlessly repeating pattern can create a complex shape through simple repetition of smaller and smaller self-similar triangles. Students, math lovers, and artists throughout Central Florida are invited to create individual fractal triangles which will then be collected and assembled to create a large Sierpinski Triangle.   OMC would like to collect enough triangles for the 7th iteration of the Sierpinski Triangle, made out of 2,187 individual triangles at the end of the Maker Faire. It will be like a  mathematical community quilt. The link below shows the construction of a similar fractal triangle in Albuquerque, NM: https://www.youtube.com/watch?v=6BabkJYmBCA"
 location: Opportunity Building
@@ -41,5 +38,5 @@ OMC is a grass roots organization working to show that everyone is a math person
 https://youtu.be/fNHfZhvpa2E"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/CBBB47BB-69C0-4360-A270-881E2DC8FD60.png
 last-modified-db: "2019-11-08 09:02:45"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

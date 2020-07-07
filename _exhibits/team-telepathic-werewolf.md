@@ -5,10 +5,9 @@ id: 37082
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "Two combat robots: Moxie, built and driven by Ryan, and Plopper, built and driven by Emma. "
 description: "Our teams two current robots, which will be competing in the Robot Ruckus are Moxie, a drum spinner, built and driven by Ryan, and Plopper, a drum spinner built and driven by Emma."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -28,5 +27,5 @@ maker:
   description: "Brother and sister team inspired by Battlebots.  They began building and battling robots when Ryan was 10 and Emma was 8. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/381EF6D0-B95A-4606-86E9-87B07D8FF749-768x1024.jpeg
 last-modified-db: "2019-11-06 17:51:57"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

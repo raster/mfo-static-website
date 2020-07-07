@@ -5,26 +5,21 @@ id: 34921
 status: 1
 url: https://www.thehopefalls.com/
 categories:
-  - art:
-      id: 112
-      slug: art
-      name: Art
-    comics:
-      id: 114
-      slug: comics
-      name: Comics
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    fabric-arts:
-      id: 271
-      slug: fabric-arts
-      name: Fabric Arts
-    sewing:
-      id: 269
-      slug: sewing
-      name: Sewing
+  - id: 112
+    slug: art
+    name: Art
+  - id: 114
+    slug: comics
+    name: Comics
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 271
+    slug: fabric-arts
+    name: Fabric Arts
+  - id: 269
+    slug: sewing
+    name: Sewing
 excerpt: "Dive into the worlds of Hope Falls and Shadows in the Light.  Fire Art, Original canvas, fanart and more. "
 description: "Explore the world of Hope Falls, a tale of consequences and redemption. Or discover the mysteries surrounding a grounded fae and disapearing magic.   Or geek out on original canvas, geek art and our personal favorite Fire art."
 location: Spirit Building
@@ -46,5 +41,5 @@ maker:
 While our adventurous VooDoo is off exploring and making new friends we also create the webcomic series HopeFalls and Shadows in the Light. "
   image-primary: 
 last-modified-db: "2019-10-27 17:13:35"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

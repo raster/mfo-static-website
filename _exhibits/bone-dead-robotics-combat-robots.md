@@ -5,50 +5,39 @@ id: 36456
 status: 1
 url: http://www.teambonedead.com
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    battlebot:
-      id: 340
-      slug: battlebot
-      name: BattleBot
-    cnc:
-      id: 113
-      slug: cnc
-      name: CNC
-    combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    maker-community:
-      id: 129
-      slug: maker-community
-      name: Maker Community
-    makerspace:
-      id: 130
-      slug: makerspace
-      name: Makerspace
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    metalworking:
-      id: 332
-      slug: metalworking
-      name: Metalworking
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 113
+    slug: cnc
+    name: CNC
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 129
+    slug: maker-community
+    name: Maker Community
+  - id: 130
+    slug: makerspace
+    name: Makerspace
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 332
+    slug: metalworking
+    name: Metalworking
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: "This is for our combat robot team which plans to compete at the Robot Ruckus. We plan to bring our 30lb Sportsman robot \"Reckoning.\" "
 description: "We are a team competing in the Robot Ruckus. We are bringing our 30lb Sportsman \"Reckoning\" to compete at the event. We have competed in combat robots for 10 years now and we are proud of all the progress has made with the return of 'Battlebots.' We are also members of our local universities' combat robot club and makerspace which we hope to talk about with the public to further promote interest in STEM."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -68,5 +57,5 @@ maker:
   description: "We are a combat robotics team who builds and competes fighting robots. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

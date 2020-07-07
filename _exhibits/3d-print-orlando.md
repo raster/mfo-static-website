@@ -5,10 +5,9 @@ id: 37499
 status: 3
 url: http://www.3dprintorlando.com
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
 excerpt: "3d printing hobby shop in Orlando Florida."
 description: "3d printing hobby shop based out of Orlando Florida.  We sell printers, filament, parts and accessories for most 3d printers.  We also provide 3d printing, upgrade, and repair services on most 3d printers.  "
 location: Unassigned
@@ -28,5 +27,5 @@ maker:
   description: "3d printing hobby shop based out of Orlando, Florida.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/59129548_360136704612725_6077091167189598208_n.jpg
 last-modified-db: "2019-09-09 20:48:20"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:22"
 ---

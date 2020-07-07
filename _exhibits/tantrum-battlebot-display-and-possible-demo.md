@@ -5,10 +5,9 @@ id: 36075
 status: 1
 url: https://www.facebook.com/tantrum.battlebot/
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "Come view Tantrum from TV's Battlebots, you may even see it running at 100%, a thing never before seen!
 "
 description: "Team Seems Reasonable from California is excited to bring our Battlebot to show off and hopefully inspire some people to start building more cool things."
@@ -29,5 +28,5 @@ maker:
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-11-06 17:36:31"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

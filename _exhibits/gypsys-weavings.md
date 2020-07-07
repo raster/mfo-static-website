@@ -5,38 +5,30 @@ id: 34827
 status: 1
 url: http://www.gypsysweavings.etsy.com
 categories:
-  - cosplay:
-      id: 286
-      slug: cosplay
-      name: Cosplay
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    education:
-      id: 116
-      slug: education
-      name: Education
-    handmade:
-      id: 123
-      slug: handmade
-      name: Handmade
-    jewelry:
-      id: 260
-      slug: jewelry
-      name: Jewelry
-    metalworking:
-      id: 332
-      slug: metalworking
-      name: Metalworking
-    props:
-      id: 135
-      slug: props
-      name: Props
-    steampunk:
-      id: 148
-      slug: steampunk
-      name: SteamPunk
+  - id: 286
+    slug: cosplay
+    name: Cosplay
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 116
+    slug: education
+    name: Education
+  - id: 123
+    slug: handmade
+    name: Handmade
+  - id: 260
+    slug: jewelry
+    name: Jewelry
+  - id: 332
+    slug: metalworking
+    name: Metalworking
+  - id: 135
+    slug: props
+    name: Props
+  - id: 148
+    slug: steampunk
+    name: SteamPunk
 excerpt: "chainmaile creations and accessories. Her husband The Blue Fool will also be joining her with his card game The Abandons which funded last year on kickstarter! "
 description: "Using armoury patterns that can date back to the Estrucians of old, I make everything from bracelets to purses. I do mostly accessories, though. I have, at times, gone back to the roots and make functional armour as well for renaissance festivals and combat groups. I also make items for furries who need scales instead of fur.
 
@@ -58,5 +50,5 @@ maker:
   description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
 last-modified-db: "2019-11-07 20:38:03"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

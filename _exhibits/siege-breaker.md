@@ -5,18 +5,15 @@ id: 37090
 status: 1
 url: 
 categories:
-  - battlebot:
-      id: 340
-      slug: battlebot
-      name: BattleBot
-    combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: "250 lb Combat Robot."
 description: "What happens when you combine the crazy ideas from other builders all into one robot? This robot uses designs inspired by Charles Guan with Overhaul, Will Bales with Hypershock, Greedy snake from King of Bots, and my own take on magnetic traction drive."
 location: Combat Robots - Large Arena (Spirit)
@@ -36,5 +33,5 @@ maker:
   description: "A combat robotics team from Seattle. Team members compete with the robot 'WAR Hawk' on the TV show BattleBots. We strive to meld art and engineering in fighting robots both look good and pack a punch."
   image-primary: 
 last-modified-db: "2019-11-06 17:46:51"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

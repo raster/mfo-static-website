@@ -5,22 +5,18 @@ id: 36588
 status: 1
 url: http://www.spacecoastcamaros.com/scc/viewtopic.php?f=20&t=41
 categories:
-  - cosplay:
-      id: 286
-      slug: cosplay
-      name: Cosplay
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    props:
-      id: 135
-      slug: props
-      name: Props
-    special-effects:
-      id: 146
-      slug: special-effects
-      name: Special Effects
+  - id: 286
+    slug: cosplay
+    name: Cosplay
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 135
+    slug: props
+    name: Props
+  - id: 146
+    slug: special-effects
+    name: Special Effects
 excerpt: "2012 Camaro 2SS/RS Convertible - Transformer Themed "
 description: "2012 Camaro 2SS/RS Convertible - Transformer Themed"
 location: Unassigned
@@ -40,5 +36,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-09-02 19:59:04"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

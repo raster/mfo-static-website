@@ -5,38 +5,30 @@ id: 37151
 status: 1
 url: http://www.ocls.info/melrose
 categories:
-  - arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    indie-gaming:
-      id: 145
-      slug: indie-gaming
-      name: Indie Gaming
-    makerspace:
-      id: 130
-      slug: makerspace
-      name: Makerspace
-    software:
-      id: 143
-      slug: software
-      name: Software
-    virtual-reality:
-      id: 321
-      slug: virtual-reality
-      name: Virtual Reality
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 145
+    slug: indie-gaming
+    name: Indie Gaming
+  - id: 130
+    slug: makerspace
+    name: Makerspace
+  - id: 143
+    slug: software
+    name: Software
+  - id: 321
+    slug: virtual-reality
+    name: Virtual Reality
 excerpt: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
 description: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
 location: Curiosity Building
@@ -57,5 +49,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/melrose-logo.jpg
 last-modified-db: "2019-10-28 13:22:24"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---

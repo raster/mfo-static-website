@@ -5,10 +5,9 @@ id: 37141
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "It's like Deep Six, but way smaller."
 description: "A 15lb combat robot designed to be as ridiculous as its big brother."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -28,5 +27,5 @@ maker:
   description: "A combat robotics team from California is ready to see what the East Coast is all about."
   image-primary: 
 last-modified-db: "2019-11-06 17:29:17"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

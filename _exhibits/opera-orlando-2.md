@@ -5,10 +5,9 @@ id: 35263
 status: 1
 url: http://www.operaorlando.org
 categories:
-  - music:
-      id: 132
-      slug: music
-      name: Music
+  - id: 132
+    slug: music
+    name: Music
 excerpt: "Now in our fourth season, Opera Orlando is thrilled to once again partner with Maker Faire Orlando for a weekend of making music.  Join us Saturday and Sunday for performances featuring our extraordinarily talented local artists and youth company."
 description: "Now in our fourth season, Opera Orlando is thrilled to once again partner with Maker Faire Orlando for a weekend of making music.  Join us in the Dark Side Saturday and Sunday for performances featuring our extraordinarily talented local artists and youth company as we bring you opera favorites and a preview of our upcoming season.
 
@@ -32,5 +31,5 @@ maker:
   description: "Opera sings to every heart, connecting us to our history, to our humanity, and to our community. It is Opera Orlando’s privilege and responsibility to carry on opera’s legacy by sharing emotionally compelling and unique stories. We strive to introduce audiences new and old to the beauty and splendor of the greatest of all art forms."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/09CABE7C-49FA-4258-8651-5AFEBA1031DD.jpeg
 last-modified-db: "2019-10-27 16:28:31"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

@@ -5,42 +5,33 @@ id: 40476
 status: 1
 url: http://www.cardinaldrones.com
 categories:
-  - arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    automation:
-      id: 200
-      slug: automation
-      name: Automation
-    drones:
-      id: 320
-      slug: drones
-      name: Drones
-    education:
-      id: 116
-      slug: education
-      name: Education
-    electric-vehicles:
-      id: 273
-      slug: electric-vehicles
-      name: Electric Vehicles
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    raspberry-pi:
-      id: 137
-      slug: raspberry-pi
-      name: Raspberry Pi
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 200
+    slug: automation
+    name: Automation
+  - id: 320
+    slug: drones
+    name: Drones
+  - id: 116
+    slug: education
+    name: Education
+  - id: 273
+    slug: electric-vehicles
+    name: Electric Vehicles
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 137
+    slug: raspberry-pi
+    name: Raspberry Pi
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: "This exhibit will show a few drones and servo testers demonstrating how to control brush less motors and servos.  We also have a robotic arm and a drone simulation program for people to play with on a laptop and usb drone remote.  Come see the flying baby stroller!"
 description: "This exhibit will show a few drones and servo testers, demonstrating how to control brush less motors and servos.  We also have a drone simulation program for people to play with on a laptop and usb drone remote.    There are  informational posters showing how the internal computer  controls the brushless motors.  We have several additional creations such as the flying baby stroller and a robotic arm."
 location: Opportunity Building
@@ -62,5 +53,5 @@ maker:
 Much ouf our experiments run on open source arduino and raspberry pi software.  We have been at the palm beach maker fair before and this is our first time at the orlando maker fair.  "
   image-primary: 
 last-modified-db: "2019-10-30 17:45:00"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

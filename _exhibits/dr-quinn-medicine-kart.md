@@ -5,26 +5,21 @@ id: 35703
 status: 1
 url: http://teamlazygecko.com
 categories:
-  - electric-vehicles:
-      id: 273
-      slug: electric-vehicles
-      name: Electric Vehicles
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    metalworking:
-      id: 332
-      slug: metalworking
-      name: Metalworking
-    power-racing:
-      id: 134
-      slug: power-racing
-      name: Power Racing
+  - id: 273
+    slug: electric-vehicles
+    name: Electric Vehicles
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 332
+    slug: metalworking
+    name: Metalworking
+  - id: 134
+    slug: power-racing
+    name: Power Racing
 excerpt: "Power Racing Series Entry, electric go-kart &amp; drivers themed as characters from Dr.Quinn Medicine Woman."
 description: "Power Racing Series Entry, electric go-kart & drivers themed as characters from Dr.Quinn Medicine Woman."
 location: Unassigned
@@ -46,5 +41,5 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:25"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

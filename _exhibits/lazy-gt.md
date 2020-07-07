@@ -5,10 +5,9 @@ id: 35702
 status: 1
 url: 
 categories:
-  - power-racing:
-      id: 134
-      slug: power-racing
-      name: Power Racing
+  - id: 134
+    slug: power-racing
+    name: Power Racing
 excerpt: "Entry in Power Racing Series, Custom $500 electric go kart"
 description: "Entry in Power Racing Series, Custom $500 electric go kart. Part of Team Lazy Gecko"
 location: Unassigned
@@ -30,5 +29,5 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:14"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---

@@ -5,14 +5,12 @@ id: 36909
 status: 1
 url: 
 categories:
-  - battlebot:
-      id: 340
-      slug: battlebot
-      name: BattleBot
-    combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "15 pound robot lasher"
 description: "Hope to win"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -32,5 +30,5 @@ maker:
   description: "Im 15 I go to brhs and building stuff and flying quads is my hobby."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/logo-1024x1024.png
 last-modified-db: "2019-11-06 18:09:59"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

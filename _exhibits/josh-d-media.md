@@ -5,26 +5,21 @@ id: 36291
 status: 1
 url: http://joshdmedia.com
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    art:
-      id: 112
-      slug: art
-      name: Art
-    indie-gaming:
-      id: 145
-      slug: indie-gaming
-      name: Indie Gaming
-    software:
-      id: 143
-      slug: software
-      name: Software
-    special-effects:
-      id: 146
-      slug: special-effects
-      name: Special Effects
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 112
+    slug: art
+    name: Art
+  - id: 145
+    slug: indie-gaming
+    name: Indie Gaming
+  - id: 143
+    slug: software
+    name: Software
+  - id: 146
+    slug: special-effects
+    name: Special Effects
 excerpt: "Demonstrating Blender, a free-to-use computer graphics program, and making 3D art."
 description: "I will be making art using the 3D graphics program Blender, a computer program that can be used to create graphics for video games, 3D printing, animation, and special effects for movies. I will demonstrate how I make 3D models that are low-poly, isometric, and minimalist."
 location: Spirit Building
@@ -44,5 +39,5 @@ maker:
   description: "I am an artist from Tampa FL that creates art using a wide range of mediums, from illustration to computer graphics. In my free time I enjoy making 3D models with Blender, 3D printing, video editing, and playing music with my band."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/profile.jpg
 last-modified-db: "2019-10-27 17:24:35"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---

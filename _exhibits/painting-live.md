@@ -5,10 +5,9 @@ id: 38480
 status: 1
 url: https://biancaart.storenvy.com/
 categories:
-  - art:
-      id: 112
-      slug: art
-      name: Art
+  - id: 112
+    slug: art
+    name: Art
 excerpt: "I will be painting live throughout the day"
 description: "I will have pre cut monsters and will be designing new ones on the spot while painting them live."
 location: Opportunity Building
@@ -28,5 +27,5 @@ maker:
   description: "Acrylic painter of random randomness."
   image-primary: 
 last-modified-db: "2019-11-02 17:59:00"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

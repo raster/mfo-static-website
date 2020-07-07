@@ -5,18 +5,15 @@ id: 35502
 status: 1
 url: 
 categories:
-  - craft:
-      id: 115
-      slug: craft
-      name: Craft
-    handmade:
-      id: 123
-      slug: handmade
-      name: Handmade
-    workshop:
-      id: 154
-      slug: workshop
-      name: Hands-On Workshop
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 123
+    slug: handmade
+    name: Handmade
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
 excerpt: "Learn basic pop up techniques to create your own card. Decorate it for any occasions."
 description: "Create your own pop up cards and decorate it for any occasions: birthdays, thank you, get well soon, etc. Learn basic pop up techniques that inspired Lollie Pop Up to make a variety of pop up cards, explosion boxes, and other paper crafts for friends."
 location: Curiosity Building
@@ -36,5 +33,5 @@ maker:
   description: "Lollie Pop Up learned basic pop up techniques through books and video tutorial. Various techniques were utilized to make holiday, birthday, get well, retirement, and thank you cards more fun. Please visit @lolliepopup on Instagram to see examples of pop up cards, explosion boxes, and other paper crafts that were created for friends. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8746-1024x1024.jpg
 last-modified-db: "2019-10-26 14:29:35"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---

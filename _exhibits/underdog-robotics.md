@@ -5,10 +5,9 @@ id: 36767
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "A group of combat robot builders from New England."
 description: "We are a group of combat robot builders from Massachusetts. Our experience varies from 5 years to brand new."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -28,5 +27,5 @@ maker:
   description: "A group of combat robot builders from New England."
   image-primary: 
 last-modified-db: "2019-11-06 18:13:55"
-last-exported: "2020-07-07 11:28:06"
+last-exported: "2020-07-07 11:43:25"
 ---

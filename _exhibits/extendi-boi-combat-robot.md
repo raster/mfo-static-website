@@ -5,18 +5,15 @@ id: 36155
 status: 1
 url: 
 categories:
-  - battlebot:
-      id: 340
-      slug: battlebot
-      name: BattleBot
-    cnc:
-      id: 113
-      slug: cnc
-      name: CNC
-    combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 113
+    slug: cnc
+    name: CNC
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "heavyweight combat robot"
 description: "fighting robot in the heavyweight division"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -36,5 +33,5 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:54"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

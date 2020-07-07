@@ -5,54 +5,42 @@ id: 36801
 status: 4
 url: https://www.phasedock.com
 categories:
-  - arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    automation:
-      id: 200
-      slug: automation
-      name: Automation
-    education:
-      id: 116
-      slug: education
-      name: Education
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    internet-of-things:
-      id: 139
-      slug: internet-of-things
-      name: Internet of Things
-    kits:
-      id: 126
-      slug: kits
-      name: Kits
-    maker-community:
-      id: 129
-      slug: maker-community
-      name: Maker Community
-    makerspace:
-      id: 130
-      slug: makerspace
-      name: Makerspace
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    raspberry-pi:
-      id: 137
-      slug: raspberry-pi
-      name: Raspberry Pi
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 200
+    slug: automation
+    name: Automation
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 139
+    slug: internet-of-things
+    name: Internet of Things
+  - id: 126
+    slug: kits
+    name: Kits
+  - id: 129
+    slug: maker-community
+    name: Maker Community
+  - id: 130
+    slug: makerspace
+    name: Makerspace
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 137
+    slug: raspberry-pi
+    name: Raspberry Pi
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: "Wanted: Makers with Raspberry Pi, Arduino and other electronics projects. The WorkBench Project Development Kit protects your electronics, and makes it easy to manage and transport your project. Plus - you'll be proud to show it off!"
 description: "The Phase DockTM WorkBench prototyping solution is for Makers who are working with electronics and single-board computers such as Raspberry Pis and Arduinos. Many times electronics are screwed down to pieces of plywood, or not secured to anything. Screws in plywood make it hard to adjust the placement of components; failing to secure the project leaves it vulnerable to wires pulling out, or pieces getting lost. We have Maker friends who have moderate to large projects underway -- who simply cannot move their projects for fear of breaking a connection.
 
@@ -84,5 +72,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

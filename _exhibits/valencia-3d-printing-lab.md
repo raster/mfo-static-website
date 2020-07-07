@@ -5,26 +5,21 @@ id: 35220
 status: 1
 url: http://valenciacollege.edu/west/engineering/
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    3d-scanning:
-      id: 109
-      slug: 3d-scanning
-      name: 3D Scanning
-    education:
-      id: 116
-      slug: education
-      name: Education
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 109
+    slug: 3d-scanning
+    name: 3D Scanning
+  - id: 116
+    slug: education
+    name: Education
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
 excerpt: "Showcase of Rapid Prototyping projects by Valencia College students."
 description: "Showcase of student projects in Rapid Prototyping, including custom 3D printed electric violins (stars of multiple YouTube videos), braille campus maps for sight-impaired students, 3D printed hands, and a variety of teaching/learning artifacts used by Faculty in multiple disciplines at Valencia College"
 location: Opportunity Building
@@ -45,5 +40,5 @@ maker:
 the 2nd such program established in Florida. Projects completed by our students include custom 3D printed electric violins (one of which was played by Valencia Professor Neal Phillips at an Orlando City soccer game), braille relief maps of our campus for sight-impaired students, and a variety of teaching/learning artifacts for Faculty use in multiple disciplines at the College."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/vc-logo-web-box-rev-1024x156.jpg
 last-modified-db: "2019-11-06 16:53:00"
-last-exported: "2020-07-07 11:28:06"
+last-exported: "2020-07-07 11:43:25"
 ---

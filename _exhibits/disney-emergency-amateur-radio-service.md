@@ -5,26 +5,21 @@ id: 37693
 status: 1
 url: http://wd4wdw.org
 categories:
-  - electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    space:
-      id: 144
-      slug: space
-      name: Space
-    talk:
-      id: 150
-      slug: talk
-      name: Talk
-    vehicles:
-      id: 275
-      slug: vehicles
-      name: Vehicles
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 144
+    slug: space
+    name: Space
+  - id: 150
+    slug: talk
+    name: Talk
+  - id: 275
+    slug: vehicles
+    name: Vehicles
 excerpt: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 description: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 location: Unassigned
@@ -44,5 +39,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

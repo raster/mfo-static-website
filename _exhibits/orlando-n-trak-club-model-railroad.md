@@ -5,46 +5,36 @@ id: 36720
 status: 1
 url: 
 categories:
-  - arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    automation:
-      id: 200
-      slug: automation
-      name: Automation
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    handmade:
-      id: 123
-      slug: handmade
-      name: Handmade
-    laser-cutting-engraving:
-      id: 330
-      slug: laser-cutting-engraving
-      name: Laser Cutting & Engraving
-    raspberry-pi:
-      id: 137
-      slug: raspberry-pi
-      name: Raspberry Pi
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
-    software:
-      id: 143
-      slug: software
-      name: Software
-    special-effects:
-      id: 146
-      slug: special-effects
-      name: Special Effects
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 200
+    slug: automation
+    name: Automation
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 123
+    slug: handmade
+    name: Handmade
+  - id: 330
+    slug: laser-cutting-engraving
+    name: Laser Cutting & Engraving
+  - id: 137
+    slug: raspberry-pi
+    name: Raspberry Pi
+  - id: 142
+    slug: robotics
+    name: Robotics
+  - id: 143
+    slug: software
+    name: Software
+  - id: 146
+    slug: special-effects
+    name: Special Effects
 excerpt: "The N scale model railroad layout covers many scenes from Jacksonville, FL to Folkston, GA."
 description: "The railroad model incorporates over 200 feet of mainline track depicting the route from Jacksonville, FL to Folkston, GA. Visitors drive trains past many well known landmarks, across rivers and thru wooded pine forests. Operation features such as control signals and crossing gates are controlled by various state of the art electronic technologies including Arduinos and Raspberry Pi. See and run trains on this national award winning layout"
 location: Opportunity Building
@@ -64,5 +54,5 @@ maker:
   description: "Model Railroad Club"
   image-primary: 
 last-modified-db: "2019-10-26 13:53:08"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

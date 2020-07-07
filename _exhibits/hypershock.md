@@ -5,18 +5,15 @@ id: 39841
 status: 1
 url: https://www.hypershock.tv
 categories:
-  - battlebot:
-      id: 340
-      slug: battlebot
-      name: BattleBot
-    combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
-    robotics:
-      id: 142
-      slug: robotics
-      name: Robotics
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 142
+    slug: robotics
+    name: Robotics
 excerpt: "See HyperShock from TV's BattleBots!"
 description: "See HyperShock from TV's BattleBots!"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -36,5 +33,5 @@ maker:
   description: "We competed on Discovery's BattleBots with our award-winning robot, HyperShock!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/HyperShock-Team-S2019-1-1024x683.jpg
 last-modified-db: "2019-11-06 16:16:33"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

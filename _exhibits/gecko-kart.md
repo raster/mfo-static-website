@@ -5,22 +5,18 @@ id: 38945
 status: 1
 url: http://teamlazygecko.com/
 categories:
-  - electric-vehicles:
-      id: 273
-      slug: electric-vehicles
-      name: Electric Vehicles
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    power-racing:
-      id: 134
-      slug: power-racing
-      name: Power Racing
-    vehicles:
-      id: 275
-      slug: vehicles
-      name: Vehicles
+  - id: 273
+    slug: electric-vehicles
+    name: Electric Vehicles
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 134
+    slug: power-racing
+    name: Power Racing
+  - id: 275
+    slug: vehicles
+    name: Vehicles
 excerpt: "Gecko Kart is the mechanical sibling of Raphael. Design and built to compete in the Power Racing Series."
 description: "Gecko Kart is a hand built $500 electric vehicle. Despite it's cost, Gecko Kart features a 48v 1800w Brushless motor, powered by industry leading Chevy Volt Lithium batteries. Topping out at 20mph, this Kart is quick like"
 location: Unassigned
@@ -40,5 +36,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
 last-modified-db: "2019-10-02 20:55:10"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

@@ -5,34 +5,27 @@ id: 36979
 status: 1
 url: https://www.meetup.com/Orlando-Retro-Computing-Group/
 categories:
-  - arcade:
-      id: 110
-      slug: arcade
-      name: Arcade
-    arduino:
-      id: 111
-      slug: arduino
-      name: Arduino
-    education:
-      id: 116
-      slug: education
-      name: Education
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    gaming:
-      id: 121
-      slug: gaming
-      name: Gaming
-    software:
-      id: 143
-      slug: software
-      name: Software
+  - id: 110
+    slug: arcade
+    name: Arcade
+  - id: 111
+    slug: arduino
+    name: Arduino
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 121
+    slug: gaming
+    name: Gaming
+  - id: 143
+    slug: software
+    name: Software
 excerpt: "We're a bunch of computing hobbyists in central Florida."
 description: "TRS-80, VIC-20, Atari 400, C64, Apple II ... if these terms mean anything to you, then you need to join us.  We're just a bunch of hobbyists gathering at MakerFX Makerspace in Orlando, FL to discuss, work on, and reminisce about the early days of 8-bit home computing."
 location: Opportunity Building
@@ -53,5 +46,5 @@ maker:
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-28 08:55:23"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

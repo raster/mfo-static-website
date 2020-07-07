@@ -5,10 +5,9 @@ id: 41093
 status: 1
 url: 
 categories:
-  - vehicles:
-      id: 275
-      slug: vehicles
-      name: Vehicles
+  - id: 275
+    slug: vehicles
+    name: Vehicles
 excerpt: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
 description: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
 location: Unassigned
@@ -28,5 +27,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:48:56"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

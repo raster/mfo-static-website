@@ -5,14 +5,12 @@ id: 37218
 status: 1
 url: 
 categories:
-  - battlebot:
-      id: 340
-      slug: battlebot
-      name: BattleBot
-    combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 340
+    slug: battlebot
+    name: BattleBot
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt:
 description: "Combat Robots"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -32,5 +30,5 @@ maker:
   description: "Competing with a 3HP 30lb Hammer/Lifter in the 30lb sportsman class, and hoping to bring our 250lb Battlebot flipper SubZero"
   image-primary: 
 last-modified-db: "2019-11-06 17:16:43"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

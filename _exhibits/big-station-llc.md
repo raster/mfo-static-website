@@ -5,18 +5,15 @@ id: 35524
 status: 3
 url: 
 categories:
-  - arcade:
-      id: 110
-      slug: arcade
-      name: Arcade
-    art:
-      id: 112
-      slug: art
-      name: Art
-    food:
-      id: 193
-      slug: food
-      name: Food
+  - id: 110
+    slug: arcade
+    name: Arcade
+  - id: 112
+    slug: art
+    name: Art
+  - id: 193
+    slug: food
+    name: Food
 excerpt: "Our Trains
 • Eachtrainhasalocomotivewitha48Velectricmotor,whose maximum speed is 3.5 MPH. And 4 wagons with capacity for 6 children or 4 adults.
 • Ourlocomotivehasananti-collisionsystemand100%reliable sensors on the lateral and frontal parts, which prevent any possibility of accident, providing security to all visitors in the Mall.
@@ -43,5 +40,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
 last-modified-db: "2019-09-02 20:39:24"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

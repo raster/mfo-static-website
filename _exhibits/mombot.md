@@ -5,10 +5,9 @@ id: 34916
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
 excerpt: "3 pound combat robot"
 description: "3 pound combat robot. Primary weapon is a titanium wedge or hardened steel wedgelets.  Body is composed of UHMW with aluminum top and bottom plates.  Color is purple (unless I change it)."
 location: Robot Ruckus - Small Arena
@@ -28,5 +27,5 @@ maker:
   description: "I have been competing with MomBot for 2 1/2 years.  In June, I won the beetleweight class at Robot Rebellion 2.2 at DARC.  My son Ian has been a combat robot builder for over 15 years."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_20180811_174719.jpg
 last-modified-db: "2019-11-06 16:27:37"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

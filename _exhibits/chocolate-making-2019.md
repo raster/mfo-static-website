@@ -5,42 +5,33 @@ id: 35221
 status: 1
 url: http://www.sapphochocolates.com
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    art:
-      id: 112
-      slug: art
-      name: Art
-    craft:
-      id: 115
-      slug: craft
-      name: Craft
-    education:
-      id: 116
-      slug: education
-      name: Education
-    food:
-      id: 193
-      slug: food
-      name: Food
-    handmade:
-      id: 123
-      slug: handmade
-      name: Handmade
-    workshop:
-      id: 154
-      slug: workshop
-      name: Hands-On Workshop
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    talk:
-      id: 150
-      slug: talk
-      name: Talk
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 112
+    slug: art
+    name: Art
+  - id: 115
+    slug: craft
+    name: Craft
+  - id: 116
+    slug: education
+    name: Education
+  - id: 193
+    slug: food
+    name: Food
+  - id: 123
+    slug: handmade
+    name: Handmade
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 150
+    slug: talk
+    name: Talk
 excerpt: "Professional Chocolatier, Kathryn Neel and her team will teach the art of creating molded chocolates using a variety of fun molds while discussing the art and science of chocolate making."
 description: "The Sappho Chocolates’ team will teach the art of creating molded chocolates using a variety of fun molds. Workshop attendees will have fun learning about the science and history of making chocolate. The best part of the workshop is you get to keep what you make. This means you’ll get to keep close to a ¼ pound of quality chocolate. Tickets ($10) for this event can be purchased at the Sappho Table. There will be a total of 4 chocolate making workshops during the weekend (2 on Saturday and 2 on Sunday)."
 location: Spirit Building
@@ -63,5 +54,5 @@ Kathryn also teaches coding and robotics at R School in Volusia County.
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Alafaya-Library-150-BY-150.jpg
 last-modified-db: "2019-11-02 09:27:45"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:25"
 ---

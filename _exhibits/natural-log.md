@@ -5,26 +5,21 @@ id: 37152
 status: 1
 url: 
 categories:
-  - electric-vehicles:
-      id: 273
-      slug: electric-vehicles
-      name: Electric Vehicles
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    power-racing:
-      id: 134
-      slug: power-racing
-      name: Power Racing
-    woodworking:
-      id: 153
-      slug: woodworking
-      name: Woodworking
+  - id: 273
+    slug: electric-vehicles
+    name: Electric Vehicles
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 134
+    slug: power-racing
+    name: Power Racing
+  - id: 153
+    slug: woodworking
+    name: Woodworking
 excerpt: "Plywood box that looks like a log and goes fast"
 description: "This is my Power Racing Series cart. This will be its third race. It's a plywood box (no metal structure)."
 location: Unassigned
@@ -46,5 +41,5 @@ maker:
 By day, I'm a software engineer working on autonomous trucks."
   image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-07-07 11:28:05"
+last-exported: "2020-07-07 11:43:24"
 ---

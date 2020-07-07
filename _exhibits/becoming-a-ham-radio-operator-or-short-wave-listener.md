@@ -5,38 +5,30 @@ id: 39589
 status: 1
 url: 
 categories:
-  - automation:
-      id: 200
-      slug: automation
-      name: Automation
-    education:
-      id: 116
-      slug: education
-      name: Education
-    electronics:
-      id: 118
-      slug: electronics
-      name: Electronics
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    workshop:
-      id: 154
-      slug: workshop
-      name: Hands-On Workshop
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    science-fair:
-      id: 141
-      slug: science-fair
-      name: Science Fair
-    software:
-      id: 143
-      slug: software
-      name: Software
+  - id: 200
+    slug: automation
+    name: Automation
+  - id: 116
+    slug: education
+    name: Education
+  - id: 118
+    slug: electronics
+    name: Electronics
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 154
+    slug: workshop
+    name: Hands-On Workshop
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 141
+    slug: science-fair
+    name: Science Fair
+  - id: 143
+    slug: software
+    name: Software
 excerpt: "Basic introduction to electronics for Junior and Senior High School students looking for a career choice."
 description: "It is never too early for students to start looking for a career choice well before graduating from High School.  The choices are endless, but some offer opportunities that few could hope to experience.  A professional career in business entrepreneurship or technical fields is a choice few would consider, but offers an exciting life experience.
 
@@ -65,5 +57,5 @@ maker:
 Soon after graduation, he decided to move to Florida to be a part of the Space Program. He helped in some small part with designing Printed Circuit Boards, Solar panels, pumps and valves used in the three main engines of Space Shuttle.  later employed by General Dynamics, he worked on production of US Army Camouflage nets, followed by US military Chemical and Biological Warfare  equipment. His passion through out his career has been Ham Radio and digital electronic design - it is what he still does today.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/KenW1HV_Portrait_2019ok-1024x866.jpg
 last-modified-db: "2019-10-16 20:12:56"
-last-exported: "2020-07-07 11:28:03"
+last-exported: "2020-07-07 11:43:23"
 ---

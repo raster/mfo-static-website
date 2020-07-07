@@ -5,26 +5,21 @@ id: 36159
 status: 1
 url: 
 categories:
-  - combat-robots:
-      id: 284
-      slug: combat-robots
-      name: Combat Robots
-    electric-vehicles:
-      id: 273
-      slug: electric-vehicles
-      name: Electric Vehicles
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    manufacturing:
-      id: 131
-      slug: manufacturing
-      name: Manufacturing
-    metalworking:
-      id: 332
-      slug: metalworking
-      name: Metalworking
+  - id: 284
+    slug: combat-robots
+    name: Combat Robots
+  - id: 273
+    slug: electric-vehicles
+    name: Electric Vehicles
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 131
+    slug: manufacturing
+    name: Manufacturing
+  - id: 332
+    slug: metalworking
+    name: Metalworking
 excerpt: "Triplets Spiral, Noodle, and Elbow enter 2 at a time to fight as Macaroni and Cheese at Robot Ruckus 2019!"
 description: "Robotic triplets \"Spiral\", \"Noodle\", and \"Elbow\" enter this year's Robot Ruckus 2019 as a heavyweight entry \"Macaroni and Cheese\"
 Each 120lb robot is identical and constructed of a welded steel AR400 frame with a wide stance and angular profile. The bots feature 6\" grinding disks which spin nearly 10,000rpm to shower the arena in sparks.
@@ -50,5 +45,5 @@ I was the designer of a 250lb heavyweight \"Bellator\" for the 2019 Battlebots t
 When I am not building combat robots, I also enjoy other high-powered radio controlled vehicles, including a 10ft 50lb cargo aircraft which debuted (and crashed spectacularly) at FliteFest South in 2018"
   image-primary: 
 last-modified-db: "2019-11-06 17:44:12"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:23"
 ---

@@ -5,22 +5,18 @@ id: 38521
 status: 1
 url: http://mykatrip.com
 categories:
-  - 3d-printing:
-      id: 108
-      slug: 3d-printing
-      name: 3D Printing
-    education:
-      id: 116
-      slug: education
-      name: Education
-    engineering:
-      id: 119
-      slug: engineering
-      name: Engineering
-    first-robotics:
-      id: 120
-      slug: first-robotics
-      name: FIRST Robotics
+  - id: 108
+    slug: 3d-printing
+    name: 3D Printing
+  - id: 116
+    slug: education
+    name: Education
+  - id: 119
+    slug: engineering
+    name: Engineering
+  - id: 120
+    slug: first-robotics
+    name: FIRST Robotics
 excerpt: "As a leader in the student travel industry for 25+ years, Kaleidoscope Adventures exceeds expectations for student and performance group travel.
 
 We'll work with you to plan an exceptional travel experience and provide impeccable customer service from start to finish"
@@ -42,5 +38,5 @@ maker:
   description: "Kaleidoscope is a full-service student tour operator with more than 25+ years of inspiring student travel and a former educator as CEO. We specialize in surprisingly unique educational, performance, sports, senior class trip, festival and cruise travel to more than 40+ student-friendly destinations. We make student safety a priority with a clearly communicated safety plan and trusted partners. Kaleidoscope Adventures is an active member of the Student & Youth Association and licensed, bonded and insured."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo.jpg
 last-modified-db: "2019-10-26 13:55:09"
-last-exported: "2020-07-07 11:28:04"
+last-exported: "2020-07-07 11:43:24"
 ---
