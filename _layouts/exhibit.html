@@ -17,6 +17,14 @@
     <div>
       <img class="img-responsive entry-image" src="{{page.image-primary.large}}" alt="{{page.name}}">
       <p class="lead">{{page.description}}</p>
+      <div class="entry-categories" style="margin-bottom: 10px">
+        <b>Categories: </b>
+        {%- for category in page.categories -%}
+        {%- if category.name -%}
+        {%- if forloop.first == false %},&nbsp{%- endif -%}
+        <a href="/makers?category={{-category.slug-}}">{{- category.name -}}</a>
+        {%- endif -%}{%- endfor -%}
+      </div>
       <div class="row exhibit-social-row">
         {% if page.website %}
 	       <div class="col-md-2 pull-left"><a href="{{page.website}}" class="btn btn-info" target="_blank">Project Website</a></div>
@@ -72,7 +80,7 @@
 </div>
 <div style = "padding-bottom:20px;"></div>
 
-{% include cta-panel-widget.html cta_text=site.cta_footer_text cta_url=site.cta_footer_url %}
+
 {% include footer.html %}
 {% include scripts.html %}
 
