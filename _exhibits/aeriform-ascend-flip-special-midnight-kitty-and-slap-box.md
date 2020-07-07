@@ -5,7 +5,10 @@ id: 36727
 status: 1
 url: 
 categories:
-  - Combat Robots
+  - combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
 excerpt: "A 1lb, three 30lb, and a 250lb combat robots."
 description: "1lb Midnight Kitty is driven by a 7 year old girl. She has placed as high as 3rd in a competition.
 
@@ -39,5 +42,5 @@ maker:
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

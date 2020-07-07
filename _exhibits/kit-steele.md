@@ -5,8 +5,14 @@ id: 35095
 status: 1
 url: 
 categories:
-  - Art
-    Illustration
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    illustration:
+      id: 124
+      slug: illustration
+      name: Illustration
 excerpt: "Watercolor illustrations and sketchbooks, plus a painting station where I will paint live."
 description: "Setup features original watercolor illustrations and reproductions, along with sketchbooks and coloring books. There will also be a station set up where I will paint live and demonstrate various watercolor painting techniques. There will be coloring pages and images to color and take away."
 location: Spirit Building
@@ -26,5 +32,5 @@ maker:
   description: "Award-winning artist and illustrator, Kit uses watercolor and mixed media to bring life to whimsical and fantastical creations. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/E3AF3777-BC48-4912-B63F-5BFCB455C089.jpeg
 last-modified-db: "2019-10-27 17:27:55"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

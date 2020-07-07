@@ -5,7 +5,10 @@ id: 38366
 status: 4
 url: 
 categories:
-  - Power Racing
+  - power-racing:
+      id: 134
+      slug: power-racing
+      name: Power Racing
 excerpt: "Powerwheels Racer created at Familab - All wheel drive - Direct drive at each wheel - Adjustable ride height"
 description: "Formerly my daughters' Big Jake Dump Truck. One owner - Since the 90's."
 location: Unassigned
@@ -25,5 +28,5 @@ maker:
   description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
   image-primary: 
 last-modified-db: "2019-10-07 21:44:34"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

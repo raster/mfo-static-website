@@ -5,10 +5,22 @@ id: 35294
 status: 1
 url: http://outlawgarage.org
 categories:
-  - Art
-    Cosplay
-    Craft
-    Props
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    cosplay:
+      id: 286
+      slug: cosplay
+      name: Cosplay
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    props:
+      id: 135
+      slug: props
+      name: Props
 excerpt: "Learn about Pepakura Papercraft models.  Create your own papercraft on printed cardstock."
 description: "Pepakura is a program that creates buildable papercraft models.
 
@@ -36,5 +48,5 @@ maker:
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

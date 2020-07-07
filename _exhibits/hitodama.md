@@ -5,12 +5,30 @@ id: 34844
 status: 2
 url: 
 categories:
-  - Art
-    Craft
-    Handmade
-    Jewelry
-    Metalworking
-    Writing and Publishing
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    jewelry:
+      id: 260
+      slug: jewelry
+      name: Jewelry
+    metalworking:
+      id: 332
+      slug: metalworking
+      name: Metalworking
+    writing-publishing:
+      id: 331
+      slug: writing-publishing
+      name: Writing and Publishing
 excerpt: "Hitodama sells original handmade jewelry, buttons, pins, and art."
 description: "Hitodama has been selling at fandom events for nearly a decade. Their pins and accessories are original designs, including a line of enamel pins. Their art includes original works in several media, prints, and fanart. They will have a short story or two. They will hopefully be carrying a line of metal wands. The enclosed photo is from Lumi-con 2018."
 location: Unassigned
@@ -30,5 +48,5 @@ maker:
   description: "Hitodama dabbles in various arts and crafts."
   image-primary: 
 last-modified-db: "2019-07-22 21:24:15"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

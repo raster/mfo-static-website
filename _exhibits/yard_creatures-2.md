@@ -5,8 +5,14 @@ id: 38367
 status: 4
 url: 
 categories:
-  - Art
-    Power Racing
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    power-racing:
+      id: 134
+      slug: power-racing
+      name: Power Racing
 excerpt: "Yard Art &gt;&gt;&gt; Ronnie the Quadropuss / Marty the Mahi / Walter the Pelican"
 description: "These guys are yard art made from mild steel. A design was drawn in Fusion360. That was loaded into the laser and cut from 1/4\" MDF and plywood to be used as templates for each part. The templates were clamped onto sheets of mild steel. A plasma cutter was used to cut the sheet metal. A couple hours with a grinder and they were ready for steel rods to be MIG welded on so that each piece can be inserted into the ground and stand on their own. I plan on promoting a moderate amount of surface rust before neutralizing it and painting with clear coat for long term protection against further weathering."
 location: Unassigned
@@ -26,5 +32,5 @@ maker:
   description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
   image-primary: 
 last-modified-db: "2019-10-07 21:45:13"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:06"
 ---

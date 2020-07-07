@@ -5,19 +5,58 @@ id: 37001
 status: 1
 url: 
 categories:
-  - Arduino
-    Cosplay
-    Education
-    Electric Vehicles
-    Electronics
-    Engineering
-    Internet of Things
-    Invention
-    Power Racing
-    Software
-    Special Effects
-    Talk
-    Vehicles
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    cosplay:
+      id: 286
+      slug: cosplay
+      name: Cosplay
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electric-vehicles:
+      id: 273
+      slug: electric-vehicles
+      name: Electric Vehicles
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    internet-of-things:
+      id: 139
+      slug: internet-of-things
+      name: Internet of Things
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    power-racing:
+      id: 134
+      slug: power-racing
+      name: Power Racing
+    software:
+      id: 143
+      slug: software
+      name: Software
+    special-effects:
+      id: 146
+      slug: special-effects
+      name: Special Effects
+    talk:
+      id: 150
+      slug: talk
+      name: Talk
+    vehicles:
+      id: 275
+      slug: vehicles
+      name: Vehicles
 excerpt: "Featuring presentations of CAN bus, IoT, Python applications, LED matrixes as wearables, electric skateboards, and advanced Arduino embedded systems."
 description: "Hi! Ever found yourself intrigued about the smaller quirks of automotive J1939 CAN bus? Perhaps you've thought about integrating it in your next project with an Arduino? I'll be featuring projects utilizing it and share my tips and tricks with getting started on CAN bus.
 
@@ -43,5 +82,5 @@ maker:
   description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
 last-modified-db: "2019-10-26 13:30:25"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:06"
 ---

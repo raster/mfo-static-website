@@ -5,7 +5,10 @@ id: 36230
 status: 1
 url: 
 categories:
-  - Combat Robots
+  - combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
 excerpt: "Fighting robots"
 description: "Fighting combat robots
 
@@ -27,5 +30,5 @@ maker:
   description: "Cosplay, Robots, Photography"
   image-primary: 
 last-modified-db: "2019-11-06 18:02:23"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

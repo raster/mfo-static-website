@@ -5,7 +5,10 @@ id: 37470
 status: 3
 url: https://www.alien3d.us
 categories:
-  - 3D Printing
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
 excerpt: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
 description: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
 location: Unassigned
@@ -25,5 +28,5 @@ maker:
   description: "Distributor of UFOs, Unidentified Filament Objects - Monthly Mystery Boxes - 3D Printers, Accessories and Filament"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/alien3d-sba.jpg
 last-modified-db: "2019-09-09 21:53:22"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

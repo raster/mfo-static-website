@@ -5,7 +5,10 @@ id: 37967
 status: 4
 url: http://www.WhamBamSystems.com
 categories:
-  - 3D Printing
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
 excerpt: "Live 3d printing and explanations of how 3d printers work with a 3d printed souvenir for the kids to take away. "
 description: "Live 3d printing and explanations of how 3d printers work with a 3d printed souvenir for the kids to take away. Raffles and giveaways with no purchase necessary. Demonstrations of how our products work in live 3d printing situations."
 location: Unassigned
@@ -25,5 +28,5 @@ maker:
   description: "We make 3d printing easy, fun, and productive with our 3d printer accessories."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/whambamhorizshadowsmall.jpg
 last-modified-db: "2019-10-21 14:49:41"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:06"
 ---

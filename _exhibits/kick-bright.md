@@ -5,9 +5,18 @@ id: 37388
 status: 1
 url: http://kickbrightshop.com/
 categories:
-  - Art
-    Craft
-    Handmade
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
 excerpt: "We sell handmade buttons/pins, vintage/upcycled clothing, artwork and more"
 description: "Kick Bright Shop and Buttons is a small business specializing in vintage clothing for men, women and children from the 1950s through the 1990s and well as manufacturing bulk order buttons.
 Owners Kristin and Jeffrey Howard have been selling vintage online for several years on eBay and Etsy with occasional vending on weekend events across Florida. The two bring their unique style and outlook that vintage should be affordable, worn and loved.
@@ -32,5 +41,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

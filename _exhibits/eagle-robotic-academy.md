@@ -5,10 +5,22 @@ id: 35019
 status: 3
 url: https://www.eagleroboticacademy.com
 categories:
-  - Arduino
-    Electronics
-    FIRST Robotics
-    Robotics
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    first-robotics:
+      id: 120
+      slug: first-robotics
+      name: FIRST Robotics
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
 excerpt: "Eagle Robotic Academy is a robotics school in Orlando, FL. Come and visit us!"
 description: "We will be presenting five types of robots: Jibo, Cognitoys Stemosaur, Marty, Meccano, Padbot and Stiquito and their high tech, uses and what they can do. There will be also a prize draw!"
 location: Unassigned
@@ -28,5 +40,5 @@ maker:
   description: "Eagle Robotic Academy is a robotics school in Orlando, FL."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px.jpg
 last-modified-db: "2019-09-02 21:12:52"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:03"
 ---

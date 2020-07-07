@@ -5,20 +5,62 @@ id: 35542
 status: 4
 url: http://107Aviation.com/107aviation
 categories:
-  - 3D Printing
-    Arduino
-    Drones
-    Education
-    Electronics
-    Engineering
-    Handmade
-    Hands-On Workshop
-    Internet of Things
-    Invention
-    Kits
-    Robotics
-    Software
-    Vehicles
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    drones:
+      id: 320
+      slug: drones
+      name: Drones
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    workshop:
+      id: 154
+      slug: workshop
+      name: Hands-On Workshop
+    internet-of-things:
+      id: 139
+      slug: internet-of-things
+      name: Internet of Things
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    kits:
+      id: 126
+      slug: kits
+      name: Kits
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    software:
+      id: 143
+      slug: software
+      name: Software
+    vehicles:
+      id: 275
+      slug: vehicles
+      name: Vehicles
 excerpt: "Sign up for a drone building workshop provided by 107 AVIATION. The workshop is based on multiple mechatronic design and engineering components. I'm open to ideas and suggestions."
 description: "Topics include: 3D modeling for 3D printing, Boot loading open source software for flight control, ESP8266 development with Arduino, Basic networking concepts for use with internet of things Blynk IoT platform, Basic soldering, Getting started in open source development on Github."
 location: Unassigned
@@ -38,5 +80,5 @@ maker:
   description: "A new life with drones. A local commercial drone pilot and owner of 107 Aviation, a drone services company. Background in embedded electronics design from Florida Tech and local community maker at MakerFX. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/107aviation_square-1-1024x1024.png
 last-modified-db: "2019-09-30 16:17:07"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

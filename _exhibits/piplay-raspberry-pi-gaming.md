@@ -5,17 +5,50 @@ id: 34830
 status: 1
 url: http://piplay.org
 categories:
-  - Arcade
-    Electronics
-    Gaming
-    Hackerspace
-    Handmade
-    Indie Gaming
-    Kits
-    Laser Cutting & Engraving
-    Maker Community
-    Makerspace
-    Raspberry Pi
+  - arcade:
+      id: 110
+      slug: arcade
+      name: Arcade
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    gaming:
+      id: 121
+      slug: gaming
+      name: Gaming
+    hackerspace:
+      id: 122
+      slug: hackerspace
+      name: Hackerspace
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    indie-gaming:
+      id: 145
+      slug: indie-gaming
+      name: Indie Gaming
+    kits:
+      id: 126
+      slug: kits
+      name: Kits
+    laser-cutting-engraving:
+      id: 330
+      slug: laser-cutting-engraving
+      name: Laser Cutting & Engraving
+    maker-community:
+      id: 129
+      slug: maker-community
+      name: Maker Community
+    makerspace:
+      id: 130
+      slug: makerspace
+      name: Makerspace
+    raspberry-pi:
+      id: 137
+      slug: raspberry-pi
+      name: Raspberry Pi
 excerpt: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
 description: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
 location: Opportunity Building
@@ -36,5 +69,5 @@ maker:
 published by Packt."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMGP0453-1385501391_420_420_75_s_c1.jpg
 last-modified-db: "2019-10-26 12:50:08"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

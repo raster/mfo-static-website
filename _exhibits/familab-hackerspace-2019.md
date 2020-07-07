@@ -5,21 +5,66 @@ id: 35578
 status: 1
 url: http://familab.org
 categories:
-  - 3D Printing
-    Arduino
-    CNC
-    Education
-    Electronics
-    Hackathon
-    Hackerspace
-    Laser Cutting & Engraving
-    Maker Community
-    Makerspace
-    Metalworking
-    Photography
-    Raspberry Pi
-    Robotics
-    Woodworking
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    cnc:
+      id: 113
+      slug: cnc
+      name: CNC
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    hackathon:
+      id: 140
+      slug: hackathon
+      name: Hackathon
+    hackerspace:
+      id: 122
+      slug: hackerspace
+      name: Hackerspace
+    laser-cutting-engraving:
+      id: 330
+      slug: laser-cutting-engraving
+      name: Laser Cutting & Engraving
+    maker-community:
+      id: 129
+      slug: maker-community
+      name: Maker Community
+    makerspace:
+      id: 130
+      slug: makerspace
+      name: Makerspace
+    metalworking:
+      id: 332
+      slug: metalworking
+      name: Metalworking
+    photography:
+      id: 133
+      slug: photography
+      name: Photography
+    raspberry-pi:
+      id: 137
+      slug: raspberry-pi
+      name: Raspberry Pi
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    woodworking:
+      id: 153
+      slug: woodworking
+      name: Woodworking
 excerpt: "FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills &amp; tools to improve ourselves and enrich the world around us. A few of our members have been working on some amazing projects including building our new space. Check out our booth to see what we've been making!"
 description: "Are you Curious?  Are you creative?  Do you like working with your hands - or do you think you would if you had the chance?  FamiLAB is a makerspace - a place where you can use shared tools and work areas to make cool stuff.
 
@@ -45,5 +90,5 @@ maker:
   description: "FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills & tools to improve ourselves and enrich the world around us."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/Top-Logo3.gif
 last-modified-db: "2019-10-29 14:48:27"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

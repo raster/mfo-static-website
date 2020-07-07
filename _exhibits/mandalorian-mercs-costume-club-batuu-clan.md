@@ -5,7 +5,10 @@ id: 35642
 status: 1
 url: http://mandalorianmercs.org/
 categories:
-  - Cosplay
+  - cosplay:
+      id: 286
+      slug: cosplay
+      name: Cosplay
 excerpt: "Explore the world of Star Wars costuming and learn how to make your own Mandalorian armor!"
 description: "Come and meet with members of the Mandalorian Mercs Costume Club. Learn what goes into making the armor and be entered to win your own set!"
 location: Spirit Building
@@ -37,5 +40,5 @@ The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mand
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

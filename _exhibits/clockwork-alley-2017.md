@@ -5,8 +5,14 @@ id: 37502
 status: 1
 url: https://www.etsy.com/shop/ClockworkAlley?ref=shop_sugg
 categories:
-  - Jewelry
-    SteamPunk
+  - jewelry:
+      id: 260
+      slug: jewelry
+      name: Jewelry
+    steampunk:
+      id: 148
+      slug: steampunk
+      name: SteamPunk
 excerpt: "Handmade steampunk inspired jewelry."
 description: "Handmade steampunk inspired jewelry."
 location: Spirit Building
@@ -26,5 +32,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
 last-modified-db: "2019-10-27 17:47:48"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

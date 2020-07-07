@@ -5,12 +5,30 @@ id: 35063
 status: 1
 url: https://www.swallenhardware.io/battlebots
 categories:
-  - 3D Printing
-    BattleBot
-    Combat Robots
-    Electronics
-    Engineering
-    Software
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    battlebot:
+      id: 340
+      slug: battlebot
+      name: BattleBot
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    software:
+      id: 143
+      slug: software
+      name: Software
 excerpt: "Back for the second year, now spinning in two weight classes!"
 description: "Last year we competed for the first time ever, with a brand new beatleweight robot, Halo! We took second place after a roller coaster of an event. It's since been to the UK, where we fought the best of the best in Bugglebots. Now making its third competitive appearance, we hope it will be deadlier and tougher than ever.
 
@@ -32,5 +50,5 @@ maker:
   description: "A combat robotics team specializing in meltybrain spinners."
   image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

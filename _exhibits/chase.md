@@ -5,14 +5,38 @@ id: 37863
 status: 1
 url: http://giantbacon.com
 categories:
-  - 3D Printing
-    Arduino
-    Electric Vehicles
-    Electronics
-    Engineering
-    Metalworking
-    Power Racing
-    Software
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    electric-vehicles:
+      id: 273
+      slug: electric-vehicles
+      name: Electric Vehicles
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    metalworking:
+      id: 332
+      slug: metalworking
+      name: Metalworking
+    power-racing:
+      id: 134
+      slug: power-racing
+      name: Power Racing
+    software:
+      id: 143
+      slug: software
+      name: Software
 excerpt: "Chase is a police themed Power Racing Series Kart"
 description: "Chase competes in the power racing series. It is a collaborative effort with a greater group of friends to share knowledge in making tiny cars that are safe, but also push the bounds of speed in an effort to just have fun."
 location: Unassigned
@@ -32,5 +56,5 @@ maker:
   description: "Software developer by day, garage tinkerer by night. Likes to mash electronics in unnecessary places to make things fun or just for laughs with a group of friends. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44971658_10156678711291163_6007435031100784640_o-1024x683.jpg
 last-modified-db: "2019-09-09 19:53:52"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

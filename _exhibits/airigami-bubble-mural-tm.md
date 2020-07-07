@@ -5,8 +5,14 @@ id: 35176
 status: 3
 url: https://www.airigami.com/
 categories:
-  - Art
-    Education
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    education:
+      id: 116
+      slug: education
+      name: Education
 excerpt: "Airigami Bubble Mural TM is a creative installation built by community members using easy to inflate and biodegradable latex balloons! It’s the perfect visual demonstration of how many small efforts can create tremendous results."
 description: "Airigami creates very large scale installations out of latex balloons. We have developed a project specifically for Maker Faires that allows us to not only build an incredibly large creation that lends itself well to photos and selfies, but that also allows hundreds of attendees at a faire to participate in its construction.
 It’s a creative 2-D installation designed to be built by community members using easy to inflate and biodegradable latex balloons! Designed by the experts at Airigami, this hands-on exhibit engages visitors in a communal project with maximum impact and minimal mess.
@@ -34,5 +40,5 @@ maker:
   description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

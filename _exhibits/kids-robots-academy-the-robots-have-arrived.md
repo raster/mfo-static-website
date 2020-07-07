@@ -5,22 +5,70 @@ id: 35772
 status: 1
 url: https://www.kidsrobotacademy.com/home.html
 categories:
-  - Arduino
-    Automation
-    Education
-    Electric Vehicles
-    Electronics
-    Engineering
-    FIRST Robotics
-    Gaming
-    Handmade
-    Internet of Things
-    Invention
-    Kits
-    LEGO
-    Raspberry Pi
-    Robotics
-    Software
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    automation:
+      id: 200
+      slug: automation
+      name: Automation
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electric-vehicles:
+      id: 273
+      slug: electric-vehicles
+      name: Electric Vehicles
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    first-robotics:
+      id: 120
+      slug: first-robotics
+      name: FIRST Robotics
+    gaming:
+      id: 121
+      slug: gaming
+      name: Gaming
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    internet-of-things:
+      id: 139
+      slug: internet-of-things
+      name: Internet of Things
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    kits:
+      id: 126
+      slug: kits
+      name: Kits
+    lego:
+      id: 127
+      slug: lego
+      name: LEGO
+    raspberry-pi:
+      id: 137
+      slug: raspberry-pi
+      name: Raspberry Pi
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    software:
+      id: 143
+      slug: software
+      name: Software
 excerpt: "Our exhibit will showcase educational and service robots from around the world. 
 Robots will patrol the exhibit, greet and entertain visitors to our booth.
 We will showcase  Intelligent Robots built by our students, Advanced service robots and various educational and Vintage robots 
@@ -57,5 +105,5 @@ team-building environment, and thus generating intense interest and excitement f
 Note : The Robots Shop Opening soon In Orlando and Miami"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

@@ -5,18 +5,54 @@ id: 36256
 status: 1
 url: https://MyraMakes.com
 categories:
-  - Art
-    Comics
-    Craft
-    Education
-    Gaming
-    Handmade
-    Hands-On Workshop
-    Illustration
-    Invention
-    Sustainability
-    Upcycling
-    Writing and Publishing
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    comics:
+      id: 114
+      slug: comics
+      name: Comics
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    education:
+      id: 116
+      slug: education
+      name: Education
+    gaming:
+      id: 121
+      slug: gaming
+      name: Gaming
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    workshop:
+      id: 154
+      slug: workshop
+      name: Hands-On Workshop
+    illustration:
+      id: 124
+      slug: illustration
+      name: Illustration
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    sustainability:
+      id: 149
+      slug: sustainability
+      name: Sustainability
+    upcycling:
+      id: 152
+      slug: upcycling
+      name: Upcycling
+    writing-publishing:
+      id: 331
+      slug: writing-publishing
+      name: Writing and Publishing
 excerpt: "The Myra Makes Creative Adventure Space is a place for kids aged 4-12 and their families to participate in roleplaying, invention, and arts and crafts activities centered on empathy, design thinking, and problem solving. "
 description: "The Myra Makes Creative Adventure Space has three separate activities happening: Journey to Cloud City, a problem-solving and roleplaying adventure, Inventure, an in-development board game, and \"sneak peeks,\" where you can check out some of our prototype games, books and apps. 
 
@@ -42,5 +78,5 @@ maker:
   description: "Myra Makes is a creative education startup which publishes books and games that help kids develop creative, problem-solving, and emotional skills. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
 last-modified-db: "2019-10-26 13:04:35"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

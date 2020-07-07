@@ -5,17 +5,50 @@ id: 40468
 status: 2
 url: https://www.projectfdl.com
 categories:
-  - 3D Printing
-    Arduino
-    Art
-    Drones
-    Education
-    Electronics
-    Engineering
-    Handmade
-    Maker Community
-    Robotics
-    Software
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    art:
+      id: 112
+      slug: art
+      name: Art
+    drones:
+      id: 320
+      slug: drones
+      name: Drones
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    maker-community:
+      id: 129
+      slug: maker-community
+      name: Maker Community
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    software:
+      id: 143
+      slug: software
+      name: Software
 excerpt: "Project FDL is a small company based out of Alpharetta GA that makes 3d printed foam dart launchers. Our designs are open sourced and a great hobby project to really allow the amazing art of 3d printing shine though. 
 Come check out our blasters and even try one out in person! "
 description: "Project FDL is a small company based out of Alpharetta GA that makes 3d printed foam dart launchers. Our designs are open sourced and a great hobby project to really allow the amazing art of 3d printing shine though. 
@@ -37,5 +70,5 @@ maker:
   description: "Dynamic tag team duo of Jesse and Jackie Kovarovics. Project FDL is dedicated to creating innovative 3D printed foam dart launchers. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/1836F140-8FFB-4FAA-990C-8A6F0C89ECBE.png
 last-modified-db: "2019-10-30 13:09:44"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

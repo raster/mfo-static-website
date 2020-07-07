@@ -5,11 +5,26 @@ id: 35008
 status: 1
 url: https://www.mpja.com/
 categories:
-  - Arduino
-    Electronics
-    Hands-On Workshop
-    Kits
-    Raspberry Pi
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    workshop:
+      id: 154
+      slug: workshop
+      name: Hands-On Workshop
+    kits:
+      id: 126
+      slug: kits
+      name: Kits
+    raspberry-pi:
+      id: 137
+      slug: raspberry-pi
+      name: Raspberry Pi
 excerpt: "Our exhibit will consist of electronic components and kits for the kids. Along with hands on projects that  the kids can build on site. and see the what Scientific principles can do. "
 description: "Marlin P Jones and Associates Inc. supplies electronic parts and components to the hobbyist and industrial world. We will have our catalog of supplies available for the interested individuals. We will have supplies available for purchase along with projects that the kids can purchase and build on sight. We also will have hands on items where the kids can see what scientific principles can do."
 location: Opportunity Building
@@ -29,5 +44,5 @@ maker:
   description: "We are an electronic company that works with hobbyist  and Makers with parts and supplies. We have kits for the kids to create there own items. We supply soldering irons and accessories for the kid to learn how to solder and work with electronics. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/63019_391470484283765_520449786_n.jpg
 last-modified-db: "2019-10-26 13:36:56"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

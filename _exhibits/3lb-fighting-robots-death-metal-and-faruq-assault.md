@@ -5,7 +5,10 @@ id: 37138
 status: 1
 url: 
 categories:
-  - Combat Robots
+  - combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
 excerpt: "3lb combat robots - Death Metal and Faruq Assault"
 description: "Two unique and hard hitting designs. One is tall vertical spinner with a 12\" diameter blade and the second bot a weapon which has 2/3 of the total mass spinning."
 location: Combat Robots - Large Arena (Spirit)
@@ -25,5 +28,5 @@ maker:
   description: "Builder of fighting robots large and small"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
 last-modified-db: "2019-11-06 17:31:24"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

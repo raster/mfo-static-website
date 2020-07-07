@@ -5,22 +5,70 @@ id: 35610
 status: 1
 url: 
 categories:
-  - 3D Printing
-    Arduino
-    Art
-    Automation
-    Craft
-    Education
-    Electronics
-    Engineering
-    Hackerspace
-    Handmade
-    Laser Cutting & Engraving
-    Maker Community
-    Makerspace
-    Raspberry Pi
-    Science Fair
-    Software
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    art:
+      id: 112
+      slug: art
+      name: Art
+    automation:
+      id: 200
+      slug: automation
+      name: Automation
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    hackerspace:
+      id: 122
+      slug: hackerspace
+      name: Hackerspace
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    laser-cutting-engraving:
+      id: 330
+      slug: laser-cutting-engraving
+      name: Laser Cutting & Engraving
+    maker-community:
+      id: 129
+      slug: maker-community
+      name: Maker Community
+    makerspace:
+      id: 130
+      slug: makerspace
+      name: Makerspace
+    raspberry-pi:
+      id: 137
+      slug: raspberry-pi
+      name: Raspberry Pi
+    science-fair:
+      id: 141
+      slug: science-fair
+      name: Science Fair
+    software:
+      id: 143
+      slug: software
+      name: Software
 excerpt: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
 description: "Variety of items created by Young Makers &amp; adults including 3d printing, electronics, artwork, coding demos, cardboard construction, and more."
 location: Opportunity Building
@@ -40,5 +88,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/57068569_10157222299064727_7706636900714414080_o-1024x641.jpg
 last-modified-db: "2019-10-29 14:43:44"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

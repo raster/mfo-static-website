@@ -5,12 +5,30 @@ id: 35600
 status: 1
 url: https://www.cerobots.com
 categories:
-  - CNC
-    Combat Robots
-    Electronics
-    Engineering
-    Robotics
-    Tools
+  - cnc:
+      id: 113
+      slug: cnc
+      name: CNC
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    tools:
+      id: 151
+      slug: tools
+      name: Tools
 excerpt: "Come say hello to Kraken, everyone's favorite Sea Monster from the hit tv show Battlebots. "
 description: "Get up close and personal with the 250-pound BattleBot, Kraken. Improved this year with increased biting force, improved speed, and self-righting capability."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -30,5 +48,5 @@ maker:
   description: "CE Robots is the creative team behind the 2018 BattleBot Kraken. We'll have the old girl on display, so you can see this amazing machine up close. CE Robots will also have some of our smaller machines competing in the combat robot tournament, so check them out for some bone-jarring destruction."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Kracken-Bot-S2018-1140x924-1024x830.jpg
 last-modified-db: "2019-11-06 16:50:53"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

@@ -5,14 +5,38 @@ id: 37276
 status: 3
 url: 
 categories:
-  - Art
-    Craft
-    Handmade
-    Jewelry
-    Props
-    Special Effects
-    Sustainability
-    Upcycling
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    jewelry:
+      id: 260
+      slug: jewelry
+      name: Jewelry
+    props:
+      id: 135
+      slug: props
+      name: Props
+    special-effects:
+      id: 146
+      slug: special-effects
+      name: Special Effects
+    sustainability:
+      id: 149
+      slug: sustainability
+      name: Sustainability
+    upcycling:
+      id: 152
+      slug: upcycling
+      name: Upcycling
 excerpt: "Spooky, adorable, and curiously dark crafts from home decor to jewelry. All created by a scenic artistic named Yoshi!"
 description: "From dark macabre paper mache human skulls that hold succulents to hand painted canvas pieces that have spooky images that can glow in black light! All handmade by a scenic and graphic designer native to the orlando area. Yoshi has been in love with the Halloween realm of theme park entertainment and she designs her own interpretation of the bizarre and macabre. "
 location: Unassigned
@@ -33,5 +57,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/43984324_1414885788643123_6479562871641473024_n.jpg
 last-modified-db: "2019-10-11 21:57:49"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

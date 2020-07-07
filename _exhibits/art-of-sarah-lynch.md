@@ -5,9 +5,18 @@ id: 35187
 status: 1
 url: http://www.confusingdrawings.tumblr.com
 categories:
-  - Art
-    Comics
-    Illustration
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    comics:
+      id: 114
+      slug: comics
+      name: Comics
+    illustration:
+      id: 124
+      slug: illustration
+      name: Illustration
 excerpt: "17-year-old digital artist "
 description: "I'm Sarah Lynch, a 17-year-old multi-media artist. I do mostly fandom-related art, but I also do some original work. I'll be drawing and showing my art, and some future projects of mine!"
 location: Spirit Building
@@ -27,5 +36,5 @@ maker:
   description: "Multi-media Artist"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2o18-1024x1024.png
 last-modified-db: "2019-11-01 14:21:14"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

@@ -5,10 +5,22 @@ id: 34854
 status: 4
 url: https://www.arcanicartistry.com
 categories:
-  - Art
-    Craft
-    Gaming
-    Laser Cutting & Engraving
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    gaming:
+      id: 121
+      slug: gaming
+      name: Gaming
+    laser-cutting-engraving:
+      id: 330
+      slug: laser-cutting-engraving
+      name: Laser Cutting & Engraving
 excerpt: "Custom laser cut artwork."
 description: "Welcome to Arcanic Artistry. We create custom laser cut artwork of all kinds and varieties. Starting just over a year and a half ago we've aimed to create unique gifts to celebrate nerd culture that everyone can enjoy."
 location: Spirit Building
@@ -28,5 +40,5 @@ maker:
   description: "Laser cut nerdy artwork, various gaming designs, and tabletop rpg accessories to enhance your home and playspace."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/AA-Logo-image-1-1024x1024.png
 last-modified-db: "2019-11-04 10:20:10"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

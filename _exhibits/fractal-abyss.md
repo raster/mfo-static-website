@@ -5,13 +5,34 @@ id: 37711
 status: 1
 url: http://www.FractalAbyss.com
 categories:
-  - Art
-    Education
-    Electronics
-    Software
-    Special Effects
-    Tools
-    Virtual Reality
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    software:
+      id: 143
+      slug: software
+      name: Software
+    special-effects:
+      id: 146
+      slug: special-effects
+      name: Special Effects
+    tools:
+      id: 151
+      slug: tools
+      name: Tools
+    virtual-reality:
+      id: 321
+      slug: virtual-reality
+      name: Virtual Reality
 excerpt: "Fractal Art Exhibit by Joseph Presley
 
 Limited edition fine art prints on paper, canvas &amp; metal.
@@ -42,5 +63,5 @@ beautiful and deeply emotional artistic expressions.  He has practiced fractal a
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

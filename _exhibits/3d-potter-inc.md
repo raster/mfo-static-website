@@ -5,7 +5,10 @@ id: 38337
 status: 1
 url: https://3dpotter.com
 categories:
-  - 3D Printing
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
 excerpt: "3D Potter, Inc. is the manufacturer of 3D ceramic printers. "
 description: "3D Potter, Inc. is the manufacturer of 3D ceramic printers. During the Makerfaire we will be printing with water-based clay."
 location: Opportunity Building
@@ -25,5 +28,5 @@ maker:
   description: "3D Potter is the only manufacturer of large scale 3D printers exclusive for clay/ceramics."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/3DPotter_Logo_Color-1024x336.jpg
 last-modified-db: "2019-10-26 13:59:52"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

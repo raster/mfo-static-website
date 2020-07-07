@@ -5,12 +5,30 @@ id: 36534
 status: 1
 url: 
 categories:
-  - 3D Printing
-    Arduino
-    Automation
-    Education
-    Electronics
-    Engineering
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    automation:
+      id: 200
+      slug: automation
+      name: Automation
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
 excerpt: "Scratch build fully functional wall e robot"
 description: "This is a fully 3D part wood and other material full size 1.1 replica of the walle robot from the movie wall-e
 Fully functional"
@@ -31,5 +49,5 @@ maker:
   description: "We make walle Robot from the movie walle compleate from scratch "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190518_163051-498x1024.jpg
 last-modified-db: "2019-10-27 17:41:47"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:06"
 ---

@@ -5,7 +5,10 @@ id: 35183
 status: 1
 url: https://www.etsy.com/shop/ElegantlyChainMail
 categories:
-  - Jewelry
+  - jewelry:
+      id: 260
+      slug: jewelry
+      name: Jewelry
 excerpt: "Elegant chain mail jewelry is made from light weight aluminum in bright colors. every piece is hand made and adjusted to fit you on site.
 
 the hand made jewelry includes: bracelets, charm bracelets, chocker necklaces, pendent necklaces, and earrings. "
@@ -31,5 +34,5 @@ maker:
   description: "I have been making chain mail jewelry for 4 years now. I started because I have a hard time finding jewelry that fits me and doesn't effect my delicate skin. when I started I found a lot of people were interested in the jewelry I was wearing so I decided to try selling it. so I started to sell online now I think I am ready to get out there and sell at events."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/56184164_1025455330911557_8337655840894877696_n.jpg
 last-modified-db: "2019-10-27 17:20:53"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

@@ -5,12 +5,30 @@ id: 36052
 status: 1
 url: https://www.techwears.com
 categories:
-  - Art
-    Craft
-    Invention
-    Manufacturing
-    Sustainability
-    Upcycling
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    manufacturing:
+      id: 131
+      slug: manufacturing
+      name: Manufacturing
+    sustainability:
+      id: 149
+      slug: sustainability
+      name: Sustainability
+    upcycling:
+      id: 152
+      slug: upcycling
+      name: Upcycling
 excerpt: "S T E A M Powered Eco Fashion Accessories and Collectibles "
 description: "One last upgrade for recycled circuit boards! Drew searches the globe for the most beautiful recycled circuit boards available and transforms them into Neck Ties, Jewelry, Magnets and other fun accessories so you can geek your heart out and heal the planet. Wear a Statement, and join us in our effort to #UpcycleAlltheTech!"
 location: Opportunity Building
@@ -34,5 +52,5 @@ Established in 2014, TechWears has been recognized as the \"Best Sustainable Bus
 Drew hopes that besides being \"geek chic\" and really cool looking, that his creations will advance important conversations around eco literacy and STEAM Education. Ultimately, Drew hopes to work himself out of a job by eliminating e-waste all together.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Drew-Johnson-Headshot-3-1024x1024.jpg
 last-modified-db: "2019-10-26 13:57:30"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

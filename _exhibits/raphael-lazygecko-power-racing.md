@@ -5,10 +5,22 @@ id: 38944
 status: 1
 url: http://www.TeamLazyGecko.com
 categories:
-  - Electric Vehicles
-    Engineering
-    Power Racing
-    Vehicles
+  - electric-vehicles:
+      id: 273
+      slug: electric-vehicles
+      name: Electric Vehicles
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    power-racing:
+      id: 134
+      slug: power-racing
+      name: Power Racing
+    vehicles:
+      id: 275
+      slug: vehicles
+      name: Vehicles
 excerpt: "Participant in the Power Racing Series."
 description: "Custom $500 electric go kart to race in the Power Racing Series."
 location: Unassigned
@@ -28,5 +40,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
 last-modified-db: "2019-10-02 20:58:10"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

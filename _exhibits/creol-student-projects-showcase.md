@@ -5,13 +5,34 @@ id: 34914
 status: 1
 url: http://www.creol.ucf.edu
 categories:
-  - Education
-    Electronics
-    Engineering
-    Maker Community
-    Photography
-    Science Fair
-    Virtual Reality
+  - education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    maker-community:
+      id: 129
+      slug: maker-community
+      name: Maker Community
+    photography:
+      id: 133
+      slug: photography
+      name: Photography
+    science-fair:
+      id: 141
+      slug: science-fair
+      name: Science Fair
+    virtual-reality:
+      id: 321
+      slug: virtual-reality
+      name: Virtual Reality
 excerpt: "Optics and Photonics is the science and technology of light: from powerful lasers, energy-efficient LEDs, to fiber communication and bio-medical imaging. Come and learn about this emerging STEM field with interactive demonstrations contributed by students from CREOL, The College of Optics and Photonics at UCF."
 description: "CREOL, the College of Optics and Photonics will be presenting a series of demonstrations made in the past year and showing the guests how to tweak everyday objects into displaying interesting optical phenomena.  The demonstrations will get you acquainted with the concepts and applications of photonics, from topics as simple as the reflection and refraction of light (Schilieren imaging), to technologies as complicated as optical communication (Laser music player) and non-conventional imaging systems (Hologram, Laser speckle constrast imaging and other \"exotic photography\"). Within our college, we host annual Optics Demonstration Design competitions where we ask photonics-major students to design and build setups that demonstrate the concepts and applications of optics. They have been used on CREOL’s Optics Day, STEM day,  MakeFest (Orlando Science Center) and other outreach events.
 An itemized list includes (tentitave)
@@ -39,5 +60,5 @@ maker:
   description: "CREOL, The College of Optics and Photonics at University of Central Florida is a world leader in education, research, and industrial partnership in the field of optics and photonics. Students at CREOL use spare time to design and build demonstration setups that showcase the concepts and applications of photonics, from topics as simple as the reflection and refraction of light, to technologies as complicated as fiber communication and optical imaging. With these home-made setups, we have participated in a variety of university and community outreach events including CREOL’s Optics Day, STEM day, K-12 teach-in etc every year."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/UILexternal_KGrgb_CREOL-The-College-of-Optics-and-Photonics-300dpi-1024x209.png
 last-modified-db: "2019-10-27 16:33:58"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

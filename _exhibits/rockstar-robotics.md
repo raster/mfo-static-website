@@ -5,15 +5,42 @@ id: 40431
 status: 1
 url: http://rockstarrobotics.wixsite.com/rockstarrobot
 categories:
-  - Arduino
-    Combat Robots
-    Education
-    Electronics
-    Engineering
-    FIRST Robotics
-    LEGO
-    Raspberry Pi
-    Robotics
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    first-robotics:
+      id: 120
+      slug: first-robotics
+      name: FIRST Robotics
+    lego:
+      id: 127
+      slug: lego
+      name: LEGO
+    raspberry-pi:
+      id: 137
+      slug: raspberry-pi
+      name: Raspberry Pi
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
 excerpt: "Present our team robots"
 description: "We are a Pinehills located FIRST robotics team based out of the Walt Disney Branch Boys and Girls club"
 location: Unassigned
@@ -34,5 +61,5 @@ maker:
 We would like to present our robots from our team."
   image-primary: 
 last-modified-db: "2019-11-02 11:47:01"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

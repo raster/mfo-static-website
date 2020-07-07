@@ -5,8 +5,14 @@ id: 34962
 status: 1
 url: 
 categories:
-  - Art
-    Fabric Arts
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    fabric-arts:
+      id: 271
+      slug: fabric-arts
+      name: Fabric Arts
 excerpt: "Whimsical, magical mixed-media watercolor paintings!"
 description: "Magical and whimsical watercolor paintings with various mixed-media elements added - beads, crystals, dried flowers...whatever I can find!"
 location: Spirit Building
@@ -29,5 +35,5 @@ I love watercolors because of how unpredictable they are - I can have one thing 
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
 last-modified-db: "2019-10-27 16:36:35"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

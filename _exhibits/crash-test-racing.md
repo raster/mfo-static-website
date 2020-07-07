@@ -5,7 +5,10 @@ id: 39834
 status: 1
 url: 
 categories:
-  - Power Racing
+  - power-racing:
+      id: 134
+      slug: power-racing
+      name: Power Racing
 excerpt: "We will be a participant in the Power Racing Series races. One car will be used in the race. "
 description: "With a pit crew of three, we will be running one car in the race. Our goal is to have fun rather than to win, as this is only our second time doing a race. "
 location: Unassigned
@@ -25,5 +28,5 @@ maker:
   description: "My dad and I started to participate in Makerfaire in 2015. We loved the different robotics and creations made by the exhibitors and decided to take part in the Power Racing Series race. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Crash-test-1024x864.jpg
 last-modified-db: "2019-10-20 12:20:22"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

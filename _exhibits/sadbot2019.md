@@ -5,8 +5,14 @@ id: 37795
 status: 1
 url: 
 categories:
-  - BattleBot
-    Combat Robots
+  - battlebot:
+      id: 340
+      slug: battlebot
+      name: BattleBot
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
 excerpt:
 description: "Entrant into Robot Ruckus"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -26,5 +32,5 @@ maker:
   description: "Charles thinks robots are horrible but builds them anyways. MIT Mechanical Engineering, design instructor, BattleBots contestant, fine 80s van connoisseur, and co-founder of a drone company."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/m6ysUikjWfNM3xcqgZsF6XpX9LRs6HUI_edited.png
 last-modified-db: "2019-11-06 17:11:14"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

@@ -5,13 +5,34 @@ id: 35036
 status: 1
 url: http://CFL.MadScience.org
 categories:
-  - Education
-    Electronics
-    Engineering
-    Hands-On Workshop
-    Invention
-    Science Fair
-    Upcycling
+  - education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    workshop:
+      id: 154
+      slug: workshop
+      name: Hands-On Workshop
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    science-fair:
+      id: 141
+      slug: science-fair
+      name: Science Fair
+    upcycling:
+      id: 152
+      slug: upcycling
+      name: Upcycling
 excerpt: "Mad Science brings hands-on Science and STEM to students across Central Florida. Come by and learn how creating and making using Science can be FUN!"
 description: "Mad Science brings hands-on Science and STEM to students across Central Florida. Come by and learn how creating and making using Science can be FUN! We'll have a mix of Free and Paid activities, sure to get your inner Mad Maker Scientist working!"
 location: Opportunity Building
@@ -40,5 +61,5 @@ Check out Mad Science online at CFL.MadScience.org. Call today and find out just
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/MixedColorLogo-Small.png
 last-modified-db: "2019-10-26 12:51:00"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

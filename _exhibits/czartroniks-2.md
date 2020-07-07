@@ -5,18 +5,54 @@ id: 36834
 status: 1
 url: 
 categories:
-  - Arduino
-    Art
-    Craft
-    Electronics
-    Handmade
-    Invention
-    MIDI
-    Music
-    Puppets
-    Robotics
-    Software
-    Upcycling
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    midi:
+      id: 128
+      slug: midi
+      name: MIDI
+    music:
+      id: 132
+      slug: music
+      name: Music
+    puppets:
+      id: 136
+      slug: puppets
+      name: Puppets
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    software:
+      id: 143
+      slug: software
+      name: Software
+    upcycling:
+      id: 152
+      slug: upcycling
+      name: Upcycling
 excerpt: "A collection of unique, homemade electronic musical instruments and interactions. "
 description: "This interactive exhibit will encourage you to pick up and play one of a kind electronic musical instruments.  A wide range of synthesized and MIDI instruments will be available, including drums, guitars, bass pedals, keytars, and other hybrids.  Most are designed for musical novices to easily enjoy.
 
@@ -40,5 +76,5 @@ maker:
   description: "Ron Czarnik has been programming, making music, building things and taking them apart for most of his life.  He discovered Arduino microcontrollers at Maker Faire a few years back and since that time he has produced an evolving multitude of unique electronic musical instruments.  His work, twice featured on Instructables.com, incorporates many disciplines including decoupage/collage, recycled art, painting, electronics, woodworking, animatronics, music theory, sound synthesis and interface design.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/10624680_509397042530769_4044820606179378939_n.jpg
 last-modified-db: "2019-10-27 16:41:09"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:03"
 ---

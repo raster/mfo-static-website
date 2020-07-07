@@ -5,19 +5,58 @@ id: 34845
 status: 1
 url: http://www.blackhartfilms.com
 categories:
-  - 3D Printing
-    Arduino
-    Comics
-    Cosplay
-    Craft
-    Electronics
-    Gaming
-    Handmade
-    Laser Cutting & Engraving
-    Props
-    Space
-    Special Effects
-    SteamPunk
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    comics:
+      id: 114
+      slug: comics
+      name: Comics
+    cosplay:
+      id: 286
+      slug: cosplay
+      name: Cosplay
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    gaming:
+      id: 121
+      slug: gaming
+      name: Gaming
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    laser-cutting-engraving:
+      id: 330
+      slug: laser-cutting-engraving
+      name: Laser Cutting & Engraving
+    props:
+      id: 135
+      slug: props
+      name: Props
+    space:
+      id: 144
+      slug: space
+      name: Space
+    special-effects:
+      id: 146
+      slug: special-effects
+      name: Special Effects
+    steampunk:
+      id: 148
+      slug: steampunk
+      name: SteamPunk
 excerpt: "A table layout with a variety of 3D printed props, dioramas, etc.... "
 description: "An exhibition of props and models I've been working on-  props are designed in Fusion 360 to be as functional to their screen counter-parts as possible, and printed on a combination of FDM and SLA machines."
 location: Opportunity Building
@@ -43,5 +82,5 @@ Locally I've worked as a photographer, filmmaker, and technical supervisor for m
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
 last-modified-db: "2019-10-29 14:47:22"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

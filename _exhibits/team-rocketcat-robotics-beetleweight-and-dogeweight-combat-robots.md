@@ -5,17 +5,50 @@ id: 35890
 status: 1
 url: https://rocketcatrobotics.com/
 categories:
-  - 3D Printing
-    Automation
-    CNC
-    Combat Robots
-    Education
-    Electronics
-    Engineering
-    Manufacturing
-    Metalworking
-    Robotics
-    Tools
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    automation:
+      id: 200
+      slug: automation
+      name: Automation
+    cnc:
+      id: 113
+      slug: cnc
+      name: CNC
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    manufacturing:
+      id: 131
+      slug: manufacturing
+      name: Manufacturing
+    metalworking:
+      id: 332
+      slug: metalworking
+      name: Metalworking
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
+    tools:
+      id: 151
+      slug: tools
+      name: Tools
 excerpt: "Team RocketCat Robotics from Kokomo, IN is bringing two combat robots to the Robot Ruckus! Each of these robots are brand new designs, and will be making their debut at Robot Ruckus 2019. "
 description: "Team RocketCat Robotics from Kokomo, IN is bringing two combat robots to the Robot Ruckus! Each of these robots are brand new designs, and will be making their debut at Robot Ruckus 2019. We are bringing both a 3 pound Beetleweight robot, and a 30 pound Sportsman robot. Team RocketCat has over 40 years of competition robotics experience, and is excited to learn from the best of the best in Orlando!"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -35,5 +68,5 @@ maker:
   description: "Team RocketCat Robotics is a combat robotics team focused on building attractive, effective robots. The team hopes to use our robots to inspire others to find a passion for robotics and STEM. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rocketcat.jpg
 last-modified-db: "2019-11-07 14:42:56"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

@@ -5,16 +5,46 @@ id: 36376
 status: 1
 url: http://lilliepad.events
 categories:
-  - 3D Printing
-    Arduino
-    Craft
-    Education
-    Electronics
-    Engineering
-    Kits
-    Makerspace
-    Science Fair
-    Tools
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    kits:
+      id: 126
+      slug: kits
+      name: Kits
+    makerspace:
+      id: 130
+      slug: makerspace
+      name: Makerspace
+    science-fair:
+      id: 141
+      slug: science-fair
+      name: Science Fair
+    tools:
+      id: 151
+      slug: tools
+      name: Tools
 excerpt: "Lillie Pad Events is a Mobile Makerspace. We will be showing examples of available activities that can be booked for events.  We will be selling straw connector kits."
 description: "Lillie Pad Events provides assorted maker activities for schools, organizations and special events. Our services strive to encourage experiential learning and inspiration for Makers of all ages.  Lillie Pad Events provides teacher-led activities with lessons centered around a S.T.E.A.M. curriculum by a Florida certified teacher."
 location: Opportunity Building
@@ -34,5 +64,5 @@ maker:
   description: "Lillie Pad Events is a mobile makerspace for children.  Lillie Pad Events brings the maker activities to schools, parties and many other events."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vista-Print-Front.jpg
 last-modified-db: "2019-10-26 13:21:49"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:04"
 ---

@@ -5,9 +5,18 @@ id: 35410
 status: 1
 url: 
 categories:
-  - Craft
-    Props
-    Talk
+  - craft:
+      id: 115
+      slug: craft
+      name: Craft
+    props:
+      id: 135
+      slug: props
+      name: Props
+    talk:
+      id: 150
+      slug: talk
+      name: Talk
 excerpt: "self contained workshop and sales room by means of a 6x14ft enclosed trailer"
 description: "trailer is self contained for work and sales to the public and for demonstration purposes"
 location: Unassigned
@@ -27,5 +36,5 @@ maker:
   description: "I use recycled horseshoes,   fractal wood art"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2015-pic-passport-1024x1015.jpg
 last-modified-db: "2019-11-01 14:27:48"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

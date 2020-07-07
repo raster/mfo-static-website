@@ -5,9 +5,18 @@ id: 37612
 status: 1
 url: https://miles-space.com
 categories:
-  - Engineering
-    Invention
-    Space
+  - engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    space:
+      id: 144
+      slug: space
+      name: Space
 excerpt: "Team Miles is a leading competitor in the NASA CubeQuest Challenge. The challenge offers $5.5 million in prizes for teams and will provide launch services on the 2020 NASA SLS-EM1 mission for the top three teams. They are building a 6U CubeSat intended to communicate in Deep Space and traveling to the vicinity of Mars."
 description: "Team Miles was one of 3 winners to get a free launch for their satellite in the NASA CubeQuest Challenge. The challenge, which is a space derby, offers $5.5 million in prizes for teams and will provide launch services on the 2020 NASA SLS-EM1 mission.
 
@@ -35,5 +44,5 @@ maker:
   description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
 last-modified-db: "2019-10-26 13:18:10"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

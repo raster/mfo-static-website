@@ -5,9 +5,18 @@ id: 36162
 status: 1
 url: 
 categories:
-  - BattleBot
-    Combat Robots
-    Robotics
+  - battlebot:
+      id: 340
+      slug: battlebot
+      name: BattleBot
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
 excerpt: "Orlando Maker Faire take 4."
 description: "Team one way is back for another shot to win the battles at maker faire tournament. We will be debuting one robot this year. Divided Highway, a 30lb sportsman class robot."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
@@ -27,5 +36,5 @@ maker:
   description: "Team one way is from manatee infested Crystal River FL."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/09/IMG_20160905_203635804-4-1024x576.jpg
 last-modified-db: "2019-11-06 17:46:01"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

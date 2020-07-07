@@ -5,9 +5,18 @@ id: 38800
 status: 1
 url: https://www.urocyclers.com/our-impact
 categories:
-  - Education
-    Engineering
-    Invention
+  - education:
+      id: 116
+      slug: education
+      name: Education
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
 excerpt: "A small mdeical device that can save thousands of lives at a ridiculously low cost."
 description: "This totally unique and proven medical system utilizes a precision, passive, low-cost, non-intrusive magnetic valve attached to the outer end of a Foley indwelling catheter, to serve as an external  PROSTHETIC sphincter muscle. In addition to preventing reflux of septic voided urine flowing back into the bladder from the collection bag, this system provides the benefit of sensing bladder filling pressure while allowing the bladder to fill and automatically flush out the body's liquid wastes in a NORMAL CYCLIC manner. The FDA-protocol observed results are amazing, because the REDUCTION IN Catheter-Associated Urinary Tract Infections (CAUTIs) has been proven to be 90.9%!
 
@@ -30,5 +39,5 @@ maker:
   description: "Dr. David Flinchbaugh is listed as the inventor on hundreds of patents.  He has a PHD in physics and a long history of innovative designs.  He has been the president of Inventors Council of Central Florida for over 40 years and has helped hundreds of people move their ideas toward products.  "
   image-primary: 
 last-modified-db: "2019-10-26 12:37:01"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

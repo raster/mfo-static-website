@@ -5,12 +5,30 @@ id: 36183
 status: 1
 url: 
 categories:
-  - Art
-    Craft
-    Handmade
-    Illustration
-    SteamPunk
-    Woodworking
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    illustration:
+      id: 124
+      slug: illustration
+      name: Illustration
+    steampunk:
+      id: 148
+      slug: steampunk
+      name: SteamPunk
+    woodworking:
+      id: 153
+      slug: woodworking
+      name: Woodworking
 excerpt: "Hand cut artwork on wood, original illustrations, fan art, stickers, and more!"
 description: "Celebrating Three Years at Maker Faire Orlando, I'll have a large selection of Halloween home decor, original illustrations, and a selection fan art inspired pieces that you can display throughout your home or office, or given as a one-of-a-kind gift. I'll be at my booth throughout the weekend showing how to prep surfaces, ink, and paint on wood, as well as having a variety of coloring sheets for attendees to color and take home with them!"
 location: Spirit Building
@@ -30,5 +48,5 @@ maker:
   description: "2019 marks my third year at Maker Faire Orlando! What you’ll find is an array of artwork ranging from spooky and macabre to familiar and friendly, original illustrations, woodworking, handmade crafts, fan art, prints, and more. Everything created has a focus on quality, originality, and creating a product that either you will be happy to own or enjoy gifting to someone else."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dhlogo.jpg
 last-modified-db: "2019-10-27 17:28:45"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:03"
 ---

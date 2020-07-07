@@ -5,14 +5,38 @@ id: 39181
 status: 1
 url: http://www.skycraftsurplus.com/about-us.aspx
 categories:
-  - Arduino
-    Education
-    Electronics
-    Engineering
-    Hackathon
-    Invention
-    Maker Community
-    Robotics
+  - arduino:
+      id: 111
+      slug: arduino
+      name: Arduino
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    hackathon:
+      id: 140
+      slug: hackathon
+      name: Hackathon
+    invention:
+      id: 125
+      slug: invention
+      name: Invention
+    maker-community:
+      id: 129
+      slug: maker-community
+      name: Maker Community
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
 excerpt: "Check out what's new at Orlando's favorite surplus store!"
 description: "Skycraft is a self - service surplus sales outlet that sells to the general public as well as thousands of businesses throughout the United States. 
 We feature electronic parts, electrical supplies, hardware, wire and cable, test equipment, and thousands of hard to find items. Skycraft is an ideal place for hobbyists, model builders, audiophiles, artists, and the do-it-yourself electronic enthusiast."
@@ -34,5 +58,5 @@ maker:
 We feature electronic parts, electrical supplies, hardware, wire and cable, test equipment, and thousands of hard to find items. Skycraft is an ideal place for hobbyists, model builders, audiophiles, artists, and the do-it-yourself electronic enthusiast."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/09/skycraft_600px.jpg
 last-modified-db: "2019-10-26 13:56:20"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

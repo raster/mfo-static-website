@@ -5,7 +5,10 @@ id: 36020
 status: 1
 url: http://www.ExplodingBacon.com
 categories:
-  - FIRST Robotics
+  - first-robotics:
+      id: 120
+      slug: first-robotics
+      name: FIRST Robotics
 excerpt: "Our mission is to inspire youth using 4-H principles along with the tenets of gracious professionalism to explore science and technology through a mentor based program, which develops leadership and life skills while encouraging innovation, creative solutions to engineering and technical challenges."
 description: "Exploding Bacon Robotics Team 1902, is a Central Florida 4-H club for High School aged students that among other things, participates in FIRST. Our students learn engineering, computer programming, and hands-on machinery skills, as well as the problem solving, strategic thinking, time management, public speaking, teamwork and leadership skills essential in any career. The goal is to inspire and support these youth members to continue on to higher education in trade schools and STEM programs in college."
 location: Curiosity Building
@@ -25,5 +28,5 @@ maker:
   description: "Exploding Bacon Robotics, is a 4-H club that among other things, participates in FIRST. Our students learn engineering, computer programming, and hands-on machinery skills, as well as the problem solving, strategic thinking, time management, public speaking, teamwork and leadership skills essential in any career. The goal is to inspire and support these youth members to continue on to higher education in trade schools and STEM programs in college."
   image-primary: 
 last-modified-db: "2019-10-26 14:42:37"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

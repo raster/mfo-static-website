@@ -5,13 +5,34 @@ id: 34967
 status: 1
 url: http://hibiscuscovecreations.com
 categories:
-  - Art
-    Craft
-    Fiber Arts
-    Handmade
-    Jewelry
-    SteamPunk
-    Writing and Publishing
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    fiber-arts:
+      id: 270
+      slug: fiber-arts
+      name: Fiber Arts
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    jewelry:
+      id: 260
+      slug: jewelry
+      name: Jewelry
+    steampunk:
+      id: 148
+      slug: steampunk
+      name: SteamPunk
+    writing-publishing:
+      id: 331
+      slug: writing-publishing
+      name: Writing and Publishing
 excerpt: "I create hand- bound journals with hand dyed dyed pages and custom covers, altered (decorated) bottles in a wide variety of themes, clay creations such as dragons, birds, and bowls. I also create and assortment of small jewelry is: earrings and bracelets."
 description: "I create journals by first hand dying each page, creating a variety of colors and patterns, and in some cases Scents. I then bind them into books using a variety of methods, some sewn or tied, many Perfect bound (glued like a text book). Once the books are created, I make the cover art using mixed media: paper, inks, pants, feathers, clay art, and other things to form unique and beautiful books.
 
@@ -43,5 +64,5 @@ I have a small assortment of clay-work including dragons, birds, flowers, and bo
 My jewelry collection of earrings and bracelets is small but each handmade using glass, stone, metal, and hand worked leather"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07281820102-1024x687.jpg
 last-modified-db: "2019-10-29 17:41:40"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---

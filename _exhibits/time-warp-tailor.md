@@ -5,14 +5,38 @@ id: 39238
 status: 1
 url: 
 categories:
-  - Craft
-    Fabric Arts
-    Handmade
-    Hands-On Workshop
-    Kits
-    Sewing
-    SteamPunk
-    Upcycling
+  - craft:
+      id: 115
+      slug: craft
+      name: Craft
+    fabric-arts:
+      id: 271
+      slug: fabric-arts
+      name: Fabric Arts
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    workshop:
+      id: 154
+      slug: workshop
+      name: Hands-On Workshop
+    kits:
+      id: 126
+      slug: kits
+      name: Kits
+    sewing:
+      id: 269
+      slug: sewing
+      name: Sewing
+    steampunk:
+      id: 148
+      slug: steampunk
+      name: SteamPunk
+    upcycling:
+      id: 152
+      slug: upcycling
+      name: Upcycling
 excerpt: "Steampunk and other adventurous wearables, constructed from a variety of reclaimed items mixed with new and vintage fabrics. My exhibit will also allow people to construct a plumed mini-top hat from their choice of a variety of fabrics, pre-cut to allow for completion in about an hour. "
 description: "As a tailor and milliner, making hats and clothing for adventurous gentlemen and ladies I collect ....souvenirs....as I travel with my friend Mr. Verne, which I incorporate into my work. My last ensemble included an 18th century skirt, a Victorian corset, a leather coat from 1970, and something called a \"power suit\" from 1990, though I cannot imagine what power it may have wielded since it revealed nothing of the feminine wiles which I find so reliable. Look for 1940's aprons styled into modern skirts using 18th century design and construction methods; hats made from gelatin molds, and vintage jewelry-trimmed fabric totes. I am the costume designer for Opera Orlando's Steampunk \"Tales of Hoffman\" as well as dozens of productions from musical theatre to serious historic events.   I accept short term apprentices as introductory hat-makers."
 location: Spirit Building
@@ -32,5 +56,5 @@ maker:
   description: "I grew up travelling the world and now bring the world into my creations. I have costumed dozens of professional productions, from Opera Orlando's steampunk \"Tales of Hoffman\" to historic reenactments and Carnegie Hall concerts. As the TimeWarpTailor I travel with my friend, Mr. Verne, collecting....\"souvenir?\"...clothing pieces which I incorporate into my wardrobe; one recent ensemble combined an eighteenth century skirt, a 1970's leather trenchcoat, a Victorian corset and a 1990's 'power suit'."
   image-primary: 
 last-modified-db: "2019-10-27 16:27:44"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

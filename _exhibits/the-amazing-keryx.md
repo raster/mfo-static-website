@@ -5,10 +5,22 @@ id: 36511
 status: 1
 url: http://www.artvyd.com/amazing_keryx.html
 categories:
-  - Art
-    Comics
-    Cosplay
-    Talk
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    comics:
+      id: 114
+      slug: comics
+      name: Comics
+    cosplay:
+      id: 286
+      slug: cosplay
+      name: Cosplay
+    talk:
+      id: 150
+      slug: talk
+      name: Talk
 excerpt: "The Amazing Keryx knows your now! An Oracle's wisdom for your personal Hero Journey. Positive for any age.
 Fortune teller uses a self-made deck of basic shapes, combined with elements of ancient and modern storytelling to reveal your hero within. To make clear the labyrinth of everyday life. To say: \"YES you can!\""
 description: "The Amazing Keryx is a hands-on performance based on the universal principles of Joseph Campbell. Guests can visit a real life Zoltar machine (movie BIG 1988). 
@@ -32,5 +44,5 @@ maker:
   description: "Independent studio artist with an MFA from FSU. My artwork is focused on HERO. I combine principles of Joseph Campbell & Bob Rauschenberg with Pop Culture materials. My hometown is Sanibel island, Florida. Art Handler. Member of IATSE 647: setting up broadway plays in local theaters; I specialize in video.  "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ArtVyd.png
 last-modified-db: "2019-11-07 20:15:25"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

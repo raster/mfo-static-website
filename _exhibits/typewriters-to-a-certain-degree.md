@@ -5,11 +5,26 @@ id: 40620
 status: 1
 url: https://www.toacertaindegree.com/
 categories:
-  - Art
-    Craft
-    Education
-    Electronics
-    Writing and Publishing
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    education:
+      id: 116
+      slug: education
+      name: Education
+    electronics:
+      id: 118
+      slug: electronics
+      name: Electronics
+    writing-publishing:
+      id: 331
+      slug: writing-publishing
+      name: Writing and Publishing
 excerpt: "Communicate with some old-school technology at the To a Certain Degree typewriter table. You can type a thank you note to your favorite maker, one of the wonderful volunteers and staff, or the person who brought you to this event. For FREE!"
 description: "Local radio show and podcast To a Certain Degree is hosting a typewriter table at Maker Faire Orlando. Try out some vintage tech and type a note to your favorite maker or a volunteer who is making this amazing event possible!
 
@@ -31,5 +46,5 @@ maker:
   description: "Orlando radio show and podcast To a Certain Degree will be set up with some old-school tech at the typewriter table. Write a thank-you note to the makers, volunteers, and staff who put so much time and effort into Maker Faire Orlando!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/tacd1ahi-1024x853.png
 last-modified-db: "2019-11-07 15:47:52"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:06"
 ---

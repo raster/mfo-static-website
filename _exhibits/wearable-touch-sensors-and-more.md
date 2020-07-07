@@ -5,10 +5,22 @@ id: 35919
 status: 1
 url: http://postmodernfiberfun.com
 categories:
-  - Craft
-    Education
-    Fabric Arts
-    Handmade
+  - craft:
+      id: 115
+      slug: craft
+      name: Craft
+    education:
+      id: 116
+      slug: education
+      name: Education
+    fabric-arts:
+      id: 271
+      slug: fabric-arts
+      name: Fabric Arts
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
 excerpt: "A crocheted \"critter\", with touch pads and accessories/appendages of handspun conductive yarn to touch and interact with, plus handwoven fabric with touch sensors.  Demo of spinning and weaving yarn.  Free take-away activity."
 description: "Sparky the crocheted cat has a new sweater vest, which will have an Adafruit Circuit Playground Express on its \"chest\" (think Iron Man).  The CPE has build in LEDs, sound, etc. which will be activated by touching various conductive areas/appendages.  Conductive fiber spun and plyed with orange wool yarn will be used to make touch pads and a hat/appendage.  Small handwoven fabric pieces also have touch sensors woven in, with either conductive thread or handspun conductive yarn for the sensor area.  The Cat Cube has a conductive ear on the cat face, and conductive crocheted blocks on each side, again using an Adafruit Circuit Playground Express.
 
@@ -30,5 +42,5 @@ maker:
   description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
   image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:06"
 ---

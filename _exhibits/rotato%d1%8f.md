@@ -5,11 +5,26 @@ id: 39307
 status: 1
 url: https://battlebots.com/robot/rotator-2019/
 categories:
-  - 3D Printing
-    BattleBot
-    Combat Robots
-    Engineering
-    Robotics
+  - 3d-printing:
+      id: 108
+      slug: 3d-printing
+      name: 3D Printing
+    battlebot:
+      id: 340
+      slug: battlebot
+      name: BattleBot
+    combat-robots:
+      id: 284
+      slug: combat-robots
+      name: Combat Robots
+    engineering:
+      id: 119
+      slug: engineering
+      name: Engineering
+    robotics:
+      id: 142
+      slug: robotics
+      name: Robotics
 excerpt: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 description: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
@@ -29,5 +44,5 @@ maker:
   description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
   image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-07-07 11:01:41"
+last-exported: "2020-07-07 11:28:05"
 ---

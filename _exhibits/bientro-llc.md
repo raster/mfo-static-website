@@ -5,13 +5,34 @@ id: 37360
 status: 4
 url: http://www.bientro.com
 categories:
-  - Art
-    Cosplay
-    Craft
-    Handmade
-    Jewelry
-    Manufacturing
-    SteamPunk
+  - art:
+      id: 112
+      slug: art
+      name: Art
+    cosplay:
+      id: 286
+      slug: cosplay
+      name: Cosplay
+    craft:
+      id: 115
+      slug: craft
+      name: Craft
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    jewelry:
+      id: 260
+      slug: jewelry
+      name: Jewelry
+    manufacturing:
+      id: 131
+      slug: manufacturing
+      name: Manufacturing
+    steampunk:
+      id: 148
+      slug: steampunk
+      name: SteamPunk
 excerpt: "Bientro, LLC is a team of creative leather artisans."
 description: "Bientro, LLC is a team of artisans that create props and accessories from leather, high-grade gemstones and crystals, and bright aluminum for chainmaille jewelry."
 location: Unassigned
@@ -31,5 +52,5 @@ maker:
   description: "Everything is handmade and never mass-produced! Bientro, LLC are local leather artists at various shops in Central Florida. We create handcrafted leather goods and original art. We love steampunk and cosplayers and will work with you to create custom leather goods. Everything we make is unique and takes time to craft. At Bientro Leather, we use real leather, high-grade gemstones and crystals, and bright aluminum for the chainmaille jewelry."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Bientro_logo_FB500.jpg
 last-modified-db: "2019-10-15 13:53:59"
-last-exported: "2020-07-07 11:01:39"
+last-exported: "2020-07-07 11:28:03"
 ---

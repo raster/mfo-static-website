@@ -5,8 +5,14 @@ id: 35102
 status: 1
 url: https://www.etsy.com/shop/ThatsSewMcFly
 categories:
-  - Handmade
-    Sewing
+  - handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
+    sewing:
+      id: 269
+      slug: sewing
+      name: Sewing
 excerpt: "Creating Comfort with Character since 2016"
 description: "That’s Sew McFly has been creating comfort with character since 2016.  Handcrafted, high quality, unique, eco-friendly, and reusable items include coasters, microwave bowl cozies, hot/cold packs, and heating pads. Choose from dozens of styles in a variety of fandom favorites and more!  Thanks to your support, a portion of proceeds goes to charity every month."
 location: Spirit Building
@@ -30,5 +36,5 @@ With every purchase from my shop, you are helping a small business grow, and I c
 I work happily from home, surrounded by my loving husband and numerous cats and dogs."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/mewithsign-1.jpg
 last-modified-db: "2019-10-28 13:31:43"
-last-exported: "2020-07-07 11:01:42"
+last-exported: "2020-07-07 11:28:05"
 ---

@@ -5,8 +5,14 @@ id: 36725
 status: 1
 url: http://www.fritzsoapshoppe.com
 categories:
-  - Craft
-    Handmade
+  - craft:
+      id: 115
+      slug: craft
+      name: Craft
+    handmade:
+      id: 123
+      slug: handmade
+      name: Handmade
 excerpt: "Handmade soaps including seasonal &amp; pop culture designs."
 description: "Handmade soaps including seasonal &amp; pop culture designs."
 location: Spirit Building
@@ -26,5 +32,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 10:50:22"
-last-exported: "2020-07-07 11:01:40"
+last-exported: "2020-07-07 11:28:04"
 ---
