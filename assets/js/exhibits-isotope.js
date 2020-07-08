@@ -12,17 +12,20 @@ $container.isotope({
   masonry: {
     	gutter: 20
   },
-  filter: function() {
-    return qsRegex ? jQuery(this).text().match( qsRegex ) : true;
-  }
-
+//  filter: function() {
+//    return qsRegex ? jQuery(this).text().match( qsRegex ) : true;
+    filter: ':not(.combat-robots)'
 
 //  layoutMode: 'fitRows'
 });
 
-$container.imagesLoaded().progress( function () {
+$(window).on("load", function() {
+//previously used the imagesLoaded() function and it was running hundreds of times!
+//$container.imagesLoaded().progress( function () {
+  console.log("Calling isotope.layout");
   $container.isotope('layout');
 });
+
  // Enable filter buttons to behave as expected
 jQuery('.button-group').on( 'click', 'button', function() {
   var filterValue = jQuery(this).attr('data-filter');
