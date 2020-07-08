@@ -40,11 +40,11 @@ We have not yet started accepting makers for Maker Faire Orlando 2020. Check out
                         {% endif %}
                         {%- endfor -%}">
 
-        {%comment%}<div class="excerpt-container">{{exhibit.excerpt}}</div>{%endcomment%}
+        {%comment%}<div class="excerpt-container">{{exhibit.description}}</div>{%endcomment%}
         <div class="img-container"><a href="{{exhibit.url}}">
           <img src="{{exhibit.image-primary.medium}}" style="width:300px; height:auto"></a>
         </div>
-        <div class="title-container"><a href="{{exhibit.url}}">{{exhibit.name}}</a></div>
+        <div class="title-container"><a href="{{exhibit.url}}">{{exhibit.title}}</a></div>
       </div>
 
 

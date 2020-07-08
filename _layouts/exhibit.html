@@ -13,10 +13,10 @@
     <!- last-modifed-db: {{page.last-modified-db}}->
     <!- last-exported:   {{page.last-exported}}->
 
-    <h1>{{page.name}}</h1>
+    <h1>{{page.title}}</h1>
     <div>
       <img class="img-responsive entry-image" src="{{page.image-primary.large}}" alt="{{page.name}}">
-      <p class="lead">{{page.description | newline_to_br}}</p>
+      <p class="lead">{{page.description-long | newline_to_br}}</p>
       <div class="entry-categories" style="margin-bottom: 10px">
         <b>Categories: </b>
         {%- for category in page.categories -%}
