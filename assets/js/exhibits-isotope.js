@@ -112,9 +112,9 @@ jQuery('.filters-select').on( 'change', function() {
 	window.history.pushState("object or string", "Title", "/makers/?category=" + filterValue.substring(1));
 	}
 
-  if ( filterValue.includes("battlebot") || filterValue.includes("combat-robot")) window.location.reload();
-  else {
+//  if ( filterValue.includes("battlebot") || filterValue.includes("combat-robot")) window.location.reload();
+//  else {
   	$container.isotope({ filter: filterValue });
  	console.log("filterValue:" + filterValue);
-	}//end if filtervalue.includes
+//	}//end if filtervalue.includes
 });
