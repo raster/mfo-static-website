@@ -20,17 +20,17 @@ sponsors:
     url: https://www.prusa3d.com/
     logo: prusaresearch.png
     level: 3
-    active: true
+    active: false
   - name: Boca Bearing
     url: https://www.bocabearings.com/
     logo: boca_bearings_small.png
     level: 3
-    active: true
+    active: false
   - name: TLC Engineering
     url: https://tlc-engineers.com/
     logo: tlc-engineering.jpg
     level: 5
-    active: true
+    active: false
   - name: DeltaMaker 3D Printers
     url: https://www.deltamaker.com
     logo: deltamaker-logo-3d-printers.png
@@ -50,7 +50,7 @@ sponsors:
     url: http://www.ocpstechcenters.net/
     logo: OTC_Horiz.png
     level: 4
-    active: true
+    active: false
   - name: Watershed Innovation
     url: http://www.correctcraft.com/watershed/
     logo: watershed-v5.png
@@ -65,12 +65,12 @@ sponsors:
     url: https://www.villageplastics.com/
     logo: KVP-Logo-2017.jpg
     level: 4
-    active: true
+    active: false
   - name: Dorado Graphix
     url: https://doradographix.com/
     logo: DoradoLogo3x2.jpg
     level: 5
-    active: true
+    active: false
   - name: Skycraft
     url: https://www.skycraftsurplus.com
     logo: skycraft_saucer_logo_wht-line-Maker.png
@@ -80,9 +80,9 @@ sponsors:
     url: https://www.brasfieldgorrie.com/
     logo: Brasfield-Gorrie-Logo-Blue-JPG.jpg
     level: 5
-    active: true
+    active: false
   - name: Amphenol Custom Cable
     url: http://www.customcable.com/amph
     logo: amphenol.jpg
     level: 5
-    active: true
+    active: false
