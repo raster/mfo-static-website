@@ -1,11 +1,11 @@
 ---
-name: "Project Development Kit for Electronics and Single-Board Computer Projects"
+title: "Project Development Kit for Electronics and Single-Board Computer Projects"
 slug: project-development-kit-for-electronics-and-single-board-computer-projects
 id: 36801
 status: 4
 url: https://www.phasedock.com
-excerpt: "Wanted: Makers with Raspberry Pi, Arduino and other electronics projects. The WorkBench Project Development Kit protects your electronics, and makes it easy to manage and transport your project. Plus - you'll be proud to show it off!"
-description: "The Phase DockTM WorkBench prototyping solution is for Makers who are working with electronics and single-board computers such as Raspberry Pis and Arduinos. Many times electronics are screwed down to pieces of plywood, or not secured to anything. Screws in plywood make it hard to adjust the placement of components; failing to secure the project leaves it vulnerable to wires pulling out, or pieces getting lost. We have Maker friends who have moderate to large projects underway -- who simply cannot move their projects for fear of breaking a connection.
+description: "Wanted: Makers with Raspberry Pi, Arduino and other electronics projects. The WorkBench Project Development Kit protects your electronics, and makes it easy to manage and transport your project. Plus - you'll be proud to show it off!"
+description-long: "The Phase DockTM WorkBench prototyping solution is for Makers who are working with electronics and single-board computers such as Raspberry Pis and Arduinos. Many times electronics are screwed down to pieces of plywood, or not secured to anything. Screws in plywood make it hard to adjust the placement of components; failing to secure the project leaves it vulnerable to wires pulling out, or pieces getting lost. We have Maker friends who have moderate to large projects underway -- who simply cannot move their projects for fear of breaking a connection.
 
 The Phase Dock WorkBench Project Development Kit solves these problems by creating a modular component-mounting system that lets Makers quickly assemble a wide variety of electronic components in exactly the right position to improve the wiring and button-pushing action. The WorkBench also protects the finished project with a sturdy cover, making it easy to slide the project into a backpack, toss it onto the front seat of a car, or into a box for shipping. And as a bonus, it makes every project look great/fabulous/snazzy/professional/cool/space-shippy, so everyone from a 7-year-old prodigy to a professional engineer can share their work with pride.
 
@@ -19,6 +19,7 @@ We began selling kits online and at Maker Faire Bay Area in May. The kit include
 
 Our plan for the near future is to move the Clicks and Slides from 3D-printed to injection-molded versions. This will make stronger and better performing versions available at a lower cost to users."
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
@@ -73,5 +74,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

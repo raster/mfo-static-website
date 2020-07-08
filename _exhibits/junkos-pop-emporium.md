@@ -1,12 +1,13 @@
 ---
-name: "Junko's Pop Emporium"
+title: "Junko's Pop Emporium"
 slug: junkos-pop-emporium
 id: 35227
 status: 1
 url: https://www.etsy.com/shop/JunkosPopEmporium
-excerpt: "Origami, Accessories, and Handmade Collectables"
-description: "Junko combines her amazing craft and origami skills with her love of pop culture to create one of a kind accessories and origami collectibles! Specializing in dragons and \"chibi\" figures inspired by everything from Star Wars to Pokemon, Junko's Pop Emporium has something to thrill and delight audiences of all ages. For those looking to let their geek flag fly on a daily basis, she also utilizes fun ribbons, fabrics, and charms to create custom clip-in hair bows and accessories. Stop by her exhibit space for all your handmade collectible needs, or simply to admire her wares and talk shop!"
+description: "Origami, Accessories, and Handmade Collectables"
+description-long: "Junko combines her amazing craft and origami skills with her love of pop culture to create one of a kind accessories and origami collectibles! Specializing in dragons and \"chibi\" figures inspired by everything from Star Wars to Pokemon, Junko's Pop Emporium has something to thrill and delight audiences of all ages. For those looking to let their geek flag fly on a daily basis, she also utilizes fun ribbons, fabrics, and charms to create custom clip-in hair bows and accessories. Stop by her exhibit space for all your handmade collectible needs, or simply to admire her wares and talk shop!"
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/Avengers-300x225.jpg
@@ -37,5 +38,5 @@ maker:
   description: "A native of Shizuoka Ken, Japan, Junko spent the last 20+ years teaching Japanese language and culture to elementary school students in Haines City, Florida. She has always created amazing origami creations as a hobby, but recently has discovered an untapped talent for combining her love for pop culture with her technical skills. Junko really enjoys using pop culture as inspiration for her accessories and 3D origami sculptures, and she hopes that the public will find them just as fun!"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/junko-profile.jpg
 last-modified-db: "2019-11-05 15:24:41"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:57"
 ---

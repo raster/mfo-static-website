@@ -1,13 +1,14 @@
 ---
-name: "OpenBuilds"
+title: "OpenBuilds"
 slug: openbuilds
 id: 38347
 status: 1
 url: https://www.openbuilds.com
-excerpt: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System.
+description: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System.
 "
-description: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System."
+description-long: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena, Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-1024x1024.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-300x300.jpg
@@ -81,5 +82,5 @@ maker:
 We believe that the right tools in the hands of those that have this knowledge will change the world making a better future for us all."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/OpenBuilds_Logo_300.jpg
 last-modified-db: "2019-11-06 16:50:09"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

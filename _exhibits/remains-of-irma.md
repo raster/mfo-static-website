@@ -1,12 +1,13 @@
 ---
-name: "Remains of Irma"
+title: "Remains of Irma"
 slug: remains-of-irma
 id: 38966
 status: 4
 url: 
-excerpt: "30 lb Sportsman Class Battle Bot"
-description: "30 lb Sportsman Class Battle Bot  Made from materials scrounged from remnants of Hurricane Irma."
+description: "30 lb Sportsman Class Battle Bot"
+description-long: "30 lb Sportsman Class Battle Bot  Made from materials scrounged from remnants of Hurricane Irma."
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183-225x300.jpg
@@ -28,5 +29,5 @@ maker:
   description: "Two engineers that like to make things as much as calculate things"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
 last-modified-db: "2019-10-13 10:45:01"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

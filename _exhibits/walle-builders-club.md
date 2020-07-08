@@ -1,13 +1,14 @@
 ---
-name: "Walle builders club"
+title: "Walle builders club"
 slug: walle-builders-club
 id: 36534
 status: 1
 url: 
-excerpt: "Scratch build fully functional wall e robot"
-description: "This is a fully 3D part wood and other material full size 1.1 replica of the walle robot from the movie wall-e
+description: "Scratch build fully functional wall e robot"
+description-long: "This is a fully 3D part wood and other material full size 1.1 replica of the walle robot from the movie wall-e
 Fully functional"
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190310_183528-498x1024.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190310_183528-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190310_183528-146x300.jpg
@@ -44,5 +45,5 @@ maker:
   description: "We make walle Robot from the movie walle compleate from scratch "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190518_163051-498x1024.jpg
 last-modified-db: "2019-10-27 17:41:47"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:55:00"
 ---

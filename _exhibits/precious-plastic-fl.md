@@ -1,10 +1,10 @@
 ---
-name: "Precious Plastic FL"
+title: "Precious Plastic FL"
 slug: precious-plastic-fl
 id: 39133
 status: 4
 url: https://www.PreciousPlasticLA.com
-excerpt: "Please see my adobe spark presentation for a detailed description of the project.
+description: "Please see my adobe spark presentation for a detailed description of the project.
 
 Essentially it would work like this:
 1. Attendees finish their drinks and bring their cups to the Precious Plastic station/and or RecycleMobile(16ft trailer outfitted with all the machines we are currently building)
@@ -16,8 +16,9 @@ Essentially it would work like this:
 
 
 "
-description: "https://spark.adobe.com/page/eTgQlqFLRVF1n/"
+description-long: "https://spark.adobe.com/page/eTgQlqFLRVF1n/"
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-300x300.jpg
@@ -39,5 +40,5 @@ maker:
   description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

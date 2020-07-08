@@ -1,12 +1,13 @@
 ---
-name: "NightFire Electronics"
+title: "NightFire Electronics"
 slug: nightfire-electronics
 id: 35004
 status: 1
 url: http://www.vakits.com
-excerpt: "We have electronic kits and supplies. "
-description: "We design and make our own kits. From fun kits to educational kits to industrial kits. We are a family business located in Ocala, FL."
+description: "We have electronic kits and supplies. "
+description-long: "We design and make our own kits. From fun kits to educational kits to industrial kits. We are a family business located in Ocala, FL."
 location: Opportunity Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-1024x548.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-300x161.jpg
@@ -49,5 +50,5 @@ maker:
   description: "We make electronic hobby kits including Arduino fun kits."
   image-primary: 
 last-modified-db: "2019-10-26 13:37:42"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

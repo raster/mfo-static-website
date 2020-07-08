@@ -1,12 +1,13 @@
 ---
-name: "Dusty Dustpan"
+title: "Dusty Dustpan"
 slug: suzy-spinnerbot
 id: 37134
 status: 1
 url: 
-excerpt: "Fairy weight entry into Robot Ruckus"
-description: "A \"dustpan\" style fairy weight combat robot."
+description: "Fairy weight entry into Robot Ruckus"
+description-long: "A \"dustpan\" style fairy weight combat robot."
 location: Combat Robots - Small Arena (Spirit)
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-150x150.png
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-300x221.png
@@ -28,5 +29,5 @@ maker:
   description: "Robot Ruckus fairy weight entry Suzy Spinnerbot."
   image-primary: 
 last-modified-db: "2019-11-06 17:34:02"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:56"
 ---

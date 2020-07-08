@@ -1,12 +1,13 @@
 ---
-name: "ROTATOЯ"
+title: "ROTATOЯ"
 slug: rotato%d1%8f
 id: 39307
 status: 1
 url: https://battlebots.com/robot/rotator-2019/
-excerpt: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 description: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
+description-long: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-1024x684.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-300x200.jpg
@@ -40,5 +41,5 @@ maker:
   description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
   image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

@@ -1,13 +1,14 @@
 ---
-name: "K Gentry Art LLC"
+title: "K Gentry Art LLC"
 slug: k-gentry-art-llc
 id: 34865
 status: 1
 url: https://www.tkylegentry.com/
-excerpt: "I create character designs for animation and video games."
-description: "I am a character illustrator/designer for the animation and game industry. My passion and my job is to give visual meaning and definition to a written description of any number of characters and creatures. Those designs are used by industry professionals as reference to animate the characters.
+description: "I create character designs for animation and video games."
+description-long: "I am a character illustrator/designer for the animation and game industry. My passion and my job is to give visual meaning and definition to a written description of any number of characters and creatures. Those designs are used by industry professionals as reference to animate the characters.
 I have also illustrated for the children’s book, medical, editorial, music, and print industries.  I create and sell limited edition fine art prints, canvases, character design art books, and original sketches."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb-300x240.jpg
@@ -32,5 +33,5 @@ I have also illustrated for the children’s book, medical, editorial, music, an
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
 last-modified-db: "2019-10-27 17:44:11"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

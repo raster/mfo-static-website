@@ -1,13 +1,14 @@
 ---
-name: "Combat Robotics Team Shellshock"
+title: "Combat Robotics Team Shellshock"
 slug: combat-robotics-team-shellshock
 id: 36758
 status: 1
 url: https://outreach.rollingrobots.com/battlebots
-excerpt: "BattleBots Team Shellshock. Will display our robot and demonstrate its turtle power in the battle box."
-description: "A team of High School Students will demonstrate their robot Shellshock.  The team participated in BattleBots 2019 and was featured in episode 7.
+description: "BattleBots Team Shellshock. Will display our robot and demonstrate its turtle power in the battle box."
+description-long: "A team of High School Students will demonstrate their robot Shellshock.  The team participated in BattleBots 2019 and was featured in episode 7.
 The team hopes to inspire other young builders.  Have a look at the inner workings of a full body spinner robot with a turtle theme."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
@@ -29,5 +30,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:56"
 ---

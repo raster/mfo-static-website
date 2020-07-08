@@ -1,12 +1,13 @@
 ---
-name: "That's Sew McFly"
+title: "That's Sew McFly"
 slug: thats-sew-mcfly
 id: 35102
 status: 1
 url: https://www.etsy.com/shop/ThatsSewMcFly
-excerpt: "Creating Comfort with Character since 2016"
-description: "That’s Sew McFly has been creating comfort with character since 2016.  Handcrafted, high quality, unique, eco-friendly, and reusable items include coasters, microwave bowl cozies, hot/cold packs, and heating pads. Choose from dozens of styles in a variety of fandom favorites and more!  Thanks to your support, a portion of proceeds goes to charity every month."
+description: "Creating Comfort with Character since 2016"
+description-long: "That’s Sew McFly has been creating comfort with character since 2016.  Handcrafted, high quality, unique, eco-friendly, and reusable items include coasters, microwave bowl cozies, hot/cold packs, and heating pads. Choose from dozens of styles in a variety of fandom favorites and more!  Thanks to your support, a portion of proceeds goes to charity every month."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-1024x768.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-300x225.jpg
@@ -35,5 +36,5 @@ With every purchase from my shop, you are helping a small business grow, and I c
 I work happily from home, surrounded by my loving husband and numerous cats and dogs."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/mewithsign-1.jpg
 last-modified-db: "2019-10-28 13:31:43"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:54:59"
 ---

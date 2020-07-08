@@ -1,13 +1,14 @@
 ---
-name: "Combat Robotics-  Team MISSION STATUS : SICK"
+title: "Combat Robotics-  Team MISSION STATUS : SICK"
 slug: familab-combat-robotics-battles-at-maker-faire-orlando-2019
 id: 35003
 status: 1
 url: https://www.jedijill.com/
-excerpt: "MISSION STATUS : SICK --Combat Robotics:
+description: "MISSION STATUS : SICK --Combat Robotics:
 We will be competing with our ant-weight and beetle-weight robots and cheering like crazy for every competitor there!"
-description: "We have an ant-weight (1lb.) robot named \"Hognose,\" and a beetle-weight (3 lb.) robot named \"Ptarmegeddon.\""
+description-long: "We have an ant-weight (1lb.) robot named \"Hognose,\" and a beetle-weight (3 lb.) robot named \"Ptarmegeddon.\""
 location: Robot Ruckus - Small Arena
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-300x169.jpg
@@ -31,5 +32,5 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:56"
 ---

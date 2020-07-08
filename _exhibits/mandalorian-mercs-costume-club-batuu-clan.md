@@ -1,12 +1,13 @@
 ---
-name: "Mandalorian Mercs Costume Club (Batuu Clan)"
+title: "Mandalorian Mercs Costume Club (Batuu Clan)"
 slug: mandalorian-mercs-costume-club-batuu-clan
 id: 35642
 status: 1
 url: http://mandalorianmercs.org/
-excerpt: "Explore the world of Star Wars costuming and learn how to make your own Mandalorian armor!"
-description: "Come and meet with members of the Mandalorian Mercs Costume Club. Learn what goes into making the armor and be entered to win your own set!"
+description: "Explore the world of Star Wars costuming and learn how to make your own Mandalorian armor!"
+description-long: "Come and meet with members of the Mandalorian Mercs Costume Club. Learn what goes into making the armor and be entered to win your own set!"
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-300x300.jpg
@@ -40,5 +41,5 @@ The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mand
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

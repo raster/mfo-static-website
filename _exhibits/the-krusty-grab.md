@@ -1,12 +1,13 @@
 ---
-name: "The Krusty Grab"
+title: "The Krusty Grab"
 slug: the-krusty-grab
 id: 35725
 status: 1
 url: 
-excerpt: "250lb heavyweight combat robot."
-description: "Lifter style robot"
+description: "250lb heavyweight combat robot."
+description-long: "Lifter style robot"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
+image: 
 image-primary:
   thumbnail: 
   medium: 
@@ -28,5 +29,5 @@ maker:
   description: "Robotics team competing at Robot Ruckus."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/End-Game-Team-D2109-1024x683.jpg
 last-modified-db: "2019-11-06 16:55:16"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:55:00"
 ---

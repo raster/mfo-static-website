@@ -1,12 +1,13 @@
 ---
-name: "Natural Log"
+title: "Natural Log"
 slug: natural-log
 id: 37152
 status: 1
 url: 
-excerpt: "Plywood box that looks like a log and goes fast"
-description: "This is my Power Racing Series cart. This will be its third race. It's a plywood box (no metal structure)."
+description: "Plywood box that looks like a log and goes fast"
+description-long: "This is my Power Racing Series cart. This will be its third race. It's a plywood box (no metal structure)."
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/natural-log-small-768x1024.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/natural-log-small-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/natural-log-small-225x300.jpg
@@ -42,5 +43,5 @@ maker:
 By day, I'm a software engineer working on autonomous trucks."
   image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

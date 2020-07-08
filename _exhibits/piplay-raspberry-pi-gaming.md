@@ -1,12 +1,13 @@
 ---
-name: "PiPlay - Raspberry Pi Gaming"
+title: "PiPlay - Raspberry Pi Gaming"
 slug: piplay-raspberry-pi-gaming
 id: 34830
 status: 1
 url: http://piplay.org
-excerpt: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
 description: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
+description-long: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
 location: Opportunity Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-1024x576.png
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-150x150.png
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-300x169.png
@@ -59,5 +60,5 @@ maker:
 published by Packt."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMGP0453-1385501391_420_420_75_s_c1.jpg
 last-modified-db: "2019-10-26 12:50:08"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

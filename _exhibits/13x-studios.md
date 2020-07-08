@@ -1,12 +1,13 @@
 ---
-name: "13X Studios"
+title: "13X Studios"
 slug: 13x-studios
 id: 35143
 status: 4
 url: 
-excerpt: "Xxxxxxxxx"
-description: "Xxxxxxxxxxxxxxxxxx"
+description: "Xxxxxxxxx"
+description-long: "Xxxxxxxxxxxxxxxxxx"
 location: Unassigned
+image: 
 image-primary:
   thumbnail: 
   medium: 
@@ -31,5 +32,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-09-10 19:18:38"
-last-exported: "2020-07-07 19:11:52"
+last-exported: "2020-08-07 07:54:55"
 ---

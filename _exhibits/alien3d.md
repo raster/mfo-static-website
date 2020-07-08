@@ -1,12 +1,13 @@
 ---
-name: "Alien3D"
+title: "Alien3D"
 slug: alien3d
 id: 37470
 status: 3
 url: https://www.alien3d.us
-excerpt: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
 description: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
+description-long: "Displaying 3D Printers, Prints and the UFO Monthly Mystery Box contents and projects from previous months."
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/BoxUp-1024x894.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/BoxUp-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/BoxUp-300x262.jpg
@@ -28,5 +29,5 @@ maker:
   description: "Distributor of UFOs, Unidentified Filament Objects - Monthly Mystery Boxes - 3D Printers, Accessories and Filament"
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/alien3d-sba.jpg
 last-modified-db: "2019-09-09 21:53:22"
-last-exported: "2020-07-07 19:11:52"
+last-exported: "2020-08-07 07:54:55"
 ---

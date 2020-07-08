@@ -1,12 +1,13 @@
 ---
-name: "The Crafty Gamer"
+title: "The Crafty Gamer"
 slug: the-crafty-gamer
 id: 35137
 status: 1
 url: http://www.thecraftygamer.com
-excerpt: "Tabletop inspired merchandise. "
-description: "We create custom scents that are inspired by tabletop games. Our soy based candles and wax melts, room sprays and reed diffusers are designed to be further immerse players when playing traditional board games or role playing games."
+description: "Tabletop inspired merchandise. "
+description-long: "We create custom scents that are inspired by tabletop games. Our soy based candles and wax melts, room sprays and reed diffusers are designed to be further immerse players when playing traditional board games or role playing games."
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA-150x150.png
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA-300x298.png
@@ -31,5 +32,5 @@ maker:
   description: "We create tabletop inspired merchandise. Soy Candles, Wax Melts, Reed Diffusers, Room Sprays & Apparel with more items to come."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Logo-Social-1024x1024.png
 last-modified-db: "2019-10-20 12:21:22"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:54:59"
 ---

@@ -1,12 +1,13 @@
 ---
-name: "Power Wheels Racing"
+title: "Power Wheels Racing"
 slug: lazy-gecko-racing-batman
 id: 40846
 status: 1
 url: Http://Teamlazygecko.com
-excerpt: "DIY electric gocarts made from kids toys."
-description: "~20mph hand made go carts that look like kid toys but have modern car tech inside. Come chat with a racer inbetween races and get to know what it takes to race."
+description: "DIY electric gocarts made from kids toys."
+description-long: "~20mph hand made go carts that look like kid toys but have modern car tech inside. Come chat with a racer inbetween races and get to know what it takes to race."
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-300x200.jpg
@@ -46,5 +47,5 @@ maker:
   description: "We've been making things happen as a group and find a way to continue as our members spread out across the country."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman4.jpg
 last-modified-db: "2019-11-03 18:04:08"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

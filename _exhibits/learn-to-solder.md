@@ -1,14 +1,15 @@
 ---
-name: "Learn To Solder"
+title: "Learn To Solder"
 slug: learn-to-solder
 id: 39180
 status: 1
 url: 
-excerpt: "Soldering is easy! We'll teach you how!"
-description: "Learn to solder and make your very own light up Makey Pin or level up with our new advanced kit!
+description: "Soldering is easy! We'll teach you how!"
+description-long: "Learn to solder and make your very own light up Makey Pin or level up with our new advanced kit!
 
 Check out details on our new advanced at http://www.makerfx.org/2017/10/advanced-soldering-training-maker-faire-orlando-2017/"
 location: Curiosity Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-300x200.jpg
@@ -33,5 +34,5 @@ maker:
   description:
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/makey.png
 last-modified-db: "2019-10-26 14:26:04"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

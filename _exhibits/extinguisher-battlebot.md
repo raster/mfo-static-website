@@ -1,12 +1,13 @@
 ---
-name: "Extinguisher-Battlebot"
+title: "Extinguisher-Battlebot"
 slug: extinguisher-battlebot
 id: 36153
 status: 1
 url: 
-excerpt: "The robot from the Battlebots television series will be there for people to see and the builders to ask questions and participate in panels."
-description: "the battlebots robot will be fighting in the combat arena under an alias"
+description: "The robot from the Battlebots television series will be there for people to see and the builders to ask questions and participate in panels."
+description-long: "the battlebots robot will be fighting in the combat arena under an alias"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-256x300.jpg
@@ -34,5 +35,5 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:05"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:56"
 ---

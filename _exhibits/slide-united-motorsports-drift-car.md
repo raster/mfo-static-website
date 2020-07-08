@@ -1,12 +1,13 @@
 ---
-name: "Slide United Motorsports Drift Car"
+title: "Slide United Motorsports Drift Car"
 slug: slide-united-motorsports-drift-car
 id: 41166
 status: 2
 url: 
-excerpt: "1993 Nissan 240sx pro-am drift car"
-description: "Formula drift pro-am drift car designed and built in a home garage using maker’s tools (3d printing, welding, etc...) and an engineering background. "
+description: "1993 Nissan 240sx pro-am drift car"
+description-long: "Formula drift pro-am drift car designed and built in a home garage using maker’s tools (3d printing, welding, etc...) and an engineering background. "
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/428BAE1B-125D-4D35-98AB-D065AD8EBE40-1024x553.jpeg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/428BAE1B-125D-4D35-98AB-D065AD8EBE40-150x150.jpeg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/428BAE1B-125D-4D35-98AB-D065AD8EBE40-300x162.jpeg
@@ -28,5 +29,5 @@ maker:
   description: "Local drift Motorsports team. We design/build/make our racecars out of our own home garages. "
   image-primary: 
 last-modified-db: "2019-11-07 15:26:01"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:54:59"
 ---

@@ -1,13 +1,14 @@
 ---
-name: "Animated Projection Mapping"
+title: "Animated Projection Mapping"
 slug: animated-projection-mapping
 id: 37784
 status: 1
 url: https://www.enlightenedmonkeyarts.com/
-excerpt: "ENLIGHTENED MONKEY ARTS uses cutting edge technology to create a site specific projection mapping exhibit.  Projections will be shown on 3D objects. Display with include interactive elements including fog machine and smog puffer. 
+description: "ENLIGHTENED MONKEY ARTS uses cutting edge technology to create a site specific projection mapping exhibit.  Projections will be shown on 3D objects. Display with include interactive elements including fog machine and smog puffer. 
 "
-description: "Enlightened monkey arts will be projecting on a combination of 3D structures creating a unique visual experience specific to Maker Fair Orlando."
+description-long: "Enlightened monkey arts will be projecting on a combination of 3D structures creating a unique visual experience specific to Maker Fair Orlando."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-1024x683.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-300x200.jpg
@@ -38,5 +39,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-27 16:34:34"
-last-exported: "2020-07-07 19:11:52"
+last-exported: "2020-08-07 07:54:55"
 ---

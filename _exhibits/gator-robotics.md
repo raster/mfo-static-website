@@ -1,12 +1,13 @@
 ---
-name: "Gator Robotics"
+title: "Gator Robotics"
 slug: gator-robotics
 id: 36982
 status: 4
 url: 
-excerpt: "Combat robotic team that houses Deathroll and Unicron"
-description: "We are bringing two 3lb combat robots to fight in the competition."
+description: "Combat robotic team that houses Deathroll and Unicron"
+description-long: "We are bringing two 3lb combat robots to fight in the competition."
 location: Unassigned
+image: 
 image-primary:
   thumbnail: 
   medium: 
@@ -28,5 +29,5 @@ maker:
   description: "Robotics club that builds combat robots."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n.jpg
 last-modified-db: "2019-10-13 10:52:26"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:57"
 ---

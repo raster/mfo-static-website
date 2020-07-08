@@ -1,12 +1,13 @@
 ---
-name: "Spooky Yosh"
+title: "Spooky Yosh"
 slug: spooky-yosh
 id: 37276
 status: 3
 url: 
-excerpt: "Spooky, adorable, and curiously dark crafts from home decor to jewelry. All created by a scenic artistic named Yoshi!"
-description: "From dark macabre paper mache human skulls that hold succulents to hand painted canvas pieces that have spooky images that can glow in black light! All handmade by a scenic and graphic designer native to the orlando area. Yoshi has been in love with the Halloween realm of theme park entertainment and she designs her own interpretation of the bizarre and macabre. "
+description: "Spooky, adorable, and curiously dark crafts from home decor to jewelry. All created by a scenic artistic named Yoshi!"
+description-long: "From dark macabre paper mache human skulls that hold succulents to hand painted canvas pieces that have spooky images that can glow in black light! All handmade by a scenic and graphic designer native to the orlando area. Yoshi has been in love with the Halloween realm of theme park entertainment and she designs her own interpretation of the bizarre and macabre. "
 location: Unassigned
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Capture2.png
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Capture2-150x150.png
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Capture2-238x300.png
@@ -50,5 +51,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/43984324_1414885788643123_6479562871641473024_n.jpg
 last-modified-db: "2019-10-11 21:57:49"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:54:59"
 ---

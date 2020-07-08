@@ -1,15 +1,16 @@
 ---
-name: "Team Ice: Combat Robot (Insect Weight Class)"
+title: "Team Ice: Combat Robot (Insect Weight Class)"
 slug: combat-robot-3
 id: 36134
 status: 1
 url: 
-excerpt: "Part of the Robot Ruckus. Competing in the insect weight class (150g and 3lb weight class)"
-description: "Combat robot for insect weight class. Competing with 2 150g robots and 1 3lb robot.
+description: "Part of the Robot Ruckus. Competing in the insect weight class (150g and 3lb weight class)"
+description-long: "Combat robot for insect weight class. Competing with 2 150g robots and 1 3lb robot.
 1. Scoop (150g) : Lifter
 2. Stumpy Unleashed (150g) : Vertical Disc Spinner
 3. Unknown Avenger (3lb) : Wedge/Grabber robot. Module design with different fronts dependent on opponent."
 location: Robot Ruckus - Small Arena
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
@@ -31,5 +32,5 @@ maker:
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:54:59"
 ---

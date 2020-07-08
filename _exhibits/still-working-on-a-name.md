@@ -1,12 +1,13 @@
 ---
-name: "Fritz's Soap Shoppe"
+title: "Fritz's Soap Shoppe"
 slug: still-working-on-a-name
 id: 36725
 status: 1
 url: http://www.fritzsoapshoppe.com
-excerpt: "Handmade soaps including seasonal &amp; pop culture designs."
 description: "Handmade soaps including seasonal &amp; pop culture designs."
+description-long: "Handmade soaps including seasonal &amp; pop culture designs."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o-1024x768.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o-300x225.jpg
@@ -31,5 +32,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 10:50:22"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:57"
 ---

@@ -1,12 +1,13 @@
 ---
-name: "Arcanic Artistry"
+title: "Arcanic Artistry"
 slug: arcanic-artistry
 id: 34854
 status: 4
 url: https://www.arcanicartistry.com
-excerpt: "Custom laser cut artwork."
-description: "Welcome to Arcanic Artistry. We create custom laser cut artwork of all kinds and varieties. Starting just over a year and a half ago we've aimed to create unique gifts to celebrate nerd culture that everyone can enjoy."
+description: "Custom laser cut artwork."
+description-long: "Welcome to Arcanic Artistry. We create custom laser cut artwork of all kinds and varieties. Starting just over a year and a half ago we've aimed to create unique gifts to celebrate nerd culture that everyone can enjoy."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190712_1301470-1024x1024.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190712_1301470-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190712_1301470-300x300.jpg
@@ -37,5 +38,5 @@ maker:
   description: "Laser cut nerdy artwork, various gaming designs, and tabletop rpg accessories to enhance your home and playspace."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/AA-Logo-image-1-1024x1024.png
 last-modified-db: "2019-11-04 10:20:10"
-last-exported: "2020-07-07 19:11:52"
+last-exported: "2020-08-07 07:54:55"
 ---

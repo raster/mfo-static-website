@@ -1,12 +1,13 @@
 ---
-name: "Sappho Chocolates - Chocolate Making"
+title: "Sappho Chocolates - Chocolate Making"
 slug: chocolate-making-2019
 id: 35221
 status: 1
 url: http://www.sapphochocolates.com
-excerpt: "Professional Chocolatier, Kathryn Neel and her team will teach the art of creating molded chocolates using a variety of fun molds while discussing the art and science of chocolate making."
-description: "The Sappho Chocolates’ team will teach the art of creating molded chocolates using a variety of fun molds. Workshop attendees will have fun learning about the science and history of making chocolate. The best part of the workshop is you get to keep what you make. This means you’ll get to keep close to a ¼ pound of quality chocolate. Tickets ($10) for this event can be purchased at the Sappho Table. There will be a total of 4 chocolate making workshops during the weekend (2 on Saturday and 2 on Sunday)."
+description: "Professional Chocolatier, Kathryn Neel and her team will teach the art of creating molded chocolates using a variety of fun molds while discussing the art and science of chocolate making."
+description-long: "The Sappho Chocolates’ team will teach the art of creating molded chocolates using a variety of fun molds. Workshop attendees will have fun learning about the science and history of making chocolate. The best part of the workshop is you get to keep what you make. This means you’ll get to keep close to a ¼ pound of quality chocolate. Tickets ($10) for this event can be purchased at the Sappho Table. There will be a total of 4 chocolate making workshops during the weekend (2 on Saturday and 2 on Sunday)."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Castle-9709-600-by-556.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Castle-9709-600-by-556-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Castle-9709-600-by-556-300x278.jpg
@@ -55,5 +56,5 @@ Kathryn also teaches coding and robotics at R School in Volusia County.
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Alafaya-Library-150-BY-150.jpg
 last-modified-db: "2019-11-02 09:27:45"
-last-exported: "2020-07-07 19:11:55"
+last-exported: "2020-08-07 07:54:59"
 ---

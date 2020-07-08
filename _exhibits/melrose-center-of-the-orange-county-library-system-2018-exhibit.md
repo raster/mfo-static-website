@@ -1,12 +1,13 @@
 ---
-name: "Melrose Center of the Orange County Library System"
+title: "Melrose Center of the Orange County Library System"
 slug: melrose-center-of-the-orange-county-library-system-2018-exhibit
 id: 37151
 status: 1
 url: http://www.ocls.info/melrose
-excerpt: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
 description: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
+description-long: "Melrose Center staff will demonstrate interactive Virtual Reality and Fab Lab experiences for visitors to our 2019 exhibit.  Learn about the classes and resources available at the Melrose Center, including Audio, Photo and Video studios, sound booths and editing bays, driving and flight simulators and more."
 location: Curiosity Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/melrose_logo.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/melrose_logo-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/melrose_logo-300x112.jpg
@@ -50,5 +51,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/melrose-logo.jpg
 last-modified-db: "2019-10-28 13:22:24"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

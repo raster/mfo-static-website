@@ -1,12 +1,13 @@
 ---
-name: "Paper Airplane Making"
+title: "Paper Airplane Making"
 slug: paper-airplane-making
 id: 36918
 status: 1
 url: http://www.theonlinepaperairplanemuseum.com
-excerpt:
-description: "Paper"
+description:
+description-long: "Paper"
 location: Opportunity Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2012-TOPAM-Logo.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2012-TOPAM-Logo-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2012-TOPAM-Logo-300x274.jpg
@@ -30,5 +31,5 @@ maker:
 I would like to set up a table to make paper airplanes with the kids, and if you have time, I can do demonstrations of the history of paper airplanes for groups."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Screenshot_20181118-135459-1024x640.png
 last-modified-db: "2019-10-26 13:07:22"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:59"
 ---

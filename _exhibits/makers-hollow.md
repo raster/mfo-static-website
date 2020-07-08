@@ -1,12 +1,13 @@
 ---
-name: "Makers Hollow"
+title: "Makers Hollow"
 slug: makers-hollow
 id: 35014
 status: 1
 url: http://www.makershollow.com
-excerpt: "An exhibition of the artistic works and whimsical creations by the founders and artists of Makers Hollow."
-description: "Makers Hollow is a makerspace for professional artists and makers.  We will be exhibiting artwork created by the founders Stefan Price and Erin Kelly and some of our artists.  Some of our brands created are Roundtable Productions LLC, Mechanical Oddities, Magical Oddities, Wren Sketches, and Tinker Loop."
+description: "An exhibition of the artistic works and whimsical creations by the founders and artists of Makers Hollow."
+description-long: "Makers Hollow is a makerspace for professional artists and makers.  We will be exhibiting artwork created by the founders Stefan Price and Erin Kelly and some of our artists.  Some of our brands created are Roundtable Productions LLC, Mechanical Oddities, Magical Oddities, Wren Sketches, and Tinker Loop."
 location: Spirit Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-1024x576.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-300x169.jpg
@@ -112,5 +113,5 @@ maker:
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-05 15:05:16"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---

@@ -1,12 +1,13 @@
 ---
-name: "extendi boi combat robot"
+title: "extendi boi combat robot"
 slug: extendi-boi-combat-robot
 id: 36155
 status: 1
 url: 
-excerpt: "heavyweight combat robot"
-description: "fighting robot in the heavyweight division"
+description: "heavyweight combat robot"
+description-long: "fighting robot in the heavyweight division"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/quicksilver-1024x768.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/quicksilver-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/quicksilver-300x225.jpg
@@ -34,5 +35,5 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:54"
-last-exported: "2020-07-07 19:11:53"
+last-exported: "2020-08-07 07:54:56"
 ---

@@ -1,11 +1,11 @@
 ---
-name: "Make-A-Button Activity"
+title: "Make-A-Button Activity"
 slug: make-a-button
 id: 35099
 status: 1
 url: http://www.makerfx.org/buttons
-excerpt: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own!"
-description: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own! We are bringing parts to make 5,000 1\" buttons and 5,000 2.25\" buttons - will you help us make 10,000 buttons in one weekend?!
+description: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own!"
+description-long: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own! We are bringing parts to make 5,000 1\" buttons and 5,000 2.25\" buttons - will you help us make 10,000 buttons in one weekend?!
 
 We will have art with Makey the Maker Faire Robot, MakerFX Makerspace art, Maker Faire Orlando art, color-your-own options, and more. 
 
@@ -13,6 +13,7 @@ If you want to bring your own art, make sure it is on paper no thicker than a ph
 
 A $1 donation to The Maker Effect Foundation gets the parts to make a 2.25\" button or the parts to make TWO 1\" buttons!"
 location: Curiosity Building
+image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
 image-primary:
   thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-150x150.jpg
   medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-225x300.jpg
@@ -47,5 +48,5 @@ maker:
 "
   image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-26 14:35:09"
-last-exported: "2020-07-07 19:11:54"
+last-exported: "2020-08-07 07:54:58"
 ---
