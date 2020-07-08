@@ -1,5 +1,21 @@
 console.log("isotope helper js loaded -010");
 
+//add filter for query params
+const params = new URLSearchParams(window.location.search)
+for (const param of params) {
+  console.log(param)
+}
+
+var cat = params.get('category')
+console.log(cat);
+var initFilter = ':not(.combat-robots)';
+if (cat) {
+  initFilter = '.' + cat;
+  jQuery('.filters-select').val('.' + cat);
+}
+console.log("initFilter is " + initFilter);
+
+
 // quick search regex
 var qsRegex;
 
@@ -14,8 +30,7 @@ $container.isotope({
   },
 //  filter: function() {
 //    return qsRegex ? jQuery(this).text().match( qsRegex ) : true;
-    filter: ':not(.combat-robots)'
-
+    filter: initFilter
 //  layoutMode: 'fitRows'
 });
 
