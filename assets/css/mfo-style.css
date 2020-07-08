@@ -111,9 +111,12 @@ a.btn-b-ghost {
   border-radius: 4px;
   margin-bottom: 20px;
   border: 1px solid #e5e5e5;
-  box-shadow: 4px 4px 10px #888888;
   min-width: 300px;
   display:inline-block;
+}
+
+.exhibits-container .item {
+  box-shadow: 4px 4px 10px #888888;
 }
 
 .title-container {
