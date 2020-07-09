@@ -2,7 +2,7 @@
 title: Apply to Exhibit!
 permalink: /exhibit-at-maker-faire-orlando
 layout: default
-redirect_from: "/exhibit"
+redirect_from: /exhibit
 ---
 # Exhibit at Maker Faire Orlando
 ![Brassroots Leather exhibits at Maker Faire Orlando](/assets/images/cfm_brassroots_exhibit.jpg)

@@ -2,8 +2,9 @@
 title: Maker Login
 layout: default
 permalink: /maker-login
-redirect_from: "/makerlogin"
-redirect_from: "/login"
+redirect_from:
+  - /makerlogin
+  - /login
 ---
 # Welcome Makers!
 
