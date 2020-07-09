@@ -5,7 +5,8 @@ permalink: /homeschool
 redirect_from:
   - /home-school
   - /homeschooling
-
+image: /assets/images/homeschool-page-header.jpg
+description: Homeschool educators receive free admission to Maker Faire Orlando 2020. Visit the Homeschool Programs page on the Maker Faire Orlando website for more information.
 ---
 # Homeschool Programs
 ![Family building together at Maker Faire Orlando](/assets/images/homeschool-page-header.jpg)
@@ -19,7 +20,7 @@ Are you interested in bringing the maker movement into your homeschool education
 ## Maker Faire Orlando
 Maker Faire Orlando is a community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It’s an event where people show what they are making and share what they are learning.
 
-**Homeschool educators receive free admission to Maker Faire Orlando 2019. This admission discount is limited to one homeschool educator per household. Other family members should take [advantage of advance purchase discounts by purchasing tickets online](/attend).**
+**Homeschool educators receive free admission to Maker Faire Orlando 2020. This admission discount is limited to one homeschool educator per household. Other family members should take [advantage of advance purchase discounts by purchasing tickets online](/attend).**
 
 **To receive free homeschool educator admission to Maker Faire Orlando, please bring a state-issued photo id and documentation of homeschool status (see below) to the designated ticket area at the entrance to the event.**
 
