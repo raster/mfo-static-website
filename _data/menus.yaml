@@ -33,7 +33,7 @@ topnav:
     subfolderitems:
       - page: Tickets & Info
         url: /attend
-      - page: Homeschool Educators
+      - page: Homeschool Programs
         url: /homeschool
       - page: School Educators
         url: /educators
