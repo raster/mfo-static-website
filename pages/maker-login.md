@@ -11,4 +11,4 @@ At this time the Maker Dashboard is offline while we are planning for Maker Fair
 
 **If you have any questions about Maker Faire Orlando, email us at <a href="mailto:{{site.contact_email}}">{{site.contact_email}}</a>**
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/cMF3Fa3ZnLs8jk4xM4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/memecandy-cMF3Fa3ZnLs8jk4xM4">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/cMF3Fa3ZnLs8jk4xM4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
