@@ -5,7 +5,7 @@ permalink: /educators
 redirect_from:
   - /educator
   - /educator-programs
-#image: /assets/images/educator-page-header-bok-academy.jpg
+image: /assets/images/educator-page-header-bok-academy.jpg
 description: Learn how you can harness the Maker Movement in your classroom!
 ---
 # Makers and Education
