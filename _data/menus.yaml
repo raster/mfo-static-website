@@ -38,7 +38,7 @@ topnav:
       - page: School Educators
         url: /educators
   - title: MAKER LOGIN
-    url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsitetop
+    url: /maker-login
 
 footernav:
   - title: Maker Faire Orlando
@@ -54,9 +54,9 @@ footernav:
       - page: Privacy Policy
         url: http://www.themakereffect.org/privacy/
       - page: Maker Login
-        url: http://makers.makerfaireorlando.com/dashboard?ref=mfostaticsitefooter
+        url: /maker-login
       - page: Create Maker Account
-        url: http://makers.makerfaireorlando.com/dashboard?action=register&ref=mfostaticsitefooter
+        url: /maker-login
     socialitems:
       - title: Facebook
         url: https://www.facebook.com/makerfaireorlando/
