@@ -6,7 +6,7 @@ redirect_from:
   - /home-school
   - /homeschooling
 image: /assets/images/homeschool-page-header.jpg
-description: Homeschool educators receive free admission to Maker Faire Orlando 2020. Visit the Homeschool Programs page on the Maker Faire Orlando website for more information.
+description: Homeschool educators receive free admission, get details on the Maker Faire Orlando website!
 ---
 # Homeschool Programs
 ![Family building together at Maker Faire Orlando](/assets/images/homeschool-page-header.jpg)
