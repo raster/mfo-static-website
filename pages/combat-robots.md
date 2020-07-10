@@ -9,6 +9,7 @@ description: Your favorite robots, destroying each other, for your amusement.
 carousel: true
 carousel-delay: 5000
 carousel-controls: true
+carousel-indicators: true
 carousel-slides:
   - image: /assets/images/slider/robot-ruckus-perf-metal-1280x800.jpg  
     caption: Robot Ruckus Logo
