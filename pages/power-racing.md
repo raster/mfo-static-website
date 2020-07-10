@@ -1,7 +1,9 @@
 ---
-title: Power Racing at Maker Faire Orlando
+title: Power Racing
 layout: default
 permalink: /power-racing
+image: /assets/images/power-racing-group-shot-2018.jpg
+description: Watch Power Racing LIVE at Maker Faire Orlando!
 
 carousel: true
 carousel-delay: 5000
@@ -9,31 +11,31 @@ carousel-controls: true
 carousel-slides:
   - image: /assets/images/slider/driftie1.jpg  
     caption: COOKIES!
-    url: /power-racing/
+    url: /power-racing
 
   - image: /assets/images/slider/power_racing_glitter.jpg  
     caption: Glitter Bomb!
-    url: /power-racing/
+    url: /power-racing
 
   - image: /assets/images/slider/power_racing_scooby1.jpg  
     caption: Go Scooby Do!
-    url: /power-racing/
+    url: /power-racing
 
   - image: /assets/images/slider/power-racing-two-wheels.jpg
     caption: Make Cool Stuff!
-    url: /power-racing/
+    url: /power-racing
 
   - image: /assets/images/slider/starting_line.jpg
     caption: Make Cool Stuff!
-    url: /power-racing/
+    url: /power-racing
 
   - image: /assets/images/slider/raphael.jpg
     caption: Make Cool Stuff!
-    url: /power-racing/
+    url: /power-racing
 
   - image: /assets/images/slider/shes_fast.jpg
     caption: Make Cool Stuff!
-    url: /power-racing/
+    url: /power-racing
 ---
 
 # Power Racing - Live at Maker Faire Orlando!
