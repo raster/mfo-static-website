@@ -20,7 +20,7 @@
         {% else %}
           <div class="item">
         {% endif %}
-            <img src="{{ slide.image | relative_url }}" alt="{{slide.caption}}" style="width:100%;">
+            <a href="{{slide.url}}"><img src="{{ slide.image | relative_url }}" alt="{{slide.caption}}" style="width:100%;"></a>
           </div>
       {% endfor %}
 
