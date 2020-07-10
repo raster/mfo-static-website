@@ -8,12 +8,12 @@ description: "BattleBots Team Shellshock. Will display our robot and demonstrate
 description-long: "A team of High School Students will demonstrate their robot Shellshock.  The team participated in BattleBots 2019 and was featured in episode 7.
 The team hopes to inspire other young builders.  Have a look at the inner workings of a full body spinner robot with a turtle theme."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock.jpg
 website: https://outreach.rollingrobots.com/battlebots
 email: gkirkman@rollingrobots.com
 twitter: https://twitter.com/RollingRobots
@@ -30,5 +30,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

@@ -14,12 +14,12 @@ Rayvenwoodmanor has had wonderful opportunities to design items gifted especiall
 
 Rayvenwoodmanor Jewelry has been seen on Season 5 of \"The Vampire Diaries\" on the CW Network, an episode of \"Hart of Dixie\" on on the CW Network and seen on celebrities like the infamous Psychedelic Furs, American Actress / Producer / Writer Stephanie Drapeau, Actor Alexander Polinsky, and Actress Candy Washington. Our jewelry was also showcased included in The Artisan Group® press swag bags at GBK’s Gift Lounges for the 2014 and the 2015 Prime Time Emmys. Other Rayvenwoodmanor jewelry pieces have been gifted to various television shows and celebrities through unique opportunities with the The Artisan Group®. "
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-300x277.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-300x277.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132.jpg
 website: https://www.etsy.com/shop/Rayvenwoodmanor
 email: Rayvenwoodmanor@gmail.com
 twitter: https://twitter.com/Rayvenwoodmanor
@@ -43,5 +43,5 @@ Rayvenwoodmanor has had wonderful opportunities to design items gifted especiall
 Rayvenwoodmanor Jewelry has been seen on Season 5 of \"The Vampire Diaries\" on the CW Network, an episode of \"Hart of Dixie\" on on the CW Network and seen on celebrities like the infamous Psychedelic Furs, American Actress / Producer / Writer Stephanie Drapeau, Actor Alexander Polinsky, and Actress Candy Washington. Our jewelry was also showcased included in The Artisan Group® press swag bags at GBK’s Gift Lounges for the 2014 and the 2015 Prime Time Emmys. Other Rayvenwoodmanor jewelry pieces have been gifted to various television shows and celebrities through unique opportunities with the The Artisan Group®. "
   image-primary: 
 last-modified-db: "2019-09-09 21:59:30"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

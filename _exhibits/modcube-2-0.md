@@ -9,12 +9,12 @@ description-long: "ModCube 2.0 is a completely modular, magnetic toy and puzzle 
 
 The original ModCube launched on Kickstarter in 2015 to a fantastic reception, and ever since delivering on that project we've been hard at work figuring out how to make it even better. The final result of all that work (ModCube 2.0!) will be revealed for the very first time at Orlando Maker Faire! Come check out our booth to snag some free Makerfaire swag (Makey magnets!), and to try out our new puzzles before we launch later this year."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ModCube-Translucent.jpg
 website: http://www.modcube.com
 email: 
 twitter: 
@@ -38,7 +38,7 @@ combat-robot: 0
 maker:
   name: "Steve Garber"
   description: "Steve has always wanted to be an inventor (since he was 5 years old!), and grew up constantly taking things apart and (sometimes) successfully putting them back together. After graduating with a degree in mechanical engineering, his basement became a bit of a mad science lab as he built a 3D printer, then brought in a laser cutter (exhausting through the dryer vent!). He began using them to create all sorts of crazy things, and in 2015 launched the ModCube via Kickstarter to an extremely positive reception - ending up producing tens of thousands of ModCubes, and hundreds of thousands of tokens! Now, after several years secretly beavering away on design and prototyping in \"the lab\", he is ready to show the world the new ModCube 2.0!"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/SteveGarberMakerProfilePic3-1.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/SteveGarberMakerProfilePic3-1.png
 last-modified-db: "2019-10-26 12:34:58"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

@@ -7,12 +7,12 @@ url:
 description: " Combat Robotics Team"
 description-long: "A team with 18 years (since 2001, not combined) experience in the combat box."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-1024x576.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-1024x576.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-300x169.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-1024x576.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-300x169.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-1024x576.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity.jpg
 website: 
 email: 
 twitter: 
@@ -29,5 +29,5 @@ maker:
   description: " A combat robot team of 17 years, A.G. Robotics began in Florida, but has moved to different regions in different phases of life, competing with the best around the country. "
   image-primary: 
 last-modified-db: "2019-11-06 18:11:16"
-last-exported: "2020-08-07 07:54:55"
+last-exported: "2020-10-07 18:46:57"
 ---

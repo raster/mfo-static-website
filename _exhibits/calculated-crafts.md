@@ -7,12 +7,12 @@ url: http://www.calculatedcrafts.com
 description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
 description-long: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-300x75.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-300x75.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
 website: http://www.calculatedcrafts.com
 email: 
 twitter: 
@@ -39,7 +39,7 @@ combat-robot: 0
 maker:
   name: "Calculated Crafts"
   description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_7392-1024x1024.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_7392-1024x1024.jpg
 last-modified-db: "2019-10-17 08:59:28"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

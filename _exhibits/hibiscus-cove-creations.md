@@ -13,12 +13,12 @@ I have a small assortment of clay-work and character pieces including dragons, b
 
 My jewelry collection of earrings and bracelets is small but each piece is handmade using glass, stone, metal, and hand worked leather"
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-1024x508.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-1024x508.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-300x149.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-1024x508.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-300x149.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4-1024x508.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/0713190946_HDR4.jpg
 website: http://hibiscuscovecreations.com
 email: Hibiscuscovecreations@gmail.com
 twitter: 
@@ -57,7 +57,7 @@ I also create altered bottles (decorated bottles). I paint, decoupage, bake, dye
 I have a small assortment of clay-work including dragons, birds, flowers, and bowls.
 
 My jewelry collection of earrings and bracelets is small but each handmade using glass, stone, metal, and hand worked leather"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07281820102-1024x687.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07281820102-1024x687.jpg
 last-modified-db: "2019-10-29 17:41:40"
-last-exported: "2020-08-07 07:54:57"
+last-exported: "2020-10-07 18:46:59"
 ---

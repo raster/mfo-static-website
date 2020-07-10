@@ -7,12 +7,12 @@ url: Http://Www.etsy.com/shop/indigomoontoys
 description: "Handmade eco toys for babies and kids "
 description-long: "Indigo Moon Toys offers a variety of handmade toys made with natural materials."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27-300x300.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27-300x300.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/AF66C3D0-6549-4AF0-B6BA-F5E66BA8BD27.png
 website: Http://Www.etsy.com/shop/indigomoontoys
 email: 
 twitter: 
@@ -42,7 +42,7 @@ combat-robot: 0
 maker:
   name: "Briana Day"
   description: "Hi! I’m Bri! I love making toys for babies and kids that are eco friendly and long lasting!"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/B5F16AF6-B75B-45B0-801B-641B885ED0C7-1024x1006.jpeg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/B5F16AF6-B75B-45B0-801B-641B885ED0C7-1024x1006.jpeg
 last-modified-db: "2019-11-02 17:37:15"
-last-exported: "2020-08-07 07:54:57"
+last-exported: "2020-10-07 18:46:59"
 ---

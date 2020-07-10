@@ -7,12 +7,12 @@ url:
 description:
 description-long: "Vendor space selling handmade bags. "
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-150x150.jpeg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-225x300.jpeg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591.jpeg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-150x150.jpeg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-225x300.jpeg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591.jpeg
 website: 
 email: 
 twitter: 
@@ -33,7 +33,7 @@ combat-robot: 0
 maker:
   name: "Tiffany Mitchell Designs"
   description: "Handmade purse, bows, bags and more "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
 last-modified-db: "2019-09-09 22:05:03"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

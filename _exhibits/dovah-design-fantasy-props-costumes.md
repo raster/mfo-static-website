@@ -7,12 +7,12 @@ url: https://www.dovahdesign.com
 description: "Dovah Design specializes in the creation of custom props, armor, and costumes from her home workshop in Longwood, FL. Specialties include foam carving, mold making, and custom prop design."
 description-long: "Dovah Design specializes in the creation of custom props, armor, and costumes. A graphic designer by trade, Sam has always found joy making art and playing video games. So in 2014, she decided to bring her two favorite pass-times together, and began making props and costumes as her weekend hobby. Sam has since started a self-run business out of her home workshop in Longwood, FL. Her Specialties include foam carving, mold making, and custom prop design."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-1024x569.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-1024x569.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-300x167.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-1024x569.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-300x167.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on-1024x569.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cosplay_tes-v-skyrim_ancient-nord-armor_sitting-on-rock-waterfall-helmet-on.jpg
 website: https://www.dovahdesign.com
 email: sam@dovahdesign.com
 twitter: 
@@ -39,7 +39,7 @@ combat-robot: 0
 maker:
   name: "Samantha Bork"
   description: "I am a prop and costume artist based in sunny Central Florida, USA. Cosplaying and prop making have been my hobbies since 2014, when I was inspired to start by famous prop artists and my favorite video game, Skyrim. There is something incredibly satisfying about bringing fantasy props and costumes into the real world, especially a badass weapon or set of armor."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019-Dovah-Logo_Color-Black-Text.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019-Dovah-Logo_Color-Black-Text.png
 last-modified-db: "2019-11-07 10:30:44"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

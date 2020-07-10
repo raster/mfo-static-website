@@ -7,12 +7,12 @@ url: http://teamlazygecko.com/
 description: "Gecko Kart is the mechanical sibling of Raphael. Design and built to compete in the Power Racing Series."
 description-long: "Gecko Kart is a hand built $500 electric vehicle. Despite it's cost, Gecko Kart features a 48v 1800w Brushless motor, powered by industry leading Chevy Volt Lithium batteries. Topping out at 20mph, this Kart is quick like"
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-1024x683.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-1024x683.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-1024x683.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o-1024x683.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/45006023_10156678709816163_2959040559215280128_o.jpg
 website: http://teamlazygecko.com/
 email: jason.weihman@gmail.com
 twitter: 
@@ -36,7 +36,7 @@ combat-robot: 0
 maker:
   name: "Lazy Gecko"
   description:
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
 last-modified-db: "2019-10-02 20:55:10"
-last-exported: "2020-08-07 07:54:57"
+last-exported: "2020-10-07 18:46:59"
 ---

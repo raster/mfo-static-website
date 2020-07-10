@@ -13,12 +13,12 @@ If you want to bring your own art, make sure it is on paper no thicker than a ph
 
 A $1 donation to The Maker Effect Foundation gets the parts to make a 2.25\" button or the parts to make TWO 1\" buttons!"
 location: Curiosity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
 website: http://www.makerfx.org/buttons
 email: info@makerfx.org
 twitter: 
@@ -46,7 +46,7 @@ maker:
   name: "MakerFX Makerspace"
   description: "MakerFX Makerspace is a unique makerspace located in south Orlando and easily accessible by those in the area. This new makerspace is organize by a group of like minded individuals that saw a need for a new space on the south side or Orlando to fill in the geographic gaps. One of our goals is to work hand in hand with other local spaces in the Greater Orlando area. As a program of The Maker Effect Foundation, MakerFX strives to create unique classes, useful workspaces, and share ideas with the maker community. 
 "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-26 14:35:09"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

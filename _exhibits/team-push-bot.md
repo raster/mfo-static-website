@@ -7,12 +7,12 @@ url:
 description: "Combat fighting robots 1 lb and 150 gram categories "
 description-long: "We are Team Push Bot and will be bringing our 1 lb robot Tetanus and our 150 gram robot name Micro Mauler."
 location: Robot Ruckus - Small Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-1024x576.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-1024x576.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-300x169.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-1024x576.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-300x169.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240-1024x576.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180903_110240.jpg
 website: 
 email: 
 twitter: 
@@ -29,5 +29,5 @@ maker:
   description: "Young builder of combat robots and drones. "
   image-primary: 
 last-modified-db: "2019-11-06 18:00:50"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

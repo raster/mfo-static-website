@@ -7,12 +7,12 @@ url:
 description: "Fairy weight entry into Robot Ruckus"
 description-long: "A \"dustpan\" style fairy weight combat robot."
 location: Combat Robots - Small Arena (Spirit)
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-300x221.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-300x221.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
 website: 
 email: 
 twitter: 
@@ -29,5 +29,5 @@ maker:
   description: "Robot Ruckus fairy weight entry Suzy Spinnerbot."
   image-primary: 
 last-modified-db: "2019-11-06 17:34:02"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

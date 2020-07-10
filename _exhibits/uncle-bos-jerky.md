@@ -16,12 +16,12 @@ Come visit our booth to...
 3- Check out my arduino powered commercial dehydrator.
 4- and buy a bag or two for the road."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-1024x939.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-1024x939.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-300x275.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-1024x939.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-300x275.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-1024x939.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1.png
 website: http://www.unclebosjerky.com
 email: unclebo@unclebosjerky.com
 twitter: 
@@ -54,7 +54,7 @@ combat-robot: 0
 maker:
   name: "Uncle Bo"
   description: "about 20 years ago, a friend of the family gave us a food dehydrator, using the recipe that came with the unit I made some Beef jerky. It was awful! It was worse than the generic store bought stuff. As I make my own steak rubs, wing sauces etcetera ... I decided to make my own jerky recipe. After about 6 months of trial and error, I came up with my original recipe jerky. Using this as a base, I have created 7 additional flavors. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Logo-trans-1024x939.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Logo-trans-1024x939.png
 last-modified-db: "2019-10-30 16:45:38"
-last-exported: "2020-08-07 07:55:00"
+last-exported: "2020-10-07 18:47:02"
 ---

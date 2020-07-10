@@ -7,12 +7,12 @@ url: http://giantbacon.com
 description: "Chase is a police themed Power Racing Series Kart"
 description-long: "Chase competes in the power racing series. It is a collaborative effort with a greater group of friends to share knowledge in making tiny cars that are safe, but also push the bounds of speed in an effort to just have fun."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-1024x683.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-1024x683.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-1024x683.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-1024x683.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o.jpg
 website: http://giantbacon.com
 email: craigbyrne131@gmail.com
 twitter: https://twitter.com/CraigByrne131
@@ -48,7 +48,7 @@ combat-robot: 0
 maker:
   name: "Craig Byrne"
   description: "Software developer by day, garage tinkerer by night. Likes to mash electronics in unnecessary places to make things fun or just for laughs with a group of friends. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44971658_10156678711291163_6007435031100784640_o-1024x683.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44971658_10156678711291163_6007435031100784640_o-1024x683.jpg
 last-modified-db: "2019-09-09 19:53:52"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

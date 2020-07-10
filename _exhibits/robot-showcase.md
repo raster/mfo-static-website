@@ -7,12 +7,12 @@ url: https://mike-ibioloid.blogspot.com/
 description: "I will show off and demonstrate my human and non-humanoid robots. I will show off how they work and function by using their soccer, dancing, human interaction and autonomous navigation skills. This will show people what it will be like in the future."
 description-long: "I will show off and demonstrate my human and non-humanoid robots. I will show off how they work and function by using their soccer, dancing, human interaction and autonomous navigation skills. This will show people what it will be like in the future with robots in their home, work and in public places."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-768x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-768x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-768x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047-768x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_5047.jpg
 website: https://mike-ibioloid.blogspot.com/
 email: moverstreet007@gmail.com
 twitter: https://twitter.com/i_bioloid
@@ -30,7 +30,7 @@ combat-robot: 0
 maker:
   name: "Michael Overstreet"
   description: "Mike is a computer programmer by day and an amateur roboticist by night. Mike and his humanoid robot Boomer have competed in the last 11 Robogames and have won multiple bronze, silver and gold metals. For the past 9 years he has been experimenting with 3D printed robot designs at his local hackerspace which he is a founding member of. He is an active member of the 3D printer community and he is working on his own 3d printer design. He also has been a grass roots supporter of the Kansas City Maker Faire as well as attending most of the national and international Maker Faires. People who are interested in his adventures in robotics should check out his blog \"I, Bioloid\". He is currently exploring open-source 3D printed robotics and using the ROS (Robot Operating System) with his robots."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CROPPED-IMG_6649_PX7.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CROPPED-IMG_6649_PX7.jpg
 last-modified-db: "2019-10-11 21:57:16"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

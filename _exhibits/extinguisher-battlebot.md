@@ -7,12 +7,12 @@ url:
 description: "The robot from the Battlebots television series will be there for people to see and the builders to ask questions and participate in panels."
 description-long: "the battlebots robot will be fighting in the combat arena under an alias"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-256x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-256x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
 website: 
 email: quicksilverrobotics@gmail.com
 twitter: 
@@ -35,5 +35,5 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:05"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:59"
 ---

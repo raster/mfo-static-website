@@ -15,12 +15,12 @@ Concierge set up and staffing
 Bubble murals can be great as a stand-alone piece, but they also create a perfect backdrop for an optional signature sculpture, such as a giant Makey, while the community follows our instructions to build a mural representative of the location where it's built.
 Community participants build the mural over a day or two so it can be built entirely by Maker Faire patrons without staff support. Airigami would provide all equipment, materials, design, and instructions. This can be a DIY project, your staff and volunteers would manage the construction, or we can deliver, setup, and provide staff to oversee it. Cost for this mural as a DIY project is $1500. To have Airigami artists on site, we’re looking at $500-$1500/day in addition to the project cost, depending on the level of support needed."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-150x150.jpeg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-300x200.jpeg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-150x150.jpeg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-300x200.jpeg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
 website: https://www.airigami.com/
 email: Info@airigami.com
 twitter: Http://twitter.com/airigami
@@ -38,7 +38,7 @@ combat-robot: 0
 maker:
   name: "Airigami"
   description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-08-07 07:54:55"
+last-exported: "2020-10-07 18:46:57"
 ---

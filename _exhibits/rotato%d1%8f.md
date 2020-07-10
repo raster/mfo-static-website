@@ -7,12 +7,12 @@ url: https://battlebots.com/robot/rotator-2019/
 description: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 description-long: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-1024x684.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-1024x684.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-1024x684.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo-1024x684.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019-Team-Photo.jpg
 website: https://battlebots.com/robot/rotator-2019/
 email: 
 twitter: 
@@ -41,5 +41,5 @@ maker:
   description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
   image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

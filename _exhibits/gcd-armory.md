@@ -7,12 +7,12 @@ url:
 description: "A showcase of cool unique personalized prop work. "
 description-long: "Gifted Concepts & Designs will be showcasing some of the unique and custom props they’ve designed. Each with a distinct manner of construction. Combining various materials to make the imagination come to life. "
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-768x1024.jpeg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-768x1024.jpeg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-150x150.jpeg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-225x300.jpeg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-768x1024.jpeg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE.jpeg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-150x150.jpeg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-225x300.jpeg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE-768x1024.jpeg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FC4A2E37-34BA-4A70-BF2A-B569D592E6EE.jpeg
 website: 
 email: 
 twitter: 
@@ -27,7 +27,7 @@ combat-robot: 0
 maker:
   name: "Gifted Concepts &amp; Designs"
   description:
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/1072AA45-42CC-4B3B-8C47-46949F15EF23.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/1072AA45-42CC-4B3B-8C47-46949F15EF23.png
 last-modified-db: "2019-10-18 17:29:31"
-last-exported: "2020-08-07 07:54:57"
+last-exported: "2020-10-07 18:46:59"
 ---

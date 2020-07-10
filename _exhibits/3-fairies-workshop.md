@@ -11,12 +11,12 @@ Once each sculpture is cast and painted, I spray them with a matte finish and at
 
 I also feature a few truly one of a kind pieces, sculpted from polymer clay and then hand painted in acrylic paint. These are also of a few fan favorite characters."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199.jpg
 website: https://www.etsy.com/shop/bananafairy59
 email: awagner59@gmail.com
 twitter: https://twitter.com/BaFa59
@@ -34,7 +34,7 @@ combat-robot: 0
 maker:
   name: "Ali Wagner"
   description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
 last-modified-db: "2019-10-27 16:38:26"
-last-exported: "2020-08-07 07:54:55"
+last-exported: "2020-10-07 18:46:57"
 ---

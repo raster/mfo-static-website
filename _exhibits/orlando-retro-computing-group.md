@@ -7,12 +7,12 @@ url: https://www.meetup.com/Orlando-Retro-Computing-Group/
 description: "We're a bunch of computing hobbyists in central Florida."
 description-long: "TRS-80, VIC-20, Atari 400, C64, Apple II ... if these terms mean anything to you, then you need to join us.  We're just a bunch of hobbyists gathering at MakerFX Makerspace in Orlando, FL to discuss, work on, and reminisce about the early days of 8-bit home computing."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02-300x224.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02-300x224.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/TRS-80-pic-02.jpg
 website: https://www.meetup.com/Orlando-Retro-Computing-Group/
 email: create@2pilabs.com
 twitter: 
@@ -48,5 +48,5 @@ maker:
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-28 08:55:23"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

@@ -7,12 +7,12 @@ url:
 description: "Two combat robots competing in the antweight weight class."
 description-long: "Two combat robots competing in the antweight weight class."
 location: Robot Ruckus - Small Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-1024x768.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-1024x768.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-300x225.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-1024x768.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-300x225.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester-1024x768.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vert-and-Chester.png
 website: 
 email: 
 twitter: 
@@ -29,5 +29,5 @@ maker:
   description: "I am a 15-year-old high school student who recently got into robot combat."
   image-primary: 
 last-modified-db: "2019-11-06 17:57:48"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

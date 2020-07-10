@@ -7,12 +7,12 @@ url:
 description: "Whimsical, magical mixed-media watercolor paintings!"
 description-long: "Magical and whimsical watercolor paintings with various mixed-media elements added - beads, crystals, dried flowers...whatever I can find!"
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n-300x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n-300x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/54799889_778800015823422_5279456916450312192_n.jpg
 website: 
 email: bunnymoonstudios@gmail.com
 twitter: 
@@ -33,7 +33,7 @@ maker:
 I love watercolors because of how unpredictable they are - I can have one thing in mind, but the paints might have something totally different!  And that's part of the magic for me - art has such a voice of its own, and I love seeing what my paintings have to show me both along the way, and once they are done.
 
 "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
 last-modified-db: "2019-10-27 16:36:35"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

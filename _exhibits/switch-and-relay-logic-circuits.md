@@ -7,12 +7,12 @@ url: http://knickknackatory.com/?p=24
 description: "A hands-on demonstration of binary logic circuits using only switches and relays."
 description-long: "A hands-on demonstration of binary logic circuits using only switches and relays. Circuits available for attendees to play with include a four-bit adder, river-crossing puzzles, and Ring the Bell, an IoT arcade machine based on the Chinese Ring Puzzle."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-1024x768.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-1024x768.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-300x225.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-1024x768.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-300x225.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-1024x768.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1.png
 website: http://knickknackatory.com/?p=24
 email: 
 twitter: https://twitter.com/RelayPuzzle
@@ -54,7 +54,7 @@ combat-robot: 0
 maker:
   name: "Stephen Emery"
   description: "An electronics engineer with an interest in old-school switching logic."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
 last-modified-db: "2019-10-27 16:54:07"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

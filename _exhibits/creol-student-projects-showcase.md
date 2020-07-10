@@ -15,12 +15,12 @@ An itemized list includes (tentitave)
 We will also accompany each setup with a written description and material list so that guests can learn how to build them on their own.
 These student-made optics demonstrations can be unique and, most likely, complimentary to the existing makers’ projects. We hope to expose the visitors to the area of photonics engineering, and help develop their interest in this highly cross-disciplinary STEM field."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-1024x768.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-1024x768.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-1024x768.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-300x225.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233-1024x768.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3233.jpg
 website: http://www.creol.ucf.edu
 email: 
 twitter: 
@@ -53,7 +53,7 @@ combat-robot: 0
 maker:
   name: "CREOL, The College of Optics and Photonics"
   description: "CREOL, The College of Optics and Photonics at University of Central Florida is a world leader in education, research, and industrial partnership in the field of optics and photonics. Students at CREOL use spare time to design and build demonstration setups that showcase the concepts and applications of photonics, from topics as simple as the reflection and refraction of light, to technologies as complicated as fiber communication and optical imaging. With these home-made setups, we have participated in a variety of university and community outreach events including CREOL’s Optics Day, STEM day, K-12 teach-in etc every year."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/UILexternal_KGrgb_CREOL-The-College-of-Optics-and-Photonics-300dpi-1024x209.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/UILexternal_KGrgb_CREOL-The-College-of-Optics-and-Photonics-300dpi-1024x209.png
 last-modified-db: "2019-10-27 16:33:58"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

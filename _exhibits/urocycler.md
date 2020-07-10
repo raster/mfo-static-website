@@ -10,12 +10,12 @@ description-long: "This totally unique and proven medical system utilizes a prec
 
 PREVENTION of infections in all patients dramatically ENHANCES QUALITY OF LIFE and REDUCES suffering, deaths,  and healthcare COSTS. This booth illustrates the principle of operation plus the patient-safety and user-friendly features of this \"Modern Marvel\" (History Channel), patented, life-saving medical system, thus helping to solve a problem which kills an estimated 271 Americans per day, now using a significantly Medicare-Reimbursed extremely effective new product."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz-300x225.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Clear_Uro_Horiz.jpg
 website: https://www.urocyclers.com/our-impact
 email: doctorflinchbaugh@yahoo.com
 twitter: 
@@ -38,5 +38,5 @@ maker:
   description: "Dr. David Flinchbaugh is listed as the inventor on hundreds of patents.  He has a PHD in physics and a long history of innovative designs.  He has been the president of Inventors Council of Central Florida for over 40 years and has helped hundreds of people move their ideas toward products.  "
   image-primary: 
 last-modified-db: "2019-10-26 12:37:01"
-last-exported: "2020-08-07 07:55:00"
+last-exported: "2020-10-07 18:47:02"
 ---

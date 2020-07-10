@@ -7,12 +7,12 @@ url: https://www.thehopefalls.com/
 description: "Dive into the worlds of Hope Falls and Shadows in the Light.  Fire Art, Original canvas, fanart and more. "
 description-long: "Explore the world of Hope Falls, a tale of consequences and redemption. Or discover the mysteries surrounding a grounded fae and disapearing magic.   Or geek out on original canvas, geek art and our personal favorite Fire art."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit-300x243.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit-300x243.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
 website: https://www.thehopefalls.com/
 email: 
 twitter: 
@@ -43,5 +43,5 @@ maker:
 While our adventurous VooDoo is off exploring and making new friends we also create the webcomic series HopeFalls and Shadows in the Light. "
   image-primary: 
 last-modified-db: "2019-10-27 17:13:35"
-last-exported: "2020-08-07 07:54:57"
+last-exported: "2020-10-07 18:46:59"
 ---

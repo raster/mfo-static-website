@@ -7,12 +7,12 @@ url:
 description: "fighting combat robots"
 description-long: "f  i  g  h  t  i  n  g   c  o  m  b  a  t   r  o  b  o  t  s"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic-300x225.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
 website: 
 email: 
 twitter: 
@@ -36,7 +36,7 @@ combat-robot: 1
 maker:
   name: "Craig Danby"
   description: "builder of combat robots for Battlebots "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
 last-modified-db: "2019-11-06 18:05:13"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

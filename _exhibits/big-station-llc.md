@@ -14,12 +14,12 @@ description-long: "ABOUT US
 • We are an innovative company with eight years of experience in the area of entertainment equipment. Our priority is to provide families with unforgettable experiences.
 • We are updating constantly our technology, adapting to the needs of our customers."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-768x1024.jpeg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-768x1024.jpeg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-150x150.jpeg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-225x300.jpeg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-768x1024.jpeg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D.jpeg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-150x150.jpeg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-225x300.jpeg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D-768x1024.jpeg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2709C9AC-1659-461A-9D1A-C2150BADA64D.jpeg
 website: 
 email: 
 twitter: 
@@ -40,7 +40,7 @@ combat-robot: 0
 maker:
   name: "Big Station LLC"
   description:
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
 last-modified-db: "2019-09-02 20:39:24"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

@@ -7,12 +7,12 @@ url:
 description: "We like the build and the destroy!"
 description-long: "What do you get with two beetles and a 12lb combat robot? Pieces of fun!"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena, Robot Ruckus - Small Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-1024x685.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-1024x685.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-300x201.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-1024x685.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-300x201.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-1024x685.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1.jpg
 website: 
 email: 
 twitter: 
@@ -32,5 +32,5 @@ maker:
   description: "New to combat robots and ready to build, destroy and repeat."
   image-primary: 
 last-modified-db: "2019-11-06 17:28:14"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

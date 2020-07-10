@@ -7,12 +7,12 @@ url: https://www.eduardoanacletoart.com/
 description: "An artist with prints and crafts for sale. Try'na pay the rent"
 description-long: "Incognegro, an experienced Illustrator gathering up my supply of custom made products to sell to the general public. It's Capitalism yo'"
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492.jpg
 website: https://www.eduardoanacletoart.com/
 email: 
 twitter: 
@@ -29,5 +29,5 @@ maker:
   description: "Eduardo (Eddie for short) is a true Connoisseur of the arts. Drawing since he was a child, his eye for details has been matched only by his desire to create. As the mediums through which art has evolved so too have his skill sets. From Illustration to 3D rendering and animation, and even visual effects; his experience branches out over many realms of visual and digital arts.  He is also way too humble to feel comfortable talking about himself in the third person. "
   image-primary: 
 last-modified-db: "2019-11-06 10:51:10"
-last-exported: "2020-08-07 07:54:57"
+last-exported: "2020-10-07 18:46:59"
 ---

@@ -7,12 +7,12 @@ url: http://www.DuinoKit.com
 description: "Arduino based learning kits."
 description-long: "Learn to build and code using our plug-and-play learning kits.  No soldering or breadboarding."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-895x1024.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-895x1024.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-262x300.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-895x1024.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-262x300.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-895x1024.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit.png
 website: http://www.DuinoKit.com
 email: Support@DuinoKit.com
 twitter: 
@@ -39,7 +39,7 @@ combat-robot: 0
 maker:
   name: "DuinoKit &#8211; Arduino based learning kits"
   description: "DuinoKits were developed by a teacher looking to help teach kids about electronics and coding using Arduino."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
 last-modified-db: "2019-11-05 15:22:13"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

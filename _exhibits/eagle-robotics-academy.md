@@ -7,12 +7,12 @@ url: https://eagleroboticsacademy.com
 description: "We are a STEM-based curriculum educator, that has a hands-on approach to education by teaching and building robots that students get to keep and take home.  "
 description-long: "Our lesson plans around the idea that students have fun while they learn, by building robots that they keep and take home. Children tend to retain information better when they see a benefit, in this case, a reward i.e. the robot. "
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-435x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-435x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-128x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-435x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-128x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673-435x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/QMHO9673.jpg
 website: https://eagleroboticsacademy.com
 email: 
 twitter: 
@@ -45,7 +45,7 @@ combat-robot: 0
 maker:
   name: "Eagle Robotics Academy"
   description: "We are a private STEM educator that teaches afterschool programs in three OCPS as well as our office on Saturdays in Orlando. All STEM robotic class include a robot students take home. We Teach block programming classes like Sketch and Microbit as well as 3D print, build and make our own robots."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EAGLE-STEMA-1-2-1024x398.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EAGLE-STEMA-1-2-1024x398.png
 last-modified-db: "2019-09-09 20:52:13"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

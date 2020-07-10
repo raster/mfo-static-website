@@ -11,12 +11,12 @@ Besides our ‘Heroes’ costumes, our worldwide membership often choose to give
 
 Along with our partner organizations the Florida Garrison of the 501st Legion, The Wookiee Workshop, Mandolarion Mercenaries, R2 Builders’ Club, Dark Empire – Spire of the Storm and Galactic Academy, we bring smiles to our home State of Florida."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-1024x1024.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-1024x1024.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-300x300.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-1024x1024.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-300x300.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-1024x1024.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1.png
 website: http://www.rakurabase.org
 email: CommandStaff@rakurabase.org
 twitter: 
@@ -31,7 +31,7 @@ combat-robot: 0
 maker:
   name: "Rebel Legion"
   description: "We are the Ra Kura Base of the Rebel Legion, serving the state of Florda.  The Rebel Legion is an international costuming club dedicated to sharing and enjoying costuming talents, promoting the quality and improvement of Star Wars costumes, and giving back to the community through works of charity and volunteerism."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RaKuraBase.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RaKuraBase.png
 last-modified-db: "2019-10-27 16:30:26"
-last-exported: "2020-08-07 07:55:00"
+last-exported: "2020-10-07 18:47:02"
 ---

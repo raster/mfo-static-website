@@ -14,12 +14,12 @@ Most of us find it difficult to find extra space in the garage. Things just stac
 
 It can be difficult to store these things when they are not in use because of their size and odd shapes. Since wall space tends to be the biggest asset in a garage why not make use of it? Attach the Cargo Carrier Wall Mount system and get the most of your carrier and wall space storage.This product would be low cost on the retail shelf and could sell in any big box, specialty stores and online making it a high volume sales product."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-1024x576.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-1024x576.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-300x169.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-1024x576.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-300x169.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1-1024x576.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1.png
 website: https://cargocarrierwallmount.com/
 email: dn612higg@gmail.com
 twitter: 
@@ -34,7 +34,7 @@ combat-robot: 0
 maker:
   name: "Cargo Carrier Wall Mount System"
   description: "The inventor, John Higgins, lives in Blythewood, South Carolina and had an idea for a better way to store your cargo carried system. David co-inventor brother of John. David lives in Port St. Lucie, FL. John has a utility patent application filed and had the invention designed properly so that he may see success with this great idea and turn it into a real product. He is actively seeking a company that would have an interest in licensing the product for a royalty."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1024x576.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1024x576.png
 last-modified-db: "2019-10-22 15:30:41"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

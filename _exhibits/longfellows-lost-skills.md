@@ -9,12 +9,12 @@ description-long: "I provide short demonstrations on what I (Alan Longfellow) ca
 
 Small but useful skills like how to find the center of a board, how to divide a line, or how to properly use a micrometer caliper, chisel, hand saw, or vernier caliper will be demonstrated.  The centerpiece of my exhibit will be an accurate, precise, custom-built 3D printer dubbed the \"Messingdrucker I\" that I made completely from precision-machined parts intended to demonstrate the need for an accurate, rigid 3D printer in the industry, along with a small (2 ft by 4 ft) model train display featuring vintage 1950s-era Lionel model trains.  So much innovation has been lost to history that I feel that it is important to \"dig it all up\" and use it for the greater good of the Maker community!"
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-1024x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-1024x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-300x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-1024x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-300x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-1024x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1.jpg
 website: https://www.linkedin.com/in/alanlongfellow/
 email: minecrafter0925@gmail.com
 twitter: 
@@ -90,7 +90,7 @@ maker:
   name: "Alan Longfellow"
   description: "I'm a junior at Florida Polytechnic University majoring in Mechanical Engineering with a deep passion for math, physics, and creative innovation. 
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

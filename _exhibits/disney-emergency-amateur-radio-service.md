@@ -7,12 +7,12 @@ url: http://wd4wdw.org
 description: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 description-long: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2.jpg
 website: http://wd4wdw.org
 email: presidnet@wd4wdw.org
 twitter: https://twitter.com/WD4WDW
@@ -39,7 +39,7 @@ combat-robot: 0
 maker:
   name: "Disney Emergency Amateur Raido Service"
   description:
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

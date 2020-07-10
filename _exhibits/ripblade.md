@@ -7,12 +7,12 @@ url:
 description: "Demonstration of battle robot (one pound class)"
 description-long: "Competing with other robots."
 location: Robot Ruckus - Small Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-300x265.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-300x265.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
 website: 
 email: 
 twitter: 
@@ -30,7 +30,7 @@ combat-robot: 1
 maker:
   name: "Kwin-alt"
   description: "Son (and father) amateur team. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
 last-modified-db: "2019-11-06 18:01:32"
-last-exported: "2020-08-07 07:55:00"
+last-exported: "2020-10-07 18:47:02"
 ---

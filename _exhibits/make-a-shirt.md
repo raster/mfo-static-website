@@ -7,12 +7,12 @@ url:
 description: "Make your very own Maker Faire Orlando T-shirt and help support local robotics teams in the process."
 description-long: "During Maker Faire Orlando, you will have to opportunity to make your own screen printed t-shirt.  We will walk you through the process of setting up and screen printing your own shirt with this years Maker Faire Orlando art work."
 location: Curiosity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-1024x390.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-1024x390.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-300x114.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-1024x390.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-300x114.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-1024x390.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner.jpg
 website: 
 email: 
 twitter: 
@@ -45,7 +45,7 @@ combat-robot: 0
 maker:
   name: "Gra-V Robotics"
   description: "We are a FIRST Robotics family of teams that are based in Central Florida.  Our teams, we are open to students in grade K-12 from around Orlando who would like to participate in robotics.  Joins us and have fun #morethanrobots #5816pitcrew #gravtrain"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/08/GRA-V-Standard-791x1024.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/GRA-V-Standard-791x1024.png
 last-modified-db: "2019-11-01 14:30:01"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

@@ -7,12 +7,12 @@ url: Http://Teamlazygecko.com
 description: "DIY electric gocarts made from kids toys."
 description-long: "~20mph hand made go carts that look like kid toys but have modern car tech inside. Come chat with a racer inbetween races and get to know what it takes to race."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
 website: Http://Teamlazygecko.com
 email: 
 twitter: 
@@ -45,7 +45,7 @@ combat-robot: 0
 maker:
   name: "LazyGecko: The Batmobile"
   description: "We've been making things happen as a group and find a way to continue as our members spread out across the country."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman4.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman4.jpg
 last-modified-db: "2019-11-03 18:04:08"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

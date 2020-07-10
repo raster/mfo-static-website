@@ -7,12 +7,12 @@ url: https://floridapoly.edu/
 description: "Florida Polytechnic's robotics group."
 description-long: "Florida Polytechnic University is a stem university in Lakeland that does not have any sports teams but wants to have the best competitive robots out there."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
 website: https://floridapoly.edu/
 email: 
 twitter: 
@@ -27,7 +27,7 @@ combat-robot: 1
 maker:
   name: "Purple Fire"
   description: "We are the robotics club at Florida Polytechnic University."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544.png
 last-modified-db: "2019-10-13 10:45:21"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

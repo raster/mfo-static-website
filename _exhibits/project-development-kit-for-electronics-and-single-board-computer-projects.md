@@ -19,12 +19,12 @@ We began selling kits online and at Maker Faire Bay Area in May. The kit include
 
 Our plan for the near future is to move the Clicks and Slides from 3D-printed to injection-molded versions. This will make stronger and better performing versions available at a lower cost to users."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282.jpg
 website: https://www.phasedock.com
 email: info@phasedock.com
 twitter: https://twitter.com/PhaseDock
@@ -72,7 +72,7 @@ combat-robot: 0
 maker:
   name: "Phase Dock Inc."
   description:
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

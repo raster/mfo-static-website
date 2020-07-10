@@ -7,12 +7,12 @@ url:
 description: "30 lb Sportsman Class Battle Bot"
 description-long: "30 lb Sportsman Class Battle Bot  Made from materials scrounged from remnants of Hurricane Irma."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3183.jpg
 website: 
 email: 
 twitter: 
@@ -27,7 +27,7 @@ combat-robot: 1
 maker:
   name: "Fracture Mechanics"
   description: "Two engineers that like to make things as much as calculate things"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
 last-modified-db: "2019-10-13 10:45:01"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

@@ -13,12 +13,12 @@ In the Inventure area, you can play the upcoming Myra Makes board game, Inventur
 
 Finally, in the sneak peek area, you can explore the in-development Myra Makes app, play some of our prototype card games, and join a read-aloud of our latest in-development story book. Your feedback is extremely valuable to us and we hope you can drop by to share your ideas and thoughts on what Myra Makes should do next!"
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-300x134.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-300x134.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1.png
 website: https://MyraMakes.com
 email: contact@myramakes.com
 twitter: https://twitter.com/myramakes
@@ -66,7 +66,7 @@ combat-robot: 0
 maker:
   name: "Myra Makes"
   description: "Myra Makes is a creative education startup which publishes books and games that help kids develop creative, problem-solving, and emotional skills. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
 last-modified-db: "2019-10-26 13:04:35"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

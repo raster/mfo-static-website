@@ -7,12 +7,12 @@ url:
 description: "Educator Bringing Combat Robotics to the classroom"
 description-long: "I will be showing several combat robots including a \"Dollar Tree\" Foam board robot that is being tested for use in the classroom."
 location: Combat Robots - Large Arena (Spirit), Combat Robots - Small Arena (Spirit)
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-1024x880.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-1024x880.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-300x258.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-1024x880.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-300x258.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-1024x880.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl.jpg
 website: 
 email: 
 twitter: https://twitter.com/SciNanceTweet
@@ -27,7 +27,7 @@ combat-robot: 1
 maker:
   name: "Bad Owl Robotics"
   description: "I am an educator at Florida Atlantic University's A.D. Henderson School working to bring low-cost combat robotics to the 6-12 grade levels in public school.  My daughters are makers and will be campaigning their own robot. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
 last-modified-db: "2019-11-06 18:11:41"
-last-exported: "2020-08-07 07:54:55"
+last-exported: "2020-10-07 18:46:58"
 ---

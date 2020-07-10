@@ -7,12 +7,12 @@ url: http://www.glassygeek.com
 description: "Stained glass demonstration"
 description-long: "Demonstration of how to make a stained glass panel and/or sun catchers in the copper foil method, including cutting, grinding, foiling and soldering the glass."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished-288x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished-288x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/HarleyQuinnPanel-Finished.jpg
 website: http://www.glassygeek.com
 email: 
 twitter: https://twitter.com/theglassygeek
@@ -33,7 +33,7 @@ combat-robot: 0
 maker:
   name: "The Glassy Geek"
   description: "I'm a stained glass and fused glass artist, focusing primarily on geek culture.  My work can be found online or at sci-fi and comic cons in the southeast.  I work in both copper foil and lead came methods of stained glass construction, and often incorporate fused glass elements or painted elements fired in the kiln."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/GlassyGeekSquareLogo.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/GlassyGeekSquareLogo.jpg
 last-modified-db: "2019-10-26 13:49:59"
-last-exported: "2020-08-07 07:55:00"
+last-exported: "2020-10-07 18:47:02"
 ---

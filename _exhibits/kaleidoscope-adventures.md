@@ -9,12 +9,12 @@ description: "As a leader in the student travel industry for 25+ years, Kaleidos
 We'll work with you to plan an exceptional travel experience and provide impeccable customer service from start to finish"
 description-long: "Kaleidoscope is a full-service student tour operator with more than 25+ years of inspiring student travel and a former educator as CEO. We specialize in surprisingly unique educational, performance, sports, senior class trip, festival and cruise travel to more than 40+ student-friendly destinations. We make student safety a priority with a clearly communicated safety plan and trusted partners. Kaleidoscope Adventures is an active member of the Student &amp; Youth Association and licensed, bonded and insured."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1-300x87.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1-300x87.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo-1.jpg
 website: http://mykatrip.com
 email: info@mykatrip.com
 twitter: 
@@ -38,7 +38,7 @@ combat-robot: 0
 maker:
   name: "Kaleidoscope Adventures"
   description: "Kaleidoscope is a full-service student tour operator with more than 25+ years of inspiring student travel and a former educator as CEO. We specialize in surprisingly unique educational, performance, sports, senior class trip, festival and cruise travel to more than 40+ student-friendly destinations. We make student safety a priority with a clearly communicated safety plan and trusted partners. Kaleidoscope Adventures is an active member of the Student & Youth Association and licensed, bonded and insured."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo.jpg
 last-modified-db: "2019-10-26 13:55:09"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

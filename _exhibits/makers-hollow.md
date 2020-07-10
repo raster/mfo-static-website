@@ -7,12 +7,12 @@ url: http://www.makershollow.com
 description: "An exhibition of the artistic works and whimsical creations by the founders and artists of Makers Hollow."
 description-long: "Makers Hollow is a makerspace for professional artists and makers.  We will be exhibiting artwork created by the founders Stefan Price and Erin Kelly and some of our artists.  Some of our brands created are Roundtable Productions LLC, Mechanical Oddities, Magical Oddities, Wren Sketches, and Tinker Loop."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-1024x576.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-1024x576.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-300x169.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-1024x576.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-300x169.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32-1024x576.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-07-12.54.32.jpg
 website: http://www.makershollow.com
 email: roundtableproductionsllc@gmail.com
 twitter: 
@@ -111,7 +111,7 @@ combat-robot: 0
 maker:
   name: "Roundtable Productions, LLC"
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-05 15:05:16"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

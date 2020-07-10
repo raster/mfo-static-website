@@ -9,12 +9,12 @@ description-long: "<p>Swing by our booth to program and race Dash robots through
 
 Unlock a wealth of classes and experiences with your Orange County Library card.Learn about our technology and fiber arts programs, including digital media and web design, coding and robotics, as well as sewing, knitting and crochet."
 location: Curiosity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-1024x683.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-1024x683.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-300x200.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-1024x683.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-300x200.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-1024x683.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots.jpg
 website: https://www.ocls.info/
 email: 
 twitter: https://twitter.com/oclslibrary
@@ -101,7 +101,7 @@ combat-robot: 0
 maker:
   name: "Orange County Library System"
   description: "The Orange County Library System brings value to the residents of the district through collections, staff, services and facilities. The Library connects our changing community to the evolving world of ideas, information and technology. Through continuous innovation, the Orange County Library System will create a well informed, well connected community, making Orange County a great place to live, learn, work, and play."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Square_Logo.gif
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Square_Logo.gif
 last-modified-db: "2019-10-26 14:33:27"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

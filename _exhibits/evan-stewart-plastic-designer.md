@@ -7,12 +7,12 @@ url:
 description: "Plastic and electronic products are made for high production. Samples.Electronic and plastic...talk about 3d metal modeling.and metal molds"
 description-long: "Software development tools to developers  for ready high speed manufacturing. Altium software.Circuitmaker.Free cad 3d modeling.samples of work."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-1024x768.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-1024x768.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-1024x768.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-300x225.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-1024x768.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925.jpg
 website: 
 email: Sbonich@firetronics.com
 twitter: 
@@ -50,5 +50,5 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-11 21:05:46"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:59"
 ---

@@ -7,12 +7,12 @@ url:
 description: "Learn basic pop up techniques to create your own card. Decorate it for any occasions."
 description-long: "Create your own pop up cards and decorate it for any occasions: birthdays, thank you, get well soon, etc. Learn basic pop up techniques that inspired Lollie Pop Up to make a variety of pop up cards, explosion boxes, and other paper crafts for friends."
 location: Curiosity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2-300x238.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2-300x238.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
 website: 
 email: lolliepopup@gmail.com
 twitter: 
@@ -33,7 +33,7 @@ combat-robot: 0
 maker:
   name: "Lollie Pop Up"
   description: "Lollie Pop Up learned basic pop up techniques through books and video tutorial. Various techniques were utilized to make holiday, birthday, get well, retirement, and thank you cards more fun. Please visit @lolliepopup on Instagram to see examples of pop up cards, explosion boxes, and other paper crafts that were created for friends. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8746-1024x1024.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8746-1024x1024.jpg
 last-modified-db: "2019-10-26 14:29:35"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

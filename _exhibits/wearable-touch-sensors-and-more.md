@@ -9,12 +9,12 @@ description-long: "Sparky the crocheted cat has a new sweater vest, which will h
 
 The exhibit will feature people spinning yarn, demonstrating weaving on different types of looms, and a free take-away (or do it now) weaving activity."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-117x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-117x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
 website: http://postmodernfiberfun.com
 email: 
 twitter: 
@@ -40,5 +40,5 @@ maker:
   description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
   image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-08-07 07:55:00"
+last-exported: "2020-10-07 18:47:02"
 ---

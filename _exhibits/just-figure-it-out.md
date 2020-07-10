@@ -7,12 +7,12 @@ url:
 description: "Entry for Ppwerwheels Racing Series"
 description-long: "This vehicle is a converted gas ATV. Robert and Ryan have 'learned while doing' for this project. Through determination and luck, this vehicle has made it as a competitor in this year's race"
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-150x150.jpeg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-300x225.jpeg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1.jpeg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-150x150.jpeg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-300x225.jpeg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1.jpeg
 website: 
 email: 
 twitter: 
@@ -42,7 +42,7 @@ combat-robot: 0
 maker:
   name: "Robert  Davidson &amp; Ryan Harrigan"
   description: "Two digital guys banding together for an electric vehicle"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1024x768.jpeg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1024x768.jpeg
 last-modified-db: "2019-10-27 09:54:43"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

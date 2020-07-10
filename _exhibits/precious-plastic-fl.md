@@ -18,12 +18,12 @@ Essentially it would work like this:
 "
 description-long: "https://spark.adobe.com/page/eTgQlqFLRVF1n/"
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-300x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-300x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
 website: https://www.PreciousPlasticLA.com
 email: preciousplasticfl@gmail.com
 twitter: 
@@ -38,7 +38,7 @@ combat-robot: 0
 maker:
   name: "PreciousPlastic.com"
   description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

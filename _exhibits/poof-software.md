@@ -9,12 +9,12 @@ description-long: "Learn now to use magic to create awesome software!
 
 *TESTING*   *AGAIN*"
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-300x288.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-300x288.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2.jpg
 website: http://www.poofsoftware.com
 email: info@poofsoftware.com
 twitter: 
@@ -29,7 +29,7 @@ combat-robot: 0
 maker:
   name: "TEST Driscoll MFO1"
   description: "adafadsfdasfadf"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
 last-modified-db: "2019-10-31 20:34:36"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

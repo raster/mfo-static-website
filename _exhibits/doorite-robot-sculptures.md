@@ -7,12 +7,12 @@ url: https://www.dooritebots.com/
 description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
 description-long: "My exhibit will show that I give new life to discarded or forgotten objects. My sculptures average two-feet in height and have a humanoid likeness or that of a robot.  The exhibit will display my creations and visitors will be able to identify many household items found in my sculptures."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-768x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-768x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-768x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-768x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040.jpg
 website: https://www.dooritebots.com/
 email: douglas@dooritebots.com
 twitter: https://twitter.com/DooRiteRobotics
@@ -27,7 +27,7 @@ combat-robot: 0
 maker:
   name: "DooRite Robot Sculptures"
   description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0018-1-768x1024.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0018-1-768x1024.jpg
 last-modified-db: "2019-10-26 12:47:24"
-last-exported: "2020-08-07 07:54:56"
+last-exported: "2020-10-07 18:46:58"
 ---

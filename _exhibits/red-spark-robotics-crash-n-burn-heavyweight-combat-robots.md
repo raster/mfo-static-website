@@ -8,12 +8,12 @@ description: "Canadian heavyweight multibot \"Crash n' Burn\" are making the tri
 description-long: "Crash n' Burn took on Megabyte, Touro Maximus, and Last Rites at RoboGames.
 How will they fare against actual Battlebots?"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-1024x576.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-1024x576.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-300x169.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-1024x576.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-300x169.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-1024x576.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail.png
 website: https://www.redsparkrobotics.ca
 email: 
 twitter: https://twitter.com/FingerTech_Bots/
@@ -28,7 +28,7 @@ combat-robot: 1
 maker:
   name: "Red Spark Robotics"
   description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
 last-modified-db: "2019-11-06 18:09:15"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

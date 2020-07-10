@@ -12,12 +12,12 @@ description-long: "Mammoth is a 250lb Combat Robot featured on Discovery Channel
 We're thankful to be proudly sponsored by the following companies:
 ● Stanley Black &amp; Decker ● Newark Electronics ● Harbor Designs ● Max Amps Batteries ● HobbyWing ● Sticker Mule ● NPC Robotics ●"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-254x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-254x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2.jpg
 website: https://battlebots.com/robot/mammoth-2019/
 email: mammothbattlebot@gmail.com
 twitter: https://twitter.com/mammothrobot?lang=en
@@ -47,7 +47,7 @@ combat-robot: 1
 maker:
   name: "Ricky Willems"
   description:
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

@@ -7,12 +7,12 @@ url: http://www.vakits.com
 description: "We have electronic kits and supplies. "
 description-long: "We design and make our own kits. From fun kits to educational kits to industrial kits. We are a family business located in Ocala, FL."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-1024x548.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-1024x548.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-300x161.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-1024x548.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-300x161.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-1024x548.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725.jpg
 website: http://www.vakits.com
 email: vakits@yahoo.com
 twitter: 
@@ -50,5 +50,5 @@ maker:
   description: "We make electronic hobby kits including Arduino fun kits."
   image-primary: 
 last-modified-db: "2019-10-26 13:37:42"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:01"
 ---

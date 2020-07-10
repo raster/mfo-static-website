@@ -18,12 +18,12 @@ FIRST Tech Challenge Robotics team. Renaissance Robotics is a group of middle an
 
 Are you a Jouster? or a Jester? Come see us and test your skill with Renaissance Robotics' new Joust-Bots!"
 location: Curiosity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1-300x224.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1-300x224.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
 website: http://WWW.team5937.com
 email: info@team5937.com
 twitter: https://twitter.com/Team5937
@@ -55,7 +55,7 @@ Renaissance Robotics is a group of middle and high school kids who participate i
 
 Renaissance Robotics has participated in numerous demos and often brings additional robots, projects and random geek toys with them. RCX, NXT, EV3, Arduino, Sphero, Ollie, LittleBits, etc.
 "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
 last-modified-db: "2019-11-05 09:09:36"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

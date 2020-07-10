@@ -15,12 +15,12 @@ Pepakura Designer allows you to scale and print larger 3d models for things such
 
 I'd show off some of the cosplay armor/projects I've made in the last year or two as well."
 location: Opportunity Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
 website: http://outlawgarage.org
 email: ryan.evans@gmail.com
 twitter: https://twitter.com/rjevans
@@ -44,7 +44,7 @@ combat-robot: 0
 maker:
   name: "Pepakura Papercraft"
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---

@@ -9,12 +9,12 @@ description-long: "We love to teach others about our passion, GLASS!! There are 
 We love to teach structured classes at the Oviedo Mall and also offer private instruction to meet your requirements/schedule.
 Come take a look at some of our pieces. Maybe you will get inspired to try glass for yourself."
 location: Spirit Building
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-1024x768.jpg
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-1024x768.jpg
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-150x150.jpg
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-300x225.jpg
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-1024x768.jpg
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252.jpg
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-150x150.jpg
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-300x225.jpg
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252-1024x768.jpg
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_1252.jpg
 website: 
 email: jlafata1@cfl.rr.com
 twitter: 
@@ -29,7 +29,7 @@ combat-robot: 0
 maker:
   name: "Kiss My Glass"
   description: "We are a group of glass crafters who enjoy working together on projects in our studio. Stained glass, fused glass and mosaics are some of the basic techniques employed and we continue to expand our knowledge about the craft and enjoy sharing this with those interested in trying a new craft.  We believe in upcycling window and bottle glass that would end up in landfills, into beautiful art that can be used in everyday life."
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_1394.jpg
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_1394.jpg
 last-modified-db: "2019-10-27 16:46:46"
-last-exported: "2020-08-07 07:54:58"
+last-exported: "2020-10-07 18:47:00"
 ---

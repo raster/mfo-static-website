@@ -7,12 +7,12 @@ url:
 description: "Power wheels racing series."
 description-long: "Custom built electric race cart."
 location: Unassigned
-image: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-1024x791.png
+image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-1024x791.png
 image-primary:
-  thumbnail: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-150x150.png
-  medium: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-300x232.png
-  large: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-1024x791.png
-  full: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3.png
+  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-150x150.png
+  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-300x232.png
+  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-1024x791.png
+  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3.png
 website: 
 email: JUANJOSEBERNAL@GMAIL.COM
 twitter: 
@@ -27,7 +27,7 @@ combat-robot: 0
 maker:
   name: "Erika Bernal, Johnny Bernal, Atlas Bernal, Jake Bernal, and Archie Bernal."
   description: "These are the rest of my children that will help support the race team, Taco Bug, and the exhibit. "
-  image-primary: http://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-2-1024x791.png
+  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-2-1024x791.png
 last-modified-db: "2019-10-30 14:31:04"
-last-exported: "2020-08-07 07:54:59"
+last-exported: "2020-10-07 18:47:01"
 ---
