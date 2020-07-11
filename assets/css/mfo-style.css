@@ -120,7 +120,7 @@ a.btn-b-ghost {
 
 
 /* STUFF FOR ISOTOPE - NEEDS TO BE CLEANED UP */
-.item {
+.exhibits-container .item {
   /*width: 25%;*/
   /*border: 1px solid darkgray;*/
   background: white;
