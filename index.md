@@ -40,14 +40,17 @@ carousel-slides:
         </div>
         </div>
         <div class="row">
-        <div class="col-md-10 col-md-offset-1">
+        <div class="col-md-6 col-md-offset-3">
         <p class="text-center">2020 has been a year of unprecedented challenges that have affected all facets of life including events and gatherings.
         The Maker Faire Orlando team continues to monitor local and state guidelines while planning for an event in late 2020. We've shifted the event into December in order to have even better outdoor temperatures, and we are exploring new ways to use the outdoor spaces at the Central Florida Fairgrounds. </p>
+        <BR><br>
         <p class="text-center">Stay tuned to the Maker Faire Orlando social channels and to our email newsletter for news and updates as the year unfolds.</p>
       </div>
     </div>
   </div>
 </section>
 
+<div style="margin-bottom:40px"></div>
+---
 
 {% include sponsors-carousel.html %}
