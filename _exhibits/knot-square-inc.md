@@ -44,5 +44,6 @@ maker:
   description: "Knot Square , Inc. In our WoodSmith shop we  re-purposes items that would goto landfills, be burned or otherwise wasted. We use wood crafting skills to make furniture, serving trays, bowls, candle holders, pilons, boxes, wine racks, etc. We also use the skills of the BlackSmith Shop to produce hangers, knives, scrapers, rain chains and other useful items."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/20160201_182232-2-683x1024.jpg
 last-modified-db: "2019-10-26 13:47:47"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

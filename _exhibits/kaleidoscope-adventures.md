@@ -40,5 +40,6 @@ maker:
   description: "Kaleidoscope is a full-service student tour operator with more than 25+ years of inspiring student travel and a former educator as CEO. We specialize in surprisingly unique educational, performance, sports, senior class trip, festival and cruise travel to more than 40+ student-friendly destinations. We make student safety a priority with a clearly communicated safety plan and trusted partners. Kaleidoscope Adventures is an active member of the Student & Youth Association and licensed, bonded and insured."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/KA-Logo.jpg
 last-modified-db: "2019-10-26 13:55:09"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

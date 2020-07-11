@@ -40,5 +40,6 @@ maker:
   description: "Steve has always wanted to be an inventor (since he was 5 years old!), and grew up constantly taking things apart and (sometimes) successfully putting them back together. After graduating with a degree in mechanical engineering, his basement became a bit of a mad science lab as he built a 3D printer, then brought in a laser cutter (exhausting through the dryer vent!). He began using them to create all sorts of crazy things, and in 2015 launched the ModCube via Kickstarter to an extremely positive reception - ending up producing tens of thousands of ModCubes, and hundreds of thousands of tokens! Now, after several years secretly beavering away on design and prototyping in \"the lab\", he is ready to show the world the new ModCube 2.0!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/SteveGarberMakerProfilePic3-1.png
 last-modified-db: "2019-10-26 12:34:58"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

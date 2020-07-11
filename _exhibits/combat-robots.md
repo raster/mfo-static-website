@@ -38,5 +38,6 @@ maker:
   description: "builder of combat robots for Battlebots "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
 last-modified-db: "2019-11-06 18:05:13"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

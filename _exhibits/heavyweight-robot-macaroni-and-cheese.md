@@ -47,5 +47,6 @@ I was the designer of a 250lb heavyweight \"Bellator\" for the 2019 Battlebots t
 When I am not building combat robots, I also enjoy other high-powered radio controlled vehicles, including a 10ft 50lb cargo aircraft which debuted (and crashed spectacularly) at FliteFest South in 2018"
   image-primary: 
 last-modified-db: "2019-11-06 17:44:12"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

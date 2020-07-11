@@ -47,5 +47,6 @@ maker:
   description: "Handmade steel and titanium chainmaille mixed with antique keys, clock parts, construction nails, and recycled stuff."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/store-logojpg-1024x1024.jpg
 last-modified-db: "2019-11-07 20:39:27"
-last-exported: "2020-10-07 18:47:02"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

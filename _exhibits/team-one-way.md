@@ -35,5 +35,6 @@ maker:
   description: "Team one way is from manatee infested Crystal River FL."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/IMG_20160905_203635804-4-1024x576.jpg
 last-modified-db: "2019-11-06 17:46:01"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

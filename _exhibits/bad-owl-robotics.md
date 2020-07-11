@@ -29,5 +29,6 @@ maker:
   description: "I am an educator at Florida Atlantic University's A.D. Henderson School working to bring low-cost combat robotics to the 6-12 grade levels in public school.  My daughters are makers and will be campaigning their own robot. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
 last-modified-db: "2019-11-06 18:11:41"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

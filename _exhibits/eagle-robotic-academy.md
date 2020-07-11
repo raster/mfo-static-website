@@ -38,5 +38,6 @@ maker:
   description: "Eagle Robotic Academy is a robotics school in Orlando, FL."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px.jpg
 last-modified-db: "2019-09-02 21:12:52"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

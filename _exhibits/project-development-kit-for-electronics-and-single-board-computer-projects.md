@@ -74,5 +74,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

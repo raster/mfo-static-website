@@ -29,5 +29,6 @@ maker:
   description: "Huge fan of Battlebots fighting his brand new SkyLift robot in the Antweight division.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/ColinPic.jpg
 last-modified-db: "2019-11-06 18:07:33"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

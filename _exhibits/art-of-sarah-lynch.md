@@ -35,5 +35,6 @@ maker:
   description: "Multi-media Artist"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2o18-1024x1024.png
 last-modified-db: "2019-11-01 14:21:14"
-last-exported: "2020-10-07 18:46:57"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

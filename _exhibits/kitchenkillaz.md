@@ -36,5 +36,6 @@ maker:
   description: "KitchenKillaz is a touring acoustic duo crashing kitchens around the country.  Comprised of Billy Floyd, Jay \"the Commodore\" Stephens and The Mad Scientist, Dennis Cutter. The KitchenKillaz is an entertaining blend of Music, Culinary Arts, Community, and Interaction. Their show is a unique concept as they crash (play) a different kitchen every Friday night, in an audience member's home while streaming it live on Facebook at 9:05 pm. During the show, they play a mixture of creative and catchy originals and well-known covers, treating their audience to a very cool experience. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/69852198_654299981733213_3529869518471954432_o.jpg
 last-modified-db: "2019-11-07 19:28:06"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

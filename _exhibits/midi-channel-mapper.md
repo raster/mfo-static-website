@@ -47,5 +47,6 @@ maker:
   description: "The MIDI-chlorians are a collective of performing musicians and engineers. We make solutions to musical problems using common tools like Arduinos and Rapsberry Pis and share them with the maker community."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-1024x678.png
 last-modified-db: "2019-10-26 12:49:22"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

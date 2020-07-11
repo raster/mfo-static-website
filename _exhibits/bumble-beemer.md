@@ -29,5 +29,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/17835014_1109992515812267_9157395315728724930_o-1024x1024.png
 last-modified-db: "2019-09-08 11:29:53"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

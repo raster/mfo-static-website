@@ -29,5 +29,6 @@ maker:
   description: "A trio of three engineers looking to make robotic history"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/lumberjacks.jpg
 last-modified-db: "2019-11-06 16:55:34"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

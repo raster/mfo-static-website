@@ -32,5 +32,6 @@ maker:
   description: "Competing with a 3HP 30lb Hammer/Lifter in the 30lb sportsman class, and hoping to bring our 250lb Battlebot flipper SubZero"
   image-primary: 
 last-modified-db: "2019-11-06 17:16:43"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

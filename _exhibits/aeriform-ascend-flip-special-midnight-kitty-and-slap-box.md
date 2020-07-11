@@ -43,5 +43,6 @@ maker:
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-10-07 18:46:57"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

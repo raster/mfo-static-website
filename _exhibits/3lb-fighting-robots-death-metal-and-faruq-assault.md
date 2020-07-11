@@ -29,5 +29,6 @@ maker:
   description: "Builder of fighting robots large and small"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
 last-modified-db: "2019-11-06 17:31:24"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

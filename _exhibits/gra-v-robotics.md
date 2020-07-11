@@ -53,5 +53,6 @@ maker:
   description: "We are a FIRST Robotics family of teams that are based in Central Florida.  Our teams, we are open to students in grade K-12 from around Orlando who would like to participate in robotics.  Joins us and have fun #morethanrobots #5816pitcrew #gravtrain"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/GRA-V-Standard-791x1024.png
 last-modified-db: "2019-10-26 14:41:24"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

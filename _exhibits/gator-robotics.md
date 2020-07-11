@@ -29,5 +29,6 @@ maker:
   description: "Robotics club that builds combat robots."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n.jpg
 last-modified-db: "2019-10-13 10:52:26"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

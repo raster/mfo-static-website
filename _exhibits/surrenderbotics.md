@@ -29,5 +29,6 @@ maker:
   description: "I make silly robots like Surrenderbot and Free hugs "
   image-primary: 
 last-modified-db: "2019-11-06 18:06:46"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

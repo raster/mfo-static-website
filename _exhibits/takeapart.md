@@ -40,5 +40,6 @@ maker:
 With four floors of interactive exhibit halls, labs and workshops, theaters, an observatory, and experiences that change with the seasons, there is always something exciting for our 670,000 annual visitors to see and do at Orlando Science Center. We also reach 153,000 students and educators each year through our STEM Discovery Center educational programs, both onsite at the Science Center and offsite at schools and community organizations.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/OSC_HorizontalLogo_Purple-1024x469.png
 last-modified-db: "2019-11-02 11:15:05"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

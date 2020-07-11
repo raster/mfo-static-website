@@ -35,5 +35,6 @@ maker:
   description: "We make interactive games and experiences."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/sean-avatar.png
 last-modified-db: "2019-10-26 13:05:32"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

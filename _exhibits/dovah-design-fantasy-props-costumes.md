@@ -41,5 +41,6 @@ maker:
   description: "I am a prop and costume artist based in sunny Central Florida, USA. Cosplaying and prop making have been my hobbies since 2014, when I was inspired to start by famous prop artists and my favorite video game, Skyrim. There is something incredibly satisfying about bringing fantasy props and costumes into the real world, especially a badass weapon or set of armor."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019-Dovah-Logo_Color-Black-Text.png
 last-modified-db: "2019-11-07 10:30:44"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

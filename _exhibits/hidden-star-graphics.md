@@ -43,5 +43,6 @@ maker:
 While our adventurous VooDoo is off exploring and making new friends we also create the webcomic series HopeFalls and Shadows in the Light. "
   image-primary: 
 last-modified-db: "2019-10-27 17:13:35"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

@@ -29,5 +29,6 @@ maker:
   description: "A combat robotics team from California is ready to see what the East Coast is all about."
   image-primary: 
 last-modified-db: "2019-11-06 17:29:17"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

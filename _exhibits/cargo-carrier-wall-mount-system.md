@@ -36,5 +36,6 @@ maker:
   description: "The inventor, John Higgins, lives in Blythewood, South Carolina and had an idea for a better way to store your cargo carried system. David co-inventor brother of John. David lives in Port St. Lucie, FL. John has a utility patent application filed and had the invention designed properly so that he may see success with this great idea and turn it into a real product. He is actively seeking a company that would have an interest in licensing the product for a royalty."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Banner-2-1024x576.png
 last-modified-db: "2019-10-22 15:30:41"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

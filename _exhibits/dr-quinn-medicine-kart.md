@@ -43,5 +43,6 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:25"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

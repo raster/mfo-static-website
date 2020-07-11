@@ -35,5 +35,6 @@ maker:
   description: "I’m a first generation Puerto Rican story artist and designer with a fierce passion for storytelling. I communicate story and message following the work and style of Steve Ahn (Nickelodeon Studios, Cartoon Network, Dreamworks) and Phil Craven (Dreamworks). With a passion and skill for storytelling, I combined the visual and traditional techniques in media. Writing was never enough, so I learned the art of visual storytelling so I could truly connect and engage with my audience"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/businesscard1.jpg
 last-modified-db: "2019-11-05 14:51:42"
-last-exported: "2020-10-07 18:46:57"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

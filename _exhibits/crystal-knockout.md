@@ -38,5 +38,6 @@ maker:
   description: "Born-and-raised in Orlando and a graduate of the University of Central Florida, Candace began running her own small business in 2013. Originally intended as an avenue where she could sell her crystallized phone case designs, it has expanded over the years and now includes event decor, home items, and the reduced-chemical nail polish line, Crystal Knockout. Candace is married to a fellow Orlando native, has two furry Chihuahua children, and loves music, nature, gaming, and Florida Gators football. She is also currently serving as the president of a local nonprofit, Helping Handmade, Inc., which organizes events featuring handmade artisans to raise funds for local charities (see www.orlandohelpinghandmade.org for more)."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Mar-11-11-03-17-AM2-1.jpg
 last-modified-db: "2019-10-27 17:21:41"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

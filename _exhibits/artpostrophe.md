@@ -29,5 +29,6 @@ maker:
   description: "Amy is an artist and visual storyteller. Working in both traditional and digital media, she enjoys creating art that immerses people in new worlds and make them smile. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/0ABEC6E9-8DC3-4D49-B53A-49890D4D45B7-1024x1024.png
 last-modified-db: "2019-10-18 18:07:43"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

@@ -40,5 +40,6 @@ OMC is a grass roots organization working to show that everyone is a math person
 https://youtu.be/fNHfZhvpa2E"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/CBBB47BB-69C0-4360-A270-881E2DC8FD60.png
 last-modified-db: "2019-11-08 09:02:45"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

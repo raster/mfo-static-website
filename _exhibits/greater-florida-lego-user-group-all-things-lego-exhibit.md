@@ -31,5 +31,6 @@ maker:
 The primary goal of the group is camaraderie that is achieved by providing members the opportunity to meet other adults who share a common fascination with the LEGO® hobby through correspondence, meetings and events. We are a family oriented group with member's spouses and children helping at select events and enjoying the fruits of our building labor."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/04/GFLUG-1024x787.jpg
 last-modified-db: "2019-10-26 13:06:34"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

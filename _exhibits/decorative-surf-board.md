@@ -37,5 +37,6 @@ maker:
 I have been making art for last 8 year and got a chance to experiment many art mediums. I would like get my hands on encaustic art sometime soon in the future. "
   image-primary: 
 last-modified-db: "2019-10-27 17:17:22"
-last-exported: "2020-10-07 18:46:57"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

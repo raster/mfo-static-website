@@ -32,5 +32,6 @@ maker:
 15 year old Sarah Mae Hubbard designs artwork and video games in her particular chibi style."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CS_Redesign_-_Copy1.jpg
 last-modified-db: "2019-10-27 16:45:59"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

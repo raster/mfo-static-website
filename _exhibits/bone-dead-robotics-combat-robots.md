@@ -59,5 +59,6 @@ maker:
   description: "We are a combat robotics team who builds and competes fighting robots. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

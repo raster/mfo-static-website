@@ -51,5 +51,6 @@ maker:
   description: "Join @Stachelightning as he shows off his robots, costumes, set pieces, fun products and then some."
   image-primary: 
 last-modified-db: "2019-10-27 16:29:10"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

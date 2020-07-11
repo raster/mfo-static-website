@@ -92,5 +92,6 @@ maker:
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-10-07 18:47:00"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

@@ -61,5 +61,6 @@ maker:
   description: "DeltaMaker began designing and manufacturing 3D printers in 2012.  DeltaMaker 3D Printers are the premier 3D Printers for education. Each printer is designed, manufactured and tested in Orlando, Florida. DeltaMaker 3D Printers can be found in classrooms and businesses across the country and around the globe."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/deltamaker-logo-3d-printers-931x1024.png
 last-modified-db: "2019-11-01 14:20:29"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

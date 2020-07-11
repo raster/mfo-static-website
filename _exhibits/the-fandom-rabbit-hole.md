@@ -52,5 +52,6 @@ maker:
   description: "Fandom inspired jewelry and art. Handmade jewelry and glass paintings inspired by the love of our favorite stories. Using art to express creativity every day. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/interweb.png
 last-modified-db: "2019-09-09 22:00:30"
-last-exported: "2020-10-07 18:47:02"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

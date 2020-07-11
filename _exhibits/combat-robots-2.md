@@ -29,5 +29,6 @@ maker:
   description: "Team of combat robots"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Color-dog.jpg
 last-modified-db: "2019-11-06 16:24:31"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

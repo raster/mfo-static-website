@@ -38,5 +38,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
 last-modified-db: "2019-10-02 20:55:10"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

@@ -47,5 +47,6 @@ maker:
   description: "Charles Wade is a designer, maker and the founder of RoboMustache. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/20150612_112453-SQUARE-1024x1024.jpg
 last-modified-db: "2019-10-26 13:03:27"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

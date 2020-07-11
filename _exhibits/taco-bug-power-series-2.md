@@ -29,5 +29,6 @@ maker:
   description: "These are the rest of my children that will help support the race team, Taco Bug, and the exhibit. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-2-1024x791.png
 last-modified-db: "2019-10-30 14:31:04"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

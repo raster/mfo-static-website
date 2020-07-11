@@ -43,5 +43,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/C44-Pac-Man-Set-12-1024x683.jpg
 last-modified-db: "2019-10-26 14:28:34"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

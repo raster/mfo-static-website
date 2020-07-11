@@ -29,5 +29,6 @@ maker:
   description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0018-1-768x1024.jpg
 last-modified-db: "2019-10-26 12:47:24"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

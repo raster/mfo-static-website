@@ -29,5 +29,6 @@ maker:
   description: "Two engineers that like to make things as much as calculate things"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
 last-modified-db: "2019-10-13 10:45:01"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

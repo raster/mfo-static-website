@@ -47,5 +47,6 @@ capturing images with her unique style. Her works have been published in numerou
 magazines and newspapers. Recently, Laura's art has evolved into blending her photography with cool objects creating unique 4-D mixed media art designed to fascinate and encourage the viewers to appreciate functional art."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lm-photo.png
 last-modified-db: "2019-10-27 17:18:55"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

@@ -44,5 +44,6 @@ maker:
   description: "Makes and sells jewelry and terrariums out of roadkill animal bones and leather"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190927_162009_929-1.jpg
 last-modified-db: "2019-10-21 14:54:14"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

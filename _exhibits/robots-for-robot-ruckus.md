@@ -29,5 +29,6 @@ maker:
   description: "We will be bringing 6 combat robots, commonly known as battlebots. We will be fighting them at the battle at maker faire competition hosted at this very event! This event is really special to us because it was our first ever. We will be bringing 6 robots ranging from 150g all the way to 15lbs! Look out for us all of our robots have a hint of green!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/FB_IMG_1472465811728.jpg
 last-modified-db: "2019-11-06 17:02:05"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

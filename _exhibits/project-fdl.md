@@ -61,5 +61,6 @@ maker:
   description: "Dynamic tag team duo of Jesse and Jackie Kovarovics. Project FDL is dedicated to creating innovative 3D printed foam dart launchers. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/1836F140-8FFB-4FAA-990C-8A6F0C89ECBE.png
 last-modified-db: "2019-10-30 13:09:44"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

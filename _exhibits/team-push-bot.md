@@ -29,5 +29,6 @@ maker:
   description: "Young builder of combat robots and drones. "
   image-primary: 
 last-modified-db: "2019-11-06 18:00:50"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

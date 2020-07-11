@@ -30,5 +30,6 @@ maker:
   description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
 last-modified-db: "2019-11-06 18:09:15"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

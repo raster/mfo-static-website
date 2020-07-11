@@ -38,5 +38,6 @@ maker:
   description: "Alan O is the founder/creative director of AEO Studios, Inc.  AEO is a Theatrical Makeup/Special FX/Prop & Production Company located in Orlando for 23+years.  With a retail showroom & production center in E Orlando, AEO fabricates all types of custom props/set pieces/costume accessories and more using a wide range of molding materials and methods."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/logo-small-digital.jpg
 last-modified-db: "2019-10-27 16:32:19"
-last-exported: "2020-10-07 18:46:57"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

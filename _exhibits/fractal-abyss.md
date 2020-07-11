@@ -58,5 +58,6 @@ beautiful and deeply emotional artistic expressions.  He has practiced fractal a
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

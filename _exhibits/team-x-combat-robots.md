@@ -29,5 +29,6 @@ maker:
   description: "Combat robot builders."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2DBBE9DE-D5FA-46BA-AE4F-CAC10D5EEFA4.jpeg
 last-modified-db: "2019-11-06 17:01:29"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

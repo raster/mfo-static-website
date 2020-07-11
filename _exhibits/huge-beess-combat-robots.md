@@ -40,5 +40,6 @@ maker:
 www.facebook.com/BattlebotsHUGE"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1024x835.jpg
 last-modified-db: "2019-11-06 16:56:46"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

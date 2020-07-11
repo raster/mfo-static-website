@@ -32,5 +32,6 @@ maker:
   description: "Laser and electronics are my passion. Since working in a planetarium in the mid 1990's I've enjoyed creating art with laser light!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/10/IMG_3133.jpg
 last-modified-db: "2019-10-19 12:57:11"
-last-exported: "2020-10-07 18:46:57"
+last-exported: "2020-11-07 08:07:21"
+sitemap: false
 ---

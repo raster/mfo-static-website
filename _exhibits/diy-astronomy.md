@@ -47,5 +47,6 @@ maker:
   description: "We are featuring astronomical DIY projects including telescopes, space arts and crafts, astronomical accessories, and more. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DSC_0116-811x1024.jpg
 last-modified-db: "2019-11-04 15:05:06"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

@@ -29,5 +29,6 @@ maker:
   description: "A group of combat robot builders from New England."
   image-primary: 
 last-modified-db: "2019-11-06 18:13:55"
-last-exported: "2020-10-07 18:47:02"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

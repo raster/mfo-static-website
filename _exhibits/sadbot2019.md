@@ -32,5 +32,6 @@ maker:
   description: "Charles thinks robots are horrible but builds them anyways. MIT Mechanical Engineering, design instructor, BattleBots contestant, fine 80s van connoisseur, and co-founder of a drone company."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/m6ysUikjWfNM3xcqgZsF6XpX9LRs6HUI_edited.png
 last-modified-db: "2019-11-06 17:11:14"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

@@ -29,5 +29,6 @@ maker:
   description: "I'm a maker in the Maitland area who loves all things holographic. My hobbies are power racing, 3d printing, and binging Netflix while doing prototyping work for my business P3D Creations. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20150913_200114960-1-539x1024.jpg
 last-modified-db: "2019-08-17 18:45:24"
-last-exported: "2020-10-07 18:46:59"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---

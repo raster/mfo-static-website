@@ -35,5 +35,6 @@ maker:
   description: "One of Florida’s preeminent cultural institutions, the Orange County Regional History Center advances its mission to honor the past, explore the present, and shape the future through permanent and traveling exhibits, wide-ranging programs, and limited-run exhibitions from other prestigious institutions. With deep roots in Orange County, the History Center opened in 2000 and is operated by Orange County and the nonprofit Historical Society of Central Florida, Inc."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OCRHC-Stacked-LogoDowntown-Orlando_CMYK.png
 last-modified-db: "2019-10-29 12:05:57"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:23"
+sitemap: false
 ---

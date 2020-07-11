@@ -29,5 +29,6 @@ maker:
   description: "Lilith has been making combat robots since 2003 after seeing it on Comedy Central's BattleBots. From the one pound Antweights, all the way to the 250 pound Heavyweights, she has made them all! She's entirely self-taught in a slew of mechanical things; She can weld, machine, design, and generally fabricate. Her favorite material is steel and her favorite color is grease."
   image-primary: 
 last-modified-db: "2019-11-05 15:17:08"
-last-exported: "2020-10-07 18:47:01"
+last-exported: "2020-11-07 08:07:24"
+sitemap: false
 ---

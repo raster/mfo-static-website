@@ -42,5 +42,6 @@ maker:
   description: "Creators of handcrafted all natural bath and body products"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/cherrieslogo.png
 last-modified-db: "2019-10-27 17:00:43"
-last-exported: "2020-10-07 18:46:58"
+last-exported: "2020-11-07 08:07:22"
+sitemap: false
 ---
