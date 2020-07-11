@@ -4,41 +4,41 @@ topnav:
   - title: ABOUT
     subfolderitems:
       - page: What is Maker Faire?
-        url: /about
+        url: /about/
       - page: Media
-        url: /media
+        url: /media/
   - title: THINGS TO SEE & DO
     subfolderitems:
       - page: Makers & Exhibits
-        url: /makers
+        url: /makers/
       - page: Event Schedule
-        url: /schedule
+        url: /schedule/
       - page: Hands-On Workshops
-        url: /workshops
+        url: /makers/?category=hands-on-workshops
       - page: Combat Robots
-        url: /combat-robots
+        url: /combat-robots/
       - page: Power Racing
-        url: /power-racing
+        url: /power-racing/
       - page: Nerdy Derby
-        url: /nerdy-derby
+        url: /nerdy-derby/
   - title: GET INVOLVED
     subfolderitems:
       - page: Exhibit at Maker Faire Orlando
-        url: /exhibit-at-maker-faire-orlando
+        url: /exhibit-at-maker-faire-orlando/
       - page: Volunteer
-        url: /volunteer
+        url: /volunteer/
       - page: Become a Sponsor
-        url: /become-a-sponsor
+        url: /become-a-sponsor/
   - title: ATTEND
     subfolderitems:
       - page: Tickets & Info
-        url: /attend
+        url: /attend/
       - page: Homeschool Programs
-        url: /homeschool
+        url: /homeschool/
       - page: School Educators
-        url: /educators
+        url: /educators/
   - title: MAKER LOGIN
-    url: /maker-login
+    url: /maker-login/
 
 footernav:
   - title: Maker Faire Orlando
@@ -50,13 +50,13 @@ footernav:
       - page: Join Our Mailing List
         url: http://eepurl.com/bpCB8T
       - page: About
-        url: /about
+        url: /about/
       - page: Privacy Policy
         url: http://www.themakereffect.org/privacy/
       - page: Maker Login
-        url: /maker-login
+        url: /maker-login/
       - page: Create Maker Account
-        url: /maker-login
+        url: /maker-login/
     socialitems:
       - title: Facebook
         url: https://www.facebook.com/makerfaireorlando/
