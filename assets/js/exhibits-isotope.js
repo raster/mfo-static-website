@@ -124,11 +124,11 @@ jQuery('.filters-select').on( 'change', function() {
   jQuery('.quicksearch').val('');
 
   if (filterValue =="*") {
-	window.history.pushState("object or string", "Title", "/makers");
+	window.history.pushState("object or string", "Title", "/makers/");
 	}
   else {
 //	window.history.pushState("object or string", "Title", "/makers/?category=" + filterValue.substring(1));
-  window.history.pushState("object or string", "Title", "/makers?category=" + filterValue.substring(1));
+  window.history.pushState("object or string", "Title", "/makers/?category=" + filterValue.substring(1));
 	}
 
 //  if ( filterValue.includes("battlebot") || filterValue.includes("combat-robot")) window.location.reload();
