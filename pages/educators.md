@@ -1,7 +1,7 @@
 ---
 title: Educator Programs
 layout: default
-permalink: /educators
+permalink: /educators/
 redirect_from:
   - /educator
   - /educator-programs

@@ -1,7 +1,7 @@
 ---
 title: Homeschool Programs
 layout: default
-permalink: /homeschool
+permalink: /homeschool/
 redirect_from:
   - /home-school
   - /homeschooling

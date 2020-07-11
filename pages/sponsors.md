@@ -1,7 +1,7 @@
 ---
 title: Maker Faire Orlando Sponsors
 layout: default
-permalink: /sponsors
+permalink: /sponsors/
 ---
 <div class="container sponsors-landing">
 

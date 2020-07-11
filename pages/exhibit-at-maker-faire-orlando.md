@@ -1,6 +1,6 @@
 ---
 title: Apply to Exhibit!
-permalink: /exhibit-at-maker-faire-orlando
+permalink: /exhibit-at-maker-faire-orlando/
 layout: default
 redirect_from: /exhibit
 ---

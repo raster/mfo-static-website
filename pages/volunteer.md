@@ -1,8 +1,8 @@
 ---
 title: Volunteer at Maker Faire Orlando!
 layout: default
-permalink: /volunteer
-redirect_from: "/volunteers"
+permalink: /volunteer/
+redirect_from: /volunteers/
 ---
 # Volunteer at Maker Faire Orlando
 

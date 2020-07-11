@@ -1,10 +1,10 @@
 ---
 title: Attend Maker Faire Orlando
-permalink: /attend
+permalink: /attend/
 layout: default
 redirect_from:
-  - /ticket
-  - /tickets
+  - /ticket/
+  - /tickets/
 ---
 
 # Attend Maker Faire Orlando 2019

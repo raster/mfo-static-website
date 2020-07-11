@@ -1,6 +1,6 @@
 ---
 title: Press Kit Redirect to Dropbox
-permalink: /press-kit
+permalink: /press-kit/
 layout: default
 ---
 ### Redirecting to Dropbox...

@@ -1,9 +1,9 @@
 ---
 title: Event Schedule
 layout: default
-permalink: /schedule
-redirect_from: "/eventschedule"
-redirect_from: "/event-schedule"
+permalink: /schedule/
+redirect_from: "/eventschedule/"
+redirect_from: "/event-schedule/"
 ---
 
 # Event Schedule

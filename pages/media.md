@@ -1,6 +1,6 @@
 ---
 title: Maker Faire Orlando Media Coverage
-permalink: /media
+permalink: /media/
 layout: default
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Maker Login
 layout: default
-permalink: /maker-login
+permalink: /maker-login/
 redirect_from:
   - /makerlogin
   - /login

@@ -2,7 +2,8 @@
 layout: full-width
 permalink: /makers/
 isotope: true
-
+redirect-from:
+  - /exhibits/
 ---
 <div class="container">
 <h1>2019 Maker Exhibits</h1>

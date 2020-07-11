@@ -1,7 +1,7 @@
 ---
 title: Combat Robots
 layout: default
-permalink: /combat-robots
+permalink: /combat-robots/
 image: /assets/images/slider/robot-ruckus-perf-metal-1280x800.jpg
 description: Your favorite robots, destroying each other, for your amusement.
 

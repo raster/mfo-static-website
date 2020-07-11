@@ -1,7 +1,7 @@
 ---
 title: Power Racing
 layout: default
-permalink: /power-racing
+permalink: /power-racing/
 image: /assets/images/power-racing-group-shot-2018.jpg
 description: Watch Power Racing LIVE at Maker Faire Orlando!
 
