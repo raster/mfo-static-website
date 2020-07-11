@@ -1,7 +1,8 @@
 ---
 layout: full-width
-permalink: /makers
+permalink: /makers/
 isotope: true
+
 ---
 <div class="container">
 <h1>2019 Maker Exhibits</h1>
