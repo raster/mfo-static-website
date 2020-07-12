@@ -33,7 +33,7 @@
           {% endif %}
             <ul role="menu" class=" dropdown-menu">
                 {% for entry in item.subfolderitems %}
-                <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"  class="menu-item menu-item-type-post_type menu-item-object-page "><a title="What is Maker Faire?" href="{{ entry.url }}">{{ entry.page }}</a></li>
+                <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"  class="menu-item menu-item-type-post_type menu-item-object-page "><a title="{{ entry.page }}" href="{{ entry.url }}">{{ entry.page }}</a></li>
                 {% endfor %}
             </ul>
           </li>
