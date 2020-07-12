@@ -26,7 +26,8 @@ $container.isotope({
   // options
   itemSelector: '.item',    // Individual post item selector
   masonry: {
-    	gutter: 20
+    	gutter: 20,
+      isFitWidth: true
   },
 //  filter: function() {
 //    return qsRegex ? jQuery(this).text().match( qsRegex ) : true;

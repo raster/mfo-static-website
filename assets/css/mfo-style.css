@@ -120,6 +120,10 @@ a.btn-b-ghost {
 
 
 /* STUFF FOR ISOTOPE - NEEDS TO BE CLEANED UP */
+.exhibits-container {
+  margin: auto;
+}
+
 .exhibits-container .item {
   /*width: 25%;*/
   /*border: 1px solid darkgray;*/
@@ -188,10 +192,6 @@ max-width: 270px;
   text-align: center;
   border-radius: 4px;
   margin-bottom: 20px;
-}
-
-.exhibits-container {
-margin:20px;
 }
 
 
