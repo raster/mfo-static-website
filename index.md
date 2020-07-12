@@ -12,17 +12,21 @@ carousel-slides:
     caption: Welcome to Maker Faire!
     url: /welcome-to-maker-faire/
 
-  - image: /assets/images/slider/jedi.jpg  
-    caption: Use the Force!
-    url: /cosplay/
+  - image: /assets/images/slider/retro-computers-kid-cropped.jpg  
+    caption: Inspire the future!
+    url: /makers/
 
-  - image: /assets/images/slider/neon-cowboy-hats.jpg
-    caption: Make Cool Stuff!
-    url: /make-cool-stuff/
+  - image: /assets/images/slider/muralist-cropped.jpg
+    caption: See art in action!
+    url: /makers/
 
-  - image: /assets/images/slider/button-making-girl.jpg  
-    caption: Make-a-Button!
-    url: /make-a-button/
+  - image: /assets/images/slider/Ghost-busters-cropped.jpg
+    caption: Meet like minded makers!
+    url: /makers/
+
+  - image: /assets/images/slider/mold-a-makey-cropped.jpg
+    caption: Make stuff!
+    url: /makers/?category=workshop
 ---
 
 {% capture cta_event_text %}{{ site.event_date_descr }} – {{ site.event_location_descr }}{% endcapture %}

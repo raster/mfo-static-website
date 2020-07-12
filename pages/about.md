@@ -7,21 +7,21 @@ carousel: true
 carousel-delay: 5000
 carousel-controls: true
 carousel-slides:
-  - image: /assets/images/slider/welcome-to-maker-faire.jpg  
-    caption: Welcome to Maker Faire!
-    url: /welcome-to-maker-faire/
+  - image: /assets/images/slider/kid-with-stormtroopers.jpg  
+    caption: Meet your heroes!
+    url: /makers/
 
-  - image: /assets/images/slider/jedi.jpg  
-    caption: Use the Force!
-    url: /cosplay/
+  - image: /assets/images/slider/Hype-or-shock-crusty-grab.jpg  
+    caption: Fighting Robots!
+    url: /combat-robots/
 
-  - image: /assets/images/slider/neon-cowboy-hats.jpg
-    caption: Make Cool Stuff!
-    url: /make-cool-stuff/
+  - image: /assets/images/slider/learn-to-solder-2019.jpg
+    caption: Learn how to makes something!
+    url: /makers/?category=workshop
 
-  - image: /assets/images/slider/button-making-girl.jpg  
-    caption: Make-a-Button!
-    url: /make-a-button/
+  - image: /assets/images/slider/taco-bus-prs.jpg  
+    caption: See racing action!
+    url: /power-racing/
 ---
 {% include what-is-maker-faire.html %}
 {% include makey-border.html %}
