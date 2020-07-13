@@ -9,7 +9,7 @@ redirect-from:
 <h1>2019 Maker Exhibits</h1>
 We have not yet started accepting makers for Maker Faire Orlando 2020. Check out the exhibits from 2019 and check back to see 2020 exhibits late this summer.
 
-<p>Want to see all the combat robots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Check out out the <a href="/makers?category=battlebots">BattleBot category</a> and the <a href="/makers?category=combat-robots">full list of Combat Robots</a>.</p>
+<p>Want to see all the combat robots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Check out out the <a href="/makers/?category=battlebots">BattleBot category</a> and the <a href="/makers/?category=combat-robots">full list of Combat Robots</a>.</p>
 </div>
 
 <div class="mtm">

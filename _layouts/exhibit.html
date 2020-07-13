@@ -22,7 +22,7 @@
         {%- for category in page.categories -%}
         {%- if category.name -%}
         {%- if forloop.first == false %},&nbsp{%- endif -%}
-        <a href="/makers?category={{-category.slug-}}">{{- category.name -}}</a>
+        <a href="/makers/?category={{-category.slug-}}">{{- category.name -}}</a>
         {%- endif -%}{%- endfor -%}
       </div>
       <div class="row exhibit-social-row">
