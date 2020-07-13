@@ -1,6 +1,6 @@
 ---
 title: Sponsor Maker Faire Orlando
-permalink: /become-a-sponsor
+permalink: /become-a-sponsor/
 layout: default
 redirect_from: "/sponsor"
 ---
