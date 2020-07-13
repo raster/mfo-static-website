@@ -10,7 +10,7 @@ carousel-controls: true
 carousel-slides:
   - image: /assets/images/slider/welcome-to-maker-faire.jpg  
     caption: Welcome to Maker Faire!
-    url: /welcome-to-maker-faire/
+    url: /
 
   - image: /assets/images/slider/retro-computers-kid-cropped.jpg  
     caption: Inspire the future!
