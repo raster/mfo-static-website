@@ -1,0 +1,32 @@
+<section class="featured-maker-panel">
+  <div class="container">
+    <div class="row text-center">
+      <div class="title-w-border-y">
+        <h2>Featured Makers &amp; Exhibits from 2019</h2>
+      </div>
+    </div>
+
+
+
+  <div class="row padbottom">
+    {%- for exhibit in site.data.featured-exhibits.homepage -%}
+        {%- assign f = site.exhibits | where: "exhibit-id", exhibit.exhibit-id -%}
+        <a href="{{f[0].url}}">
+          <div class="featured-maker col-xs-6 col-sm-3">
+            <div class="maker-img" style="background-image: url({{f[0].image-primary.medium}});"></div>
+            <div class="maker-panel-text">
+              <h4>{{f[0].title}}</h4>
+              <p class="hidden-xs">{{f[0].description}}</p>
+            </div>
+          </div>
+        </a>
+    {%- endfor -%}
+  </div>
+  <div class="row padbottom">
+    <div class="col-xs-12 padbottom text-center">
+      <a class="btn btn-w-ghost" href="https://milwaukee.makerfaire.com/makers-exhibits/">More Makers</a>
+    </div>
+  </div>
+</div>
+
+<div class="flag-banner"></div></section>

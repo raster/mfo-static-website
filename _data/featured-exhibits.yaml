@@ -1,0 +1,16 @@
+#get the exhibit id by doing "inspect" on the title on the exhibit page
+
+homepage:
+  - exhibit-id: 35011 #3d makertropes - stefan
+  - exhibit-id: 37711 #fractal abyss
+  - exhibit-id: 37191 #wild piglets
+  - exhibit-id: 36834 #czartronics
+  - exhibit-id: 37741 #miga made
+  - exhibit-id: 34994 #witch doctor
+  - exhibit-id: 34865 #k gentry art
+  - exhibit-id: 37699 #potheads by amber
+
+makers-carousel:
+  - exhibit-id: 35011 #3d makertropes - stefan
+  - exhibit-id: 37711 #fractal abyss
+  - exhibit-id: 37191 #wild piglets

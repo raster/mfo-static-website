@@ -36,6 +36,7 @@ carousel-slides:
 {% include what-is-maker-faire.html %}
 {% include makey-border.html %}
 
+<div style="margin-top:30px"></div>
 <section class="Maker Faire Orlando 2020">
   <div class="container">
     <div class="row text-center">
@@ -53,8 +54,8 @@ carousel-slides:
     </div>
   </div>
 </section>
+<div style="margin-top:30px"></div>
 
-<div style="margin-bottom:40px"></div>
----
-
+<div class="flag-banner"></div>
+{% include featured-makers-grid.html %}
 {% include sponsors-carousel.html %}
