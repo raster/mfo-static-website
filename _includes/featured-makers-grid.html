@@ -28,7 +28,14 @@
         {%- else -%}
           {%- assign d = f[0].description -%}
         {%- endif -%}
-        <a href="{{f[0].url}}">
+
+        {%- if exhibit.url -%}
+          {%- assign u = exhibit.url -%}
+        {%- else -%}
+          {%- assign u = f[0].url -%}
+        {%- endif -%}
+
+        <a href="{{ u }}">
           <div class="featured-maker col-xs-6 col-sm-3">
             <div class="maker-img" style="background-image: url({{ i }});"></div>
             <div class="maker-panel-text">

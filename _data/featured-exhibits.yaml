@@ -1,4 +1,5 @@
 #get the exhibit id by doing "inspect" on the title on the exhibit page
+#override the exhibit data by specifying any of title, description, image, url
 
 homepage:
   - exhibit-id: 35011 #3d makertropes - stefan
@@ -7,11 +8,16 @@ homepage:
   - exhibit-id: 36834 #czartronics
   - exhibit-id: 37741 #miga made
   - exhibit-id: 34994 #witch doctor
-  - exhibit-id: 34865 #k gentry art
+  - exhibit-id: 00000 #completely custom entry
+    title: Orlando Fights Covid
+    image: http://orlandofightscovid.com/wp-content/uploads/2020/04/cropped-OFC-banner.jpg
+    description: Making PPE in the fight against COVID-19
+    url: https://www.orlandofightscovid.com
+
   - exhibit-id: 37699 #potheads by amber
     title: Potheads by Amber
     image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vtDytKh0SOC8sfebVZ0ng-300x300.jpg
-    description: Potheads are whimsical hand sculpted little succulent planters. 
+    description: Potheads are whimsical hand sculpted little succulent planters.
 
 makers-carousel:
   - exhibit-id: 35011 #3d makertropes - stefan
