@@ -11,12 +11,29 @@
   <div class="row padbottom">
     {%- for exhibit in site.data.featured-exhibits.homepage -%}
         {%- assign f = site.exhibits | where: "exhibit-id", exhibit.exhibit-id -%}
+        {%- if exhibit.image -%}
+          {%- assign i = exhibit.image -%}
+        {%- else -%}
+          {%- assign i = f[0].image-primary.medium -%}
+        {%- endif -%}
+
+        {%- if exhibit.title -%}
+          {%- assign t = exhibit.title -%}
+        {%- else -%}
+          {%- assign t = f[0].title -%}
+        {%- endif -%}
+
+        {%- if exhibit.description -%}
+          {%- assign d = exhibit.description -%}
+        {%- else -%}
+          {%- assign d = f[0].description -%}
+        {%- endif -%}
         <a href="{{f[0].url}}">
           <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url({{f[0].image-primary.medium}});"></div>
+            <div class="maker-img" style="background-image: url({{ i }});"></div>
             <div class="maker-panel-text">
-              <h4>{{f[0].title}}</h4>
-              <p class="hidden-xs">{{f[0].description}}</p>
+              <h4>{{ t }}</h4>
+              <p class="hidden-xs">{{ d }}</p>
             </div>
           </div>
         </a>
