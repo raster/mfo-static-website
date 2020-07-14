@@ -1,7 +1,8 @@
 ---
 title: "Team Nanobyte"
 slug: team-nanobyte
-id: 36012
+permalink: /exhibits/team-nanobyte/
+exhibit-id: 36012
 status: 1
 url: 
 description: "Combat Robot team from Orlando, FL: We have 3 robots competing this year.  Doomzday (Antweight), Cybershock (Beetleweight) and Sassy Pants (Dogeweight).  Come on out and watch the carnage!!!"
@@ -29,6 +30,6 @@ maker:
   description: "This year will be our first attempt at combat robotics.  We will be entering one beetleweight robot (Cybershock) and keeping our fingers crossed that we do pretty good."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Cybershock-3d-1024x744.jpg
 last-modified-db: "2019-11-06 17:30:16"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

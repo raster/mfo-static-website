@@ -1,7 +1,8 @@
 ---
 title: "13X Studios"
 slug: 13x-studios
-id: 35143
+permalink: /exhibits/13x-studios/
+exhibit-id: 35143
 status: 4
 url: 
 description: "Xxxxxxxxx"
@@ -32,6 +33,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-09-10 19:18:38"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

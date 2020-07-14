@@ -1,7 +1,8 @@
 ---
 title: "Team Bad Kitty"
 slug: team-bad-kitty
-id: 36837
+permalink: /exhibits/team-bad-kitty/
+exhibit-id: 36837
 status: 4
 url: 
 description: "cAn yOu Handle the eXtreme mAdness of bAd kItty COMBAT ROBOTS!"
@@ -32,6 +33,6 @@ maker:
   description: "International combat robot competitor.  Director of 1500 member Mountie Makerspace in Los Angeles California. "
   image-primary: 
 last-modified-db: "2019-10-08 20:55:28"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

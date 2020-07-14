@@ -1,7 +1,8 @@
 ---
 title: "Southern R2 Builders Group"
 slug: southern-r2-builders-group-2017
-id: 35172
+permalink: /exhibits/southern-r2-builders-group-2017/
+exhibit-id: 35172
 status: 1
 url: Http://astromech.net
 description: "Running and in progress builds of robots from Star Wars"
@@ -29,6 +30,6 @@ maker:
   description: "We are the Florida chapter of the world wide R2 Builders club. We help each other build our favorite little buddy from Star Wars, R2-D2 and his friends."
   image-primary: 
 last-modified-db: "2019-10-27 17:37:46"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

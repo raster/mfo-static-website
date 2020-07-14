@@ -1,7 +1,8 @@
 ---
 title: "Painting live"
 slug: painting-live
-id: 38480
+permalink: /exhibits/painting-live/
+exhibit-id: 38480
 status: 1
 url: https://biancaart.storenvy.com/
 description: "I will be painting live throughout the day"
@@ -29,6 +30,6 @@ maker:
   description: "Acrylic painter of random randomness."
   image-primary: 
 last-modified-db: "2019-11-02 17:59:00"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

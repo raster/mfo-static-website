@@ -1,7 +1,8 @@
 ---
 title: "Kiss My Glass"
 slug: kiss-my-glass
-id: 35021
+permalink: /exhibits/kiss-my-glass/
+exhibit-id: 35021
 status: 1
 url: 
 description: "Learn simple wire wrapping techniques using up cycled kiln fired wine bottle rings to make a pendant. Or Christmas Ornament. Come see our bottle wind chimes with fused glass clangers, fused glass candle holders and screens, framed mosaic glass pictures, dichroic pendants and other items we make. Be sure to check out our upcoming classes if you're interested in trying glass for yourself."
@@ -31,6 +32,6 @@ maker:
   description: "We are a group of glass crafters who enjoy working together on projects in our studio. Stained glass, fused glass and mosaics are some of the basic techniques employed and we continue to expand our knowledge about the craft and enjoy sharing this with those interested in trying a new craft.  We believe in upcycling window and bottle glass that would end up in landfills, into beautiful art that can be used in everyday life."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_1394.jpg
 last-modified-db: "2019-10-27 16:46:46"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

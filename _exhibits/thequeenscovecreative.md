@@ -1,7 +1,8 @@
 ---
 title: "The Queens Cove Creative"
 slug: thequeenscovecreative
-id: 34868
+permalink: /exhibits/thequeenscovecreative/
+exhibit-id: 34868
 status: 1
 url: https://www.queenscovecreative.com/
 description: "An exhibit of illustrations, graphics and fine arts I have created. As well as collector cards I create some of which are licensed by Lucasfilm, Nickelodeon, Netflix, and Topps. I will also do live painting/drawing to show my technique and process. "
@@ -38,6 +39,6 @@ maker:
   description: "I am an illustrator, graphic designer and Fine Artist currently working as a independent artist and recently have had artwork licensed by Lucasfilm, Netflix and Nickelodeon for Topps collector card sets. I'll also be featured in the upcoming official Netflix  \"Stranger Things\" artbook published by penguin publishing and the Printed in Blood company."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FinalQueensCovelogo.jpg
 last-modified-db: "2019-11-07 11:38:10"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Fun King 3D"
 slug: fun-king-3d
-id: 35158
+permalink: /exhibits/fun-king-3d/
+exhibit-id: 35158
 status: 1
 url: https://www.funking3d.com
 description: "3D Printing related items including objects that we printed as well as the printers. We will be displaying the FK-1 for the first time in public!! The FK-1 is a 1200x400x475mm home designed and built 3D Printer! Come see this monster!"
@@ -32,6 +33,6 @@ maker:
   description: "We are a father and son team that does 3D Printing and Electronic Projects on YouTube. We love to learn, and teach what we learn."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180312_200118-1024x576.jpg
 last-modified-db: "2019-10-26 13:28:00"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

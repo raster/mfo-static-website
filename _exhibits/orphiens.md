@@ -1,7 +1,8 @@
 ---
 title: "Orphiens"
 slug: orphiens
-id: 37781
+permalink: /exhibits/orphiens/
+exhibit-id: 37781
 status: 1
 url: 
 description: "Orphiens. An invasion of fun for the whole family. Babies from another planet that are in need of adoption on planet earth."
@@ -29,6 +30,6 @@ maker:
   description: "orphiens are dolls / puppet in a toy sling, complete with a full concept story."
   image-primary: 
 last-modified-db: "2019-10-26 12:37:43"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

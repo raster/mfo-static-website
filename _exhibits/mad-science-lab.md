@@ -1,7 +1,8 @@
 ---
 title: "Mad Science Lab"
 slug: mad-science-lab
-id: 35036
+permalink: /exhibits/mad-science-lab/
+exhibit-id: 35036
 status: 1
 url: http://CFL.MadScience.org
 description: "Mad Science brings hands-on Science and STEM to students across Central Florida. Come by and learn how creating and making using Science can be FUN!"
@@ -56,6 +57,6 @@ Check out Mad Science online at CFL.MadScience.org. Call today and find out just
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/MixedColorLogo-Small.png
 last-modified-db: "2019-10-26 12:51:00"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

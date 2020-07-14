@@ -1,7 +1,8 @@
 ---
 title: "Revive Your Wired Alarm System with Konnected"
 slug: revive-your-wired-alarm-system-with-konnected
-id: 35229
+permalink: /exhibits/revive-your-wired-alarm-system-with-konnected/
+exhibit-id: 35229
 status: 1
 url: https://konnected.io
 description: "The Konnected Alarm Panel converts your home's old wired alarm system into a smart home system, allowing you to monitor and control your home from anywhere without monthly fees! Stop by our exhibit to see Konnected in action with our mini model home, and take one home today to revive your wired alarm system."
@@ -38,6 +39,6 @@ maker:
   description: "Konnected is a local Orlando startup that is disrupting the home security space and putting homeowners back in control of their home alarm system. Our flagship product, the Konnected Alarm Panel, launched on Kickstarter in 2017 and has become a huge hit with DIY smart home enthusiasts. The Konnected Alarm Panel allows you to convert your home's old and outdated wired alarm system into a modern smart home alarm, integrating with popular home automation hubs like SmartThings and Home Assistant. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/konnected-logo-blue-1024x195.png
 last-modified-db: "2019-10-29 14:44:51"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "What's In a Podcast"
 slug: whats-in-a-podcast
-id: 39531
+permalink: /exhibits/whats-in-a-podcast/
+exhibit-id: 39531
 status: 1
 url: https://www.whatsinapodcast.com
 description: "What's in today's podcast? It might be you... or your idea for a great show! Come be on our \"Man on the Street\" segment or chat with us about how to make your own podcast. "
@@ -30,6 +31,6 @@ maker:
   description: "What's In a Podcast is a show about people. We approach this subject by exploring various topics like Free Will, Giraffes, The NBA, Spiderman, a Sea World show about bubbles, etc. You might even hear yourself, or one of your friends featured in our \"Man on the Street\" segments."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1024x1024.png
 last-modified-db: "2019-10-16 20:08:57"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:56"
 sitemap: false
 ---

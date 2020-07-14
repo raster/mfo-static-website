@@ -1,7 +1,8 @@
 ---
 title: "Holo: Fully Loaded"
 slug: holo-fully-loaded-power-wheels
-id: 34979
+permalink: /exhibits/holo-fully-loaded-power-wheels/
+exhibit-id: 34979
 status: 1
 url: http://holofullyloaded.com/
 description: "I love the YouTube channel SimplyNailogical and decided to make my power wheels holographic in honor of her. We built the car in 2017 and put together a website to show the process and updates. Be sure to check it out!"
@@ -29,6 +30,6 @@ maker:
   description: "I'm a maker in the Maitland area who loves all things holographic. My hobbies are power racing, 3d printing, and binging Netflix while doing prototyping work for my business P3D Creations. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20150913_200114960-1-539x1024.jpg
 last-modified-db: "2019-08-17 18:45:24"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

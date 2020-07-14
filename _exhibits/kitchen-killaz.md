@@ -1,7 +1,8 @@
 ---
 title: "Kitchen Killaz"
 slug: kitchen-killaz
-id: 41114
+permalink: /exhibits/kitchen-killaz/
+exhibit-id: 41114
 status: 1
 url: http://kitchenkillaz.com/
 description: "KitchenKillaz is a touring acoustic duo crashing kitchens around the country.  Comprised of Billy Floyd, Jay \"theCommodore\" Stephens and The Mad Scientist, Dennis Cutter."
@@ -31,6 +32,6 @@ maker:
   description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
 last-modified-db: "2019-11-06 17:49:12"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

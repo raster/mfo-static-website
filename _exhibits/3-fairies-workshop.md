@@ -1,7 +1,8 @@
 ---
 title: "Ali Wagner Sculpts"
 slug: 3-fairies-workshop
-id: 34842
+permalink: /exhibits/3-fairies-workshop/
+exhibit-id: 34842
 status: 1
 url: https://www.etsy.com/shop/bananafairy59
 description: "Ali makes small sculptures of a few of everyone’s favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She’s been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they’ll make no just her happy, but anyone who comes across them."
@@ -36,6 +37,6 @@ maker:
   description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
 last-modified-db: "2019-10-27 16:38:26"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Jeremy S. Cook's Robots"
 slug: jeremy-s-cooks-clearwalker
-id: 36385
+permalink: /exhibits/jeremy-s-cooks-clearwalker/
+exhibit-id: 36385
 status: 1
 url: http://www.jcopro.net/
 description: "Projects by Jeremy S. Cook, including several Jansen-style walkers, and other surprises!"
@@ -47,6 +48,6 @@ maker:
   description: "Jeremy is an engineer with over 10 years experience in manufacturing automation, and has a BSME from Clemson University. Now he writes about technology and makes interesting contraptions, building anything that comes into his mind!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/05/profile-pic-jcook-1024x1024.jpg
 last-modified-db: "2019-10-26 12:45:51"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

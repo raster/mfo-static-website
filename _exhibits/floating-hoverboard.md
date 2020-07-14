@@ -1,7 +1,8 @@
 ---
 title: "Floating hoverboard"
 slug: floating-hoverboard
-id: 37018
+permalink: /exhibits/floating-hoverboard/
+exhibit-id: 37018
 status: 3
 url: 
 description: "Our Brenton team is working on our floating hover board to experiment science, computer science and technology."
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-11 22:01:42"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

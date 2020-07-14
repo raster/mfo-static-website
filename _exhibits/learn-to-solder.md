@@ -1,7 +1,8 @@
 ---
 title: "Learn To Solder"
 slug: learn-to-solder
-id: 39180
+permalink: /exhibits/learn-to-solder/
+exhibit-id: 39180
 status: 1
 url: 
 description: "Soldering is easy! We'll teach you how!"
@@ -34,6 +35,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/makey.png
 last-modified-db: "2019-10-26 14:26:04"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

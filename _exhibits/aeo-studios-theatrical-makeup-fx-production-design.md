@@ -1,7 +1,8 @@
 ---
 title: "AEO Studios - Theatrical Makeup/FX/Production/Design"
 slug: aeo-studios-theatrical-makeup-fx-production-design
-id: 37638
+permalink: /exhibits/aeo-studios-theatrical-makeup-fx-production-design/
+exhibit-id: 37638
 status: 1
 url: http://www.aeostudios.com
 description: "Theatrical/Art Props sculpted/molded/handmade by AEO Artists"
@@ -38,6 +39,6 @@ maker:
   description: "Alan O is the founder/creative director of AEO Studios, Inc.  AEO is a Theatrical Makeup/Special FX/Prop & Production Company located in Orlando for 23+years.  With a retail showroom & production center in E Orlando, AEO fabricates all types of custom props/set pieces/costume accessories and more using a wide range of molding materials and methods."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/logo-small-digital.jpg
 last-modified-db: "2019-10-27 16:32:19"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

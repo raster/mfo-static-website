@@ -1,7 +1,8 @@
 ---
 title: "Connors Crew Robotics"
 slug: connors-crew
-id: 36280
+permalink: /exhibits/connors-crew/
+exhibit-id: 36280
 status: 1
 url: 
 description: "Building, designing and fighting robots for the destruction of all mankind.  "
@@ -33,6 +34,6 @@ maker:
   description: "Building bots and friendships. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/044323C6-22F0-49E0-A026-F59E441537D2.jpeg
 last-modified-db: "2019-11-06 18:03:32"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

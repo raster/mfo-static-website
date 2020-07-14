@@ -1,7 +1,8 @@
 ---
 title: "TechnoCide"
 slug: combat-robot-2
-id: 36008
+permalink: /exhibits/combat-robot-2/
+exhibit-id: 36008
 status: 1
 url: 
 description: "Team Technocide will have three insect class robots including \"Venom\", \"Recon\" and \"KRAWL\"."
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:27:38"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

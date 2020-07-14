@@ -1,7 +1,8 @@
 ---
 title: "Makers Hollow"
 slug: makers-hollow
-id: 35014
+permalink: /exhibits/makers-hollow/
+exhibit-id: 35014
 status: 1
 url: http://www.makershollow.com
 description: "An exhibition of the artistic works and whimsical creations by the founders and artists of Makers Hollow."
@@ -113,6 +114,6 @@ maker:
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-05 15:05:16"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

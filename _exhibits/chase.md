@@ -1,7 +1,8 @@
 ---
 title: "Chase"
 slug: chase
-id: 37863
+permalink: /exhibits/chase/
+exhibit-id: 37863
 status: 1
 url: http://giantbacon.com
 description: "Chase is a police themed Power Racing Series Kart"
@@ -50,6 +51,6 @@ maker:
   description: "Software developer by day, garage tinkerer by night. Likes to mash electronics in unnecessary places to make things fun or just for laughs with a group of friends. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44971658_10156678711291163_6007435031100784640_o-1024x683.jpg
 last-modified-db: "2019-09-09 19:53:52"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

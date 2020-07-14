@@ -1,7 +1,8 @@
 ---
 title: "Team Push Bot"
 slug: team-push-bot
-id: 36221
+permalink: /exhibits/team-push-bot/
+exhibit-id: 36221
 status: 1
 url: 
 description: "Combat fighting robots 1 lb and 150 gram categories "
@@ -29,6 +30,6 @@ maker:
   description: "Young builder of combat robots and drones. "
   image-primary: 
 last-modified-db: "2019-11-06 18:00:50"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "FIRST 386 Team Voltage"
 slug: voltage-robot-display-2019
-id: 38812
+permalink: /exhibits/voltage-robot-display-2019/
+exhibit-id: 38812
 status: 1
 url: http://www.teamvoltage.org/
 description: "FRC 386 Team Voltage's 2016 robot and demonstration. Small robots for driving around and information about our team."
@@ -29,6 +30,6 @@ maker:
   description: "FIRST Robotics Competition team based at Melbourne High School. Demos, showcases, community outreach. "
   image-primary: 
 last-modified-db: "2019-10-26 14:39:16"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

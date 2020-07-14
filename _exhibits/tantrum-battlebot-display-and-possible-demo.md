@@ -1,7 +1,8 @@
 ---
 title: "Tantrum Battlebot Display and possible demo"
 slug: tantrum-battlebot-display-and-possible-demo
-id: 36075
+permalink: /exhibits/tantrum-battlebot-display-and-possible-demo/
+exhibit-id: 36075
 status: 1
 url: https://www.facebook.com/tantrum.battlebot/
 description: "Come view Tantrum from TV's Battlebots, you may even see it running at 100%, a thing never before seen!
@@ -30,6 +31,6 @@ maker:
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-11-06 17:36:31"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

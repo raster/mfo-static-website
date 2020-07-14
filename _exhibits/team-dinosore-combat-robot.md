@@ -1,7 +1,8 @@
 ---
 title: "B3 Robotics (Combat Robots)"
 slug: team-dinosore-combat-robot
-id: 35796
+permalink: /exhibits/team-dinosore-combat-robot/
+exhibit-id: 35796
 status: 1
 url: https://bradblanton.com/b3-robotics
 description: "Ant weight combat robots: DinoSore and Slip."
@@ -29,6 +30,6 @@ maker:
   description: "I am six years old and built and fought my first ant weight robot last year at MakeMIA in Miami.  My robot's name is Dinosore and he is a wedge bot with a vertical spinner.  I have participated in five robot battles in the past year, including Maker Faire Orlando last year, and really enjoy the competition and sportsmanship.  And a special thanks to Team Witch Doctor for helping me along the way."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DinoSore-093018-768x1024.jpg
 last-modified-db: "2019-11-06 17:05:06"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "HouseBroken Clothing"
 slug: housebroken-clothing
-id: 34944
+permalink: /exhibits/housebroken-clothing/
+exhibit-id: 34944
 status: 1
 url: https://www.blackcoffeeandtees.com
 description: "Hand Screen Printed Clothing for Sale. Original Art work and Screen Printing all done by HouseBroken Clothing. "
@@ -32,6 +33,6 @@ maker:
   description: "Hand Screen Printed Original Art Work on Clothing. All Art is Drawn and Hand Screen Printed by the Artist, Scott Marino."
   image-primary: 
 last-modified-db: "2019-10-27 17:31:02"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

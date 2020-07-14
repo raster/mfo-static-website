@@ -1,7 +1,8 @@
 ---
 title: "Team Telepathic Werewolf"
 slug: team-telepathic-werewolf
-id: 37082
+permalink: /exhibits/team-telepathic-werewolf/
+exhibit-id: 37082
 status: 1
 url: 
 description: "Two combat robots: Moxie, built and driven by Ryan, and Plopper, built and driven by Emma. "
@@ -29,6 +30,6 @@ maker:
   description: "Brother and sister team inspired by Battlebots.  They began building and battling robots when Ryan was 10 and Emma was 8. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/381EF6D0-B95A-4606-86E9-87B07D8FF749-768x1024.jpeg
 last-modified-db: "2019-11-06 17:51:57"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

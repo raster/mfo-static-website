@@ -1,7 +1,8 @@
 ---
 title: "Ron's Woodworking"
 slug: rons-woodworking
-id: 39167
+permalink: /exhibits/rons-woodworking/
+exhibit-id: 39167
 status: 1
 url: 
 description: "wood cutting to make wine racks, condiment caddy, tablet stand, etc."
@@ -32,6 +33,6 @@ maker:
   description: "Ron Giddens grew up in the small town of Adel, Georgia, where whittling on the front porch was a daily activity. Since then, he has perfected his wood working skills and now makes charming wood furniture, and beautiful wood kitchen accessories. His work includes  wine racks, condiment caddy, electronic tablet stand, and other decor items. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/ron_giddens.jpg
 last-modified-db: "2019-11-01 14:19:55"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

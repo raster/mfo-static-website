@@ -1,7 +1,8 @@
 ---
 title: "Wearable Touch Sensors .... and more!"
 slug: wearable-touch-sensors-and-more
-id: 35919
+permalink: /exhibits/wearable-touch-sensors-and-more/
+exhibit-id: 35919
 status: 1
 url: http://postmodernfiberfun.com
 description: "A crocheted \"critter\", with touch pads and accessories/appendages of handspun conductive yarn to touch and interact with, plus handwoven fabric with touch sensors.  Demo of spinning and weaving yarn.  Free take-away activity."
@@ -40,6 +41,6 @@ maker:
   description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
   image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

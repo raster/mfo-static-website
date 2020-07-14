@@ -1,7 +1,8 @@
 ---
 title: "HUGE &amp; Beess?? - Combat Robots!"
 slug: huge-beess-combat-robots
-id: 35727
+permalink: /exhibits/huge-beess-combat-robots/
+exhibit-id: 35727
 status: 1
 url: https://hugebattlebots.com
 description: "Our combat robotics team coming all the way from Connecticut to Orlando, to fight!"
@@ -40,6 +41,6 @@ maker:
 www.facebook.com/BattlebotsHUGE"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1024x835.jpg
 last-modified-db: "2019-11-06 16:56:46"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

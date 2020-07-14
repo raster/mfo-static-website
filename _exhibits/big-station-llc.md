@@ -1,7 +1,8 @@
 ---
 title: "Big Station LLC"
 slug: big-station-llc
-id: 35524
+permalink: /exhibits/big-station-llc/
+exhibit-id: 35524
 status: 3
 url: 
 description: "Our Trains
@@ -42,6 +43,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/296C8AF9-9946-4AD4-8458-0369C5A59C21-1024x939.jpeg
 last-modified-db: "2019-09-02 20:39:24"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

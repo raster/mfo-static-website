@@ -1,7 +1,8 @@
 ---
 title: "Potheads by Amber:  Potheads in Process"
 slug: potheads-by-amber-potheads-in-process
-id: 37699
+permalink: /exhibits/potheads-by-amber-potheads-in-process/
+exhibit-id: 37699
 status: 1
 url: https://www.potheadsbyamber.com
 description: "A short glimpse into the long process of my Pothead making. "
@@ -32,6 +33,6 @@ maker:
   description: "Potheads are whimsical little succulent planters, or small sculptures with a function.  They are hand sculpted from clay, handprinted with a color clay, black washed and fired three times.  All made by Amber, a self taught sculptor who started out teaching kids and beginning adults ceramics in Chicago Illinois.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_3343-1024x1024.jpg
 last-modified-db: "2019-10-26 13:02:42"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

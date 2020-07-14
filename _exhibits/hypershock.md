@@ -1,7 +1,8 @@
 ---
 title: "HyperShock"
 slug: hypershock
-id: 39841
+permalink: /exhibits/hypershock/
+exhibit-id: 39841
 status: 1
 url: https://www.hypershock.tv
 description: "See HyperShock from TV's BattleBots!"
@@ -35,6 +36,6 @@ maker:
   description: "We competed on Discovery's BattleBots with our award-winning robot, HyperShock!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/HyperShock-Team-S2019-1-1024x683.jpg
 last-modified-db: "2019-11-06 16:16:33"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

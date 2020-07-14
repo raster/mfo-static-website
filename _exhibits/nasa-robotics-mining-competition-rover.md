@@ -1,7 +1,8 @@
 ---
 title: "NASA Robotics Mining Competition Rover"
 slug: nasa-robotics-mining-competition-rover
-id: 35266
+permalink: /exhibits/nasa-robotics-mining-competition-rover/
+exhibit-id: 35266
 status: 1
 url: https://www.lunarknights.org/
 description: "We built a Mars rover to compete in the NASA Robotics Mining Competition"
@@ -46,6 +47,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-26 17:45:27"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

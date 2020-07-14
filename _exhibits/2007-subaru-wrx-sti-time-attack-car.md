@@ -1,7 +1,8 @@
 ---
 title: "2007 Subaru WRX STi Time Attack Car"
 slug: 2007-subaru-wrx-sti-time-attack-car
-id: 41075
+permalink: /exhibits/2007-subaru-wrx-sti-time-attack-car/
+exhibit-id: 41075
 status: 1
 url: 
 description: "2007 Subaru WRX Time Attack Car Display.  Full Road Racing and Time Attack Build that compete's all over the US in racing events.  Base out of Orlando FL."
@@ -29,6 +30,6 @@ maker:
   description: "Global Time Attack Race Car, Race Car Driver, Drifting, Road Racing, Time Attack"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20180512-BV8K7277-1024x683.jpg
 last-modified-db: "2019-11-06 16:03:04"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

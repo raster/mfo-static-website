@@ -1,7 +1,8 @@
 ---
 title: "Hidden Star Graphics"
 slug: hidden-star-graphics
-id: 34921
+permalink: /exhibits/hidden-star-graphics/
+exhibit-id: 34921
 status: 1
 url: https://www.thehopefalls.com/
 description: "Dive into the worlds of Hope Falls and Shadows in the Light.  Fire Art, Original canvas, fanart and more. "
@@ -43,6 +44,6 @@ maker:
 While our adventurous VooDoo is off exploring and making new friends we also create the webcomic series HopeFalls and Shadows in the Light. "
   image-primary: 
 last-modified-db: "2019-10-27 17:13:35"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

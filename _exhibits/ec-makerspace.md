@@ -1,7 +1,8 @@
 ---
 title: "EC MakerSpace"
 slug: ec-makerspace
-id: 37755
+permalink: /exhibits/ec-makerspace/
+exhibit-id: 37755
 status: 1
 url: https://www.eckerd.edu/makerspace/
 description: "The EC MakerSpace is a student-run organization on Eckerd College's campus. Students will be exhibiting some of their favorite things that have been made at the EC MakerSpace along with giving out stickers and making buttons!"
@@ -68,6 +69,6 @@ maker:
   description: "The EC MakerSpace provides a place for students, faculty, and other members of the Eckerd College community to embrace their creativity and develop new skills in an environment conducive to independent thought and innovation. We have students experienced in woodworking, blacksmithing, 3D-printing, coding, and much more! Through office hours, workshops, and other events, the EC MakerSpace gives students a place to explore their interests while gaining hands-on experience in a wide variety of fields."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/ecms-logo-1.jpg
 last-modified-db: "2019-10-26 12:48:40"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

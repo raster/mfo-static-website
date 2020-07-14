@@ -1,7 +1,8 @@
 ---
 title: "Team Get Rekt at Robot Ruckus 2019"
 slug: team-get-rekt-at-robot-ruckus-2019
-id: 37035
+permalink: /exhibits/team-get-rekt-at-robot-ruckus-2019/
+exhibit-id: 37035
 status: 1
 url: 
 description: "Robots:
@@ -31,6 +32,6 @@ maker:
   description: "We build robots to destroy other robots."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/FDBC1039-0EAC-4A6A-AC22-3C4A018C4894.jpeg
 last-modified-db: "2019-11-06 18:04:28"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

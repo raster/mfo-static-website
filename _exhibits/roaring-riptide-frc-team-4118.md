@@ -1,7 +1,8 @@
 ---
 title: "Roaring Riptide: FRC Team #4118"
 slug: roaring-riptide-frc-team-4118
-id: 35027
+permalink: /exhibits/roaring-riptide-frc-team-4118/
+exhibit-id: 35027
 status: 1
 url: http://roaringriptide.com/
 description: "At this exhibit FRC Team 4118 Roaring Riptide will be demoing their robot from the past year, explaining some of their assistive technology solutions, and spreading awareness of FIRST in order to help bring STEM education to everyone. If you enjoy STEM and seeing how students are building the future, come see what Roaring Riptide is all about!"
@@ -41,6 +42,6 @@ maker:
   description: "Roaring Riptide: FIRST Robotics Competition Team #4118, was founded in 2011 at P.K. Yonge Developmental Research School in Gainesville, Florida. The team is made up of a diverse group of students that are challenged each year to design and build a robot in six weeks that can compete in an international competition. Mentors help guide the students through the engineering design process in order to help the students with the design and fabrication of the robot. The team strives to inspire young people to be leaders by engaging them in exciting hands-on programs that build STEM expertise and encourage innovation. This is accomplished by teaching students that learning in fields traditionally perceived as \"difficult\" can be fun in the right environment. The students also work towards raising awareness and excitement in science, technology, engineering, and math (STEM) with local and national outreach efforts so that others may have similar opportunities.  This outreach fosters the acquisition of well-rounded life skills including self-confidence, communication, and leadership."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/Riptide_Logo_Square-1-1024x1024.png
 last-modified-db: "2019-10-28 08:54:17"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

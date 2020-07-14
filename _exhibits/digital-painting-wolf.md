@@ -1,7 +1,8 @@
 ---
 title: "Digital Painting Wolf"
 slug: digital-painting-wolf
-id: 35041
+permalink: /exhibits/digital-painting-wolf/
+exhibit-id: 35041
 status: 4
 url: 
 description: "At my booth, I will show my art and share my experiences.  Last year, I was dressed up as my character Nimmy.  This year, I will be dressed up as my crazy character Highlight.  I want to inspire creativity and show people that with practice, anything is possible."
@@ -29,6 +30,6 @@ maker:
   description: "I am a 16 year old digital artist.  I have been drawing for over a year, and it has completely changed my life.  My step sister and my mother are my biggest inspirations.  They both draw and they help me to improve.  Ever since my first drawing I have not stopped practicing, and now I have over 200 drawings.  Art helps me with my depression and anxiety, and I would love to share my experience and my art with others.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/profile.png
 last-modified-db: "2019-10-26 12:10:28"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

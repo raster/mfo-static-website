@@ -1,7 +1,8 @@
 ---
 title: "Walking Alpaca"
 slug: walking-alpaca
-id: 37511
+permalink: /exhibits/walking-alpaca/
+exhibit-id: 37511
 status: 1
 url: 
 description: "This wooden alpaca was 100% designed and built by two 9-year-old boys (now 10). It is a very impressive bit of making for two so very young!"
@@ -42,6 +43,6 @@ maker:
 After all of the time, effort, blood, sweat and tears that the boys put in without being able to fully demonstrate their creation, their one request was that they be allowed to exhibit at Maker Faire, which they faithfully attend every year."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
 last-modified-db: "2019-11-08 14:35:58"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

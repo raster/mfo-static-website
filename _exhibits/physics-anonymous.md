@@ -1,7 +1,8 @@
 ---
 title: "Physics Anonymous"
 slug: physics-anonymous
-id: 37209
+permalink: /exhibits/physics-anonymous/
+exhibit-id: 37209
 status: 1
 url: 
 description: "A collection of projects and exhibits created in the making of our science, machining, electronics, and generally-everything-goes YouTube channel"
@@ -110,6 +111,6 @@ maker:
   description: "We are a pair of YouTube creators interesting in all things maker. We create useful (and often times completely useless) creations. We tend to leap way before we look, and are always entertained by the result. My brother and I both have art backgrounds, but have been heavily influenced by engineering thanks to our rocket scientist father. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/PA-Logo-01-1024x1024.png
 last-modified-db: "2019-10-26 13:45:51"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "3D Makertropes"
 slug: 3d-makertropes
-id: 35011
+permalink: /exhibits/3d-makertropes/
+exhibit-id: 35011
 status: 1
 url: http://www.makertropes.com
 description: "A display of three-dimensional stroboscopic zoetropes that I call Makertropes."
@@ -77,6 +78,6 @@ maker:
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-01 14:25:35"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

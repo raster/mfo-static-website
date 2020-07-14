@@ -1,7 +1,8 @@
 ---
 title: "Dusty Dustpan"
 slug: suzy-spinnerbot
-id: 37134
+permalink: /exhibits/suzy-spinnerbot/
+exhibit-id: 37134
 status: 1
 url: 
 description: "Fairy weight entry into Robot Ruckus"
@@ -29,6 +30,6 @@ maker:
   description: "Robot Ruckus fairy weight entry Suzy Spinnerbot."
   image-primary: 
 last-modified-db: "2019-11-06 17:34:02"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

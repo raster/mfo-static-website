@@ -1,7 +1,8 @@
 ---
 title: "On Point Massage"
 slug: on-point-massage
-id: 35070
+permalink: /exhibits/on-point-massage/
+exhibit-id: 35070
 status: 1
 url: https://www.onpointmassagefl.com
 description: "Come relieve the tension of your last minute build sessions with a massage!"
@@ -32,6 +33,6 @@ maker:
   description: "Established in 2015 On Point Massage began as a mobile massage company. In 2019 we opened our first brick and mortar location in Winter Park, Florida. We believe that massage should be available to everyone and can be added to any event. We strive to keep our prices low while maintaining a high level of care. We look forward to helping you. "
   image-primary: 
 last-modified-db: "2019-08-17 18:59:21"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

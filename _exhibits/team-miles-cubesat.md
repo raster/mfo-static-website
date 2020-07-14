@@ -1,7 +1,8 @@
 ---
 title: "Team Miles CubeSat"
 slug: team-miles-cubesat
-id: 37612
+permalink: /exhibits/team-miles-cubesat/
+exhibit-id: 37612
 status: 1
 url: https://miles-space.com
 description: "Team Miles is a leading competitor in the NASA CubeQuest Challenge. The challenge offers $5.5 million in prizes for teams and will provide launch services on the 2020 NASA SLS-EM1 mission for the top three teams. They are building a 6U CubeSat intended to communicate in Deep Space and traveling to the vicinity of Mars."
@@ -43,6 +44,6 @@ maker:
   description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
 last-modified-db: "2019-10-26 13:18:10"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

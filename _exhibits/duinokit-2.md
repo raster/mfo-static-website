@@ -1,7 +1,8 @@
 ---
 title: "DuinoKit"
 slug: duinokit-2
-id: 40403
+permalink: /exhibits/duinokit-2/
+exhibit-id: 40403
 status: 1
 url: http://www.DuinoKit.com
 description: "Arduino based learning kits."
@@ -41,6 +42,6 @@ maker:
   description: "DuinoKits were developed by a teacher looking to help teach kids about electronics and coding using Arduino."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
 last-modified-db: "2019-11-05 15:22:13"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

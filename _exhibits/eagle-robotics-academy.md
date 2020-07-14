@@ -1,7 +1,8 @@
 ---
 title: "Eagle Robotics Academy"
 slug: eagle-robotics-academy
-id: 37602
+permalink: /exhibits/eagle-robotics-academy/
+exhibit-id: 37602
 status: 3
 url: https://eagleroboticsacademy.com
 description: "We are a STEM-based curriculum educator, that has a hands-on approach to education by teaching and building robots that students get to keep and take home.  "
@@ -47,6 +48,6 @@ maker:
   description: "We are a private STEM educator that teaches afterschool programs in three OCPS as well as our office on Saturdays in Orlando. All STEM robotic class include a robot students take home. We Teach block programming classes like Sketch and Microbit as well as 3D print, build and make our own robots."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/EAGLE-STEMA-1-2-1024x398.png
 last-modified-db: "2019-09-09 20:52:13"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

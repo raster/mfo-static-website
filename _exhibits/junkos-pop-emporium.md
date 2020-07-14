@@ -1,7 +1,8 @@
 ---
 title: "Junko's Pop Emporium"
 slug: junkos-pop-emporium
-id: 35227
+permalink: /exhibits/junkos-pop-emporium/
+exhibit-id: 35227
 status: 1
 url: https://www.etsy.com/shop/JunkosPopEmporium
 description: "Origami, Accessories, and Handmade Collectables"
@@ -38,6 +39,6 @@ maker:
   description: "A native of Shizuoka Ken, Japan, Junko spent the last 20+ years teaching Japanese language and culture to elementary school students in Haines City, Florida. She has always created amazing origami creations as a hobby, but recently has discovered an untapped talent for combining her love for pop culture with her technical skills. Junko really enjoys using pop culture as inspiration for her accessories and 3D origami sculptures, and she hopes that the public will find them just as fun!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/junko-profile.jpg
 last-modified-db: "2019-11-05 15:24:41"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

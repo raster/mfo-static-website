@@ -1,7 +1,8 @@
 ---
 title: "Underdog Robotics"
 slug: underdog-robotics
-id: 36767
+permalink: /exhibits/underdog-robotics/
+exhibit-id: 36767
 status: 1
 url: 
 description: "A group of combat robot builders from New England."
@@ -29,6 +30,6 @@ maker:
   description: "A group of combat robot builders from New England."
   image-primary: 
 last-modified-db: "2019-11-06 18:13:55"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

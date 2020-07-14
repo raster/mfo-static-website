@@ -1,7 +1,8 @@
 ---
 title: "Brutus robotics"
 slug: combat-robot-5
-id: 36626
+permalink: /exhibits/combat-robot-5/
+exhibit-id: 36626
 status: 1
 url: 
 description: "15lb neu disko combat robot"
@@ -32,6 +33,6 @@ maker:
   description: "15lb combat robot neu disko like regular disko but neu "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7C3DC28C-87E0-4C1A-BA5E-69A193CF258E.jpeg
 last-modified-db: "2019-11-06 18:12:21"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

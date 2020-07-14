@@ -1,7 +1,8 @@
 ---
 title: "Riffs of Wrath Robotics"
 slug: 3lb-fighting-robots-death-metal-and-faruq-assault
-id: 37138
+permalink: /exhibits/3lb-fighting-robots-death-metal-and-faruq-assault/
+exhibit-id: 37138
 status: 1
 url: 
 description: "3lb combat robots - Death Metal and Faruq Assault"
@@ -29,6 +30,6 @@ maker:
   description: "Builder of fighting robots large and small"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
 last-modified-db: "2019-11-06 17:31:24"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

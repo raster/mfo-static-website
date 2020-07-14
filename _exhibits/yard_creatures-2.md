@@ -1,7 +1,8 @@
 ---
 title: "Yard Creatures"
 slug: yard_creatures-2
-id: 38367
+permalink: /exhibits/yard_creatures-2/
+exhibit-id: 38367
 status: 4
 url: 
 description: "Yard Art &gt;&gt;&gt; Ronnie the Quadropuss / Marty the Mahi / Walter the Pelican"
@@ -32,6 +33,6 @@ maker:
   description: "Familab Member / Usually making junk in metal shop, but also tend to spend way too much time with the laser, welder, plasma cutter and wood shop..."
   image-primary: 
 last-modified-db: "2019-10-07 21:45:13"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:56"
 sitemap: false
 ---

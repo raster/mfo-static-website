@@ -1,7 +1,8 @@
 ---
 title: "Photo and Stamp"
 slug: photo-and-stamp-2016-2016
-id: 35480
+permalink: /exhibits/photo-and-stamp-2016-2016/
+exhibit-id: 35480
 status: 1
 url: http://www.photoandstamp.com
 description: "The Photo and Stamp exhibit focuses on the artist's ability to capture the beauty in everyday life through mixed media compositions. Each unique piece ranges from matted 3-Dimensional photo cards to jewelry to functional artwork, such as coasters, wine charm rings, and even birdhouses. "
@@ -47,6 +48,6 @@ capturing images with her unique style. Her works have been published in numerou
 magazines and newspapers. Recently, Laura's art has evolved into blending her photography with cool objects creating unique 4-D mixed media art designed to fascinate and encourage the viewers to appreciate functional art."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lm-photo.png
 last-modified-db: "2019-10-27 17:18:55"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

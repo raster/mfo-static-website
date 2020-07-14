@@ -1,7 +1,8 @@
 ---
 title: "Power Wheels Racing"
 slug: lazy-gecko-racing-batman
-id: 40846
+permalink: /exhibits/lazy-gecko-racing-batman/
+exhibit-id: 40846
 status: 1
 url: Http://Teamlazygecko.com
 description: "DIY electric gocarts made from kids toys."
@@ -47,6 +48,6 @@ maker:
   description: "We've been making things happen as a group and find a way to continue as our members spread out across the country."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman4.jpg
 last-modified-db: "2019-11-03 18:04:08"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

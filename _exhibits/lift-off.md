@@ -1,7 +1,8 @@
 ---
 title: "Lift Off"
 slug: lift-off
-id: 36715
+permalink: /exhibits/lift-off/
+exhibit-id: 36715
 status: 1
 url: 
 description: "Lift Off is a 30lb combat robot. "
@@ -29,6 +30,6 @@ maker:
   description: "Area 51 Robotics is an educational robotics company based out of Los Angeles. We develop digital curriculum and work with students, teams and schools."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Area-51_dark_240.jpeg
 last-modified-db: "2019-08-25 12:26:11"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

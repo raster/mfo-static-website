@@ -1,7 +1,8 @@
 ---
 title: "Incognegro Arts"
 slug: incognegro-spooky-yosh
-id: 37058
+permalink: /exhibits/incognegro-spooky-yosh/
+exhibit-id: 37058
 status: 1
 url: https://www.eduardoanacletoart.com/
 description: "An artist with prints and crafts for sale. Try'na pay the rent"
@@ -29,6 +30,6 @@ maker:
   description: "Eduardo (Eddie for short) is a true Connoisseur of the arts. Drawing since he was a child, his eye for details has been matched only by his desire to create. As the mediums through which art has evolved so too have his skill sets. From Illustration to 3D rendering and animation, and even visual effects; his experience branches out over many realms of visual and digital arts.  He is also way too humble to feel comfortable talking about himself in the third person. "
   image-primary: 
 last-modified-db: "2019-11-06 10:51:10"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

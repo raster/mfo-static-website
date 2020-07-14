@@ -1,7 +1,8 @@
 ---
 title: "Spooky Yosh"
 slug: spooky-yosh
-id: 37276
+permalink: /exhibits/spooky-yosh/
+exhibit-id: 37276
 status: 3
 url: 
 description: "Spooky, adorable, and curiously dark crafts from home decor to jewelry. All created by a scenic artistic named Yoshi!"
@@ -51,6 +52,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/43984324_1414885788643123_6479562871641473024_n.jpg
 last-modified-db: "2019-10-11 21:57:49"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Rayvenwoodmanor Jewelry"
 slug: rayvenwoodmanor-jewelry
-id: 35094
+permalink: /exhibits/rayvenwoodmanor-jewelry/
+exhibit-id: 35094
 status: 3
 url: https://www.etsy.com/shop/Rayvenwoodmanor
 description: "Rayvenwood Manor specializes in Handmade One of A Kind Jewelry for men and women.  All of our jewelry is handmade in various metals including sterling silver, bronze, brass, and other metals. We use gemstones and crystals to adorn our pieces and each one is a unique design. "
@@ -43,6 +44,6 @@ Rayvenwoodmanor has had wonderful opportunities to design items gifted especiall
 Rayvenwoodmanor Jewelry has been seen on Season 5 of \"The Vampire Diaries\" on the CW Network, an episode of \"Hart of Dixie\" on on the CW Network and seen on celebrities like the infamous Psychedelic Furs, American Actress / Producer / Writer Stephanie Drapeau, Actor Alexander Polinsky, and Actress Candy Washington. Our jewelry was also showcased included in The Artisan Group® press swag bags at GBK’s Gift Lounges for the 2014 and the 2015 Prime Time Emmys. Other Rayvenwoodmanor jewelry pieces have been gifted to various television shows and celebrities through unique opportunities with the The Artisan Group®. "
   image-primary: 
 last-modified-db: "2019-09-09 21:59:30"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

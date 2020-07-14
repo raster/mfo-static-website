@@ -1,7 +1,8 @@
 ---
 title: "Gray's Artwork"
 slug: grays-artwork
-id: 36491
+permalink: /exhibits/grays-artwork/
+exhibit-id: 36491
 status: 1
 url: 
 description: "Gray's exhibit displays a combination of both traditional and digital fan-art."
@@ -32,6 +33,6 @@ maker:
   description: "I'm a Free-lance Illustrator and Comic-Artist. I love to draw Fan-art of comics, videogames,  cartoons, and animated movies.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
 last-modified-db: "2019-11-04 17:50:55"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

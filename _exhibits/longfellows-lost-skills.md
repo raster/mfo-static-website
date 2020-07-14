@@ -1,7 +1,8 @@
 ---
 title: "Longfellow's Lost Skills"
 slug: longfellows-lost-skills
-id: 37647
+permalink: /exhibits/longfellows-lost-skills/
+exhibit-id: 37647
 status: 1
 url: https://www.linkedin.com/in/alanlongfellow/
 description: "Provides a showcase and demonstration of creations made from Maker-related skills that are no longer common knowledge since the advent of computer technology (such as using machinists' hand tools, manual drafting, restoring vintage tools, etc.)  You don't need a fancy $15,000 CNC machine to make a wooden chair - all you need is a chisel, a saw, a hand plane, and a couple of Maker skills lost to history... until now."
@@ -92,6 +93,6 @@ maker:
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

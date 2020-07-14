@@ -1,7 +1,8 @@
 ---
 title: "Artwork Anywhere"
 slug: artwork-anywhere
-id: 34924
+permalink: /exhibits/artwork-anywhere/
+exhibit-id: 34924
 status: 1
 url: https://artworkanywhere.com
 description: "Nerdy suncatchers, hand painted on acrylic. They look like stained glass, but they are lightweight and shatter resistant. There will be finished pieces for sale, as well as sample pieces showing the various stages of creation."
@@ -38,6 +39,6 @@ maker:
   description: "Artwork Anywhere is home to Tes Scholtz’s quirky robot art and nerdy suncatchers.  Hand painted on acrylic, they evoke the look of stained glass, and feature pop culture favorites, as well as many of her own designs."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/F64BE7D8-C772-4CEC-928E-8D91056C9891.png
 last-modified-db: "2019-10-27 16:57:28"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

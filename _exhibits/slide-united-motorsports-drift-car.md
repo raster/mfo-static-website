@@ -1,7 +1,8 @@
 ---
 title: "Slide United Motorsports Drift Car"
 slug: slide-united-motorsports-drift-car
-id: 41166
+permalink: /exhibits/slide-united-motorsports-drift-car/
+exhibit-id: 41166
 status: 2
 url: 
 description: "1993 Nissan 240sx pro-am drift car"
@@ -29,6 +30,6 @@ maker:
   description: "Local drift Motorsports team. We design/build/make our racecars out of our own home garages. "
   image-primary: 
 last-modified-db: "2019-11-07 15:26:01"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

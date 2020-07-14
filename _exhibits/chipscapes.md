@@ -1,7 +1,8 @@
 ---
 title: "ChipScapes"
 slug: chipscapes
-id: 34558
+permalink: /exhibits/chipscapes/
+exhibit-id: 34558
 status: 1
 url: http://www.ChipScapes.com
 description: "ChipScapes are artworks made from taking pictures of microscopic computer chips. By using special lighting and angles, bright colors are created to make interesting art. ChipScapes include the chip images, history of the chips, and the actual chips themselves. My jewelry sometimes uses upcycled old electronic parts, sometimes my ChipScapes artwork (see below), and sometimes both. SteamTronix borrows from Steam Punk, Cyber Punk, and Art Deco styles. I enjoy the creative process and love to share technology. Art speaks all languages, even binary. Explore www.ChipScapes.com to learn more."
@@ -56,6 +57,6 @@ I am grateful for the support I have received and the opportunities that I have 
 We can live our lives ignoring the beauty all around us and just see gray, but I choose to seek out beauty and share it with others. I hope to inspire people to find the art in all that they do. After all, even in the coldness of technology, we can find beauty, if we just look for it."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Steve-Winter-Park-Magazine_Smiling.jpg
 last-modified-db: "2019-10-27 16:53:06"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

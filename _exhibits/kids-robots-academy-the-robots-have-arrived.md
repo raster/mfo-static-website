@@ -1,7 +1,8 @@
 ---
 title: "KIDS ROBOTS ACADEMY The Robots have arrived"
 slug: kids-robots-academy-the-robots-have-arrived
-id: 35772
+permalink: /exhibits/kids-robots-academy-the-robots-have-arrived/
+exhibit-id: 35772
 status: 1
 url: https://www.kidsrobotacademy.com/home.html
 description: "Our exhibit will showcase educational and service robots from around the world. 
@@ -91,6 +92,6 @@ team-building environment, and thus generating intense interest and excitement f
 Note : The Robots Shop Opening soon In Orlando and Miami"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

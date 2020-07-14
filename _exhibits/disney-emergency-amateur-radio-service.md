@@ -1,7 +1,8 @@
 ---
 title: "Disney Emergency Amateur Radio Service"
 slug: disney-emergency-amateur-radio-service
-id: 37693
+permalink: /exhibits/disney-emergency-amateur-radio-service/
+exhibit-id: 37693
 status: 1
 url: http://wd4wdw.org
 description: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
@@ -41,6 +42,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

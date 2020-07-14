@@ -1,7 +1,8 @@
 ---
 title: "Becoming a Ham Radio Operator or Short Wave Listener."
 slug: becoming-a-ham-radio-operator-or-short-wave-listener
-id: 39589
+permalink: /exhibits/becoming-a-ham-radio-operator-or-short-wave-listener/
+exhibit-id: 39589
 status: 1
 url: 
 description: "Basic introduction to electronics for Junior and Senior High School students looking for a career choice."
@@ -59,6 +60,6 @@ maker:
 Soon after graduation, he decided to move to Florida to be a part of the Space Program. He helped in some small part with designing Printed Circuit Boards, Solar panels, pumps and valves used in the three main engines of Space Shuttle.  later employed by General Dynamics, he worked on production of US Army Camouflage nets, followed by US military Chemical and Biological Warfare  equipment. His passion through out his career has been Ham Radio and digital electronic design - it is what he still does today.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/KenW1HV_Portrait_2019ok-1024x866.jpg
 last-modified-db: "2019-10-16 20:12:56"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

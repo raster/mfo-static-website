@@ -1,7 +1,8 @@
 ---
 title: "Lazy GT"
 slug: lazy-gt
-id: 35702
+permalink: /exhibits/lazy-gt/
+exhibit-id: 35702
 status: 1
 url: 
 description: "Entry in Power Racing Series, Custom $500 electric go kart"
@@ -31,6 +32,6 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:14"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

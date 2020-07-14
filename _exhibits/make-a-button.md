@@ -1,7 +1,8 @@
 ---
 title: "Make-A-Button Activity"
 slug: make-a-button
-id: 35099
+permalink: /exhibits/make-a-button/
+exhibit-id: 35099
 status: 1
 url: http://www.makerfx.org/buttons
 description: "Make a 1\" or 2.25\" button at Maker Faire Orlando using our art, or bring your own!"
@@ -48,6 +49,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-26 14:35:09"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

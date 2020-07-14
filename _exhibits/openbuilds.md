@@ -1,7 +1,8 @@
 ---
 title: "OpenBuilds"
 slug: openbuilds
-id: 38347
+permalink: /exhibits/openbuilds/
+exhibit-id: 38347
 status: 1
 url: https://www.openbuilds.com
 description: "Our mission is to inspire you by showcasing a few creations that were made using the OpenBuilds Modular Building System.
@@ -82,6 +83,6 @@ maker:
 We believe that the right tools in the hands of those that have this knowledge will change the world making a better future for us all."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/OpenBuilds_Logo_300.jpg
 last-modified-db: "2019-11-06 16:50:09"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

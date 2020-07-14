@@ -1,7 +1,8 @@
 ---
 title: "Make a Pop Up Card Activity"
 slug: lollie-pop-up
-id: 35502
+permalink: /exhibits/lollie-pop-up/
+exhibit-id: 35502
 status: 1
 url: 
 description: "Learn basic pop up techniques to create your own card. Decorate it for any occasions."
@@ -35,6 +36,6 @@ maker:
   description: "Lollie Pop Up learned basic pop up techniques through books and video tutorial. Various techniques were utilized to make holiday, birthday, get well, retirement, and thank you cards more fun. Please visit @lolliepopup on Instagram to see examples of pop up cards, explosion boxes, and other paper crafts that were created for friends. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8746-1024x1024.jpg
 last-modified-db: "2019-10-26 14:29:35"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

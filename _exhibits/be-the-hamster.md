@@ -1,7 +1,8 @@
 ---
 title: "Be the Hamster"
 slug: be-the-hamster
-id: 34885
+permalink: /exhibits/be-the-hamster/
+exhibit-id: 34885
 status: 1
 url: http://www.bethehamster.com
 description: "Human Powered Snow cones via an 8' tall hamster wheel"
@@ -29,6 +30,6 @@ maker:
   description: "I dream up and create creative hands-on-things for kids; to get them interested in Engineering."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Hamster-Logo-2-1024x1024.jpg
 last-modified-db: "2019-08-17 18:42:23"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

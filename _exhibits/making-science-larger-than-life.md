@@ -1,7 +1,8 @@
 ---
 title: "Making Science Larger Than Life"
 slug: making-science-larger-than-life
-id: 37607
+permalink: /exhibits/making-science-larger-than-life/
+exhibit-id: 37607
 status: 1
 url: https://padlet.com/kmcclart/g0v20ir8cqb2
 description: "Outrageous and over-the-top tools for reaching our middle school students that you can \"make\".  Play a game of lifesize Guess Who, experience a gigantic smoke ring launcher - fire 4 ft rings across the room, plus some of the other builds that we have created to make learning more fun.  Also, see samples of student created engineering and technology projects."
@@ -30,6 +31,6 @@ maker:
   description: "A group of middle school teachers with a maker spirit.  Working with 11-14 year-olds requires an outside of the box approach.  We are constantly planning and building things to use with our lessons and activities.  We Make things for our 8th grade lock-in, Science Olympiad, the STEM Academy, and science classes."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
 last-modified-db: "2019-10-26 13:13:31"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

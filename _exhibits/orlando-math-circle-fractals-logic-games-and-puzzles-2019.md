@@ -1,7 +1,8 @@
 ---
 title: "Orlando Trianglethon 2019"
 slug: orlando-math-circle-fractals-logic-games-and-puzzles-2019
-id: 36527
+permalink: /exhibits/orlando-math-circle-fractals-logic-games-and-puzzles-2019/
+exhibit-id: 36527
 status: 1
 url: http://www.orlandomathcircle.org
 description: "Help us create the world's largest Sierpinski Triangle Fractal made out of individual triangles.  We will show you how you can make your own 2 dimensional and even  3 dimensional fractals."
@@ -40,6 +41,6 @@ OMC is a grass roots organization working to show that everyone is a math person
 https://youtu.be/fNHfZhvpa2E"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/CBBB47BB-69C0-4360-A270-881E2DC8FD60.png
 last-modified-db: "2019-11-08 09:02:45"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

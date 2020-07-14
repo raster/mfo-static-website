@@ -1,7 +1,8 @@
 ---
 title: "SMART Lab 3.0 Pop-Up science museum"
 slug: smart-lab-3-0-pop-up-science-museum
-id: 35272
+permalink: /exhibits/smart-lab-3-0-pop-up-science-museum/
+exhibit-id: 35272
 status: 1
 url: 
 description: "SMART Lab 3.0 is a Pop-Up science museum for families to explore science concepts through hands-on activities.Each activity is designed and build to be interactive, engaging and fun."
@@ -29,6 +30,6 @@ maker:
   description: "I enjoying exploring museums- I love science museums, unfortunately there are just not enough science museums.  So I design and create pop-up science museums that allow kids and their families to discover science in a fun interactive setting"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Caroline-Nolan-2017-1024x768.jpg
 last-modified-db: "2019-10-26 13:14:57"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

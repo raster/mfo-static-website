@@ -1,7 +1,8 @@
 ---
 title: "K Gentry Art LLC"
 slug: k-gentry-art-llc
-id: 34865
+permalink: /exhibits/k-gentry-art-llc/
+exhibit-id: 34865
 status: 1
 url: https://www.tkylegentry.com/
 description: "I create character designs for animation and video games."
@@ -33,6 +34,6 @@ I have also illustrated for the children’s book, medical, editorial, music, an
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
 last-modified-db: "2019-10-27 17:44:11"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

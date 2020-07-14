@@ -1,7 +1,8 @@
 ---
 title: "Red Spark Robotics - Crash n' Burn! - Heavyweight Combat Robots"
 slug: red-spark-robotics-crash-n-burn-heavyweight-combat-robots
-id: 36603
+permalink: /exhibits/red-spark-robotics-crash-n-burn-heavyweight-combat-robots/
+exhibit-id: 36603
 status: 1
 url: https://www.redsparkrobotics.ca
 description: "Canadian heavyweight multibot \"Crash n' Burn\" are making the trip to entertain YOU!"
@@ -30,6 +31,6 @@ maker:
   description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
 last-modified-db: "2019-11-06 18:09:15"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

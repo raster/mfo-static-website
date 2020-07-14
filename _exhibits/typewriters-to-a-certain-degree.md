@@ -1,7 +1,8 @@
 ---
 title: "Typewriters, To a Certain Degree"
 slug: typewriters-to-a-certain-degree
-id: 40620
+permalink: /exhibits/typewriters-to-a-certain-degree/
+exhibit-id: 40620
 status: 1
 url: https://www.toacertaindegree.com/
 description: "Communicate with some old-school technology at the To a Certain Degree typewriter table. You can type a thank you note to your favorite maker, one of the wonderful volunteers and staff, or the person who brought you to this event. For FREE!"
@@ -43,6 +44,6 @@ maker:
   description: "Orlando radio show and podcast To a Certain Degree will be set up with some old-school tech at the typewriter table. Write a thank-you note to the makers, volunteers, and staff who put so much time and effort into Maker Faire Orlando!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/tacd1ahi-1024x853.png
 last-modified-db: "2019-11-07 15:47:52"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

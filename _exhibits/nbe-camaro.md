@@ -1,7 +1,8 @@
 ---
 title: "NBE CAMARO"
 slug: nbe-camaro
-id: 36588
+permalink: /exhibits/nbe-camaro/
+exhibit-id: 36588
 status: 1
 url: http://www.spacecoastcamaros.com/scc/viewtopic.php?f=20&t=41
 description: "2012 Camaro 2SS/RS Convertible - Transformer Themed "
@@ -38,6 +39,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-09-02 19:59:04"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

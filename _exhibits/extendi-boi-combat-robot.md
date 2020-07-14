@@ -1,7 +1,8 @@
 ---
 title: "extendi boi combat robot"
 slug: extendi-boi-combat-robot
-id: 36155
+permalink: /exhibits/extendi-boi-combat-robot/
+exhibit-id: 36155
 status: 1
 url: 
 description: "heavyweight combat robot"
@@ -35,6 +36,6 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:54"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

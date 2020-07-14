@@ -1,7 +1,8 @@
 ---
 title: "3D Print Orlando"
 slug: 3d-print-orlando
-id: 37499
+permalink: /exhibits/3d-print-orlando/
+exhibit-id: 37499
 status: 3
 url: http://www.3dprintorlando.com
 description: "3d printing hobby shop in Orlando Florida."
@@ -29,6 +30,6 @@ maker:
   description: "3d printing hobby shop based out of Orlando, Florida.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/59129548_360136704612725_6077091167189598208_n.jpg
 last-modified-db: "2019-09-09 20:48:20"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

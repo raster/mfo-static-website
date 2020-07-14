@@ -1,7 +1,8 @@
 ---
 title: "Galactic Problems"
 slug: galacticproblems
-id: 34954
+permalink: /exhibits/galacticproblems/
+exhibit-id: 34954
 status: 1
 url: https://galacticproblems-portfolio.tumblr.com/
 description: "Digital illustrator selling art prints, sketchcards, stickers, and buttons! "
@@ -34,6 +35,6 @@ maker:
   description: "I'm a digital illustrator who loves cartoons, space, and colorful character design!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/spacegirliconforuse.png
 last-modified-db: "2019-11-04 17:29:21"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

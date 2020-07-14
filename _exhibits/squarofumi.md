@@ -1,7 +1,8 @@
 ---
 title: "Squarofumi"
 slug: squarofumi
-id: 38033
+permalink: /exhibits/squarofumi/
+exhibit-id: 38033
 status: 1
 url: http://www.sqfmi.com
 description: "Squarofumi was founded in 2009, focused on delivering technology products and services. Founded by a group of art and technology enthusiasts, Squarofumi aims to deliver unique experiences and quality products through design engineering and thinking outside the box."
@@ -53,6 +54,6 @@ maker:
   description: "Squarofumi was founded in 2009, focused on delivering technology products and services. Founded by a group of art and technology enthusiasts, Squarofumi aims to deliver unique experiences and quality products through design engineering and thinking outside the box."
   image-primary: 
 last-modified-db: "2019-10-26 13:33:25"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

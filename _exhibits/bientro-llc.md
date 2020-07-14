@@ -1,7 +1,8 @@
 ---
 title: "Bientro, LLC"
 slug: bientro-llc
-id: 37360
+permalink: /exhibits/bientro-llc/
+exhibit-id: 37360
 status: 4
 url: http://www.bientro.com
 description: "Bientro, LLC is a team of creative leather artisans."
@@ -47,6 +48,6 @@ maker:
   description: "Everything is handmade and never mass-produced! Bientro, LLC are local leather artists at various shops in Central Florida. We create handcrafted leather goods and original art. We love steampunk and cosplayers and will work with you to create custom leather goods. Everything we make is unique and takes time to craft. At Bientro Leather, we use real leather, high-grade gemstones and crystals, and bright aluminum for the chainmaille jewelry."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Bientro_logo_FB500.jpg
 last-modified-db: "2019-10-15 13:53:59"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

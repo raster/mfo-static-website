@@ -1,7 +1,8 @@
 ---
 title: "Gypsy's Weavings"
 slug: gypsys-weavings
-id: 34827
+permalink: /exhibits/gypsys-weavings/
+exhibit-id: 34827
 status: 1
 url: http://www.gypsysweavings.etsy.com
 description: "chainmaile creations and accessories. Her husband The Blue Fool will also be joining her with his card game The Abandons which funded last year on kickstarter! "
@@ -52,6 +53,6 @@ maker:
   description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
 last-modified-db: "2019-11-07 20:38:03"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

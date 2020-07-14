@@ -1,7 +1,8 @@
 ---
 title: "Dennis Hansbury and his Hand cut Illustrations"
 slug: handcut-illustrations
-id: 36183
+permalink: /exhibits/handcut-illustrations/
+exhibit-id: 36183
 status: 1
 url: 
 description: "Hand cut artwork on wood, original illustrations, fan art, stickers, and more!"
@@ -44,6 +45,6 @@ maker:
   description: "2019 marks my third year at Maker Faire Orlando! What you’ll find is an array of artwork ranging from spooky and macabre to familiar and friendly, original illustrations, woodworking, handmade crafts, fan art, prints, and more. Everything created has a focus on quality, originality, and creating a product that either you will be happy to own or enjoy gifting to someone else."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dhlogo.jpg
 last-modified-db: "2019-10-27 17:28:45"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

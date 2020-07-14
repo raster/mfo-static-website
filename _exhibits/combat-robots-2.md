@@ -1,7 +1,8 @@
 ---
 title: "Team JunkYard Dog!"
 slug: combat-robots-2
-id: 34911
+permalink: /exhibits/combat-robots-2/
+exhibit-id: 34911
 status: 1
 url: 
 description: "One 15lb and two 1lb fighting robots!"
@@ -29,6 +30,6 @@ maker:
   description: "Team of combat robots"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Color-dog.jpg
 last-modified-db: "2019-11-06 16:24:31"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

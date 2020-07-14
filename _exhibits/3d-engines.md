@@ -1,7 +1,8 @@
 ---
 title: "3D Engines"
 slug: 3d-engines
-id: 38538
+permalink: /exhibits/3d-engines/
+exhibit-id: 38538
 status: 1
 url: 
 description: "Various 3D Printed engines "
@@ -30,6 +31,6 @@ maker:
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-10-26 12:41:17"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Aeriform, Ascend, Flip Special, Midnight Kitty, and Slap Box."
 slug: aeriform-ascend-flip-special-midnight-kitty-and-slap-box
-id: 36727
+permalink: /exhibits/aeriform-ascend-flip-special-midnight-kitty-and-slap-box/
+exhibit-id: 36727
 status: 1
 url: 
 description: "A 1lb, three 30lb, and a 250lb combat robots."
@@ -43,6 +44,6 @@ maker:
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

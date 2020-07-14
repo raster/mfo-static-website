@@ -1,7 +1,8 @@
 ---
 title: "Miga Made"
 slug: miga-made
-id: 37741
+permalink: /exhibits/miga-made/
+exhibit-id: 37741
 status: 1
 url: https://www.migamade.com
 description: "Robots, unicorn shoes and more. 
@@ -51,6 +52,6 @@ maker:
   description: "Join @Stachelightning as he shows off his robots, costumes, set pieces, fun products and then some."
   image-primary: 
 last-modified-db: "2019-10-27 16:29:10"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

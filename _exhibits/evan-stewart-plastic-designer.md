@@ -1,7 +1,8 @@
 ---
 title: "Evan Stewart / plastic designer"
 slug: evan-stewart-plastic-designer
-id: 37114
+permalink: /exhibits/evan-stewart-plastic-designer/
+exhibit-id: 37114
 status: 3
 url: 
 description: "Plastic and electronic products are made for high production. Samples.Electronic and plastic...talk about 3d metal modeling.and metal molds"
@@ -50,6 +51,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-11 21:05:46"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

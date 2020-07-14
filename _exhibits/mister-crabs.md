@@ -1,7 +1,8 @@
 ---
 title: "Mister Crabs"
 slug: mister-crabs
-id: 35760
+permalink: /exhibits/mister-crabs/
+exhibit-id: 35760
 status: 1
 url: https://mistercrabs.com
 description: "Mister Crabs provides Hermit Crab Shows with Touch Stations, Observation Stations, and Crab Race Comedy Shows.
@@ -68,6 +69,6 @@ maker:
 Learn about land hermit crabs that are native to Florida, see hundreds of their creative hermit crab homes including  from Lego, shells, transparent glass, 3D printed and many others.  Also participate in our create crab shell, create a Crabitat, and learn about our Adopt-a-Hermit program. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo-250x250.jpg
 last-modified-db: "2019-11-08 14:38:10"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

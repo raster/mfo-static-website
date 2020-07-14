@@ -1,7 +1,8 @@
 ---
 title: "Holla Clan"
 slug: holla-clan
-id: 35741
+permalink: /exhibits/holla-clan/
+exhibit-id: 35741
 status: 1
 url: 
 description: "This exhibit will show the robot created by JT Hall."
@@ -29,6 +30,6 @@ maker:
   description: "8 year old JT loves science and technology.  He is excited to enter the world of robots! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1142-683x1024.jpg
 last-modified-db: "2019-11-06 16:59:52"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

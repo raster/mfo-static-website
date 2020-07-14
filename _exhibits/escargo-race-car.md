@@ -1,7 +1,8 @@
 ---
 title: "EscarGO Race Car"
 slug: escargo-race-car
-id: 36072
+permalink: /exhibits/escargo-race-car/
+exhibit-id: 36072
 status: 1
 url: http://www.seemsreasonable.net
 description: "Power wheels racing series entry"
@@ -32,6 +33,6 @@ maker:
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-08-17 21:43:17"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Opera Orlando"
 slug: opera-orlando-2
-id: 35263
+permalink: /exhibits/opera-orlando-2/
+exhibit-id: 35263
 status: 1
 url: http://www.operaorlando.org
 description: "Now in our fourth season, Opera Orlando is thrilled to once again partner with Maker Faire Orlando for a weekend of making music.  Join us Saturday and Sunday for performances featuring our extraordinarily talented local artists and youth company."
@@ -33,6 +34,6 @@ maker:
   description: "Opera sings to every heart, connecting us to our history, to our humanity, and to our community. It is Opera Orlando’s privilege and responsibility to carry on opera’s legacy by sharing emotionally compelling and unique stories. We strive to introduce audiences new and old to the beauty and splendor of the greatest of all art forms."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/09CABE7C-49FA-4258-8651-5AFEBA1031DD.jpeg
 last-modified-db: "2019-10-27 16:28:31"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

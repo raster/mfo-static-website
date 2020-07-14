@@ -1,7 +1,8 @@
 ---
 title: "Gecko Kart (Power Racing Series)"
 slug: gecko-kart
-id: 38945
+permalink: /exhibits/gecko-kart/
+exhibit-id: 38945
 status: 1
 url: http://teamlazygecko.com/
 description: "Gecko Kart is the mechanical sibling of Raphael. Design and built to compete in the Power Racing Series."
@@ -38,6 +39,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Lazy-Gecko-Solid-Vintage7.7-799x1024.png
 last-modified-db: "2019-10-02 20:55:10"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

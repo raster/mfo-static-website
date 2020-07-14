@@ -1,7 +1,8 @@
 ---
 title: "The Amazing Keryx"
 slug: the-amazing-keryx
-id: 36511
+permalink: /exhibits/the-amazing-keryx/
+exhibit-id: 36511
 status: 1
 url: http://www.artvyd.com/amazing_keryx.html
 description: "The Amazing Keryx knows your now! An Oracle's wisdom for your personal Hero Journey. Positive for any age.
@@ -42,6 +43,6 @@ maker:
   description: "Independent studio artist with an MFA from FSU. My artwork is focused on HERO. I combine principles of Joseph Campbell & Bob Rauschenberg with Pop Culture materials. My hometown is Sanibel island, Florida. Art Handler. Member of IATSE 647: setting up broadway plays in local theaters; I specialize in video.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ArtVyd.png
 last-modified-db: "2019-11-07 20:15:25"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

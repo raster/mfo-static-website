@@ -1,7 +1,8 @@
 ---
 title: "TechWears"
 slug: techwears
-id: 36052
+permalink: /exhibits/techwears/
+exhibit-id: 36052
 status: 1
 url: https://www.techwears.com
 description: "S T E A M Powered Eco Fashion Accessories and Collectibles "
@@ -48,6 +49,6 @@ Established in 2014, TechWears has been recognized as the \"Best Sustainable Bus
 Drew hopes that besides being \"geek chic\" and really cool looking, that his creations will advance important conversations around eco literacy and STEAM Education. Ultimately, Drew hopes to work himself out of a job by eliminating e-waste all together.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Drew-Johnson-Headshot-3-1024x1024.jpg
 last-modified-db: "2019-10-26 13:57:30"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

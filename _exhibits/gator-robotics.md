@@ -1,7 +1,8 @@
 ---
 title: "Gator Robotics"
 slug: gator-robotics
-id: 36982
+permalink: /exhibits/gator-robotics/
+exhibit-id: 36982
 status: 4
 url: 
 description: "Combat robotic team that houses Deathroll and Unicron"
@@ -29,6 +30,6 @@ maker:
   description: "Robotics club that builds combat robots."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n.jpg
 last-modified-db: "2019-10-13 10:52:26"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

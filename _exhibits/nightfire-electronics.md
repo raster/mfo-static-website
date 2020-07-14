@@ -1,7 +1,8 @@
 ---
 title: "NightFire Electronics"
 slug: nightfire-electronics
-id: 35004
+permalink: /exhibits/nightfire-electronics/
+exhibit-id: 35004
 status: 1
 url: http://www.vakits.com
 description: "We have electronic kits and supplies. "
@@ -50,6 +51,6 @@ maker:
   description: "We make electronic hobby kits including Arduino fun kits."
   image-primary: 
 last-modified-db: "2019-10-26 13:37:42"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

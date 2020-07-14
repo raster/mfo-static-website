@@ -1,7 +1,8 @@
 ---
 title: "Team Purple Fire"
 slug: team-purple-fire
-id: 37902
+permalink: /exhibits/team-purple-fire/
+exhibit-id: 37902
 status: 4
 url: https://floridapoly.edu/
 description: "Florida Polytechnic's robotics group."
@@ -29,6 +30,6 @@ maker:
   description: "We are the robotics club at Florida Polytechnic University."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544.png
 last-modified-db: "2019-10-13 10:45:21"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

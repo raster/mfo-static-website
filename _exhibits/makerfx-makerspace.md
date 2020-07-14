@@ -1,7 +1,8 @@
 ---
 title: "MakerFX Makerspace"
 slug: makerfx-makerspace
-id: 35073
+permalink: /exhibits/makerfx-makerspace/
+exhibit-id: 35073
 status: 1
 url: http://www.makerfx.org
 description: "MakerFX Makerspace is a program of The Maker Effect Foundation located in south Orlando. "
@@ -81,6 +82,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-27 17:35:46"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

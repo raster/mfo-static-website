@@ -1,7 +1,8 @@
 ---
 title: "Kick Bright"
 slug: kick-bright
-id: 37388
+permalink: /exhibits/kick-bright/
+exhibit-id: 37388
 status: 1
 url: http://kickbrightshop.com/
 description: "We sell handmade buttons/pins, vintage/upcycled clothing, artwork and more"
@@ -40,6 +41,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

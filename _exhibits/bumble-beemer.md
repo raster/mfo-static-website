@@ -1,7 +1,8 @@
 ---
 title: "Bumble Beemer"
 slug: bumble-beemer
-id: 37780
+permalink: /exhibits/bumble-beemer/
+exhibit-id: 37780
 status: 1
 url: 
 description: "A vehicle designed and built for the 2019 Power Racing Series. "
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/17835014_1109992515812267_9157395315728724930_o-1024x1024.png
 last-modified-db: "2019-09-08 11:29:53"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

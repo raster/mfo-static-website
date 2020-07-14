@@ -1,7 +1,8 @@
 ---
 title: "Orlando Robotics &amp; Makers Club"
 slug: orlando-robotics-makers-club
-id: 36984
+permalink: /exhibits/orlando-robotics-makers-club/
+exhibit-id: 36984
 status: 1
 url: http://www.orlandorobotics.org
 description: "We're a local Orlando-based group of makers who meet regularly to discuss, share ideas and work on robotics, electronics, Arduinos, 3D-printing, FPV drones, and other techie activities."
@@ -66,6 +67,6 @@ maker:
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-26 13:19:57"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

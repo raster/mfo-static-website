@@ -1,7 +1,8 @@
 ---
 title: "Ankita Nagaraju's Art"
 slug: decorative-surf-board
-id: 35281
+permalink: /exhibits/decorative-surf-board/
+exhibit-id: 35281
 status: 1
 url: 
 description: "I'm an resin artist and will be displaying my Original Art works for Sale.I'm also open for commissions.
@@ -37,6 +38,6 @@ maker:
 I have been making art for last 8 year and got a chance to experiment many art mediums. I would like get my hands on encaustic art sometime soon in the future. "
   image-primary: 
 last-modified-db: "2019-10-27 17:17:22"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

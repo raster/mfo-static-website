@@ -1,7 +1,8 @@
 ---
 title: "Eagle Robotics Academy"
 slug: eagle-robotic-academy
-id: 35019
+permalink: /exhibits/eagle-robotic-academy/
+exhibit-id: 35019
 status: 3
 url: https://www.eagleroboticacademy.com
 description: "Eagle Robotic Academy is a robotics school in Orlando, FL. Come and visit us!"
@@ -38,6 +39,6 @@ maker:
   description: "Eagle Robotic Academy is a robotics school in Orlando, FL."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Eagle-logo-final-FUNDO-BRANCO-180x180px.jpg
 last-modified-db: "2019-09-02 21:12:52"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

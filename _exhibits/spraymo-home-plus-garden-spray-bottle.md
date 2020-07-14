@@ -1,7 +1,8 @@
 ---
 title: "SprayMo® Home + Garden Spray Bottle"
 slug: spraymo-home-plus-garden-spray-bottle
-id: 37490
+permalink: /exhibits/spraymo-home-plus-garden-spray-bottle/
+exhibit-id: 37490
 status: 1
 url: http://spraymo.com/
 description: "Traditional sprayers cause hand fatigue but now you can SprayMo® with less work! TM. SprayMo® (which is currently under development) is a new home &amp; garden spray bottle that requires 10X less effort than conventional sprayers. Fewer pumps means less hand fatigue.  Your new way to Spray! TM"
@@ -39,6 +40,6 @@ maker:
   description: "Mario de la Guardia has over 2 decades of product development experience including several patents."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
 last-modified-db: "2019-10-26 12:39:17"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

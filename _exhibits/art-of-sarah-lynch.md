@@ -1,7 +1,8 @@
 ---
 title: "Art of Sarah Lynch"
 slug: art-of-sarah-lynch
-id: 35187
+permalink: /exhibits/art-of-sarah-lynch/
+exhibit-id: 35187
 status: 1
 url: http://www.confusingdrawings.tumblr.com
 description: "17-year-old digital artist "
@@ -35,6 +36,6 @@ maker:
   description: "Multi-media Artist"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2o18-1024x1024.png
 last-modified-db: "2019-11-01 14:21:14"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

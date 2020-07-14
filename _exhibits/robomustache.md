@@ -1,7 +1,8 @@
 ---
 title: "RoboMustache"
 slug: robomustache
-id: 37670
+permalink: /exhibits/robomustache/
+exhibit-id: 37670
 status: 1
 url: http://robomustache.com
 description: "A collection of wooden robot and animal assembly kits."
@@ -47,6 +48,6 @@ maker:
   description: "Charles Wade is a designer, maker and the founder of RoboMustache. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/20150612_112453-SQUARE-1024x1024.jpg
 last-modified-db: "2019-10-26 13:03:27"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

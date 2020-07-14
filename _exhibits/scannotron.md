@@ -1,7 +1,8 @@
 ---
 title: "Scannotron"
 slug: scannotron
-id: 38525
+permalink: /exhibits/scannotron/
+exhibit-id: 38525
 status: 1
 url: http://bocabearingsworkshop.blogspot.com/search/label/Scanotron
 description: "The Boca Bearings 3D Body Scanner is an all in one solution for 3D scanning. The subject stands on a rotating platform while a Microsoft Kinect (generation 1) sits on a rail which can be moved up or down to capture a whole body as the subject rotates in place. "
@@ -29,6 +30,6 @@ maker:
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-10-26 12:41:49"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

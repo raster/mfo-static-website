@@ -1,7 +1,8 @@
 ---
 title: "Terecook Studios and Dice Charm School"
 slug: terecook-studios-and-dice-charm-school
-id: 34831
+permalink: /exhibits/terecook-studios-and-dice-charm-school/
+exhibit-id: 34831
 status: 3
 url: http://terecook.etsy.com
 description: "These two brands join forces to bring you nerdy jewelry and 3d printed cosplay accessories!"
@@ -43,6 +44,6 @@ maker:
   description: "Terecook is a group of family and friends who love to make things. So far all we have is an Etsy shop and a lot of ambition, but we've got big plans!"
   image-primary: 
 last-modified-db: "2019-09-09 22:01:49"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

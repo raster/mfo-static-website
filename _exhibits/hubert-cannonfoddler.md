@@ -1,7 +1,8 @@
 ---
 title: "Hubert Cannonfodder"
 slug: hubert-cannonfoddler
-id: 36209
+permalink: /exhibits/hubert-cannonfoddler/
+exhibit-id: 36209
 status: 1
 url: 
 description: "Hubert is a 3lb combat robot and my first attempt into the sport"
@@ -29,6 +30,6 @@ maker:
   description: "I'm a first time builder in the realm of combat robots. I have been a huge fan of combat robot for many years and didn't actually believe that i could do it until seeing 3lb bots at MakerFaire in 2018. I am excited for the chance to check (and continue to check) that of my bucket list."
   image-primary: 
 last-modified-db: "2019-11-06 17:56:37"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Wild Piglets Mini Bike Club"
 slug: wild-piglets-mini-bike-club
-id: 37191
+permalink: /exhibits/wild-piglets-mini-bike-club/
+exhibit-id: 37191
 status: 1
 url: 
 description: "Wild Piglets Mini Bike Club are made up of members returning to their youth to ride for fun mini bikes.  We love entering parades carrying the American flag and having a crazy time.  We have taken our mini bikes and added side cars and built steam punk versions. "
@@ -32,6 +33,6 @@ maker:
   description: "Group of us returning to our youth to ride mini bikes for fun.  Some are engineers, some business people, some from military and all for fun."
   image-primary: 
 last-modified-db: "2019-09-02 20:19:21"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:56"
 sitemap: false
 ---

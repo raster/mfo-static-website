@@ -1,7 +1,8 @@
 ---
 title: "Renaissance Robotics"
 slug: first-2
-id: 34874
+permalink: /exhibits/first-2/
+exhibit-id: 34874
 status: 1
 url: http://WWW.team5937.com
 description: "Renaissance Robotics is a homeschooled, community based FIRST Tech Challenge team that has been competing in the Central Florida area since 2012 . FIRST Tech Challenge is a STEM education program for grades 7-12, using robots playing in a sports type model. FIRST has STEM education opportunities for grades K-12th.
@@ -57,6 +58,6 @@ Renaissance Robotics has participated in numerous demos and often brings additio
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
 last-modified-db: "2019-11-05 09:09:36"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

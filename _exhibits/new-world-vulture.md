@@ -1,7 +1,8 @@
 ---
 title: "New World Vulture"
 slug: new-world-vulture
-id: 39753
+permalink: /exhibits/new-world-vulture/
+exhibit-id: 39753
 status: 1
 url: https://l.instagram.com/?u=https%3A%2F%2Fwww.etsy.com%2Fshop%2FNewWorldVultureCo%3Fref%3Dsearch_shop_redirect&e=ATNlAISGAwdIsK0noBX__NBIm2YrbQl5ctTpnNDDWrs00qj_xD8Gychx9P3LfAhp9ky_4dd9eXd_3zOZepIdnpOKPbw6bBza
 description: "Jewelry and display pieces made with roadkill animals and leather"
@@ -44,6 +45,6 @@ maker:
   description: "Makes and sells jewelry and terrariums out of roadkill animal bones and leather"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190927_162009_929-1.jpg
 last-modified-db: "2019-10-21 14:54:14"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

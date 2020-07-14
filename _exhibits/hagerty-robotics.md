@@ -1,7 +1,8 @@
 ---
 title: "Hagerty Robotics"
 slug: hagerty-robotics
-id: 37064
+permalink: /exhibits/hagerty-robotics/
+exhibit-id: 37064
 status: 1
 url: https://hagertyhighrobotics.weebly.com
 description: "We are Hagerty Robotics from Oviedo, Florida. We are a program that aims to spread STEM to our community through our three teams that compete in the various competition levels FIRST and VEX has to offer. Last year, our robot took us all the way to the FIRST World Championships where we had a blast competing and learning. We hope to share our robot and the FIRST motto to the next generation of young innovators at Maker Faire Orlando and we can't wait to see you there!"
@@ -38,6 +39,6 @@ maker:
   description: "We are Hagerty Robotics from Oviedo, Florida. We are a program that aims to spread STEM to our community through our three teams that compete in the various competition levels FIRST and VEX has to offer. Last year, our robot took us all the way to the world championships where we placed second. We hope to share our robot and the FIRST motto to the next generation of young innovators."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/Hagerty.jpg
 last-modified-db: "2019-09-02 20:12:24"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Enlightened Monkey: Art Work by Dave Gordon and Make Your Own LED Apparel Station"
 slug: enlightened-monkey-art-work-by-dave-gordon-and-make-your-own-led-apparel-station-2017
-id: 37452
+permalink: /exhibits/enlightened-monkey-art-work-by-dave-gordon-and-make-your-own-led-apparel-station-2017/
+exhibit-id: 37452
 status: 1
 url: https://www.enlightenedmonkeyarts.com/
 description: "Technology based artwork exhibited with a make your own LED Apparel station: our booth offers visitors the opportunity to create their own light up apparel and trinkets and LEDs.  For a fee, Visitors may create light up hats, pins, barrettes, masks, etc.
@@ -39,6 +40,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-04 13:55:36"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

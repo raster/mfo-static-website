@@ -1,7 +1,8 @@
 ---
 title: "Trout"
 slug: ripblade
-id: 37077
+permalink: /exhibits/ripblade/
+exhibit-id: 37077
 status: 1
 url: 
 description: "Demonstration of battle robot (one pound class)"
@@ -32,6 +33,6 @@ maker:
   description: "Son (and father) amateur team. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
 last-modified-db: "2019-11-06 18:01:32"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

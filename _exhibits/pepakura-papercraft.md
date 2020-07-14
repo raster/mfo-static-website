@@ -1,7 +1,8 @@
 ---
 title: "Pepakura Papercraft"
 slug: pepakura-papercraft
-id: 35294
+permalink: /exhibits/pepakura-papercraft/
+exhibit-id: 35294
 status: 1
 url: http://outlawgarage.org
 description: "Learn about Pepakura Papercraft models.  Create your own papercraft on printed cardstock."
@@ -46,6 +47,6 @@ maker:
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Priustoric"
 slug: http-autobeyours-com-priustoric2-htm
-id: 36939
+permalink: /exhibits/http-autobeyours-com-priustoric2-htm/
+exhibit-id: 36939
 status: 1
 url: http://autobeyours.com/Priustoric2.htm
 description: "hybrid boatcar "
@@ -52,6 +53,6 @@ maker:
   description: "Hybrid car recycler with a tendency toward unusual vehicle design. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/I-think-this-is-the-one-edit-1024x859.jpg
 last-modified-db: "2019-09-02 20:07:27"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

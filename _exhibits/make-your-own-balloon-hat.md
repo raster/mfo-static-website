@@ -1,7 +1,8 @@
 ---
 title: "Make Your Own Balloon Hat"
 slug: make-your-own-balloon-hat
-id: 36375
+permalink: /exhibits/make-your-own-balloon-hat/
+exhibit-id: 36375
 status: 1
 url: http://www.BalloonTwisterOrlando.com
 description: "Karen isn't making balloon sculptures today, she is teaching YOU how to make them.  Make your own balloon hat to be sure you look good as you walk around the exhibit hall."
@@ -29,6 +30,6 @@ maker:
   description: "Karen Climer has been balloon twisting for more than a decade.  She can make almost anything out of a latex balloon (except a porcupine because it's keep popping itself).  She performs at parties, festivals, libraries, schools, and cruise ships.  At Maker Faire Orlando, Karen isn't making balloon sculptures.  She teaching YOU how to make you own balloon sculptures.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Green-car-3-12-11-copy-736x1024.jpg
 last-modified-db: "2019-11-04 15:40:14"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Kit Steele"
 slug: kit-steele
-id: 35095
+permalink: /exhibits/kit-steele/
+exhibit-id: 35095
 status: 1
 url: 
 description: "Watercolor illustrations and sketchbooks, plus a painting station where I will paint live."
@@ -32,6 +33,6 @@ maker:
   description: "Award-winning artist and illustrator, Kit uses watercolor and mixed media to bring life to whimsical and fantastical creations. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/E3AF3777-BC48-4912-B63F-5BFCB455C089.jpeg
 last-modified-db: "2019-10-27 17:27:55"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

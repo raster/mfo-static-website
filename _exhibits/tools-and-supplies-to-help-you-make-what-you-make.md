@@ -1,7 +1,8 @@
 ---
 title: "Tools and supplies to help you make what you make"
 slug: tools-and-supplies-to-help-you-make-what-you-make
-id: 37868
+permalink: /exhibits/tools-and-supplies-to-help-you-make-what-you-make/
+exhibit-id: 37868
 status: 1
 url: https://www.doradowideformat.com
 description: "We will be demonstrating how a Canon wide format printer, a Graphtec cutter plotter and a laminator can be used create unconventional parts and products using specialty medias designed for applications outside of the usual mainstram applications. "
@@ -47,6 +48,6 @@ maker:
   description: "We are an equipment & supply provider that specializes in training our customers on the techniques and applications afforded by the products we sell. This includes applying our products for \"out of the box\" thinkers - meaning that we work with entrepreneurs to help them achieve their vision by testing our products in ways that are not always shown in the owners manual or material specification."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/DoradoLogo2x1.jpg
 last-modified-db: "2019-10-27 17:51:13"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Power Racing Series - Trenton Makers"
 slug: power-racing-series-trenton-makers
-id: 38711
+permalink: /exhibits/power-racing-series-trenton-makers/
+exhibit-id: 38711
 status: 1
 url: 
 description: "The Trenton Makers (Trenton NJ) will race RhomBUS at the Orlando edition of the Power Racing Series"
@@ -35,6 +36,6 @@ maker:
   description: "Matt is a mechanical engineering supervisor for an engineering firm in Philadelphia. On the weekends he builds and races electric go karts with the power racing series."
   image-primary: 
 last-modified-db: "2019-10-02 20:57:41"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Crystal Knockout"
 slug: crystal-knockout
-id: 35203
+permalink: /exhibits/crystal-knockout/
+exhibit-id: 35203
 status: 1
 url: http://www.crystalknockout.com
 description: "Crystal Knockout is home to our reduced-chemical &amp; vegan nail polish line! It also includes bath &amp; body items, jewelry, and even art, all with the same themes: self-empowerment and a deep appreciation for the beauty of mother nature. While you will be able to check out a small selection of all our items, our centerpiece will be, as always, our handmade nail polish (including the ever-popular color-changing thermals!)."
@@ -38,6 +39,6 @@ maker:
   description: "Born-and-raised in Orlando and a graduate of the University of Central Florida, Candace began running her own small business in 2013. Originally intended as an avenue where she could sell her crystallized phone case designs, it has expanded over the years and now includes event decor, home items, and the reduced-chemical nail polish line, Crystal Knockout. Candace is married to a fellow Orlando native, has two furry Chihuahua children, and loves music, nature, gaming, and Florida Gators football. She is also currently serving as the president of a local nonprofit, Helping Handmade, Inc., which organizes events featuring handmade artisans to raise funds for local charities (see www.orlandohelpinghandmade.org for more)."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Mar-11-11-03-17-AM2-1.jpg
 last-modified-db: "2019-10-27 17:21:41"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

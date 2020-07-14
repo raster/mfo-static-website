@@ -1,7 +1,8 @@
 ---
 title: "Robot Rukus - Big Dill"
 slug: robot-rukus-big-dill
-id: 35734
+permalink: /exhibits/robot-rukus-big-dill/
+exhibit-id: 35734
 status: 1
 url: 
 description: "250lb Combat Robot for Robot Rukus.
@@ -36,6 +37,6 @@ maker:
   description: "Combat Robotics Team."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/LifterV2.126-1024x576.jpg
 last-modified-db: "2019-11-06 16:58:36"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

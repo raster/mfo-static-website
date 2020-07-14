@@ -1,7 +1,8 @@
 ---
 title: "Art of Gabriella Serralles"
 slug: art-of-gabriella-serralles
-id: 36036
+permalink: /exhibits/art-of-gabriella-serralles/
+exhibit-id: 36036
 status: 1
 url: http://behance.net/GSerralles
 description: "A display of some of the collected works of story artist, illustrator, and designer Gabriella Serralles including original comics, original artwork, and fan art. Acrylic charm keychains and fun stickers can be found at my booth, as well as commission opportunities for original, entirely unique artwork made at the Fair for anyone who wants them."
@@ -35,6 +36,6 @@ maker:
   description: "I’m a first generation Puerto Rican story artist and designer with a fierce passion for storytelling. I communicate story and message following the work and style of Steve Ahn (Nickelodeon Studios, Cartoon Network, Dreamworks) and Phil Craven (Dreamworks). With a passion and skill for storytelling, I combined the visual and traditional techniques in media. Writing was never enough, so I learned the art of visual storytelling so I could truly connect and engage with my audience"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/businesscard1.jpg
 last-modified-db: "2019-11-05 14:51:42"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

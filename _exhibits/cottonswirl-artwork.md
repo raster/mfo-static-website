@@ -1,7 +1,8 @@
 ---
 title: "CottonSwirl Artwork"
 slug: cottonswirl-artwork
-id: 37599
+permalink: /exhibits/cottonswirl-artwork/
+exhibit-id: 37599
 status: 1
 url: 
 description: "Character artwork,
@@ -32,6 +33,6 @@ maker:
 15 year old Sarah Mae Hubbard designs artwork and video games in her particular chibi style."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CS_Redesign_-_Copy1.jpg
 last-modified-db: "2019-10-27 16:45:59"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Extinguisher-Battlebot"
 slug: extinguisher-battlebot
-id: 36153
+permalink: /exhibits/extinguisher-battlebot/
+exhibit-id: 36153
 status: 1
 url: 
 description: "The robot from the Battlebots television series will be there for people to see and the builders to ask questions and participate in panels."
@@ -35,6 +36,6 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:05"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

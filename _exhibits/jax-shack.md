@@ -1,7 +1,8 @@
 ---
 title: "Jax  Shack"
 slug: jax-shack
-id: 35410
+permalink: /exhibits/jax-shack/
+exhibit-id: 35410
 status: 1
 url: 
 description: "self contained workshop and sales room by means of a 6x14ft enclosed trailer"
@@ -35,6 +36,6 @@ maker:
   description: "I use recycled horseshoes,   fractal wood art"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2015-pic-passport-1024x1015.jpg
 last-modified-db: "2019-11-01 14:27:48"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

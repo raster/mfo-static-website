@@ -1,7 +1,8 @@
 ---
 title: "Combat Robots"
 slug: combat-robots-6
-id: 37218
+permalink: /exhibits/combat-robots-6/
+exhibit-id: 37218
 status: 1
 url: 
 description:
@@ -32,6 +33,6 @@ maker:
   description: "Competing with a 3HP 30lb Hammer/Lifter in the 30lb sportsman class, and hoping to bring our 250lb Battlebot flipper SubZero"
   image-primary: 
 last-modified-db: "2019-11-06 17:16:43"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

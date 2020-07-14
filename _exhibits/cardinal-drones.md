@@ -1,7 +1,8 @@
 ---
 title: "Cardinal drones"
 slug: cardinal-drones
-id: 40476
+permalink: /exhibits/cardinal-drones/
+exhibit-id: 40476
 status: 1
 url: http://www.cardinaldrones.com
 description: "This exhibit will show a few drones and servo testers demonstrating how to control brush less motors and servos.  We also have a robotic arm and a drone simulation program for people to play with on a laptop and usb drone remote.  Come see the flying baby stroller!"
@@ -55,6 +56,6 @@ maker:
 Much ouf our experiments run on open source arduino and raspberry pi software.  We have been at the palm beach maker fair before and this is our first time at the orlando maker fair.  "
   image-primary: 
 last-modified-db: "2019-10-30 17:45:00"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

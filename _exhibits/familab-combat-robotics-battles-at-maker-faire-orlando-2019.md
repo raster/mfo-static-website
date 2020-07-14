@@ -1,7 +1,8 @@
 ---
 title: "Combat Robotics-  Team MISSION STATUS : SICK"
 slug: familab-combat-robotics-battles-at-maker-faire-orlando-2019
-id: 35003
+permalink: /exhibits/familab-combat-robotics-battles-at-maker-faire-orlando-2019/
+exhibit-id: 35003
 status: 1
 url: https://www.jedijill.com/
 description: "MISSION STATUS : SICK --Combat Robotics:
@@ -32,6 +33,6 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

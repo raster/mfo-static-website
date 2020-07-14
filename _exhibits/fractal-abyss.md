@@ -1,7 +1,8 @@
 ---
 title: "Fractal Abyss"
 slug: fractal-abyss
-id: 37711
+permalink: /exhibits/fractal-abyss/
+exhibit-id: 37711
 status: 1
 url: http://www.FractalAbyss.com
 description: "Fractal Art Exhibit by Joseph Presley
@@ -58,6 +59,6 @@ beautiful and deeply emotional artistic expressions.  He has practiced fractal a
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

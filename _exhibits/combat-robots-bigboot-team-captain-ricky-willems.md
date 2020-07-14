@@ -1,7 +1,8 @@
 ---
 title: "Combat Robots - Mastodon (Team Captain: Ricky Willems)"
 slug: combat-robots-bigboot-team-captain-ricky-willems
-id: 34829
+permalink: /exhibits/combat-robots-bigboot-team-captain-ricky-willems/
+exhibit-id: 34829
 status: 1
 url: 
 description:
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 16:10:20"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

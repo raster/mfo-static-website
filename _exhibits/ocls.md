@@ -1,7 +1,8 @@
 ---
 title: "Orange County Library System"
 slug: ocls
-id: 34018
+permalink: /exhibits/ocls/
+exhibit-id: 34018
 status: 1
 url: https://www.ocls.info/
 description: "Swing by our booth to program and race Dash robots through obstacle courses and mazes. See if you can beat the clock and race to the top of the leader board! "
@@ -103,6 +104,6 @@ maker:
   description: "The Orange County Library System brings value to the residents of the district through collections, staff, services and facilities. The Library connects our changing community to the evolving world of ideas, information and technology. Through continuous innovation, the Orange County Library System will create a well informed, well connected community, making Orange County a great place to live, learn, work, and play."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Square_Logo.gif
 last-modified-db: "2019-10-26 14:33:27"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

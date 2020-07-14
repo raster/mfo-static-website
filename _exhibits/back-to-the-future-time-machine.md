@@ -1,7 +1,8 @@
 ---
 title: "Back to the Future Time Machine"
 slug: back-to-the-future-time-machine
-id: 36762
+permalink: /exhibits/back-to-the-future-time-machine/
+exhibit-id: 36762
 status: 4
 url: 
 description: "It's back from the future, Doc Brown's time machine is stopping by Maker Faire Orlando for guests to check out"
@@ -34,6 +35,6 @@ maker:
   description: "Elliot Hansen is a local resident of the Orlando area that has turned his Delores DMC-12 into his all time favorite movie car, Doc Brown's Time Machine. It features many screen accurate details, from the ever popular Flux Capacitor even down to the smallest of details that only a fan of back to the future would notice. He has spent a few years collecting the parts needed for the conversion and spent a few months finally putting it all together in 2016. "
   image-primary: 
 last-modified-db: "2019-10-28 17:39:57"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

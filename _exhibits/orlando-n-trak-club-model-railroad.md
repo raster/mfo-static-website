@@ -1,7 +1,8 @@
 ---
 title: "Orlando N-Trak Club Model Railroad"
 slug: orlando-n-trak-club-model-railroad
-id: 36720
+permalink: /exhibits/orlando-n-trak-club-model-railroad/
+exhibit-id: 36720
 status: 1
 url: 
 description: "The N scale model railroad layout covers many scenes from Jacksonville, FL to Folkston, GA."
@@ -56,6 +57,6 @@ maker:
   description: "Model Railroad Club"
   image-primary: 
 last-modified-db: "2019-10-26 13:53:08"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

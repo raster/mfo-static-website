@@ -1,7 +1,8 @@
 ---
 title: "Dalek Builders of Florida"
 slug: dalek-builders-of-florida
-id: 35359
+permalink: /exhibits/dalek-builders-of-florida/
+exhibit-id: 35359
 status: 1
 url: 
 description: "Daleks and how to build them. There are lots of build techniques to building one and lots of things you have to think about before building."
@@ -32,6 +33,6 @@ maker:
   description: "We are Florida geeks that love Doctor Who and the villainous Daleks, that is why we built them. We love building them and sharing them with other enthusiasts. We will talk up storm about our builds and sharing tips and procedures for the builds. We are always looking to add to our Florida Brigade Skaro Army."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dalek_builders_v3-01-1024x1024.jpg
 last-modified-db: "2019-10-27 16:31:37"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Vibranium"
 slug: vibranium
-id: 35948
+permalink: /exhibits/vibranium/
+exhibit-id: 35948
 status: 1
 url: 
 description:
@@ -29,6 +30,6 @@ maker:
   description: "I've been doing combat robotics for a little under a year. I was lucky enough to build my Fingertech Viper kit at Maker MIA (https://www.facebook.com/makemiamakerspace/) with Team Witch doctor. As of writing this I have taken part in 3 different competitions and took second twice and third once. I enjoy watching combat robotics on TV and enjoy it."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/vibranium-purple-square-1024x768.jpg
 last-modified-db: "2019-11-06 17:19:05"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

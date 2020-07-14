@@ -1,7 +1,8 @@
 ---
 title: "Natural Log"
 slug: natural-log
-id: 37152
+permalink: /exhibits/natural-log/
+exhibit-id: 37152
 status: 1
 url: 
 description: "Plywood box that looks like a log and goes fast"
@@ -43,6 +44,6 @@ maker:
 By day, I'm a software engineer working on autonomous trucks."
   image-primary: 
 last-modified-db: "2019-09-02 20:17:45"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

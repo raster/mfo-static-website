@@ -1,7 +1,8 @@
 ---
 title: "SMEE, Thundersnow, Fast Owen, Faster Owen"
 slug: teamflightplan
-id: 36062
+permalink: /exhibits/teamflightplan/
+exhibit-id: 36062
 status: 1
 url: 
 description: "Four supremely awful robots are coming all the way to new york to fail catastrophically right in your home arena!"
@@ -32,6 +33,6 @@ maker:
   description: "International robot fighting team!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/LogoBlack-1024x172.png
 last-modified-db: "2019-11-06 17:34:29"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

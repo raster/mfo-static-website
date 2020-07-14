@@ -1,7 +1,8 @@
 ---
 title: "Factur"
 slug: factur
-id: 40574
+permalink: /exhibits/factur/
+exhibit-id: 40574
 status: 1
 url: http://factur.org
 description: "Inside: 3D Printing &amp; Sewing
@@ -64,6 +65,6 @@ Our instructors at Factur teach skills in woodworking, metal working, metal smit
 Our Entrepreneurs can create what you need. Our members consist of Entrepreneurs and DIYers."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/factur-logo-800x800.png
 last-modified-db: "2019-11-07 19:36:44"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

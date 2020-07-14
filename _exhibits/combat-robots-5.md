@@ -1,7 +1,8 @@
 ---
 title: "Combat Robots"
 slug: combat-robots-5
-id: 37213
+permalink: /exhibits/combat-robots-5/
+exhibit-id: 37213
 status: 1
 url: https://www.facebook.com/battlebeachllc
 description: "Shrederator, Uppercut, Upbeat, Bambulance"
@@ -29,6 +30,6 @@ maker:
   description: "Team LOGICOM has been competing in combat robots for almost 20 years. You may have seen our robot, Captain Shrederator, on Discovery Channel's \"Battlebots.\" You may have seen our other robot, Shrederator Tiger Claw, on Youku's \"This is Fighting Robots!\""
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/makers-faire-orlando-2018-1024x424.jpg
 last-modified-db: "2019-11-06 17:22:07"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

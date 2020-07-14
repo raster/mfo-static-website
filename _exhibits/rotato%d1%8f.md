@@ -1,7 +1,8 @@
 ---
 title: "ROTATOЯ"
 slug: rotato%d1%8f
-id: 39307
+permalink: /exhibits/rotato%d1%8f/
+exhibit-id: 39307
 status: 1
 url: https://battlebots.com/robot/rotator-2019/
 description: "Fighting robot ROTATOЯ from the Discovery show BattleBots on display."
@@ -41,6 +42,6 @@ maker:
   description: "BattleBots captain for Team Revolution and designer/builder of ROTATOЯ."
   image-primary: 
 last-modified-db: "2019-11-06 16:20:51"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

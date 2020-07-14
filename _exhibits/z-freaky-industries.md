@@ -1,7 +1,8 @@
 ---
 title: "Z Freaky Industries"
 slug: z-freaky-industries
-id: 37001
+permalink: /exhibits/z-freaky-industries/
+exhibit-id: 37001
 status: 1
 url: 
 description: "Featuring presentations of CAN bus, IoT, Python applications, LED matrixes as wearables, electric skateboards, and advanced Arduino embedded systems."
@@ -71,6 +72,6 @@ maker:
   description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
 last-modified-db: "2019-10-26 13:30:25"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:56"
 sitemap: false
 ---

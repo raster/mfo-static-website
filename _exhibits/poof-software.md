@@ -1,7 +1,8 @@
 ---
 title: "Poof Software"
 slug: poof-software
-id: 34825
+permalink: /exhibits/poof-software/
+exhibit-id: 34825
 status: 3
 url: http://www.poofsoftware.com
 description: "Learn now to use magic to create awesome software!"
@@ -31,6 +32,6 @@ maker:
   description: "adafadsfdasfadf"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
 last-modified-db: "2019-10-31 20:34:36"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

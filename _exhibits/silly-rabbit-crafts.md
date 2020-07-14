@@ -1,7 +1,8 @@
 ---
 title: "Silly Rabbit Crafts"
 slug: silly-rabbit-crafts
-id: 35488
+permalink: /exhibits/silly-rabbit-crafts/
+exhibit-id: 35488
 status: 1
 url: http://www.Sillyrabbitcrafts.com
 description: "Get Pixelated with Silly Rabbit Crafts and explore some awesome Perler items, and even make your OWN!"
@@ -43,6 +44,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/C44-Pac-Man-Set-12-1024x683.jpg
 last-modified-db: "2019-10-26 14:28:34"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

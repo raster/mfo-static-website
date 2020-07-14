@@ -1,7 +1,8 @@
 ---
 title: "Project Development Kit for Electronics and Single-Board Computer Projects"
 slug: project-development-kit-for-electronics-and-single-board-computer-projects
-id: 36801
+permalink: /exhibits/project-development-kit-for-electronics-and-single-board-computer-projects/
+exhibit-id: 36801
 status: 4
 url: https://www.phasedock.com
 description: "Wanted: Makers with Raspberry Pi, Arduino and other electronics projects. The WorkBench Project Development Kit protects your electronics, and makes it easy to manage and transport your project. Plus - you'll be proud to show it off!"
@@ -74,6 +75,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

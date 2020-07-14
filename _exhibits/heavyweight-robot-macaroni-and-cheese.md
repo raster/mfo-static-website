@@ -1,7 +1,8 @@
 ---
 title: "Heavyweight Robot \"Macaroni and Cheese\""
 slug: heavyweight-robot-macaroni-and-cheese
-id: 36159
+permalink: /exhibits/heavyweight-robot-macaroni-and-cheese/
+exhibit-id: 36159
 status: 1
 url: 
 description: "Triplets Spiral, Noodle, and Elbow enter 2 at a time to fight as Macaroni and Cheese at Robot Ruckus 2019!"
@@ -47,6 +48,6 @@ I was the designer of a 250lb heavyweight \"Bellator\" for the 2019 Battlebots t
 When I am not building combat robots, I also enjoy other high-powered radio controlled vehicles, including a 10ft 50lb cargo aircraft which debuted (and crashed spectacularly) at FliteFest South in 2018"
   image-primary: 
 last-modified-db: "2019-11-06 17:44:12"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

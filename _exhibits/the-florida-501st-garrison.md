@@ -1,7 +1,8 @@
 ---
 title: "The Florida 501st Garrison"
 slug: the-florida-501st-garrison
-id: 35078
+permalink: /exhibits/the-florida-501st-garrison/
+exhibit-id: 35078
 status: 1
 url: http://www.fl501st.com
 description: "The Florida 501st Garrison is the Florida chapter of The 501st Legion, a world wide Star Wars costuming organization. Our members come from all walks of life and from all across the state with one common trait, The Empire!"
@@ -39,6 +40,6 @@ maker:
 \"...The Legion is an all-volunteer organization formed for the express purpose of bringing together costume enthusiasts under a collective identity within which to operate. The Legion seeks to promote interest in Star Wars through the building and wearing of quality costumes, and to facilitate the use of these costumes for Star Wars-related events as well as contributions to the local community through costumed charity and volunteer work...\""
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/image.png
 last-modified-db: "2019-10-27 16:29:48"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Dovah Design — Fantasy Props &amp; Costumes"
 slug: dovah-design-fantasy-props-costumes
-id: 36242
+permalink: /exhibits/dovah-design-fantasy-props-costumes/
+exhibit-id: 36242
 status: 1
 url: https://www.dovahdesign.com
 description: "Dovah Design specializes in the creation of custom props, armor, and costumes from her home workshop in Longwood, FL. Specialties include foam carving, mold making, and custom prop design."
@@ -41,6 +42,6 @@ maker:
   description: "I am a prop and costume artist based in sunny Central Florida, USA. Cosplaying and prop making have been my hobbies since 2014, when I was inspired to start by famous prop artists and my favorite video game, Skyrim. There is something incredibly satisfying about bringing fantasy props and costumes into the real world, especially a badass weapon or set of armor."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019-Dovah-Logo_Color-Black-Text.png
 last-modified-db: "2019-11-07 10:30:44"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "FamiLAB Hackerspace"
 slug: familab-hackerspace-2019
-id: 35578
+permalink: /exhibits/familab-hackerspace-2019/
+exhibit-id: 35578
 status: 1
 url: http://familab.org
 description: "FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills &amp; tools to improve ourselves and enrich the world around us. A few of our members have been working on some amazing projects including building our new space. Check out our booth to see what we've been making!"
@@ -77,6 +78,6 @@ maker:
   description: "FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills & tools to improve ourselves and enrich the world around us."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/Top-Logo3.gif
 last-modified-db: "2019-10-29 14:48:27"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Just Okay Co"
 slug: just-okay-co
-id: 40159
+permalink: /exhibits/just-okay-co/
+exhibit-id: 40159
 status: 1
 url: https://justokay.co
 description: "Just Okay Co is a design company based in Orlando Florida owned by Matt Verdier. At this exhibit you will be able to screen-print your own 2 color 11x17 exclusive Maker Faire 2019 poster! (designed by Just Okay Co) They will also have a pop up shop with their selection of fun and affirming merchandise.
@@ -37,6 +38,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019logo2.jpg
 last-modified-db: "2019-11-07 10:38:09"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

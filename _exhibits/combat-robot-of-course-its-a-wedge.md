@@ -1,7 +1,8 @@
 ---
 title: "Combat Robot - Of Course It's A Wedge!"
 slug: combat-robot-of-course-its-a-wedge
-id: 37552
+permalink: /exhibits/combat-robot-of-course-its-a-wedge/
+exhibit-id: 37552
 status: 1
 url: 
 description: "A combat robot designed to flip and competing in the 30Lb 'Sportsman' Class"
@@ -35,6 +36,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:14:00"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

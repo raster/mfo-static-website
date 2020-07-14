@@ -1,7 +1,8 @@
 ---
 title: "Sappho Chocolates - Chocolate Making"
 slug: chocolate-making-2019
-id: 35221
+permalink: /exhibits/chocolate-making-2019/
+exhibit-id: 35221
 status: 1
 url: http://www.sapphochocolates.com
 description: "Professional Chocolatier, Kathryn Neel and her team will teach the art of creating molded chocolates using a variety of fun molds while discussing the art and science of chocolate making."
@@ -56,6 +57,6 @@ Kathryn also teaches coding and robotics at R School in Volusia County.
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Alafaya-Library-150-BY-150.jpg
 last-modified-db: "2019-11-02 09:27:45"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

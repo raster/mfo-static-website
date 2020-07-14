@@ -1,7 +1,8 @@
 ---
 title: "SBD Robotics"
 slug: sbd-robotics
-id: 34853
+permalink: /exhibits/sbd-robotics/
+exhibit-id: 34853
 status: 1
 url: 
 description: "We will have no less than 1 Power Racer with us, and hopefully a 220 lb robot."
@@ -35,6 +36,6 @@ maker:
   description: "Tipsy Robot Racing is a family group of makers who enjoy building and competing in combat robotics and Power Racing Series.  We enjoy designing and fabricating parts in our garage based maker space."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3638-1024x768.jpg
 last-modified-db: "2019-11-06 16:08:06"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

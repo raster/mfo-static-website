@@ -1,7 +1,8 @@
 ---
 title: "GATR Robotics"
 slug: spampreme-robotics
-id: 35958
+permalink: /exhibits/spampreme-robotics/
+exhibit-id: 35958
 status: 1
 url: 
 description: "Here for robot combat, entering two robots."
@@ -29,6 +30,6 @@ maker:
   description: "Here for the robot fights"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7573B1B7-FF7C-4466-8E2B-B1C6F1E19345-1024x791.jpeg
 last-modified-db: "2019-11-06 17:20:15"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

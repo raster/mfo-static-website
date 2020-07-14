@@ -1,7 +1,8 @@
 ---
 title: "Good Robots For Cool People"
 slug: good-robots-for-cool-people
-id: 36654
+permalink: /exhibits/good-robots-for-cool-people/
+exhibit-id: 36654
 status: 4
 url: 
 description: "We are debuting two combat robots; a 250 pound quadruped centaur robot named \"Battlesuit: Hyperchicken\" and a 30 pound sandwich robot named \"Ham Slamwich Deluxe\"! Both robots are fighting in Robot Ruckus!"
@@ -38,6 +39,6 @@ maker:
   description: "Good Robots for Cool People (Formerly Team Poor Life Choices) has competed in various robot competitions since 2001. Most recently we went on Battlebots with \"Battle Royale With Cheese\" a 250 cheese burger! We have two new robots we are bringing to Orlando to compete in Robot Ruckus! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/31886606_628554060838846_2143054192393060352_n.jpg
 last-modified-db: "2019-10-11 21:33:10"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

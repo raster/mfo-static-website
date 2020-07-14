@@ -1,7 +1,8 @@
 ---
 title: "Team X"
 slug: team-x-combat-robots
-id: 35789
+permalink: /exhibits/team-x-combat-robots/
+exhibit-id: 35789
 status: 1
 url: 
 description: "Combat Robots"
@@ -29,6 +30,6 @@ maker:
   description: "Combat robot builders."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2DBBE9DE-D5FA-46BA-AE4F-CAC10D5EEFA4.jpeg
 last-modified-db: "2019-11-06 17:01:29"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

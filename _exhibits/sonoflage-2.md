@@ -1,7 +1,8 @@
 ---
 title: "Soundscape and Noise Control"
 slug: sonoflage-2
-id: 37326
+permalink: /exhibits/sonoflage-2/
+exhibit-id: 37326
 status: 1
 url: https://www.parsound.com
 description: "Parsound provides Peace, Privacy, and Productivity through Sound and Noise Control.  We have invented the World's First Smart Soundscape.  We call it, \"Sonoflage\". "
@@ -70,6 +71,6 @@ maker:
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

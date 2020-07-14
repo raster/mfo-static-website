@@ -1,7 +1,8 @@
 ---
 title: "Marty"
 slug: marty
-id: 37121
+permalink: /exhibits/marty/
+exhibit-id: 37121
 status: 1
 url: http://www.eastcoastrobotics.net
 description: "Marty is a 30lb bot build for combat! \"Robots are coming to take our jobs!\" Marty used to be a humble cart collector at the local grocery store but now bigger and smarter robots have come to take his job and he wants revenge for the little guy!"
@@ -29,6 +30,6 @@ maker:
   description: "My teammates and I worked for Robogames and Combots in the Bay Area for 14 years (pitrunner, arena builders, arena wranglers, safety crew and head judge) we work the Winter Challenge in Brazil and competed in Battlebots with a 60lb bot 2000-2004 and I am currently one of the fabricators, pit crew as well as transport drone driver for Tombstone in Battlebots.  Our team, East Coast Robotics, led by two of our lead designers/fabricators: Michael Thombs and Steve Rys, even introduced airborne combat to the arena in 2013 on Discovery's \"Killer Robots\" with a quadcopter style flame-shooting bot!  We are educators and always looking for opportunities to bring something new and creative (and fun) to the sport mainly to expose the youngsters to just how exciting engineering is when it collides with creativity :)"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mauler5150-1024x1024.jpg
 last-modified-db: "2019-11-06 17:44:35"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

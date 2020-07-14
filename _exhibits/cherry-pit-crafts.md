@@ -1,7 +1,8 @@
 ---
 title: "Cherry Pit Crafts"
 slug: cherry-pit-crafts
-id: 34947
+permalink: /exhibits/cherry-pit-crafts/
+exhibit-id: 34947
 status: 1
 url: https://www.cherrypitcrafts.com/
 description: "Geeky themed handcrafted home fragrance, all natural bath, beauty and spa products."
@@ -42,6 +43,6 @@ maker:
   description: "Creators of handcrafted all natural bath and body products"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/cherrieslogo.png
 last-modified-db: "2019-10-27 17:00:43"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

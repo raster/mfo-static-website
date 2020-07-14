@@ -1,7 +1,8 @@
 ---
 title: "Build Big Ideas With Everblocks"
 slug: build-big-ideas-with-everblocks
-id: 39802
+permalink: /exhibits/build-big-ideas-with-everblocks/
+exhibit-id: 39802
 status: 1
 url: https://moonlighterfablab.org
 description: "What would you build with giant legos? Come make your giant ideas a reality with Moonlighter Makerspace and Everblock!"
@@ -32,6 +33,6 @@ maker:
   description: "Moonlighter is a membership-based digital fabrication lab, S.T.E.A.M. learning center, and creative co-working space. We feature and support local creators and aspire to engage our communities with fun educational experiences that foster the growing maker movement. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Moonlighter_Logo-967x1024.png
 last-modified-db: "2019-10-20 12:20:03"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

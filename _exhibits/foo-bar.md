@@ -1,7 +1,8 @@
 ---
 title: "Foo Bar"
 slug: foo-bar
-id: 35984
+permalink: /exhibits/foo-bar/
+exhibit-id: 35984
 status: 1
 url: 
 description: "This is a 150 gram combat robot with a horizontal blade."
@@ -29,6 +30,6 @@ maker:
   description: "Team Loki has been building combat robots since 2001."
   image-primary: 
 last-modified-db: "2019-11-06 17:21:28"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

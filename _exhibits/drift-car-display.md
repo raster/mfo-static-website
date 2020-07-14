@@ -1,7 +1,8 @@
 ---
 title: "Drift Car Display"
 slug: drift-car-display
-id: 39065
+permalink: /exhibits/drift-car-display/
+exhibit-id: 39065
 status: 1
 url: 
 description: "Grassroots drift cars on display.  Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
@@ -29,6 +30,6 @@ maker:
   description: "Team Witch Doctor is based in Miami, Florida, and most recently competed in BattleBots on ABC with their multi-bot Witch Doctor and Shaman. The team has been competing combat robots ranging from 150 grams to 250 pounds for the last 10+ years."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Witch-Doctor-Team-S2019-1024x683.jpg
 last-modified-db: "2019-10-05 13:12:22"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

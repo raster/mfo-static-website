@@ -1,7 +1,8 @@
 ---
 title: "DIY Astronomy"
 slug: diy-astronomy
-id: 37934
+permalink: /exhibits/diy-astronomy/
+exhibit-id: 37934
 status: 1
 url: https://www.seminolestate.edu/planet
 description: "The Emil Buehler Planetarium and the Central Florida Astronomical Society will be showcasing some out-of-this-world DIY astronomy projects that you can make yourself either at home or at school! "
@@ -47,6 +48,6 @@ maker:
   description: "We are featuring astronomical DIY projects including telescopes, space arts and crafts, astronomical accessories, and more. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DSC_0116-811x1024.jpg
 last-modified-db: "2019-11-04 15:05:06"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

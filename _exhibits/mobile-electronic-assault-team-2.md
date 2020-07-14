@@ -1,7 +1,8 @@
 ---
 title: "Mobile Electronic Assault Team"
 slug: mobile-electronic-assault-team-2
-id: 36079
+permalink: /exhibits/mobile-electronic-assault-team-2/
+exhibit-id: 36079
 status: 1
 url: 
 description: "Heavyweight and 30 lb combat robots"
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Rat-Fish-1024x576.jpg
 last-modified-db: "2019-11-06 17:37:58"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

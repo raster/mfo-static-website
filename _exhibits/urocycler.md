@@ -1,7 +1,8 @@
 ---
 title: "The UroCycler Automatic Bladder Management System"
 slug: urocycler
-id: 38800
+permalink: /exhibits/urocycler/
+exhibit-id: 38800
 status: 1
 url: https://www.urocyclers.com/our-impact
 description: "A small mdeical device that can save thousands of lives at a ridiculously low cost."
@@ -38,6 +39,6 @@ maker:
   description: "Dr. David Flinchbaugh is listed as the inventor on hundreds of patents.  He has a PHD in physics and a long history of innovative designs.  He has been the president of Inventors Council of Central Florida for over 40 years and has helped hundreds of people move their ideas toward products.  "
   image-primary: 
 last-modified-db: "2019-10-26 12:37:01"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

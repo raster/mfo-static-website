@@ -1,7 +1,8 @@
 ---
 title: "DooRite Robot Sculptures"
 slug: doorite-robot-sculptures
-id: 36634
+permalink: /exhibits/doorite-robot-sculptures/
+exhibit-id: 36634
 status: 1
 url: https://www.dooritebots.com/
 description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
@@ -29,6 +30,6 @@ maker:
   description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0018-1-768x1024.jpg
 last-modified-db: "2019-10-26 12:47:24"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

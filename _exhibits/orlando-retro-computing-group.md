@@ -1,7 +1,8 @@
 ---
 title: "Orlando Retro Computing Group"
 slug: orlando-retro-computing-group
-id: 36979
+permalink: /exhibits/orlando-retro-computing-group/
+exhibit-id: 36979
 status: 1
 url: https://www.meetup.com/Orlando-Retro-Computing-Group/
 description: "We're a bunch of computing hobbyists in central Florida."
@@ -48,6 +49,6 @@ maker:
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-28 08:55:23"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

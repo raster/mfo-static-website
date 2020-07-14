@@ -1,7 +1,8 @@
 ---
 title: "Tonality – Music Theory"
 slug: tonality-music-theory
-id: 35970
+permalink: /exhibits/tonality-music-theory/
+exhibit-id: 35970
 status: 1
 url: https://tonality-app.com
 description: "I have created an app for musicians called Tonality – a comprehensive guide to chords, scales, and much more. It has tons of interactive features to demonstrate, including the ability to play it like a musical instrument, plug in a MIDI keyboard, or identify chords from acoustic instruments like guitars. Tonality is also accessible for the blind."
@@ -45,6 +46,6 @@ maker:
   description: "I am a computer science / mathematics student at the University of Florida. I am also interested in music – I have played piano for over 11 years as well as trumpet and bass for four years. In my spare time I have been working on an app called Tonality, which is designed to be the ultimate tool for musicians of all levels. I went to Maker Faire once with my high school robotics team (Roaring Riptide)."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1024x1024.png
 last-modified-db: "2019-10-28 10:19:26"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

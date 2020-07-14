@@ -1,7 +1,8 @@
 ---
 title: "MIDI Channel Mapper"
 slug: midi-channel-mapper
-id: 36259
+permalink: /exhibits/midi-channel-mapper/
+exhibit-id: 36259
 status: 1
 url: https://github.com/bagofarms/midi-channel-mapper
 description: "The MIDI-chlorian Collective will be showcasing their latest project:  the MIDI Channel Mapper.  This device allows you to map any input MIDI channel to any output MIDI channel with a user-friendly interface.  We will be sharing our experience creating it as well as demonstrating how it is used with real musical instruments."
@@ -47,6 +48,6 @@ maker:
   description: "The MIDI-chlorians are a collective of performing musicians and engineers. We make solutions to musical problems using common tools like Arduinos and Rapsberry Pis and share them with the maker community."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-1024x678.png
 last-modified-db: "2019-10-26 12:49:22"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Airigami Bubble Mural TM"
 slug: airigami-bubble-mural-tm
-id: 35176
+permalink: /exhibits/airigami-bubble-mural-tm/
+exhibit-id: 35176
 status: 3
 url: https://www.airigami.com/
 description: "Airigami Bubble Mural TM is a creative installation built by community members using easy to inflate and biodegradable latex balloons! It’s the perfect visual demonstration of how many small efforts can create tremendous results."
@@ -40,6 +41,6 @@ maker:
   description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

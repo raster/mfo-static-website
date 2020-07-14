@@ -1,7 +1,8 @@
 ---
 title: "Learn by Doing. Come build a drone from scratch..."
 slug: learn-by-doing-come-build-a-drone-from-scratch
-id: 35542
+permalink: /exhibits/learn-by-doing-come-build-a-drone-from-scratch/
+exhibit-id: 35542
 status: 4
 url: http://107Aviation.com/107aviation
 description: "Sign up for a drone building workshop provided by 107 AVIATION. The workshop is based on multiple mechatronic design and engineering components. I'm open to ideas and suggestions."
@@ -68,6 +69,6 @@ maker:
   description: "A new life with drones. A local commercial drone pilot and owner of 107 Aviation, a drone services company. Background in embedded electronics design from Florida Tech and local community maker at MakerFX. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/107aviation_square-1-1024x1024.png
 last-modified-db: "2019-09-30 16:17:07"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

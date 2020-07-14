@@ -1,7 +1,8 @@
 ---
 title: "Driftie Monster 2.0"
 slug: driftie-monster-2-0
-id: 39086
+permalink: /exhibits/driftie-monster-2-0/
+exhibit-id: 39086
 status: 1
 url: http://www.makerfx.org
 description: "Rocket car was good, drifitie was fun, combine the two into one powerhouse of blue fur and brushless power!"
@@ -29,6 +30,6 @@ maker:
   description: "Power wheels aren't for kids anymore."
   image-primary: 
 last-modified-db: "2019-10-07 14:31:31"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

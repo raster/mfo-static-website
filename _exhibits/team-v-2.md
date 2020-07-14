@@ -1,7 +1,8 @@
 ---
 title: "Team V"
 slug: team-v-2
-id: 37963
+permalink: /exhibits/team-v-2/
+exhibit-id: 37963
 status: 1
 url: 
 description: "Combat robots"
@@ -32,6 +33,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-07 21:32:23"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

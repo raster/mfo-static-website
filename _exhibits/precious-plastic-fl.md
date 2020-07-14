@@ -1,7 +1,8 @@
 ---
 title: "Precious Plastic FL"
 slug: precious-plastic-fl
-id: 39133
+permalink: /exhibits/precious-plastic-fl/
+exhibit-id: 39133
 status: 4
 url: https://www.PreciousPlasticLA.com
 description: "Please see my adobe spark presentation for a detailed description of the project.
@@ -40,6 +41,6 @@ maker:
   description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

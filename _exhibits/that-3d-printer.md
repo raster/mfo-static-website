@@ -1,7 +1,8 @@
 ---
 title: "That 3D Printer"
 slug: that-3d-printer
-id: 35368
+permalink: /exhibits/that-3d-printer/
+exhibit-id: 35368
 status: 3
 url: http://www.that3dprinter.com
 description: "3D Printed items with a focus on quickly printed custom items and gaming"
@@ -38,6 +39,6 @@ maker:
   description: "Started 3D printing with a Printrbot and fell in love with the technology.  I draw on my engineering and 3D modeling background to produce custom items to print.  Gaming has always been a big influence; most of what I do is related to games.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/cropped-t3dp_logotype.jpg
 last-modified-db: "2019-09-09 20:57:22"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Bone Dead Robotics- Combat Robots"
 slug: bone-dead-robotics-combat-robots
-id: 36456
+permalink: /exhibits/bone-dead-robotics-combat-robots/
+exhibit-id: 36456
 status: 1
 url: http://www.teambonedead.com
 description: "This is for our combat robot team which plans to compete at the Robot Ruckus. We plan to bring our 30lb Sportsman robot \"Reckoning.\" "
@@ -59,6 +60,6 @@ maker:
   description: "We are a combat robotics team who builds and competes fighting robots. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

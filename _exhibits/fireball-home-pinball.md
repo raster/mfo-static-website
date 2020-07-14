@@ -1,7 +1,8 @@
 ---
 title: "Fireball Home Pinball"
 slug: fireball-home-pinball
-id: 34003
+permalink: /exhibits/fireball-home-pinball/
+exhibit-id: 34003
 status: 3
 url: http://www.fireballpinball.com
 description: "Its a pinball machine. With a Raspberry Pi. We made it. It's awesome."
@@ -43,6 +44,6 @@ maker:
   description: "I like to make stuff. Occasionally, that stuff is awesome :')"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/ic_familab_shirt_450x550.png
 last-modified-db: "2019-10-14 21:17:37"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "GCD Armory"
 slug: gcd-armory
-id: 35337
+permalink: /exhibits/gcd-armory/
+exhibit-id: 35337
 status: 1
 url: 
 description: "A showcase of cool unique personalized prop work. "
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/1072AA45-42CC-4B3B-8C47-46949F15EF23.png
 last-modified-db: "2019-10-18 17:29:31"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

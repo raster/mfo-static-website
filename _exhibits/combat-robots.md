@@ -1,7 +1,8 @@
 ---
 title: "MowPlex - combat robot"
 slug: combat-robots
-id: 36306
+permalink: /exhibits/combat-robots/
+exhibit-id: 36306
 status: 1
 url: 
 description: "fighting combat robots"
@@ -38,6 +39,6 @@ maker:
   description: "builder of combat robots for Battlebots "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
 last-modified-db: "2019-11-06 18:05:13"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

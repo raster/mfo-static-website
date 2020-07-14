@@ -1,7 +1,8 @@
 ---
 title: "Team Ice: Combat Robot (Insect Weight Class)"
 slug: combat-robot-3
-id: 36134
+permalink: /exhibits/combat-robot-3/
+exhibit-id: 36134
 status: 1
 url: 
 description: "Part of the Robot Ruckus. Competing in the insect weight class (150g and 3lb weight class)"
@@ -32,6 +33,6 @@ maker:
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

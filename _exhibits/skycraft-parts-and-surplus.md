@@ -1,7 +1,8 @@
 ---
 title: "Skycraft Parts and Surplus"
 slug: skycraft-parts-and-surplus
-id: 39181
+permalink: /exhibits/skycraft-parts-and-surplus/
+exhibit-id: 39181
 status: 1
 url: http://www.skycraftsurplus.com/about-us.aspx
 description: "Check out what's new at Orlando's favorite surplus store!"
@@ -52,6 +53,6 @@ maker:
 We feature electronic parts, electrical supplies, hardware, wire and cable, test equipment, and thousands of hard to find items. Skycraft is an ideal place for hobbyists, model builders, audiophiles, artists, and the do-it-yourself electronic enthusiast."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/skycraft_600px.jpg
 last-modified-db: "2019-10-26 13:56:20"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

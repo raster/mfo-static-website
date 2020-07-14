@@ -1,7 +1,8 @@
 ---
 title: "Combat Robotics Team Shellshock"
 slug: combat-robotics-team-shellshock
-id: 36758
+permalink: /exhibits/combat-robotics-team-shellshock/
+exhibit-id: 36758
 status: 1
 url: https://outreach.rollingrobots.com/battlebots
 description: "BattleBots Team Shellshock. Will display our robot and demonstrate its turtle power in the battle box."
@@ -30,6 +31,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

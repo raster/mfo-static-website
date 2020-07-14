@@ -1,7 +1,8 @@
 ---
 title: "Walle builders club"
 slug: walle-builders-club
-id: 36534
+permalink: /exhibits/walle-builders-club/
+exhibit-id: 36534
 status: 1
 url: 
 description: "Scratch build fully functional wall e robot"
@@ -45,6 +46,6 @@ maker:
   description: "We make walle Robot from the movie walle compleate from scratch "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190518_163051-498x1024.jpg
 last-modified-db: "2019-10-27 17:41:47"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

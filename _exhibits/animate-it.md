@@ -1,7 +1,8 @@
 ---
 title: "Animate It"
 slug: animate-it
-id: 34866
+permalink: /exhibits/animate-it/
+exhibit-id: 34866
 status: 4
 url: http://www.gerisues.org/animated_cakes
 description: "I make animated cakes for children dying of cancer.  "
@@ -38,6 +39,6 @@ maker:
   description: "I make animated cakes for children dying with cancer. For example, if I make a dog cake, the mouth opens and closes and barks, the paws tap, the ears wiggle and the tail wags. For a dragon, the wings flap, the mouth opens and roars, the tail wags and the claws move."
   image-primary: 
 last-modified-db: "2019-11-07 14:29:57"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

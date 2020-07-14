@@ -1,7 +1,8 @@
 ---
 title: "Myra Makes Creative Adventure Space"
 slug: myra-makes-creative-adventure-space
-id: 36256
+permalink: /exhibits/myra-makes-creative-adventure-space/
+exhibit-id: 36256
 status: 1
 url: https://MyraMakes.com
 description: "The Myra Makes Creative Adventure Space is a place for kids aged 4-12 and their families to participate in roleplaying, invention, and arts and crafts activities centered on empathy, design thinking, and problem solving. "
@@ -68,6 +69,6 @@ maker:
   description: "Myra Makes is a creative education startup which publishes books and games that help kids develop creative, problem-solving, and emotional skills. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
 last-modified-db: "2019-10-26 13:04:35"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

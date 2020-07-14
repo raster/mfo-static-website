@@ -1,7 +1,8 @@
 ---
 title: "G3 Robotics"
 slug: g3-robotics
-id: 36230
+permalink: /exhibits/g3-robotics/
+exhibit-id: 36230
 status: 1
 url: 
 description: "Fighting robots"
@@ -31,6 +32,6 @@ maker:
   description: "Cosplay, Robots, Photography"
   image-primary: 
 last-modified-db: "2019-11-06 18:02:23"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

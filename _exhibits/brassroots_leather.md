@@ -1,7 +1,8 @@
 ---
 title: "Brassroots Leather"
 slug: brassroots_leather
-id: 35981
+permalink: /exhibits/brassroots_leather/
+exhibit-id: 35981
 status: 1
 url: http://www.brassrootsleather.com
 description: "Steampunk Inspired Leatherware and more."
@@ -32,6 +33,6 @@ maker:
   description: "A home hobby shop that has taken adopted Steampunk inspired leather crafting. We strive to make things new, fresh and unique.  Our items vary in size and can be big or small, all with the customer's design in mind. We make personal items that take hours of pre-planning, designing and learning of new crafts in order to complete, many are more than just leather. Using drafting knowledge, we review all parts of the design prior to construction, details, and even measurements to assure that everything fits exactly to how we need it. We are ever growing in our makings, items, ideas, and costume builds. Please check out our links to see all we have accomplished."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/Brassroots-Icon.png
 last-modified-db: "2019-10-27 17:49:15"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

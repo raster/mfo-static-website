@@ -1,7 +1,8 @@
 ---
 title: "Team Wedgie"
 slug: team-wedgie
-id: 37195
+permalink: /exhibits/team-wedgie/
+exhibit-id: 37195
 status: 1
 url: 
 description: "We like the build and the destroy!"
@@ -32,6 +33,6 @@ maker:
   description: "New to combat robots and ready to build, destroy and repeat."
   image-primary: 
 last-modified-db: "2019-11-06 17:28:14"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

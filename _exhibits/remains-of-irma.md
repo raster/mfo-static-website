@@ -1,7 +1,8 @@
 ---
 title: "Remains of Irma"
 slug: remains-of-irma
-id: 38966
+permalink: /exhibits/remains-of-irma/
+exhibit-id: 38966
 status: 4
 url: 
 description: "30 lb Sportsman Class Battle Bot"
@@ -29,6 +30,6 @@ maker:
   description: "Two engineers that like to make things as much as calculate things"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_3187-768x1024.jpg
 last-modified-db: "2019-10-13 10:45:01"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

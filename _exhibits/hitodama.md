@@ -1,7 +1,8 @@
 ---
 title: "Hitodama"
 slug: hitodama
-id: 34844
+permalink: /exhibits/hitodama/
+exhibit-id: 34844
 status: 2
 url: 
 description: "Hitodama sells original handmade jewelry, buttons, pins, and art."
@@ -44,6 +45,6 @@ maker:
   description: "Hitodama dabbles in various arts and crafts."
   image-primary: 
 last-modified-db: "2019-07-22 21:24:15"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

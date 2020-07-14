@@ -1,7 +1,8 @@
 ---
 title: "The Rebel Legion - Ra Kura Base"
 slug: the-rebel-legion-ra-kura-base
-id: 35801
+permalink: /exhibits/the-rebel-legion-ra-kura-base/
+exhibit-id: 35801
 status: 1
 url: http://www.rakurabase.org
 description: "Ra Kura is the Florida Base of the Rebel Legion – a worldwide Star Wars costuming organization comprised of and operated by Star Wars fans. Formed in 2000, the Rebel Legion is a global volunteer organization of enthusiasts who enjoy, express, and share their interest of quality Star Wars costuming with the fan community."
@@ -33,6 +34,6 @@ maker:
   description: "We are the Ra Kura Base of the Rebel Legion, serving the state of Florda.  The Rebel Legion is an international costuming club dedicated to sharing and enjoying costuming talents, promoting the quality and improvement of Star Wars costumes, and giving back to the community through works of charity and volunteerism."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RaKuraBase.png
 last-modified-db: "2019-10-27 16:30:26"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

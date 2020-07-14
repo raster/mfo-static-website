@@ -1,7 +1,8 @@
 ---
 title: "Team aRUSTocrats"
 slug: team-arustocrats
-id: 36182
+permalink: /exhibits/team-arustocrats/
+exhibit-id: 36182
 status: 1
 url: 
 description: "We build fast go karts on a college dorm room budget using 3dprinting, spare parts, and found materials."
@@ -41,6 +42,6 @@ maker:
   description: "Weirdo machinist and engineer who loves making rideable projects, like ebikes and gokarts, using digital design and fabrication."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/profile.jpg
 last-modified-db: "2019-08-17 21:44:58"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

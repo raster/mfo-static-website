@@ -1,7 +1,8 @@
 ---
 title: "CREOL Student Projects"
 slug: creol-student-projects-showcase
-id: 34914
+permalink: /exhibits/creol-student-projects-showcase/
+exhibit-id: 34914
 status: 1
 url: http://www.creol.ucf.edu
 description: "Optics and Photonics is the science and technology of light: from powerful lasers, energy-efficient LEDs, to fiber communication and bio-medical imaging. Come and learn about this emerging STEM field with interactive demonstrations contributed by students from CREOL, The College of Optics and Photonics at UCF."
@@ -55,6 +56,6 @@ maker:
   description: "CREOL, The College of Optics and Photonics at University of Central Florida is a world leader in education, research, and industrial partnership in the field of optics and photonics. Students at CREOL use spare time to design and build demonstration setups that showcase the concepts and applications of photonics, from topics as simple as the reflection and refraction of light, to technologies as complicated as fiber communication and optical imaging. With these home-made setups, we have participated in a variety of university and community outreach events including CREOL’s Optics Day, STEM day, K-12 teach-in etc every year."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/UILexternal_KGrgb_CREOL-The-College-of-Optics-and-Photonics-300dpi-1024x209.png
 last-modified-db: "2019-10-27 16:33:58"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

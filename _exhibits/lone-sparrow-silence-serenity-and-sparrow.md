@@ -1,7 +1,8 @@
 ---
 title: "Sparrow Robotics- Cheat Code and Saint Michael"
 slug: lone-sparrow-silence-serenity-and-sparrow
-id: 37816
+permalink: /exhibits/lone-sparrow-silence-serenity-and-sparrow/
+exhibit-id: 37816
 status: 1
 url: 
 description: " Beetleweight and  Antweight combat robots competing at the Battles at Maker Faire Orlando 2018. "
@@ -32,6 +33,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

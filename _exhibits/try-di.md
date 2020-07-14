@@ -1,7 +1,8 @@
 ---
 title: "TRY DI!"
 slug: try-di
-id: 35561
+permalink: /exhibits/try-di/
+exhibit-id: 35561
 status: 1
 url: https://www.floridadi.org
 description: "Test your creativity and try a Destination Imagination Challenge."
@@ -35,6 +36,6 @@ maker:
   description: "Florida Destination Imagination promotes STEAM and project based learning in Florida by supporting Destination Imagination and presenting an annual competition celebrating creative problem solving."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/10-percent-florida-di-logo-2.png
 last-modified-db: "2019-10-28 19:20:46"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

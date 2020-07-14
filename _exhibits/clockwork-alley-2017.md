@@ -1,7 +1,8 @@
 ---
 title: "Clockwork Alley"
 slug: clockwork-alley-2017
-id: 37502
+permalink: /exhibits/clockwork-alley-2017/
+exhibit-id: 37502
 status: 1
 url: https://www.etsy.com/shop/ClockworkAlley?ref=shop_sugg
 description: "Handmade steampunk inspired jewelry."
@@ -32,6 +33,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
 last-modified-db: "2019-10-27 17:47:48"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

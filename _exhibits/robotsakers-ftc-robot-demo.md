@@ -1,7 +1,8 @@
 ---
 title: "RobotSakers FTC #17613"
 slug: robotsakers-ftc-robot-demo
-id: 37580
+permalink: /exhibits/robotsakers-ftc-robot-demo/
+exhibit-id: 37580
 status: 1
 url: 
 description: "Our team will present our small-scale robot, how it works, and how you can get involved in FIRST to work with your own team and build a robot."
@@ -29,6 +30,6 @@ maker:
   description: "RobotSakers was launched as a FIRST Tech Challenge program by a group of students with an interest in engineering and robotics.  Our team’s mission is to inspire young people to become leaders in Science, Technology, Engineering, and Mathematics by developing partnerships with industry professionals to solve annual engineering challenges put forth by FIRST.  We are building a foundation of technical skills, social skills, and values to create leaders in the STEM community."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Robotsakers-logo.png
 last-modified-db: "2019-10-29 13:22:23"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

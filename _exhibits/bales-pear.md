@@ -1,7 +1,8 @@
 ---
 title: "Bale’s Pear"
 slug: bales-pear
-id: 35497
+permalink: /exhibits/bales-pear/
+exhibit-id: 35497
 status: 1
 url: 
 description: "250 pound fighting robot"
@@ -32,6 +33,6 @@ maker:
   description: "Combat robot builder"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/12953188_1167146003309214_1268559014_o-1024x768.jpg
 last-modified-db: "2019-11-06 16:49:32"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

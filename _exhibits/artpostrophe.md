@@ -1,7 +1,8 @@
 ---
 title: "Artpostrophe"
 slug: artpostrophe
-id: 36348
+permalink: /exhibits/artpostrophe/
+exhibit-id: 36348
 status: 1
 url: https://www.patreon.com/artpostropheamy
 description: "An artist and visual storyteller creating art to make people smile!"
@@ -29,6 +30,6 @@ maker:
   description: "Amy is an artist and visual storyteller. Working in both traditional and digital media, she enjoys creating art that immerses people in new worlds and make them smile. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/0ABEC6E9-8DC3-4D49-B53A-49890D4D45B7-1024x1024.png
 last-modified-db: "2019-10-18 18:07:43"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

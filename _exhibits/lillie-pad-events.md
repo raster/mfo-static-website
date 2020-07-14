@@ -1,7 +1,8 @@
 ---
 title: "Lillie Pad Events"
 slug: lillie-pad-events
-id: 36376
+permalink: /exhibits/lillie-pad-events/
+exhibit-id: 36376
 status: 1
 url: http://lilliepad.events
 description: "Lillie Pad Events is a Mobile Makerspace. We will be showing examples of available activities that can be booked for events.  We will be selling straw connector kits."
@@ -56,6 +57,6 @@ maker:
   description: "Lillie Pad Events is a mobile makerspace for children.  Lillie Pad Events brings the maker activities to schools, parties and many other events."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Vista-Print-Front.jpg
 last-modified-db: "2019-10-26 13:21:49"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

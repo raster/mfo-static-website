@@ -1,7 +1,8 @@
 ---
 title: "Blackhart Films"
 slug: blackhart-films
-id: 34845
+permalink: /exhibits/blackhart-films/
+exhibit-id: 34845
 status: 1
 url: http://www.blackhartfilms.com
 description: "A table layout with a variety of 3D printed props, dioramas, etc.... "
@@ -71,6 +72,6 @@ Locally I've worked as a photographer, filmmaker, and technical supervisor for m
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
 last-modified-db: "2019-10-29 14:47:22"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

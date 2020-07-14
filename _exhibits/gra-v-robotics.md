@@ -1,7 +1,8 @@
 ---
 title: "Gra-V Robotics"
 slug: gra-v-robotics
-id: 36935
+permalink: /exhibits/gra-v-robotics/
+exhibit-id: 36935
 status: 1
 url: http://5816gra-v.com/
 description: "Gra-V Robotics is an inclusive, diverse, and welcoming family of FIRST Robotics teams consisting of student members from communities throughout Central Florida."
@@ -53,6 +54,6 @@ maker:
   description: "We are a FIRST Robotics family of teams that are based in Central Florida.  Our teams, we are open to students in grade K-12 from around Orlando who would like to participate in robotics.  Joins us and have fun #morethanrobots #5816pitcrew #gravtrain"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/GRA-V-Standard-791x1024.png
 last-modified-db: "2019-10-26 14:41:24"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

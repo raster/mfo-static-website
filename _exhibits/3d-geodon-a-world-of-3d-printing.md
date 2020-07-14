@@ -1,7 +1,8 @@
 ---
 title: "3D GeoDon - A World of 3D Printing"
 slug: 3d-geodon-a-world-of-3d-printing
-id: 35286
+permalink: /exhibits/3d-geodon-a-world-of-3d-printing/
+exhibit-id: 35286
 status: 3
 url: 
 description: "Explore the world of possibilities with 3D printing."
@@ -35,6 +36,6 @@ maker:
   description: "Maker and 3D printer. I own several printer ranging from inexpensive to more expensive. I consider myself to be of Intermedite to Advanced  skill level."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2B39041E-58DB-49B7-9033-7321E988877F-779x1024.jpeg
 last-modified-db: "2019-09-09 20:45:56"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

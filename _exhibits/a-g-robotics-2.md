@@ -1,7 +1,8 @@
 ---
 title: "A.G. Robotics"
 slug: a-g-robotics-2
-id: 36620
+permalink: /exhibits/a-g-robotics-2/
+exhibit-id: 36620
 status: 1
 url: 
 description: " Combat Robotics Team"
@@ -29,6 +30,6 @@ maker:
   description: " A combat robot team of 17 years, A.G. Robotics began in Florida, but has moved to different regions in different phases of life, competing with the best around the country. "
   image-primary: 
 last-modified-db: "2019-11-06 18:11:16"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

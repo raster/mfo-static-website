@@ -1,7 +1,8 @@
 ---
 title: "Elk Robotics"
 slug: elk-robotics
-id: 36131
+permalink: /exhibits/elk-robotics/
+exhibit-id: 36131
 status: 1
 url: 
 description: "A combat robotics team from Miami Florida."
@@ -29,6 +30,6 @@ maker:
   description: "Combat robotics team from Miami Florida. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/C8A7BC13-D0CA-4A0B-8BC0-6788267B0B3D.jpeg
 last-modified-db: "2019-11-06 17:39:00"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

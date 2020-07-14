@@ -1,7 +1,8 @@
 ---
 title: "Mammoth 2019"
 slug: mammoth-2019
-id: 37565
+permalink: /exhibits/mammoth-2019/
+exhibit-id: 37565
 status: 1
 url: https://battlebots.com/robot/mammoth-2019/
 description: "Mammoth is a 250lb Combat Robot featured on Discovery Channel's BattleBots. Armed with a rotating arm 6 feet in diameter, Mammoth is likely the largest heavyweight combat robot ever constructed. "
@@ -49,6 +50,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

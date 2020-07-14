@@ -1,7 +1,8 @@
 ---
 title: "GenVizer"
 slug: genvizer
-id: 39719
+permalink: /exhibits/genvizer/
+exhibit-id: 39719
 status: 1
 url: https://www.nathanrumsey.com
 description: "3D animation technology for video games and virtual reality products"
@@ -83,6 +84,6 @@ maker:
   description: "specializes in 3D animation technology for video games and virtual reality products."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/20170601_083609-1024x768.jpg
 last-modified-db: "2019-11-05 15:26:03"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

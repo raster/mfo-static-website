@@ -1,7 +1,8 @@
 ---
 title: "Surrenderbotics"
 slug: surrenderbotics
-id: 37004
+permalink: /exhibits/surrenderbotics/
+exhibit-id: 37004
 status: 4
 url: 
 description: "Silly and sometimes ok combat robots "
@@ -29,6 +30,6 @@ maker:
   description: "I make silly robots like Surrenderbot and Free hugs "
   image-primary: 
 last-modified-db: "2019-11-06 18:06:46"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "The Landspeeder"
 slug: the-landspeeder
-id: 35085
+permalink: /exhibits/the-landspeeder/
+exhibit-id: 35085
 status: 1
 url: 
 description: "The Landspeeder is a bespoke power racing series car that will compete in the Orlando Power Racing Series event"
@@ -43,6 +44,6 @@ maker:
   description: "Uttini Racing will be racing their salvaged X-34 Landspeeder in the Power Racing Series event at MFO 2019"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/joe-in-landspeeder-1024x768.jpg
 last-modified-db: "2019-10-28 05:54:42"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Fritz's Soap Shoppe"
 slug: still-working-on-a-name
-id: 36725
+permalink: /exhibits/still-working-on-a-name/
+exhibit-id: 36725
 status: 1
 url: http://www.fritzsoapshoppe.com
 description: "Handmade soaps including seasonal &amp; pop culture designs."
@@ -32,6 +33,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 10:50:22"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

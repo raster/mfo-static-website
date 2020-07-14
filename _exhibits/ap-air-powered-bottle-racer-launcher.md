@@ -1,7 +1,8 @@
 ---
 title: "AP (Air-Powered) Bottle Racer Launcher"
 slug: ap-air-powered-bottle-racer-launcher
-id: 35504
+permalink: /exhibits/ap-air-powered-bottle-racer-launcher/
+exhibit-id: 35504
 status: 1
 url: https://www.bocabearings.com/
 description: "The AP Bottle Racer Launcher features a double-launching mechanism"
@@ -51,6 +52,6 @@ maker:
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-11-06 15:41:36"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Animated Projection Mapping"
 slug: animated-projection-mapping
-id: 37784
+permalink: /exhibits/animated-projection-mapping/
+exhibit-id: 37784
 status: 1
 url: https://www.enlightenedmonkeyarts.com/
 description: "ENLIGHTENED MONKEY ARTS uses cutting edge technology to create a site specific projection mapping exhibit.  Projections will be shown on 3D objects. Display with include interactive elements including fog machine and smog puffer. 
@@ -39,6 +40,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-27 16:34:34"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "ROCKSTAR ROBOTICS"
 slug: rockstar-robotics
-id: 40431
+permalink: /exhibits/rockstar-robotics/
+exhibit-id: 40431
 status: 1
 url: http://rockstarrobotics.wixsite.com/rockstarrobot
 description: "Present our team robots"
@@ -54,6 +55,6 @@ maker:
 We would like to present our robots from our team."
   image-primary: 
 last-modified-db: "2019-11-02 11:47:01"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

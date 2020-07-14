@@ -1,7 +1,8 @@
 ---
 title: "Calculated Crafts"
 slug: calculated-crafts
-id: 37567
+permalink: /exhibits/calculated-crafts/
+exhibit-id: 37567
 status: 4
 url: http://www.calculatedcrafts.com
 description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
@@ -41,6 +42,6 @@ maker:
   description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_7392-1024x1024.jpg
 last-modified-db: "2019-10-17 08:59:28"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

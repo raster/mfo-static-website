@@ -1,7 +1,8 @@
 ---
 title: "Standard Vendor Spot"
 slug: standard-vendor-spot
-id: 37023
+permalink: /exhibits/standard-vendor-spot/
+exhibit-id: 37023
 status: 3
 url: 
 description:
@@ -35,6 +36,6 @@ maker:
   description: "Handmade purse, bows, bags and more "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
 last-modified-db: "2019-09-09 22:05:03"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

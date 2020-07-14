@@ -1,7 +1,8 @@
 ---
 title: "Switch and Relay Logic Ciruits"
 slug: switch-and-relay-logic-circuits
-id: 36813
+permalink: /exhibits/switch-and-relay-logic-circuits/
+exhibit-id: 36813
 status: 1
 url: http://knickknackatory.com/?p=24
 description: "A hands-on demonstration of binary logic circuits using only switches and relays."
@@ -56,6 +57,6 @@ maker:
   description: "An electronics engineer with an interest in old-school switching logic."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
 last-modified-db: "2019-10-27 16:54:07"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Team \"Panzer Jagers\""
 slug: team-panzer-jagers
-id: 37844
+permalink: /exhibits/team-panzer-jagers/
+exhibit-id: 37844
 status: 1
 url: 
 description: "Robot Combat Team \"Panzer Jagers\""
@@ -29,6 +30,6 @@ maker:
   description: "Interested in combat robotics. Member of the team \"Panzer Jagers\""
   image-primary: 
 last-modified-db: "2019-11-06 16:58:26"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

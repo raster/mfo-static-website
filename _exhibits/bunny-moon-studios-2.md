@@ -1,7 +1,8 @@
 ---
 title: "Bunny Moon Studios"
 slug: bunny-moon-studios-2
-id: 34962
+permalink: /exhibits/bunny-moon-studios-2/
+exhibit-id: 34962
 status: 1
 url: 
 description: "Whimsical, magical mixed-media watercolor paintings!"
@@ -35,6 +36,6 @@ I love watercolors because of how unpredictable they are - I can have one thing 
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36907527_10156412459677649_5584299551793086464_n.jpg
 last-modified-db: "2019-10-27 16:36:35"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

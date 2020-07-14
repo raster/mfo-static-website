@@ -1,7 +1,8 @@
 ---
 title: "Maker Welcome Arch collaborative project"
 slug: maker-welcome-arch-collaborative-project
-id: 39085
+permalink: /exhibits/maker-welcome-arch-collaborative-project/
+exhibit-id: 39085
 status: 1
 url: 
 description: "We will be erecting a 15' wide by 10' tall archway welcoming makers and attendees, we invite you to help make it pretty!"
@@ -31,6 +32,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-07 14:15:14"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:54"
 sitemap: false
 ---

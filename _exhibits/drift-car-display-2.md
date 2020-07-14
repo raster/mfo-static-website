@@ -1,7 +1,8 @@
 ---
 title: "Drift Car Display"
 slug: drift-car-display-2
-id: 41093
+permalink: /exhibits/drift-car-display-2/
+exhibit-id: 41093
 status: 1
 url: 
 description: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
@@ -29,6 +30,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:48:56"
-last-exported: "2020-11-07 08:07:22"
+last-exported: "2020-14-07 08:51:53"
 sitemap: false
 ---

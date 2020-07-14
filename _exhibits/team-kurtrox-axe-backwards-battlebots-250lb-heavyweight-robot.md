@@ -1,7 +1,8 @@
 ---
 title: "Axe Backwards V1"
 slug: team-kurtrox-axe-backwards-battlebots-250lb-heavyweight-robot
-id: 35993
+permalink: /exhibits/team-kurtrox-axe-backwards-battlebots-250lb-heavyweight-robot/
+exhibit-id: 35993
 status: 1
 url: http://www.kurtrox.com
 description: "A static display of the 1st Generation 250 pound Combat Robot that has competed on the Discovery TV show Battlebots.  "
@@ -38,6 +39,6 @@ maker:
   description: "We competed on Discovery's BattleBots with our 250lb heavyweight Robot, Axe Backwards."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Axe-Backwards-Team-S2019-1-1024x683.jpg
 last-modified-db: "2019-11-06 17:23:28"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

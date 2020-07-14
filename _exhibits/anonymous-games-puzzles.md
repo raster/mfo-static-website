@@ -1,7 +1,8 @@
 ---
 title: "Anonymous Games Puzzles"
 slug: anonymous-games-puzzles
-id: 39994
+permalink: /exhibits/anonymous-games-puzzles/
+exhibit-id: 39994
 status: 1
 url: https://www.anonymescape.com/
 description: "Various Puzzles from our Escape Rooms showing how we make our Escape Rooms"
@@ -49,6 +50,6 @@ maker:
   description: "Anonymous Games is a family owned Escape Room. We design and build all of our puzzles in house using Maker friendly tools, such as raspberry pi, Arduino, 3D printers."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/PATCH-LOGO-BLACK-1024x1024.jpg
 last-modified-db: "2019-10-26 17:55:07"
-last-exported: "2020-11-07 08:07:21"
+last-exported: "2020-14-07 08:51:52"
 sitemap: false
 ---

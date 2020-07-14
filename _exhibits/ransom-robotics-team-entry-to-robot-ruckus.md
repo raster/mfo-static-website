@@ -1,7 +1,8 @@
 ---
 title: "Ransom Robotics Team entry to Robot Ruckus!!"
 slug: ransom-robotics-team-entry-to-robot-ruckus
-id: 38908
+permalink: /exhibits/ransom-robotics-team-entry-to-robot-ruckus/
+exhibit-id: 38908
 status: 1
 url: 
 description: "High School club builds and competes BATTLING ROBOTS!!  "
@@ -35,6 +36,6 @@ maker:
   description: "Ransom has been making and competing combat robots for at least a dozen years.  We have in-house CAD, Milling, 3dprint, Metal Hardening and more.  We have also explored Arduino, operate a FarmBot, and of course have VEX EDR teams at the upper school and VEXIQ at our middle school.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RE-logo.png
 last-modified-db: "2019-11-06 16:24:19"
-last-exported: "2020-11-07 08:07:23"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---

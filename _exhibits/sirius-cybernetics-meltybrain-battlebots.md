@@ -1,7 +1,8 @@
 ---
 title: "Sirius Cybernetics Meltybrain Battlebots"
 slug: sirius-cybernetics-meltybrain-battlebots
-id: 35063
+permalink: /exhibits/sirius-cybernetics-meltybrain-battlebots/
+exhibit-id: 35063
 status: 1
 url: https://www.swallenhardware.io/battlebots
 description: "Back for the second year, now spinning in two weight classes!"
@@ -46,6 +47,6 @@ maker:
   description: "A combat robotics team specializing in meltybrain spinners."
   image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-11-07 08:07:24"
+last-exported: "2020-14-07 08:51:55"
 sitemap: false
 ---
