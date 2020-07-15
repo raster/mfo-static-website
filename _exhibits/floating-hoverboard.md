@@ -8,12 +8,12 @@ url:
 description: "Our Brenton team is working on our floating hover board to experiment science, computer science and technology."
 description-long: "Our Brenton team is working on our floating hover board to experiment science, computer science and technology."
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/back-to-the-future.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/back-to-the-future.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/back-to-the-future-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/back-to-the-future-300x222.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/back-to-the-future.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/back-to-the-future.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/back-to-the-future-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/back-to-the-future-300x222.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/back-to-the-future.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/back-to-the-future.jpg
 additional-images:
 website: 
 email: photoshopjune2017@gmail.com
@@ -31,6 +31,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-11 22:01:42"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

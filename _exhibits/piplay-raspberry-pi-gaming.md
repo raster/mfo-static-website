@@ -8,12 +8,12 @@ url: http://piplay.org
 description: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
 description-long: "PiPlay - Gaming hardware for the Raspberry Pi.  Play with the PiPlay Portable, PiPlay Deskcade, and the Nintendo Switch Arcade."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-1024x576.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/header2-1024x576.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-300x169.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2-1024x576.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/header2.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/header2-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/header2-300x169.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/header2-1024x576.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/header2.png
 additional-images:
 website: http://piplay.org
 email: silver2k@gmail.com
@@ -60,8 +60,8 @@ maker:
   name: "Shea Silverman"
   description: "Shea Silverman has been using computers since he was two years old.  He has always been drawn to technology, video games, education, and the public sector. He is an employee at the Center for Distributed Learning at UCF, where he spends his time researching and developing new ways to enhance online learning.  He is a member of the Orlando makerspace FamiLAB, and alumni of the University of Central Florida.  He has been published in 2600: The Hacker Quarterly, was a technical reviewer for the Raspberry Pi Networking Cookbook, and has been previously 
 published by Packt."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMGP0453-1385501391_420_420_75_s_c1.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMGP0453-1385501391_420_420_75_s_c1-300x300.jpg
 last-modified-db: "2019-10-26 12:50:08"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

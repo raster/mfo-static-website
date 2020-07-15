@@ -10,63 +10,63 @@ description-long: "Sparky the crocheted cat has a new sweater vest, which will h
 
 The exhibit will feature people spinning yarn, demonstrating weaving on different types of looms, and a free take-away (or do it now) weaving activity."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-117x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small-117x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-poses-with-circuit-playground-express-small.jpg
 additional-images:
   - 35922:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small-198x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small-198x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/cap_touch_finished_on_loom_small.jpg
   - 35926:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small-300x260.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small-300x260.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/battery-and-touch-sensor-june-2019-small.jpg
   - 35927:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1-169x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1-576x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1-169x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1-576x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/probe-touching-conductive-area-small-1.jpg
   - 35928:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small-258x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small-258x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/maker-faire-2018-takeaway-sample-small.jpg
   - 39325:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small-300x204.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small-300x204.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/conductive-orange-fiber-plyed-yarn-small.jpg
   - 35925:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small-169x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small-576x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small-169x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small-576x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/finger-touching-woven-conductive-area-small.jpg
   - 39774:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small-254x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small-254x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/sparky-battery-backpack-in-progress-small.jpg
   - 40655:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small-232x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small-232x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-cat-face-cpx-small.jpg
   - 40656:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small-300x257.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small-300x257.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-top-cpx-side-oct-2019-small.jpg
   - 40657:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/mf-touch-cube-drawer-side-oct-2019-small.jpg
 website: http://postmodernfiberfun.com
 email: 
 twitter: 
@@ -92,6 +92,6 @@ maker:
   description: "We mostly spin yarn from fiber, but we also knit and weave.  We include new tools (EL wire, Arduino, Raspberry Pi, particle photon, RFID tags, sensors, LEDs, etc.) with traditional techniques to make e-textiles.  "
   image-primary: 
 last-modified-db: "2019-11-03 20:57:30"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

@@ -8,23 +8,23 @@ url: https://www.parsound.com
 description: "Parsound provides Peace, Privacy, and Productivity through Sound and Noise Control.  We have invented the World's First Smart Soundscape.  We call it, \"Sonoflage\". "
 description-long: "Visitors will experience Sonoflage, as they hear our system running with adaptive Sound Camoflage, and without it, just playing music.  w"
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-300x222.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/waterCAFIA-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/waterCAFIA-300x222.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/waterCAFIA.jpg
 additional-images:
   - 22965:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge-300x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordBlarge-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordBlarge-300x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordBlarge.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordBlarge.png
   - 22966:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge-300x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordAlarge-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordAlarge-300x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordAlarge.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/RecordAlarge.png
 website: https://www.parsound.com
 email: pierce@parsound.com
 twitter: https://twitter.com/parsevalsound
@@ -80,8 +80,8 @@ maker:
   description: "Parsound provides Peace, Privacy, and Productivity to the world through sound. 
 
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/simpleLogo-300x300.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

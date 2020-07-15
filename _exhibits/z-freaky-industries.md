@@ -14,33 +14,33 @@ Perhaps building an electric skateboard is an interest? Well, I've made a few of
 
 Or maybe you want to get started with Arduinos as small as a grain of rice? I will also be sharing my adventures in using the ATTINY10 and the magic of its low power capabilities!"
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0116-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0116-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0116-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0116-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0116.jpg
 additional-images:
   - 37169:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif-300x181.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif-1024x616.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/rawgif-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/rawgif-300x181.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/rawgif-1024x616.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/rawgif.jpg
   - 37170:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/UVIU9295-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/UVIU9295-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/UVIU9295-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/UVIU9295.jpg
   - 37173:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249-300x189.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249-1024x646.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0249-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0249-300x189.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0249-1024x646.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_0249.jpg
   - 37174:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/overhead-panel-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/overhead-panel-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/overhead-panel.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/overhead-panel.jpg
 website: 
 email: 
 twitter: 
@@ -91,8 +91,8 @@ combat-robot: 0
 maker:
   name: "Z Freaky Industries"
   description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-300x300.png
 last-modified-db: "2019-10-26 13:30:25"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

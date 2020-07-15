@@ -8,12 +8,12 @@ url: http://www.blackhartfilms.com
 description: "A table layout with a variety of 3D printed props, dioramas, etc.... "
 description-long: "An exhibition of props and models I've been working on-  props are designed in Fusion 360 to be as functional to their screen counter-parts as possible, and printed on a combination of FDM and SLA machines."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-1024x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-1024x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-300x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-1024x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-300x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-1024x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1.jpg
 additional-images:
 website: http://www.blackhartfilms.com
 email: Jeffrey.Hepburn@BlackhartFilms.com
@@ -71,8 +71,8 @@ As a digital artist I've been working with Blender for over 7 years, and I speci
 Locally I've worked as a photographer, filmmaker, and technical supervisor for many of the local festivals, political campaigns, and productions. I'm also one of the founding board members of the Orlando Filmmaker's Coalition (OFC), a registered non-profit dedicated to educating and providing a space for the local arts community to network and create movies. 
 
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-300x300.jpg
 last-modified-db: "2019-10-29 14:47:22"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

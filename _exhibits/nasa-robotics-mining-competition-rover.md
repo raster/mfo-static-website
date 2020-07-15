@@ -10,18 +10,18 @@ description-long: "We will be demoing the robot that we have been working on for
 
 During the event we will be able to talk about the interesting design work that our club has put into the robot, demonstrating prototype components that we 3D printed out of advanced filaments, and talking about what iterations we plan to implement leading up to when we compete in May."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-300x219.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Robot_Render-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Robot_Render-300x219.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Robot_Render.jpg
 additional-images:
   - 29377:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1-300x219.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1-1024x748.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/11/20181104_215450-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/11/20181104_215450-1-300x219.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/11/20181104_215450-1-1024x748.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/11/20181104_215450-1.jpg
 website: https://www.lunarknights.org/
 email: president@lunarknights.org
 twitter: https://twitter.com/lunar_knights?lang=en
@@ -53,6 +53,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-26 17:45:27"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

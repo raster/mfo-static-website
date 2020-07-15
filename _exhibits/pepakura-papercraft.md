@@ -16,48 +16,48 @@ Pepakura Designer allows you to scale and print larger 3d models for things such
 
 I'd show off some of the cosplay armor/projects I've made in the last year or two as well."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
 additional-images:
   - 3787:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0243-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0243-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0243-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0243.jpg
   - 3785:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0184-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0184-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0184-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0184.jpg
   - 3786:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1-300x218.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/polygons_craft1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/polygons_craft1-300x218.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/polygons_craft1.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/polygons_craft1.jpg
   - 9163:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/IMG_0956-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/IMG_0956-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/IMG_0956.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/IMG_0956.jpg
   - 25718:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/makerfaire-wh40k.jpg
   - 25719:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_20171020_192645-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_20171020_192645-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_20171020_192645-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_20171020_192645.jpg
   - 6701:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/08/IMG_0850-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/08/IMG_0850-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/08/IMG_0850-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/08/IMG_0850.jpg
 website: http://outlawgarage.org
 email: ryan.evans@gmail.com
 twitter: https://twitter.com/rjevans
@@ -81,8 +81,8 @@ combat-robot: 0
 maker:
   name: "Pepakura Papercraft"
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0185-300x225.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

@@ -17,98 +17,98 @@ We will showcase  intelligent Robots built by our students, advanced service rob
 Visitors will be able to see and interact with real robots.
 They will see the anatomy of a working robot, will be able to play robot soccer and robot balloon jousting with the Mbot Robot."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Jean-with-MAX-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
 additional-images:
   - 35778:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1-300x200.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/meandrobots-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/meandrobots-1-300x200.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/meandrobots-1.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/meandrobots-1.jpg
   - 35779:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1-198x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-world-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-world-1-198x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-world-1.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-world-1.jpg
   - 35780:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1-300x186.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1-300x186.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1.jpg
   - 35781:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2227-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2227-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2227-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2227.jpg
   - 35782:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2344-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2344-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2344-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2344.jpg
   - 35783:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family-300x140.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Sanbot-Family-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Sanbot-Family-300x140.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Sanbot-Family.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Sanbot-Family.jpg
   - 35784:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid-273x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Mechano-humanoid-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Mechano-humanoid-273x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Mechano-humanoid.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Mechano-humanoid.png
   - 35844:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2361-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2361-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2361-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG2361.jpg
   - 35848:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Lego-rescue-6-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Lego-rescue-6-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Lego-rescue-6-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Lego-rescue-6.jpg
   - 35849:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG1500-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG1500-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG1500-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMAG1500.jpg
   - 35850:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Building-robot-2-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Building-robot-2-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Building-robot-2-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Building-robot-2.jpg
   - 36168:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem-300x112.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/High-quality-stem-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/High-quality-stem-300x112.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/High-quality-stem.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/High-quality-stem.png
   - 36271:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city-300x294.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Circuit-city-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Circuit-city-300x294.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Circuit-city.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Circuit-city.jpg
   - 36275:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face-192x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Big-round-face-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Big-round-face-192x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Big-round-face.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Big-round-face.jpg
   - 39345:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf-300x234.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Max-and-Elf-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Max-and-Elf-300x234.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Max-and-Elf.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Max-and-Elf.png
   - 39346:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMAG2438-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMAG2438-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMAG2438-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMAG2438.jpg
   - 39354:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi-300x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Orlando-Temi-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Orlando-Temi-300x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Orlando-Temi.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Orlando-Temi.png
 website: https://www.kidsrobotacademy.com/home.html
 email: jduteau@kidsrobotacademy.com
 twitter: 
@@ -176,8 +176,8 @@ Software application = Coding and programing
 KidsRobotAcademy founder Dr. Jean Duteau, a robotic engineer, entrepreneur, and geek dad with 30 years of real world robotics experience. In the late 1980’s he founded Rochester Robotics, which designed and integrated service robots for home, industry, nuclear inspection, & elderly assistance. Present day, he is teaching elementary and middle school children to solve real-world problems with robots in a collaborative 
 team-building environment, and thus generating intense interest and excitement for Science, Technology and Engineering.
 Note : The Robots Shop Opening soon In Orlando and Miami"
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/KRA-Full-Logo-300x142.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

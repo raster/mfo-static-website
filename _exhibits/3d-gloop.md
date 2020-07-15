@@ -8,12 +8,12 @@ url: https://3dgloop.com/
 description: "3D Gloop! is a unique multi-purpose 3D printing adhesive compound. Use it to stick troubled prints to your build surface, create a bond between prints stronger than any other glue, or even smooth out the layer lines from FDM fabrication!"
 description-long: "3D Gloop! is a new startup offering a unique line of adhesive products geared specifically for hobbyist 3D printing enthusiasts. We ran a successful Kickstarter campaign in June of this 2017. 3D Gloop! is a uniquely formulated adhesive compound to help end warping on ABS and PLA prints, it can be used to glue PLA prints together stronger than any other glue on the market, and lastly, it can even be used to smooth out the layer lines in 3D prints. You can check out 3D gloop at our website htttps://3dgloop.com and you can watch an awesome video the popular youtube creator Devin Montes from MakeAnything did featuring our product. https://www.youtube.com/watch?v=vQc5TBPF8uw"
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/color_logo_transparent-1-1024x512.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/color_logo_transparent-1-1024x512.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/color_logo_transparent-1-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/color_logo_transparent-1-300x150.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/color_logo_transparent-1-1024x512.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/color_logo_transparent-1.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/color_logo_transparent-1-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/color_logo_transparent-1-300x150.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/color_logo_transparent-1-1024x512.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/color_logo_transparent-1.png
 additional-images:
 website: https://3dgloop.com/
 email: hello@3dgloop.com
@@ -29,8 +29,8 @@ combat-robot: 0
 maker:
   name: "3D Gloop! &#8211; A² Creative, Inc."
   description: "3D Gloop! is a new startup offering a unique line of adhesive products geared specifically for hobbyist 3D printing enthusiasts. We ran a successful Kickstarter campaign in June of this year delivering all reward to backers by 9/1. 3D Gloop! is a uniquely formulated adhesive compound to help end warping on ABS and PLA prints, it can be used to glue PLA prints together stronger than any other glue on the market, and lastly, it can even be used to smooth out the layer lines in 3D prints. You can check out 3D gloop at our website htttps://3dgloop.com and you can watch an awesome video the popular youtube creator Devin Montes from MakeAnything did featuring our product. https://www.youtube.com/watch?v=vQc5TBPF8uw"
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/color_logo_transparent-1024x512.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/color_logo_transparent-300x150.png
 last-modified-db: "2019-10-26 13:41:08"
-last-exported: "2020-14-07 20:45:03"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

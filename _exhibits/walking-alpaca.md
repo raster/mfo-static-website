@@ -11,38 +11,38 @@ Orion built the original design using legos with motors. The boys then built mod
 The alpaca was not able to walk, due to the limitations of the motor that they used (another learning moment!), so they mounted it on wheels for practical motion, allowing the legs to \"walk\" now that there was no longer weight on them.
 This would be an amazing exhibit for young makers to see. It is truly impressive to see what two kids were able to build with enough hard work (over 100 hours) and determination!"
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-860x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-2-2-860x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-252x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-860x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-2-2-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-2-2-252x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-2-2-860x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-2-2.jpg
 additional-images:
   - 37525:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/odyssey-3-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/odyssey-3-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/odyssey-3-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/odyssey-3.jpg
   - 37526:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5-300x169.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5-1024x576.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-5-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-5-300x169.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-5-1024x576.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-5.jpg
   - 37530:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-6-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-6-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-6-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-6.jpg
   - 37531:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-7-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-7-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-7-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-7.jpg
   - 37532:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-8-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-8-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-8-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-8.jpg
 website: 
 email: 
 twitter: 
@@ -67,8 +67,8 @@ maker:
   name: "Orion West"
   description: "Orion is 10 years old, but has been building from a very early age. By the time he was five years old, he could take apart and reassemble a carburetor. This past spring, he and another boy, Inesh Mohan, spent over 100 hours designing and building a walking alpaca for an Odyssey of the Mind competition. Due to the type of technical difficulties that occur when you venture WAAAYYY outside of the box, they did not end up completing the event before time was called, but their design and build was 100% child-driven and created. \"Outside Assistance\" from adults was strictly prohibited due to the contest rules. 
 After all of the time, effort, blood, sweat and tears that the boys put in without being able to fully demonstrate their creation, their one request was that they be allowed to exhibit at Maker Faire, which they faithfully attend every year."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Odyssey-2-1-252x300.jpg
 last-modified-db: "2019-11-08 14:35:58"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

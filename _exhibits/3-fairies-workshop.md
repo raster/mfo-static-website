@@ -12,33 +12,33 @@ Once each sculpture is cast and painted, I spray them with a matte finish and at
 
 I also feature a few truly one of a kind pieces, sculpted from polymer clay and then hand painted in acrylic paint. These are also of a few fan favorite characters."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-225x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4199.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4199-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4199-225x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4199-768x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4199.jpg
 additional-images:
   - 26036:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/30127025_1767180143302676_5401743341665000795_n.jpg
   - 26037:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/28685857_1736027669751257_9107480242004008990_n.jpg
   - 26038:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/29683160_1759573847396639_3746728557089769577_n.jpg
   - 26039:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/31357852_1788075591213131_6697306677998780770_n.jpg
 website: https://www.etsy.com/shop/bananafairy59
 email: awagner59@gmail.com
 twitter: https://twitter.com/BaFa59
@@ -56,8 +56,8 @@ combat-robot: 0
 maker:
   name: "Ali Wagner"
   description: "Ali makes small sculptures of a few of everyone's favorite characters from pop culture, each hand made and perfect to hang on your wall and brighten up any room. She's been sculpting since she was a child, and now her favorite thing is sending her sculptures off to new homes where they'll make no just her happy, but anyone who comes across them."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/3wanddark.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/3wanddark-300x284.png
 last-modified-db: "2019-10-27 16:38:26"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

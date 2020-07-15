@@ -8,28 +8,28 @@ url: http://www.makerfx.org
 description: "MakerFX Makerspace is a program of The Maker Effect Foundation located in south Orlando. "
 description-long: "Having started out in the shop of the local DeltaMaker 3D Printer factory, MakerFX now has their own dedicated space in South Orlando and a growing community of makers that are in many different realms of making. From bee keeping, 3D printing, circuit board design, costuming/cosplay, woodworking and more, the members of MakerFX strive to make our community of makers a hub of learning for South Orlando."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2-300x47.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2-300x47.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
 additional-images:
   - 35075:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/47510320782_951a413805_z-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/47510320782_951a413805_z-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/47510320782_951a413805_z.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/47510320782_951a413805_z.jpg
   - 35076:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z-300x169.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z-300x169.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z.jpg
   - 35077:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z.jpg
 website: http://www.makerfx.org
 email: info@makerfx.org
 twitter: https://twitter.com/makerfx
@@ -96,8 +96,8 @@ maker:
   name: "MakerFX Makerspace"
   description: "MakerFX Makerspace is a unique makerspace located in south Orlando and easily accessible by those in the area. This new makerspace is organize by a group of like minded individuals that saw a need for a new space on the south side or Orlando to fill in the geographic gaps. One of our goals is to work hand in hand with other local spaces in the Greater Orlando area. As a program of The Maker Effect Foundation, MakerFX strives to create unique classes, useful workspaces, and share ideas with the maker community. 
 "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-27 17:35:46"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

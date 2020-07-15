@@ -8,12 +8,12 @@ url:
 description: "Combat robots"
 description-long: "Combat robots"
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-1024x473.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-1024x473.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-300x139.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-1024x473.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-300x139.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030-1024x473.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/9F135227-60BB-44D5-AFA3-BD4031460030.png
 additional-images:
 website: 
 email: 
@@ -34,6 +34,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-07 21:32:23"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

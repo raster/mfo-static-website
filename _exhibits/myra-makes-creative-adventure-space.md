@@ -14,18 +14,18 @@ In the Inventure area, you can play the upcoming Myra Makes board game, Inventur
 
 Finally, in the sneak peek area, you can explore the in-development Myra Makes app, play some of our prototype card games, and join a read-aloud of our latest in-development story book. Your feedback is extremely valuable to us and we hope you can drop by to share your ideas and thoughts on what Myra Makes should do next!"
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-300x134.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-300x134.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1.png
 additional-images:
   - 36592:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-300x254.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-1024x868.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-300x254.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-1024x868.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
 website: https://MyraMakes.com
 email: contact@myramakes.com
 twitter: https://twitter.com/myramakes
@@ -73,8 +73,8 @@ combat-robot: 0
 maker:
   name: "Myra Makes"
   description: "Myra Makes is a creative education startup which publishes books and games that help kids develop creative, problem-solving, and emotional skills. "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-300x134.png
 last-modified-db: "2019-10-26 13:04:35"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

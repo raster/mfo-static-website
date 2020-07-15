@@ -10,23 +10,23 @@ description-long: "Recycled Beautifully creates elegant jewelry that starts as g
 
 Aptly called Tree of Life necklaces, Recycled Beautifully twists and binds the same design over a variety of colors and patterns. Some stones, such as the opal or abalone, have a dazzling, psychedelic feel to them. Other finishes like turquoise or agate are more conventional but equally as stunning, showcasing Earth’s amazing creations with a clever eco-friendly enclosure."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-1024x1024.jpeg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-1024x1024.jpeg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-150x150.jpeg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-300x300.jpeg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-1024x1024.jpeg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720.jpeg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-150x150.jpeg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-300x300.jpeg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720-1024x1024.jpeg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/3C525920-A7A4-41E0-9E0E-89BB1D436720.jpeg
 additional-images:
   - 35241:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91-150x150.jpeg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91-207x300.jpeg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91-705x1024.jpeg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91.jpeg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91-150x150.jpeg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91-207x300.jpeg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91-705x1024.jpeg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/7F687C71-AC46-4CC8-8E3F-BADB89A4FB91.jpeg
   - 35242:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B-150x150.jpeg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B-300x298.jpeg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B-1024x1019.jpeg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B.jpeg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B-150x150.jpeg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B-300x298.jpeg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B-1024x1019.jpeg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/A8CCCE76-9615-46FD-9315-0C4E38790A8B.jpeg
 website: 
 email: recycledbeautifully@gmail.com
 twitter: 
@@ -59,8 +59,8 @@ combat-robot: 0
 maker:
   name: "Recycled Beautifully"
   description: "Recycled Beautifully is proud to say that \"We Recycle\"! All of our hand wrapped jewelry is made using recycled copper or aluminum wire that we pull out of T.V.'s that people throw in the trash. By using recycled wire we are able to not only keep these items out of the landfills but we are also able to keep our jewelry priced at amazingly low prices."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_0019.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/IMG_0019-300x300.jpg
 last-modified-db: "2019-10-27 17:16:40"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

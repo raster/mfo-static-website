@@ -12,43 +12,43 @@ Tonality features over 1,000 chords and scales, a reverse searcher to find chord
 
 Tonality is completely customizable and accessible for the blind."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-1024x1024.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-1024x1024.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-300x300.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-1024x1024.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-300x300.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1-1024x1024.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1.png
 additional-images:
   - 35973:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_1-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_1-169x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_1-576x1024.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_1.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_1-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_1-169x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_1-576x1024.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_1.png
   - 35974:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_2-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_2-169x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_2-576x1024.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_2.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_2-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_2-169x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_2-576x1024.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_2.png
   - 35975:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_9-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_9-169x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_9-576x1024.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_9.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_9-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_9-169x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_9-576x1024.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_9.png
   - 35976:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_11-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_11-169x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_11-576x1024.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_11.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_11-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_11-169x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_11-576x1024.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_11.png
   - 35977:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_7-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_7-169x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_7-576x1024.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/screenshot_7.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_7-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_7-169x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_7-576x1024.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/screenshot_7.png
   - 38101:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35-139x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35-473x1024.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35-139x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35-473x1024.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/Simulator-Screen-Shot-iPhone-Xs-Max-2019-09-07-at-13.11.35.png
 website: https://tonality-app.com
 email: tonality.app@gmail.com
 twitter: 
@@ -75,8 +75,8 @@ combat-robot: 0
 maker:
   name: "Bryce Hostetler"
   description: "I am a computer science / mathematics student at the University of Florida. I am also interested in music – I have played piano for over 11 years as well as trumpet and bass for four years. In my spare time I have been working on an app called Tonality, which is designed to be the ultimate tool for musicians of all levels. I went to Maker Faire once with my high school robotics team (Roaring Riptide)."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/iTunesArtwork@3x-1024x1024.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/iTunesArtwork@3x-300x300.png
 last-modified-db: "2019-10-28 10:19:26"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

@@ -8,12 +8,12 @@ url:
 description: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
 description-long: "Grassroots drift cars on display. Cars include custom fabrication, bodywork, paint, motor swaps, electrical wiring, lights/sounds, etc."
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-1024x768.jpeg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-1024x768.jpeg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-150x150.jpeg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-300x225.jpeg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-1024x768.jpeg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049.jpeg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-150x150.jpeg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-300x225.jpeg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-1024x768.jpeg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049.jpeg
 additional-images:
 website: 
 email: Carrandale@yahoo.com
@@ -31,6 +31,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:48:56"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

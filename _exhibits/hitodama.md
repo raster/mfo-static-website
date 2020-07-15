@@ -8,12 +8,12 @@ url:
 description: "Hitodama sells original handmade jewelry, buttons, pins, and art."
 description-long: "Hitodama has been selling at fandom events for nearly a decade. Their pins and accessories are original designs, including a line of enamel pins. Their art includes original works in several media, prints, and fanart. They will have a short story or two. They will hopefully be carrying a line of metal wands. The enclosed photo is from Lumi-con 2018."
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/makerfaireexample-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/makerfaireexample.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/makerfaireexample-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/makerfaireexample-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/makerfaireexample-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/makerfaireexample.jpg
 additional-images:
 website: 
 email: 
@@ -46,6 +46,6 @@ maker:
   description: "Hitodama dabbles in various arts and crafts."
   image-primary: 
 last-modified-db: "2019-07-22 21:24:15"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

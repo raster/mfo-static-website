@@ -29,8 +29,8 @@ combat-robot: 0
 maker:
   name: "Little Dog Racing"
   description: "Hailing from San Francisco, Little Dog Racing is a dynamic duo in their first year of Power Wheels racing. Makers Katie and Alex work as software and electrical engineers during the day, mentor high school students on a robotics team in the afternoon, and make lean mean racing machines by night."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/lildog.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/lildog-300x160.png
 last-modified-db: "2019-09-02 20:21:36"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

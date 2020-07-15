@@ -8,12 +8,12 @@ url:
 description: " Beetleweight and  Antweight combat robots competing at the Battles at Maker Faire Orlando 2018. "
 description-long: "2 combat robots build by a teenager with a passion for robotics. If not in competition these robots will be open for examination by others."
 location: Robot Ruckus - Small Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-768x1024.jpeg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-768x1024.jpeg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-150x150.jpeg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-225x300.jpeg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-768x1024.jpeg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4.jpeg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-150x150.jpeg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-225x300.jpeg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-768x1024.jpeg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4.jpeg
 additional-images:
 website: 
 email: 
@@ -34,6 +34,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

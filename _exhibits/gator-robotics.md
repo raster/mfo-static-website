@@ -29,8 +29,8 @@ combat-robot: 1
 maker:
   name: "Gator Robotics"
   description: "Robotics club that builds combat robots."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/11/13342865_1372233216125643_6208682043170332265_n-300x120.jpg
 last-modified-db: "2019-10-13 10:52:26"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

@@ -8,12 +8,12 @@ url:
 description:
 description-long: "Vendor space selling handmade bags. "
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-150x150.jpeg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-225x300.jpeg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591.jpeg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-150x150.jpeg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-225x300.jpeg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591.jpeg
 additional-images:
 website: 
 email: 
@@ -35,8 +35,8 @@ combat-robot: 0
 maker:
   name: "Tiffany Mitchell Designs"
   description: "Handmade purse, bows, bags and more "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-300x176.png
 last-modified-db: "2019-09-09 22:05:03"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

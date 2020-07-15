@@ -9,12 +9,12 @@ description: "MISSION STATUS : SICK --Combat Robotics:
 We will be competing with our ant-weight and beetle-weight robots and cheering like crazy for every competitor there!"
 description-long: "We have an ant-weight (1lb.) robot named \"Hognose,\" and a beetle-weight (3 lb.) robot named \"Ptarmegeddon.\""
 location: Robot Ruckus - Small Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-300x169.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/20180925_125621-2-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/20180925_125621-2-300x169.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/20180925_125621-2.jpg
 additional-images:
 website: https://www.jedijill.com/
 email: muccij@burnsscitech.org
@@ -34,6 +34,6 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

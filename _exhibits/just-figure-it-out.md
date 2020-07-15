@@ -8,18 +8,18 @@ url:
 description: "Entry for Ppwerwheels Racing Series"
 description-long: "This vehicle is a converted gas ATV. Robert and Ryan have 'learned while doing' for this project. Through determination and luck, this vehicle has made it as a competitor in this year's race"
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-150x150.jpeg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-300x225.jpeg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1.jpeg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/profile_pic-1-150x150.jpeg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/profile_pic-1-300x225.jpeg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/profile_pic-1-1024x768.jpeg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/profile_pic-1.jpeg
 additional-images:
   - 40190:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/MVIMG_20191013_101128-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/MVIMG_20191013_101128-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/MVIMG_20191013_101128-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/MVIMG_20191013_101128.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/MVIMG_20191013_101128-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/MVIMG_20191013_101128-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/MVIMG_20191013_101128-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/MVIMG_20191013_101128.jpg
 website: 
 email: 
 twitter: 
@@ -49,8 +49,8 @@ combat-robot: 0
 maker:
   name: "Robert  Davidson &amp; Ryan Harrigan"
   description: "Two digital guys banding together for an electric vehicle"
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/profile_pic-1024x768.jpeg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/profile_pic-300x225.jpeg
 last-modified-db: "2019-10-27 09:54:43"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

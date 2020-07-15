@@ -13,28 +13,28 @@ Kick Bright Shop also carries a large selection of pop-culture related items lik
 In August 2015 they opened their first physical store in Artegon Marketplace in Orlando, Florida (pictured above). In less than a year the store was successful enough to double in size. In January 2017 Artegon abruptly closed despite the success of the individually owned small businesses operating there leaving Kick Bright without a permanent home.
 Jeffrey and Kristin are looking to the future, whether it be a permanent new location or traveling pop-ups. Stay tuned right here, it’s always an adventure."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o.jpg
 additional-images:
   - 37390:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n.jpg
   - 37391:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n.jpg
   - 37392:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
 website: http://kickbrightshop.com/
 email: kickbright@hotmail.com
 twitter: https://twitter.com/kbzshop
@@ -55,8 +55,8 @@ combat-robot: 0
 maker:
   name: "Kick Bright"
   description:
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy-300x300.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

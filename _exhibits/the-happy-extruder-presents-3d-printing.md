@@ -9,12 +9,12 @@ description: "Exploring the 3D printing Process with 3d printers and hands on ex
 description-long: "3D Printing exhibit includes various 3D printers on display printing 3D objects. 3D Printed objects showing the various capabilities of a 3D printer.
 small 3D samples will be available to give to attendees (while supplies last). Questions will be answered regarding the 3D printing craft."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181110_103204-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/20181110_103204-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181110_103204-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181110_103204-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181110_103204-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181110_103204.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/20181110_103204-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/20181110_103204-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/20181110_103204-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/20181110_103204.jpg
 additional-images:
 website: https://thehappyextruder.rivyt.com
 email: 
@@ -30,8 +30,8 @@ combat-robot: 0
 maker:
   name: "Ron &#8211; The Happy Extruder Presents 3D Printing"
   description: "Ron Rosario Bit by the 3D Printing bug, Ron decided to take the plunge. Once he found out how great the 3D Printing community was, he set out on a quest to give back to the community. With a background in DIY and hands on projects, 3D Printing was just the next step in being able to create whatever came to mind."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-24-at-6.09.37-PM-555x1024.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-24-at-6.09.37-PM-163x300.png
 last-modified-db: "2019-10-26 13:26:45"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

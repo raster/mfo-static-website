@@ -14,28 +14,28 @@ If you want to bring your own art, make sure it is on paper no thicker than a ph
 
 A $1 donation to The Maker Effect Foundation gets the parts to make a 2.25\" button or the parts to make TWO 1\" buttons!"
 location: Curiosity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons4.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-225x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons4-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons4-225x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons4.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons4.jpg
 additional-images:
   - 22495:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3-300x169.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3-1024x576.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons3-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons3-300x169.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons3-1024x576.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons3.jpg
   - 22493:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1-169x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1-576x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons1-169x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons1-576x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons1.jpg
   - 22494:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2-169x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2-576x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons2-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons2-169x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons2-576x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/buttons2.jpg
 website: http://www.makerfx.org/buttons
 email: info@makerfx.org
 twitter: 
@@ -63,8 +63,8 @@ maker:
   name: "MakerFX Makerspace"
   description: "MakerFX Makerspace is a unique makerspace located in south Orlando and easily accessible by those in the area. This new makerspace is organize by a group of like minded individuals that saw a need for a new space on the south side or Orlando to fill in the geographic gaps. One of our goals is to work hand in hand with other local spaces in the Greater Orlando area. As a program of The Maker Effect Foundation, MakerFX strives to create unique classes, useful workspaces, and share ideas with the maker community. 
 "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-26 14:35:09"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

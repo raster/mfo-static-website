@@ -8,12 +8,12 @@ url:
 description: "15 pound robot lasher"
 description-long: "Hope to win"
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1-1024x791.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/green-and-black-render-1-1-1024x791.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1-300x232.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1-1024x791.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/green-and-black-render-1-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/green-and-black-render-1-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/green-and-black-render-1-1-300x232.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/green-and-black-render-1-1-1024x791.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/green-and-black-render-1-1.jpg
 additional-images:
 website: 
 email: 
@@ -32,8 +32,8 @@ combat-robot: 1
 maker:
   name: "Norman"
   description: "Im 15 I go to brhs and building stuff and flying quads is my hobby."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/logo-1024x1024.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/09/logo-300x300.png
 last-modified-db: "2019-11-06 18:09:59"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

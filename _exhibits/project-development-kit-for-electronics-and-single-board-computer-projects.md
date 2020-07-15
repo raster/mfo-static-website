@@ -20,23 +20,23 @@ We began selling kits online and at Maker Faire Bay Area in May. The kit include
 
 Our plan for the near future is to move the Clicks and Slides from 3D-printed to injection-molded versions. This will make stronger and better performing versions available at a lower cost to users."
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1282-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1282.jpg
 additional-images:
   - 36805:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square-1024x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1366_square-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1366_square-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1366_square-1024x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/IMG_1366_square.jpg
   - 36806:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender.jpg
 website: https://www.phasedock.com
 email: info@phasedock.com
 twitter: https://twitter.com/PhaseDock
@@ -84,8 +84,8 @@ combat-robot: 0
 maker:
   name: "Phase Dock Inc."
   description:
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK-284x300.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

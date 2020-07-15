@@ -9,33 +9,33 @@ description: "Just Okay Co is a design company based in Orlando Florida owned by
 "
 description-long: "Just Okay Co is a design company based in Orlando Florida owned by Matt Verdier. At this exhibit you will be able to screen-print your own 2 color 11x17 exclusive Maker Faire 2019 poster! (designed by Just Okay Co) They will also have a pop up shop with their selection of fun and affirming merchandise."
 location: Curiosity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-969x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-969x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-284x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-969x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190331_120841-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-284x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_20190331_120841-1-969x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_20190331_120841-1.jpg
 additional-images:
   - 40969:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191101_150816-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191101_150816-1-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191101_150816-1-1024x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191101_150816-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191101_150816-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191101_150816-1-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191101_150816-1-1024x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191101_150816-1.jpg
   - 40161:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_6374-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_6374-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_6374-1024x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_6374.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_6374-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_6374-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_6374-1024x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/IMG_6374.jpg
   - 40162:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151-150x150.jpeg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151-240x300.jpeg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151-819x1024.jpeg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151.jpeg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151-150x150.jpeg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151-240x300.jpeg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151-819x1024.jpeg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/0104-2019-0843706557272133403151.jpeg
   - 40968:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191027_175120-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191027_175120-1-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191027_175120-1-1024x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/IMG_20191027_175120-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191027_175120-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191027_175120-1-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191027_175120-1-1024x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/11/IMG_20191027_175120-1.jpg
 website: https://justokay.co
 email: justokaythings@gmail.com
 twitter: 
@@ -57,8 +57,8 @@ maker:
   name: "Just Okay Co"
   description: "Just Okay Co is a design company based in Orlando Florida owned by Matt Verdier and known for their fun and affirming apparel and merchandise.
 "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/2019logo2.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/2019logo2-300x300.jpg
 last-modified-db: "2019-11-07 10:38:09"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

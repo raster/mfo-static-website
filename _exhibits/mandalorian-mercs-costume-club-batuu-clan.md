@@ -8,18 +8,18 @@ url: http://mandalorianmercs.org/
 description: "Explore the world of Star Wars costuming and learn how to make your own Mandalorian armor!"
 description-long: "Come and meet with members of the Mandalorian Mercs Costume Club. Learn what goes into making the armor and be entered to win your own set!"
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-300x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/batuulogo2-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/batuulogo2-1-300x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
 additional-images:
   - 25962:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018-300x105.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018-1024x359.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_0018-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_0018-300x105.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_0018-1024x359.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/IMG_0018.jpg
 website: http://mandalorianmercs.org/
 email: batuu@mandalorianmercs.com
 twitter: https://twitter.com/batuuclan
@@ -46,8 +46,8 @@ Recognized by Lucasfilm LTD. as “The Elite Mandalorian Costuming Organization�
 The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mandalorian Costuming Organization” by promoting the love of STAR WARS™, creation of quality costumes, and spirit of volunteerism.
 
 "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/batuulogo2-300x300.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

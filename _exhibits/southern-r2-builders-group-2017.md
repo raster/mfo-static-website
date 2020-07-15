@@ -8,12 +8,12 @@ url: Http://astromech.net
 description: "Running and in progress builds of robots from Star Wars"
 description-long: "we build many of the droids from the star wars universe"
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
 additional-images:
 website: Http://astromech.net
 email: eagledancer_1_2000@yahoo.com
@@ -31,6 +31,6 @@ maker:
   description: "We are the Florida chapter of the world wide R2 Builders club. We help each other build our favorite little buddy from Star Wars, R2-D2 and his friends."
   image-primary: 
 last-modified-db: "2019-10-27 17:37:46"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

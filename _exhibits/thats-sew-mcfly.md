@@ -8,33 +8,33 @@ url: https://www.etsy.com/shop/ThatsSewMcFly
 description: "Creating Comfort with Character since 2016"
 description-long: "That’s Sew McFly has been creating comfort with character since 2016.  Handcrafted, high quality, unique, eco-friendly, and reusable items include coasters, microwave bowl cozies, hot/cold packs, and heating pads. Choose from dozens of styles in a variety of fandom favorites and more!  Thanks to your support, a portion of proceeds goes to charity every month."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/featureimage-1-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/featureimage-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/featureimage-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/featureimage-1-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/featureimage-1-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/featureimage-1.jpg
 additional-images:
   - 35450:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/frozenitems-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/frozenitems-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/frozenitems.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/frozenitems.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/frozenitems-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/frozenitems-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/frozenitems.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/frozenitems.jpg
   - 35451:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/meridaitems-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/meridaitems-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/meridaitems.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/meridaitems.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/meridaitems-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/meridaitems-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/meridaitems.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/meridaitems.jpg
   - 35452:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/lionkingitems-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/lionkingitems-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/lionkingitems.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/lionkingitems.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/lionkingitems-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/lionkingitems-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/lionkingitems.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/lionkingitems.jpg
   - 35453:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/tropicalitems-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/tropicalitems-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/tropicalitems.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/tropicalitems.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/tropicalitems-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/tropicalitems-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/tropicalitems.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/tropicalitems.jpg
 website: https://www.etsy.com/shop/ThatsSewMcFly
 email: 
 twitter: 
@@ -56,8 +56,8 @@ I taught myself how to sew about five years ago, and as I've made various items 
 Do you need comfort in your life?  Do you know somebody who does?  I am hoping, in some small way, to provide that comfort for you and your loved ones, while using fun, fandom fabrics!  
 With every purchase from my shop, you are helping a small business grow, and I cannot thank you enough.  Also with every purchase, you will be helping a great cause, because one tenth of my profits go towards select charities throughout the year.  Thanks for making a positive difference not only in my life, but also in the world!
 I work happily from home, surrounded by my loving husband and numerous cats and dogs."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/mewithsign-1.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/mewithsign-1-300x300.jpg
 last-modified-db: "2019-10-28 13:31:43"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

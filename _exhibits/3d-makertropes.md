@@ -8,18 +8,18 @@ url: http://www.makertropes.com
 description: "A display of three-dimensional stroboscopic zoetropes that I call Makertropes."
 description-long: "A display of three-dimensional stroboscopic zoetropes that I call Makertropes.  This exhibit builds on the successful creation of the Marvelous Mechanical Makey Making Machine created for MFO 2017.  There will be some new creations and upgrades to the animation from what was learned last year.   And some interactive elements as well."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-1024x576.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-1024x576.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-300x169.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-1024x576.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-300x169.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-1024x576.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2017-10-22-15.33.40.jpg
 additional-images:
   - 26309:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-300x169.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-1024x576.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-300x169.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-1024x576.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-17-19.13.23.jpg
 website: http://www.makertropes.com
 email: 
 twitter: 
@@ -82,8 +82,8 @@ combat-robot: 0
 maker:
   name: "Roundtable Productions, LLC"
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-01 14:25:35"
-last-exported: "2020-14-07 20:45:03"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

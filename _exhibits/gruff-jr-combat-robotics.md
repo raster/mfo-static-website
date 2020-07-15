@@ -29,8 +29,8 @@ combat-robot: 1
 maker:
   name: "Team Gruff"
   description:
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Gruff-Team-S2019-1024x683.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/Gruff-Team-S2019-300x200.jpg
 last-modified-db: "2019-10-31 14:49:52"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

@@ -8,28 +8,28 @@ url:
 description: "The N scale model railroad layout covers many scenes from Jacksonville, FL to Folkston, GA."
 description-long: "The railroad model incorporates over 200 feet of mainline track depicting the route from Jacksonville, FL to Folkston, GA. Visitors drive trains past many well known landmarks, across rivers and thru wooded pine forests. Operation features such as control signals and crossing gates are controlled by various state of the art electronic technologies including Arduinos and Raspberry Pi. See and run trains on this national award winning layout"
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-1024x506.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/Maker-Faire-B-1024x506.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-300x148.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-1024x506.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/Maker-Faire-B-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/Maker-Faire-B-300x148.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/Maker-Faire-B-1024x506.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/Maker-Faire-B.jpg
 additional-images:
   - 25999:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-300x199.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-1024x681.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-300x199.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-1024x681.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o.jpg
   - 26001:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-300x199.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-1024x681.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-300x199.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-1024x681.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o.jpg
   - 26000:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-300x199.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-1024x681.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-300x199.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-1024x681.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o.jpg
 website: 
 email: 
 twitter: 
@@ -73,6 +73,6 @@ maker:
   description: "Model Railroad Club"
   image-primary: 
 last-modified-db: "2019-10-26 13:53:08"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

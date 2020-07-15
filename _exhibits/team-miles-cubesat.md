@@ -16,18 +16,18 @@ The Miles spacecraft is a 6U satellite, about the size of a breadbox, that will 
 
 The team’s efforts have also been supported by strategic partnerships with Fluid and Reason (http://fluidandreason.com/), Yosemite Space (http://yosemitespace.com/), The DRI (http://thedri.com/), Piedmont Precision Aeroculture (http://ppaeroculture.com/), Brainloop (http://www.brainloop.com/), Basecamp (https://basecamp.com/), Thermal Management Technologies (http://tmtsdl.com/), and Sabalcore (http://www.sabalcore.com/)"
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-300x200.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/logo-orange.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/09/logo-orange-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/09/logo-orange-300x200.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/09/logo-orange-1024x682.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/09/logo-orange.png
 additional-images:
   - 37621:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190830_105222589-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190830_105222589-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190830_105222589-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190830_105222589.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_20190830_105222589-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_20190830_105222589-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_20190830_105222589-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_20190830_105222589.jpg
 website: https://miles-space.com
 email: wes@miles-space.com
 twitter: https://twitter.com/MilesSpace
@@ -48,8 +48,8 @@ combat-robot: 0
 maker:
   name: "Tampa Hackerspace"
   description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border-300x300.png
 last-modified-db: "2019-10-26 13:18:10"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

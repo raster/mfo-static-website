@@ -8,12 +8,12 @@ url: http://teamlazygecko.com
 description: "Power Racing Series Entry, electric go-kart &amp; drivers themed as characters from Dr.Quinn Medicine Woman."
 description-long: "Power Racing Series Entry, electric go-kart & drivers themed as characters from Dr.Quinn Medicine Woman."
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-1024x683.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-1024x683.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-300x200.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-1024x683.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-300x200.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-1024x683.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o.jpg
 additional-images:
 website: http://teamlazygecko.com
 email: 
@@ -43,8 +43,8 @@ maker:
   description: "Amateur Racing Team (Power Racing Series / 24 Hours of Lemons)
 
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/10/Legit-Banner-300x225.jpg
 last-modified-db: "2019-08-17 21:36:25"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

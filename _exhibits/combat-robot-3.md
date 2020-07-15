@@ -11,23 +11,23 @@ description-long: "Combat robot for insect weight class. Competing with 2 150g r
 2. Stumpy Unleashed (150g) : Vertical Disc Spinner
 3. Unknown Avenger (3lb) : Wedge/Grabber robot. Module design with different fronts dependent on opponent."
 location: Robot Ruckus - Small Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/unknown_avenger.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/unknown_avenger-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/unknown_avenger.jpg
 additional-images:
   - 37633:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/scoop-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/scoop.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/scoop.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/scoop.jpg
   - 37634:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/stumpy-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/stumpy.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/stumpy.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/stumpy.jpg
 website: 
 email: 
 twitter: 
@@ -44,6 +44,6 @@ maker:
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

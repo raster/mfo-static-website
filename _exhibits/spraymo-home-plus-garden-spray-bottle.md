@@ -12,12 +12,12 @@ description-long: "SprayMo® is a breakthrough in hand held spray bottle technol
 •	Does so much more than traditional hand held spray bottles
 The secret is our proprietary “Pump Handle Technology,” which addresses the shortcomings and issues of traditional bottle sprayers relating to: health, convenience, durability, &amp; the environment."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-936x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-936x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-274x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-936x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-274x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook-936x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/07/hand-with-sprayer-twitter_facebook.jpg
 additional-images:
 website: http://spraymo.com/
 email: info@spraymo.com
@@ -39,8 +39,8 @@ combat-robot: 0
 maker:
   name: "Mario de la Guardia"
   description: "Mario de la Guardia has over 2 decades of product development experience including several patents."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Innovate-Pre_27-X3-1024x683.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/Innovate-Pre_27-X3-300x200.jpg
 last-modified-db: "2019-10-26 12:39:17"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

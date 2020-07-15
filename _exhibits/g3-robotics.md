@@ -10,12 +10,12 @@ description-long: "Fighting combat robots
 
 Beetleweight: Silent Spring"
 location: Robot Ruckus - Small Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-1024x684.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-1024x684.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-300x200.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-1024x684.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-300x200.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-1024x684.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o.jpg
 additional-images:
 website: 
 email: 
@@ -33,6 +33,6 @@ maker:
   description: "Cosplay, Robots, Photography"
   image-primary: 
 last-modified-db: "2019-11-06 18:02:23"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

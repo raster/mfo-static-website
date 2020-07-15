@@ -13,18 +13,18 @@ Are you an exhibitor and would you like to host an IoT Scavenger Hunt Station?
 As an exhibitor all you have to do to host a station is agree is to let us put the station somewhere in your booth accessible to the public, and let us plug it into your power strip.   We're hoping that the Scavenger Hunt will encourage folks to roam more widely around Maker Faire, and bring them into contact with more exhibitors.
 "
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/new_box-1.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1-225x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/new_box-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/new_box-1-225x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/new_box-1.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/new_box-1.jpg
 additional-images:
   - 38229:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
 website: 
 email: irving2nd2000@gmail.com
 twitter: 
@@ -57,8 +57,8 @@ combat-robot: 0
 maker:
   name: "Valencia College Computer Programming"
   description: "Professor, Gadgeteer, friend to cats and bats."
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-1024x612.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-300x179.jpg
 last-modified-db: "2019-11-07 12:11:35"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

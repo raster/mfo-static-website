@@ -12,33 +12,33 @@ description-long: "Robots, unicorn shoes and more.
 Miga made products are inventive, unique, and locally crafted items.
 Hang out, take photos, watch us make little robots, you may even meet some larger than life robot characters."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_4693.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693-225x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_4693-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_4693-225x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_4693.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_4693.jpg
 additional-images:
   - 37745:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n-300x258.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n-300x258.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n.jpg
   - 37746:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266-273x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_9266-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_9266-273x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_9266.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_9266.jpg
   - 37751:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_2746-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_2746-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_2746-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/IMG_2746.jpg
   - 37753:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-300x148.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-1024x506.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-300x148.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-1024x506.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
 website: https://www.migamade.com
 email: 
 twitter: 
@@ -73,6 +73,6 @@ maker:
   description: "Join @Stachelightning as he shows off his robots, costumes, set pieces, fun products and then some."
   image-primary: 
 last-modified-db: "2019-10-27 16:29:10"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

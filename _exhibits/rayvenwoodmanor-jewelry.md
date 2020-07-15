@@ -15,43 +15,43 @@ Rayvenwoodmanor has had wonderful opportunities to design items gifted especiall
 
 Rayvenwoodmanor Jewelry has been seen on Season 5 of \"The Vampire Diaries\" on the CW Network, an episode of \"Hart of Dixie\" on on the CW Network and seen on celebrities like the infamous Psychedelic Furs, American Actress / Producer / Writer Stephanie Drapeau, Actor Alexander Polinsky, and Actress Candy Washington. Our jewelry was also showcased included in The Artisan Group® press swag bags at GBK’s Gift Lounges for the 2014 and the 2015 Prime Time Emmys. Other Rayvenwoodmanor jewelry pieces have been gifted to various television shows and celebrities through unique opportunities with the The Artisan Group®. "
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-300x277.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_4132.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4132-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4132-300x277.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4132-1024x946.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_4132.jpg
 additional-images:
   - 35109:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5736-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5736-300x268.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5736-1024x916.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5736.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5736-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5736-300x268.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5736-1024x916.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5736.jpg
   - 35112:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3903-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3903-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3903-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3903.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3903-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3903-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3903-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3903.jpg
   - 35111:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5740-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5740-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5740-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5740.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5740-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5740-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5740-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_5740.jpg
   - 35113:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3906-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3906-300x225.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3906-1024x768.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3906.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3906-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3906-300x225.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3906-1024x768.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3906.jpg
   - 35114:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3912-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3912-296x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3912-1010x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3912.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3912-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3912-296x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3912-1010x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3912.jpg
   - 35115:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3916-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3916-136x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3916-464x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_3916.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3916-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3916-136x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3916-464x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/IMG_3916.jpg
 website: https://www.etsy.com/shop/Rayvenwoodmanor
 email: Rayvenwoodmanor@gmail.com
 twitter: https://twitter.com/Rayvenwoodmanor
@@ -75,6 +75,6 @@ Rayvenwoodmanor has had wonderful opportunities to design items gifted especiall
 Rayvenwoodmanor Jewelry has been seen on Season 5 of \"The Vampire Diaries\" on the CW Network, an episode of \"Hart of Dixie\" on on the CW Network and seen on celebrities like the infamous Psychedelic Furs, American Actress / Producer / Writer Stephanie Drapeau, Actor Alexander Polinsky, and Actress Candy Washington. Our jewelry was also showcased included in The Artisan Group® press swag bags at GBK’s Gift Lounges for the 2014 and the 2015 Prime Time Emmys. Other Rayvenwoodmanor jewelry pieces have been gifted to various television shows and celebrities through unique opportunities with the The Artisan Group®. "
   image-primary: 
 last-modified-db: "2019-09-09 21:59:30"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

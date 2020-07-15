@@ -19,33 +19,33 @@ Essentially it would work like this:
 "
 description-long: "https://spark.adobe.com/page/eTgQlqFLRVF1n/"
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-300x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1-300x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/29062628_10111531652213373_8093618080522140642_n-1.jpg
 additional-images:
   - 39135:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse-238x300.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse-238x300.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/Marcusandyoungfanat747warehouse.png
   - 39137:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/asiangirlswithkeychains2-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/asiangirlswithkeychains2-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/asiangirlswithkeychains2-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/asiangirlswithkeychains2.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/asiangirlswithkeychains2-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/asiangirlswithkeychains2-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/asiangirlswithkeychains2-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/asiangirlswithkeychains2.jpg
   - 39138:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/54059481918__FAC7BDA0-94E7-4FF9-A9D8-65ECF5916DD8.jpg
   - 39139:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/just-keychains-cropped-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/just-keychains-cropped-300x168.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/just-keychains-cropped-1024x572.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/just-keychains-cropped.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/just-keychains-cropped-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/just-keychains-cropped-300x168.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/just-keychains-cropped-1024x572.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/just-keychains-cropped.jpg
 website: https://www.PreciousPlasticLA.com
 email: preciousplasticfl@gmail.com
 twitter: 
@@ -60,8 +60,8 @@ combat-robot: 0
 maker:
   name: "PreciousPlastic.com"
   description: "Precious Plastic FL is the Florida chapter of the worldwide DIY open-source recycling project. Partner project of Precious Plastic LA we focus on events activation to showcase our machines and their capabilities. "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ppfllogoforprintv2.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/ppfllogoforprintv2-300x300.jpg
 last-modified-db: "2019-11-06 10:37:12"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

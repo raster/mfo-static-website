@@ -9,18 +9,18 @@ description: "BattleBots Team Shellshock. Will display our robot and demonstrate
 description-long: "A team of High School Students will demonstrate their robot Shellshock.  The team participated in BattleBots 2019 and was featured in episode 7.
 The team hopes to inspire other young builders.  Have a look at the inner workings of a full body spinner robot with a turtle theme."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/TeamShellshock-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/TeamShellshock.jpg
 additional-images:
   - 36887:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-300x200.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-1024x683.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-300x200.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-1024x683.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019.jpg
 website: https://outreach.rollingrobots.com/battlebots
 email: gkirkman@rollingrobots.com
 twitter: https://twitter.com/RollingRobots
@@ -37,6 +37,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

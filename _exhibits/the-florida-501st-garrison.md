@@ -13,28 +13,28 @@ The 501st legion prides itself on \"Bad Guys Doing Good\", across the entire leg
 
 If you're interested in learning what it takes to join the 501st Legion and your local squad please stop by and check out our booth."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1-300x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1-300x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/FLG_Logo_low_res-1.jpg
 additional-images:
   - 9062:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-SWW-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-SWW-300x200.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-SWW-1024x683.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-SWW.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-SWW-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-SWW-300x200.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-SWW-1024x683.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-SWW.jpg
   - 9060:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/fl501-troop-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/fl501-troop-300x170.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/fl501-troop-1024x579.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/fl501-troop.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/fl501-troop-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/fl501-troop-300x170.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/fl501-troop-1024x579.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/fl501-troop.jpg
   - 9061:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture-300x176.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture-300x176.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/501st-Legion-CVI-Group-Picture.jpg
 website: http://www.fl501st.com
 email: 
 twitter: https://twitter.com/FloridaGarrison
@@ -54,8 +54,8 @@ maker:
   description: "From the official 501st Legion Charter:
 
 \"...The Legion is an all-volunteer organization formed for the express purpose of bringing together costume enthusiasts under a collective identity within which to operate. The Legion seeks to promote interest in Star Wars through the building and wearing of quality costumes, and to facilitate the use of these costumes for Star Wars-related events as well as contributions to the local community through costumed charity and volunteer work...\""
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/image.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/06/image.png
 last-modified-db: "2019-10-27 16:29:48"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---

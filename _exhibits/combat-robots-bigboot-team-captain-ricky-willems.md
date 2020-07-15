@@ -8,18 +8,18 @@ url:
 description:
 description-long: "Mastadon is the largest heavyweight robot ever built."
 location: Robot Ruckus - Axe Backwards Heavyweight Arena
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-1024x683.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-1024x683.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-300x200.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-1024x683.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mammoth-Team-S2019.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-300x200.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mammoth-Team-S2019-1024x683.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mammoth-Team-S2019.jpg
 additional-images:
   - 36424:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon-226x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon-772x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mastadon.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mastadon-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mastadon-226x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mastadon-772x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/Mastadon.jpg
 website: 
 email: 
 twitter: 
@@ -36,6 +36,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 16:10:20"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

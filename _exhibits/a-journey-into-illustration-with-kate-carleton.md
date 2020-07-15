@@ -9,12 +9,12 @@ description: "Come meet freelance illustrator Kate Carleton and see her art and 
 Kate has worked on many properties including her most recent publication with Del Rey Publishing and Netflix for the \"Visions from the Upside Down\" Stranger things art book coming out Oct.15, 2019."
 description-long: "Kate Carleton will be working on freelance projects she has at the time and answering questions anyone has about her process and any other questions they might have. We will have a few prints for sale of Kate's artwork and she will be taking a few commissions during the show as well."
 location: Spirit Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o-150x150.png
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o-300x96.png
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o-150x150.png
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o-300x96.png
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
 additional-images:
 website: http://www.katecarleton-illustration.com
 email: katecarletonillustration@gmail.com
@@ -36,8 +36,8 @@ combat-robot: 0
 maker:
   name: "Kate Carleton Illustration"
   description: "Kate is a freelance artist who has done work for such companies as Marvel, DC, LucasFilms LTD, IDW, Zenescope and Actionlab. She has done everything from sketch card work, coloring, flatting , and making her own comics. "
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0227.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2015/06/IMG_0227-300x300.jpg
 last-modified-db: "2019-10-27 17:25:34"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

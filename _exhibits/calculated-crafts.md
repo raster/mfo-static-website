@@ -8,12 +8,12 @@ url: http://www.calculatedcrafts.com
 description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
 description-long: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/09/IMG_9798.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798-300x75.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_9798.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/09/IMG_9798-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/09/IMG_9798-300x75.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/09/IMG_9798.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/09/IMG_9798.jpg
 additional-images:
 website: http://www.calculatedcrafts.com
 email: 
@@ -41,8 +41,8 @@ combat-robot: 0
 maker:
   name: "Calculated Crafts"
   description: "Handcrafted :: Modern :: Minimalist Home and Wedding Decor with a Geometric Flare"
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_7392-1024x1024.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/09/IMG_7392-300x300.jpg
 last-modified-db: "2019-10-17 08:59:28"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

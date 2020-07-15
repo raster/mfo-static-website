@@ -8,12 +8,12 @@ url: https://biancaart.storenvy.com/
 description: "I will be painting live throughout the day"
 description-long: "I will have pre cut monsters and will be designing new ones on the spot while painting them live."
 location: Opportunity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters-1013x1024.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/monsters-1013x1024.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters-297x300.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters-1013x1024.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/monsters-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/monsters-297x300.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/monsters-1013x1024.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/07/monsters.jpg
 additional-images:
 website: https://biancaart.storenvy.com/
 email: 
@@ -31,6 +31,6 @@ maker:
   description: "Acrylic painter of random randomness."
   image-primary: 
 last-modified-db: "2019-11-02 17:59:00"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

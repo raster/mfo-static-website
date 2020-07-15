@@ -8,18 +8,18 @@ url: http://wd4wdw.org
 description: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 description-long: "Demo amateur radio communications: HF, mobile communications with our van, and satellite communications."
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-300x200.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto2-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto2-300x200.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto2.jpg
 additional-images:
   - 37695:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto3-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto3-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto3-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto3.jpg
 website: http://wd4wdw.org
 email: presidnet@wd4wdw.org
 twitter: https://twitter.com/WD4WDW
@@ -46,8 +46,8 @@ combat-robot: 0
 maker:
   name: "Disney Emergency Amateur Raido Service"
   description:
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/dearsphoto1-300x300.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-14-07 20:45:04"
+last-exported: "2020-15-07 07:56:13"
 sitemap: false
 ---

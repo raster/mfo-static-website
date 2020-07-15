@@ -10,12 +10,12 @@ description-long: "Learn to solder and make your very own light up Makey Pin or 
 
 Check out details on our new advanced at http://www.makerfx.org/2017/10/advanced-soldering-training-maker-faire-orlando-2017/"
 location: Curiosity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-300x200.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-300x200.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o.jpg
 additional-images:
 website: 
 email: 
@@ -34,8 +34,8 @@ combat-robot: 0
 maker:
   name: "Maker Faire Orlando"
   description:
-  image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/makey.png
+  image-primary: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/makey.png
 last-modified-db: "2019-10-26 14:26:04"
-last-exported: "2020-14-07 20:45:06"
+last-exported: "2020-15-07 07:56:15"
 sitemap: false
 ---

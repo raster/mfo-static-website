@@ -13,18 +13,18 @@ Additional static displays include  Tetrix, EV3, Arduino, LEDs, Special Effects 
 "
 description-long: "DaVinci Robotics Academy's STEM Club Students will be showcasing a wide variety of student projects. Tetrix, EV3, Arduino, LEDs, Special Effects and more."
 location: Curiosity Building
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/20160721_172631.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/20160721_172631-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/20160721_172631.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/20160721_172631.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/08/20160721_172631.jpg
 additional-images:
   - 22426:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof-150x150.png
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof-300x120.png
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof.png
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof.png
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/Proof-150x150.png
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/Proof-300x120.png
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/Proof.png
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2017/10/Proof.png
 website: 
 email: 
 twitter: 
@@ -41,6 +41,6 @@ maker:
   description: "DaVinci Learning Academy's mission is to encourage, enhance,  support and enrich each individual families academic, elective enrichment and social learning goals. Our students are engaged in a wide variety of STEM and artistic endeavors."
   image-primary: 
 last-modified-db: "2019-10-26 14:45:01"
-last-exported: "2020-14-07 20:45:05"
+last-exported: "2020-15-07 07:56:14"
 sitemap: false
 ---

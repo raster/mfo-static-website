@@ -10,28 +10,28 @@ description-long: "Terecook Studios is a 3d printing house that makes hard-to-fi
 
 Dice Charm School has been teaching your dice to behave themselves since 2016, specializing in polyhedral dice jewelry with the highest roll facing out for luck. (Natural 20s not guaranteed.) We also offer hand-drawn pins, pride jewelry, and a few other nerdy treasures!"
 location: Unassigned
-image: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-1024x768.jpg
+image: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-1024x768.jpg
 image-primary:
-  thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-150x150.jpg
-  medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-300x225.jpg
-  large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-1024x768.jpg
-  full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-19-14.25.16.jpg
+  thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-150x150.jpg
+  medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-300x225.jpg
+  large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-19-14.25.16-1024x768.jpg
+  full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/2018-07-19-14.25.16.jpg
 additional-images:
   - 34834:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-11-19.22.47-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-11-19.22.47-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-11-19.22.47-1024x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-11-19.22.47.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-11-19.22.47-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-11-19.22.47-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-11-19.22.47-1024x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-11-19.22.47.jpg
   - 34837:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1-225x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1-768x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1-225x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1-768x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-04-19-17.16.08-1.jpg
   - 34839:
-    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-14-10.07.54-150x150.jpg
-    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-14-10.07.54-300x300.jpg
-    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-14-10.07.54-1024x1024.jpg
-    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-07-14-10.07.54.jpg
+    thumbnail: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-14-10.07.54-150x150.jpg
+    medium: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-14-10.07.54-300x300.jpg
+    large: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-14-10.07.54-1024x1024.jpg
+    full: https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/2019-07-14-10.07.54.jpg
 website: http://terecook.etsy.com
 email: terecooketsy@gmail.com
 twitter: 
@@ -60,6 +60,6 @@ maker:
   description: "Terecook is a group of family and friends who love to make things. So far all we have is an Etsy shop and a lot of ambition, but we've got big plans!"
   image-primary: 
 last-modified-db: "2019-09-09 22:01:49"
-last-exported: "2020-14-07 20:45:07"
+last-exported: "2020-15-07 07:56:16"
 sitemap: false
 ---
