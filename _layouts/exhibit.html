@@ -17,6 +17,7 @@
     <div>
       <img class="img-responsive entry-image" src="{{page.image-primary.large}}" alt="{{page.name}}">
       <p class="lead">{{page.description-long | newline_to_br}}</p>
+
       <div class="entry-categories" style="margin-bottom: 10px">
         <b>Categories: </b>
         {%- for category in page.categories -%}
@@ -27,12 +28,12 @@
       </div>
       <div class="row exhibit-social-row">
         {% if page.website %}
-	       <div class="col-md-2 pull-left"><a href="{{page.website}}" class="btn btn-info" target="_blank">Project Website</a></div>
+         <div class="col-md-2 pull-left"><a href="{{page.website}}" class="btn btn-info" target="_blank">Project Website</a></div>
         {% endif %}
            <div class="col-md-5">
              <ul class="list-inline">
                {% if page.email %}
-				           <li><a href="mailto:{{page.email}}" target="_blank" <i="" class="fa fa-2x fa-envelope" aria-hidden="true"></a></li>
+                   <li><a href="mailto:{{page.email}}" target="_blank" <i="" class="fa fa-2x fa-envelope" aria-hidden="true"></a></li>
                {% endif %}
                {% if page.twitter %}
                 <li><a href="{{page.twitter}}" target="_blank" <i="" class="fa fa-2x fa-twitter" aria-hidden="true"></a></li>
@@ -49,8 +50,50 @@
             </ul>
           </div>
         </div>
-    </div>
+      </div>
 
+
+      <section class="exhibitPhotos" style="margin-top:30px; margin-bottom:30px">
+					<div id="exhibitPhotoCarousel" class="carousel slide" data-ride="carousel">
+            {%- assign numImages = page.additional-images | size -%}
+            {%-if numImages > 1 -%}
+    					<!-- Indicators -->
+    					<ol class="carousel-indicators">
+                {%- for image in page.additional-images -%}
+                    {%- if forloop.first -%}
+    					       <li data-target="exhibitPhotoCarousel" data-slide-to="0" class="active"></li>
+                     {%- else -%}
+                     <li data-target="exhibitPhotoCarousel" data-slide-to="{{forloop.index | minus: 1}}"></li>
+                     {%- endif -%}
+                   {%- endfor -%}
+            	</ol>
+            {%- endif -%}
+					<!-- Wrapper for slides -->
+  					<div class="carousel-inner">
+              {%- for image in page.additional-images -%}
+                  {%- if forloop.first -%}
+					          <div class="item active">
+                  {%- else -%}
+                    <div class="item">
+                  {%- endif -%}
+                     <img src="{{image.large}}">
+                   </div>
+              {%- endfor -%}
+
+          {%-if numImages > 1 -%}
+  					<!-- Left and right controls -->
+   					<a class="left carousel-control" href="#exhibitPhotoCarousel" data-slide="prev">
+      					<span class="glyphicon glyphicon-chevron-left" style="color:gray"></span>
+      					<span class="sr-only">Previous</span>
+    					</a>
+    					<a class="right carousel-control" href="#exhibitPhotoCarousel" data-slide="next">
+      					<span class="glyphicon glyphicon-chevron-right" style="color:gray"></span>
+      					<span class="sr-only">Next</span>
+    					</a>
+           {%- endif -%}
+					</div>
+        </div>
+      </section>
 
 
     <h2>Maker</h2><hr>
