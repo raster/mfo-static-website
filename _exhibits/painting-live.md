@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters-297x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters-1013x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/monsters.jpg
+additional-images:
 website: https://biancaart.storenvy.com/
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Acrylic painter of random randomness."
   image-primary: 
 last-modified-db: "2019-11-02 17:59:00"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

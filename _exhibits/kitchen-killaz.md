@@ -16,6 +16,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/Kitchen.jpg
+additional-images:
+  - 41118:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K3-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K3.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K3.jpg
+  - 41120:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/K2.jpg
 website: http://kitchenkillaz.com/
 email: 
 twitter: http://twitter.com/kitchenkillaz
@@ -32,6 +43,6 @@ maker:
   description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
 last-modified-db: "2019-11-06 17:49:12"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

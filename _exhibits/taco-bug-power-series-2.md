@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-300x232.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3-1024x791.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-3.png
+additional-images:
 website: 
 email: JUANJOSEBERNAL@GMAIL.COM
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "These are the rest of my children that will help support the race team, Taco Bug, and the exhibit. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/TACO-BUG-Logo-And-Name-2-1024x791.png
 last-modified-db: "2019-10-30 14:31:04"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

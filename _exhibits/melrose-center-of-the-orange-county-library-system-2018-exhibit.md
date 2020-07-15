@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/melrose_logo-300x112.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/melrose_logo.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/melrose_logo.jpg
+additional-images:
+  - 26464:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/CreativeExpo-Feb1117_12-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/CreativeExpo-Feb1117_12-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/CreativeExpo-Feb1117_12-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/CreativeExpo-Feb1117_12.jpg
 website: http://www.ocls.info/melrose
 email: melrose@ocls.info
 twitter: https://twitter.com/melroseorlando
@@ -52,6 +58,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/melrose-logo.jpg
 last-modified-db: "2019-10-28 13:22:24"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

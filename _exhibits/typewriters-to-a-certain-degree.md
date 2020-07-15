@@ -16,6 +16,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190523_221207.jpg
+additional-images:
+  - 40622:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20181016_162022-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20181016_162022-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20181016_162022-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20181016_162022.jpg
+  - 40623:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_144827-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_144827-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_144827-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_144827.jpg
+  - 40624:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_150433-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_150433-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_150433-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190203_150433.jpg
+  - 40625:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20190517_210254.jpg
 website: https://www.toacertaindegree.com/
 email: 
 twitter: 
@@ -44,6 +65,6 @@ maker:
   description: "Orlando radio show and podcast To a Certain Degree will be set up with some old-school tech at the typewriter table. Write a thank-you note to the makers, volunteers, and staff who put so much time and effort into Maker Faire Orlando!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/tacd1ahi-1024x853.png
 last-modified-db: "2019-11-07 15:47:52"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

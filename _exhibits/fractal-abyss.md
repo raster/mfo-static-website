@@ -23,6 +23,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A-1024x575.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/StarPong_22_A.jpg
+additional-images:
+  - 37717:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Musical2_04-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Musical2_04-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Musical2_04.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Musical2_04.jpg
+  - 37718:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Semi_01-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Semi_01-300x180.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Semi_01-1024x615.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Semi_01.jpg
+  - 37719:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/T15-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/T15-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/T15-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/T15.jpg
+  - 37720:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/UF_Gal1_06-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/UF_Gal1_06-300x154.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/UF_Gal1_06.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/UF_Gal1_06.jpg
+  - 37721:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/COExst_Var-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/COExst_Var-300x280.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/COExst_Var-1024x955.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/COExst_Var.jpg
 website: http://www.FractalAbyss.com
 email: joefraq@gmail.com
 twitter: 
@@ -59,6 +85,6 @@ beautiful and deeply emotional artistic expressions.  He has practiced fractal a
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/bio_pic-1024x1024.jpg
 last-modified-db: "2019-10-27 16:48:58"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

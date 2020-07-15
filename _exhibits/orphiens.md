@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/group-6-2-2-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/group-6-2-2-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/group-6-2-2.jpg
+additional-images:
+  - 38224:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Picture-007-5-3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Picture-007-5-3-300x201.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Picture-007-5-3.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Picture-007-5-3.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +36,6 @@ maker:
   description: "orphiens are dolls / puppet in a toy sling, complete with a full concept story."
   image-primary: 
 last-modified-db: "2019-10-26 12:37:43"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

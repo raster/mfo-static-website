@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-300x222.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA-1024x756.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/waterCAFIA.jpg
+additional-images:
+  - 22965:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordBlarge.png
+  - 22966:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/RecordAlarge.png
 website: https://www.parsound.com
 email: pierce@parsound.com
 twitter: https://twitter.com/parsevalsound
@@ -71,6 +82,6 @@ maker:
 We have backgrounds in electrical and computer engineering, audio, acoustics, music, modeling, simulation, and building ventures that help others. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/simpleLogo.png
 last-modified-db: "2019-10-26 12:38:38"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

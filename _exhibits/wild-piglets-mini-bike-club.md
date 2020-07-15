@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/WP_Full_CMYK-01-300x125.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/WP_Full_CMYK-01-1024x425.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/WP_Full_CMYK-01.jpg
+additional-images:
+  - 37196:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Ruth-Dad-mini-bike-s-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Ruth-Dad-mini-bike-s-300x199.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Ruth-Dad-mini-bike-s.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Ruth-Dad-mini-bike-s.jpg
 website: 
 email: dougleppard@hotmail.com
 twitter: 
@@ -33,6 +39,6 @@ maker:
   description: "Group of us returning to our youth to ride mini bikes for fun.  Some are engineers, some business people, some from military and all for fun."
   image-primary: 
 last-modified-db: "2019-09-02 20:19:21"
-last-exported: "2020-14-07 08:51:56"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

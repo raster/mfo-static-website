@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/viper_spikes-300x272.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/viper_spikes-1024x929.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/viper_spikes.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -36,6 +37,6 @@ maker:
   description: "A combat robotics team from Seattle. Team members compete with the robot 'WAR Hawk' on the TV show BattleBots. We strive to meld art and engineering in fighting robots both look good and pack a punch."
   image-primary: 
 last-modified-db: "2019-11-06 17:46:51"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

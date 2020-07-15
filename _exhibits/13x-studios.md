@@ -14,6 +14,7 @@ image-primary:
   medium: 
   large: 
   full: 
+additional-images:
 website: 
 email: 13Xstudios@gmx.com
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-09-10 19:18:38"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:03"
 sitemap: false
 ---

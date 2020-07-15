@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2014-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2014.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2014.jpg
+additional-images:
+  - 3512:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2013-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2013-300x224.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2013.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/CFSA-OMMF-2013.jpg
 website: http://www.cfsa.us
 email: 
 twitter: 
@@ -45,6 +51,6 @@ maker:
   description: "The Central Florida Steampunk Association (CFSA) strives to bring Steampunk to anyone who is interested in the genre, or interested in learning how we make our props and costumes.  Our members have experience in leather working, jewelry making, sewing, prop making, simple wearable electronics, and much more.  We frequently hold classes in an effort to share our knowledge base and encourage learners to try new skills.  We'll have several items on display to showcase some of the skills and classes we have to offer.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Adobe-Spark-1-1024x1024.jpg
 last-modified-db: "2019-11-06 10:51:21"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

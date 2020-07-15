@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/40001187_1764759160307804_1435734973515563008_o-300x199.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/40001187_1764759160307804_1435734973515563008_o-1024x679.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/40001187_1764759160307804_1435734973515563008_o.jpg
+additional-images:
+  - 39067:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/43599421_10104034299787787_5304516757837316096_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/43599421_10104034299787787_5304516757837316096_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/43599421_10104034299787787_5304516757837316096_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/43599421_10104034299787787_5304516757837316096_n.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +36,6 @@ maker:
   description: "Team Witch Doctor is based in Miami, Florida, and most recently competed in BattleBots on ABC with their multi-bot Witch Doctor and Shaman. The team has been competing combat robots ranging from 150 grams to 250 pounds for the last 10+ years."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Witch-Doctor-Team-S2019-1024x683.jpg
 last-modified-db: "2019-10-05 13:12:22"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

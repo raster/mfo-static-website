@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1492.jpg
+additional-images:
 website: https://www.eduardoanacletoart.com/
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Eduardo (Eddie for short) is a true Connoisseur of the arts. Drawing since he was a child, his eye for details has been matched only by his desire to create. As the mediums through which art has evolved so too have his skill sets. From Illustration to 3D rendering and animation, and even visual effects; his experience branches out over many realms of visual and digital arts.  He is also way too humble to feel comfortable talking about himself in the third person. "
   image-primary: 
 last-modified-db: "2019-11-06 10:51:10"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

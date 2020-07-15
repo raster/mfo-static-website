@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ABF7B4B4-4A0D-4B18-A3CA-89919846BF81-300x225.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ABF7B4B4-4A0D-4B18-A3CA-89919846BF81.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ABF7B4B4-4A0D-4B18-A3CA-89919846BF81.jpeg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description: "15lb combat robot neu disko like regular disko but neu "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/7C3DC28C-87E0-4C1A-BA5E-69A193CF258E.jpeg
 last-modified-db: "2019-11-06 18:12:21"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

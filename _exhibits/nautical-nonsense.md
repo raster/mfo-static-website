@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Nautical_Nonsense_Base_2019-Aug-26_06-40-34PM-000_CustomizedView37961330_jpg-300x210.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Nautical_Nonsense_Base_2019-Aug-26_06-40-34PM-000_CustomizedView37961330_jpg-1024x715.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Nautical_Nonsense_Base_2019-Aug-26_06-40-34PM-000_CustomizedView37961330_jpg.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "A combat robotics team from California is ready to see what the East Coast is all about."
   image-primary: 
 last-modified-db: "2019-11-06 17:29:17"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

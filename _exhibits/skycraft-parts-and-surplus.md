@@ -15,6 +15,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/skycraft_600px-300x150.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/skycraft_600px.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/skycraft_600px.jpg
+additional-images:
+  - 21962:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/skycraft_storefront-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/skycraft_storefront-300x157.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/skycraft_storefront-1024x537.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/skycraft_storefront.jpg
 website: http://www.skycraftsurplus.com/about-us.aspx
 email: info@skycraftsurplus.com
 twitter: 
@@ -53,6 +59,6 @@ maker:
 We feature electronic parts, electrical supplies, hardware, wire and cable, test equipment, and thousands of hard to find items. Skycraft is an ideal place for hobbyists, model builders, audiophiles, artists, and the do-it-yourself electronic enthusiast."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/skycraft_600px.jpg
 last-modified-db: "2019-10-26 13:56:20"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

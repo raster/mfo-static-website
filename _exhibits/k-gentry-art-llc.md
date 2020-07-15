@@ -15,6 +15,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb-300x240.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/OctoDancePartnerweb.jpg
+additional-images:
+  - 34871:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3E6AB24F-B173-4FE9-A7AD-B6A110CB56F6-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3E6AB24F-B173-4FE9-A7AD-B6A110CB56F6-214x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3E6AB24F-B173-4FE9-A7AD-B6A110CB56F6-731x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/3E6AB24F-B173-4FE9-A7AD-B6A110CB56F6.jpeg
+  - 25567:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/1FirgintheFearfulWebNew-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/1FirgintheFearfulWebNew-240x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/1FirgintheFearfulWebNew.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/1FirgintheFearfulWebNew.jpg
+  - 25566:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/SnydraMcMorbidlyFinal-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/SnydraMcMorbidlyFinal-214x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/SnydraMcMorbidlyFinal-731x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/SnydraMcMorbidlyFinal.jpg
+  - 26743:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MFSpace2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MFSpace2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MFSpace2-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MFSpace2.jpg
 website: https://www.tkylegentry.com/
 email: kgentryart@gmail.com
 twitter: 
@@ -34,6 +55,6 @@ I have also illustrated for the children’s book, medical, editorial, music, an
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/KGENLogo-1024x768.jpg
 last-modified-db: "2019-10-27 17:44:11"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

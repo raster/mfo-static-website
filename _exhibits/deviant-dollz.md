@@ -14,6 +14,52 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Dollz_Cut-Out-face_04-face-4-218x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Dollz_Cut-Out-face_04-face-4-743x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Dollz_Cut-Out-face_04-face-4.png
+additional-images:
+  - 13128:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Anneth1-1-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Anneth1-1-208x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Anneth1-1-709x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Anneth1-1.png
+  - 13127:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Matchbooks_Dias-Woman_01-1-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Matchbooks_Dias-Woman_01-1-300x206.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Matchbooks_Dias-Woman_01-1.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Matchbooks_Dias-Woman_01-1.png
+  - 13126:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/11375217_826844844063938_2098848487_a-2.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/11375217_826844844063938_2098848487_a-2.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/11375217_826844844063938_2098848487_a-2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/11375217_826844844063938_2098848487_a-2.jpg
+  - 13125:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/buelah-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/buelah-228x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/buelah-778x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/buelah.png
+  - 13124:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/clark3-2-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/clark3-2-169x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/clark3-2-576x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/clark3-2.png
+  - 13123:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/margotsyn1-1-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/margotsyn1-1-202x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/margotsyn1-1-688x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/margotsyn1-1.png
+  - 13122:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/gilly3-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/gilly3-300x252.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/gilly3.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/gilly3.png
+  - 13121:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/AmorDeCachorros1-2-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/AmorDeCachorros1-2-178x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/AmorDeCachorros1-2-609x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/AmorDeCachorros1-2.png
+  - 13120:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Candle_Anatomy-Bust_beige_01-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Candle_Anatomy-Bust_beige_01-174x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Candle_Anatomy-Bust_beige_01-593x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/Candle_Anatomy-Bust_beige_01.png
 website: http://www.deviantdollz.net/
 email: deviantdollz@aol.com
 twitter: 
@@ -42,6 +88,6 @@ maker:
   description: "I have been a creator since I was little.  Whether it was crayon to paper or making a lavish mansion for my barbies out of cardboard boxes and twine, my imagination has always run wild.  I started making Deviant Dollz after a Halloween party.  I made a handful as props and guests loved them.  One thing led to another and Deviant Dollz was born. My philosophy with art is not caring a supply is meant to do.  I care what it can do.  I experiment.  I take chances.  I don't analyze.  I love what I create and I hope that someone else in the world digs it as well.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/09/DD_icon_black-on-white.png
 last-modified-db: "2019-10-27 16:48:15"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

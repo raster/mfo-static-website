@@ -20,6 +20,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Booth-Kurtis.jpg
+additional-images:
 website: https://www.fingertechrobotics.com/
 email: sales@fingertechrobotics.com
 twitter: https://twitter.com/FingerTech_Bots/
@@ -42,6 +43,6 @@ maker:
   description: "FingerTech Robotics is North America's top manufacturer of combat robotics parts.  If you're interested in building your first combat robot, check out the \"Viper\" Combat Robot kit, which includes everything you need to build a fully functional, competitive 1lb antweight. FingerTech also carries a complete line of wheels, motors, electronics, and other components if you want to build a bot from the ground up. Worldwide shipping! Head over to www.FingerTechRobotics.com."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/FingerTech-Logo-Maker-Faire-1024x238.png
 last-modified-db: "2019-11-06 16:27:51"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

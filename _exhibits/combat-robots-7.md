@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/P1-Bot-S2019-1-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/P1-Bot-S2019-1-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/P1-Bot-S2019-1.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "A combat robotics team from Clemson, SC, building robots from 1 lb to 250 lb."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/P1-Bot-S2019-1024x683.jpg
 last-modified-db: "2019-11-06 16:51:56"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

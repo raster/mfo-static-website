@@ -15,6 +15,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1-1024x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1.png
+additional-images:
 website: https://www.whatsinapodcast.com
 email: whatsinanoun@gmail.com
 twitter: https://twitter.com/WhatsInaPodcast
@@ -31,6 +32,6 @@ maker:
   description: "What's In a Podcast is a show about people. We approach this subject by exploring various topics like Free Will, Giraffes, The NBA, Spiderman, a Sea World show about bubbles, etc. You might even hear yourself, or one of your friends featured in our \"Man on the Street\" segments."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/9DEDF7FB-A6AE-4295-9F67-1F4B10C00B12-1024x1024.png
 last-modified-db: "2019-10-16 20:08:57"
-last-exported: "2020-14-07 08:51:56"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

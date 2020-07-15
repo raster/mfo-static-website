@@ -14,6 +14,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hats.jpg
+additional-images:
+  - 28156:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-me-Mt-Dora-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-me-Mt-Dora-167x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-me-Mt-Dora.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-me-Mt-Dora.png
+  - 28155:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/butterfly-jacket-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/butterfly-jacket-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/butterfly-jacket-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/butterfly-jacket.jpg
+  - 28152:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-hats-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-hats-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-hats-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/steam-hats.jpg
+  - 28153:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hat-display-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hat-display-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hat-display-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/mini-top-hat-display.jpg
 website: 
 email: timewarptailor@gmail.com
 twitter: 
@@ -51,6 +72,6 @@ maker:
   description: "I grew up travelling the world and now bring the world into my creations. I have costumed dozens of professional productions, from Opera Orlando's steampunk \"Tales of Hoffman\" to historic reenactments and Carnegie Hall concerts. As the TimeWarpTailor I travel with my friend, Mr. Verne, collecting....\"souvenir?\"...clothing pieces which I incorporate into my wardrobe; one recent ensemble combined an eighteenth century skirt, a 1970's leather trenchcoat, a Victorian corset and a 1990's 'power suit'."
   image-primary: 
 last-modified-db: "2019-10-27 16:27:44"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

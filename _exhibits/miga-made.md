@@ -18,6 +18,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4693.jpg
+additional-images:
+  - 37745:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n-300x258.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57589791_10216714940240766_4825063833393430528_n.jpg
+  - 37746:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266-273x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_9266.jpg
+  - 37751:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2746.jpg
+  - 37753:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-300x148.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506-1024x506.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DPR_Friends-1024x506.png
 website: https://www.migamade.com
 email: 
 twitter: 
@@ -52,6 +73,6 @@ maker:
   description: "Join @Stachelightning as he shows off his robots, costumes, set pieces, fun products and then some."
   image-primary: 
 last-modified-db: "2019-10-27 16:29:10"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

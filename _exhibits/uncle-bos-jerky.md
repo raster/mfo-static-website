@@ -23,6 +23,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-300x275.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1-1024x939.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Logo-trans-1.png
+additional-images:
+  - 10512:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1064-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1064-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1064-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1064.jpg
+  - 10513:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1195-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1195-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1195-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1195.jpg
+  - 10516:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/445-pounds-of-beef-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/445-pounds-of-beef-1-233x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/445-pounds-of-beef-1-794x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/445-pounds-of-beef-1.jpg
+  - 10519:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1-300x168.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1-1024x575.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/IMG_1192-2-1.jpg
 website: http://www.unclebosjerky.com
 email: unclebo@unclebosjerky.com
 twitter: 
@@ -57,6 +78,6 @@ maker:
   description: "about 20 years ago, a friend of the family gave us a food dehydrator, using the recipe that came with the unit I made some Beef jerky. It was awful! It was worse than the generic store bought stuff. As I make my own steak rubs, wing sauces etcetera ... I decided to make my own jerky recipe. After about 6 months of trial and error, I came up with my original recipe jerky. Using this as a base, I have created 7 additional flavors. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/10/Logo-trans-1024x939.png
 last-modified-db: "2019-10-30 16:45:38"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

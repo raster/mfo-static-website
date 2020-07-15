@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Axe-Backwards-Team-S2019-4-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Axe-Backwards-Team-S2019-4-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Axe-Backwards-Team-S2019-4.jpg
+additional-images:
 website: http://www.kurtrox.com
 email: battlebots@kurtrox.com
 twitter: https://twitter.com/kurtdurjan?lang=en
@@ -39,6 +40,6 @@ maker:
   description: "We competed on Discovery's BattleBots with our 250lb heavyweight Robot, Axe Backwards."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Axe-Backwards-Team-S2019-1-1024x683.jpg
 last-modified-db: "2019-11-06 17:25:39"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

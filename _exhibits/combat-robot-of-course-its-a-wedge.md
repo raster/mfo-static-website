@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208-300x169.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208-1024x576.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Featherweight_-_Assembly_2019-Sep-03_08-09-54PM-000_CustomizedView16915887208.png
+additional-images:
 website: 
 email: 
 twitter: 
@@ -36,6 +37,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:14:00"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

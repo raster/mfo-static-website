@@ -17,6 +17,7 @@ image-primary:
   medium: 
   large: 
   full: 
+additional-images:
 website: http://factur.org
 email: jacqui@factur.org
 twitter: https://twitter.com/facturlabs
@@ -65,6 +66,6 @@ Our instructors at Factur teach skills in woodworking, metal working, metal smit
 Our Entrepreneurs can create what you need. Our members consist of Entrepreneurs and DIYers."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/factur-logo-800x800.png
 last-modified-db: "2019-11-07 19:36:44"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

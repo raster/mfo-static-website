@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit-300x243.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Exhibit.jpg
+additional-images:
 website: https://www.thehopefalls.com/
 email: 
 twitter: 
@@ -44,6 +45,6 @@ maker:
 While our adventurous VooDoo is off exploring and making new friends we also create the webcomic series HopeFalls and Shadows in the Light. "
   image-primary: 
 last-modified-db: "2019-10-27 17:13:35"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

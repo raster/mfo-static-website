@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-300x225.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049-1024x768.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/F347D585-CFED-42AA-B76E-D0324B0BD049.jpeg
+additional-images:
 website: 
 email: Carrandale@yahoo.com
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:48:56"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

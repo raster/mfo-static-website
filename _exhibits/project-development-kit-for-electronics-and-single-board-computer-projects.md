@@ -26,6 +26,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1282.jpg
+additional-images:
+  - 36805:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1366_square.jpg
+  - 36806:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Arduino-controlled-line-bender.jpg
 website: https://www.phasedock.com
 email: info@phasedock.com
 twitter: https://twitter.com/PhaseDock
@@ -75,6 +86,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo_Phase-Dock__Special-Use-Square_CMYK.jpg
 last-modified-db: "2019-10-13 10:42:36"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

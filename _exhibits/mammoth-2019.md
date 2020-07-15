@@ -19,6 +19,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-254x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2-866x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mammoth_bot-2.jpg
+additional-images:
+  - 37575:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2539-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2539-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2539-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2539.jpg
+  - 37576:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_2569.jpg
 website: https://battlebots.com/robot/mammoth-2019/
 email: mammothbattlebot@gmail.com
 twitter: https://twitter.com/mammothrobot?lang=en
@@ -50,6 +61,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/me-1-768x1024.jpg
 last-modified-db: "2019-11-06 17:12:07"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1-300x296.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo-1.jpg
+additional-images:
+  - 36458:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman-300x185.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman-1024x630.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Remedy-Sportsman.jpg
 website: http://www.teambonedead.com
 email: 
 twitter: 
@@ -60,6 +66,6 @@ maker:
   description: "We are a combat robotics team who builds and competes fighting robots. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/BDR-Logo.jpg
 last-modified-db: "2019-11-06 18:05:53"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

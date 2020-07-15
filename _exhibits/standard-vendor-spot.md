@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-225x300.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591-768x1024.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/E68260C3-407A-4E7A-9AE1-7D151FA73591.jpeg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -36,6 +37,6 @@ maker:
   description: "Handmade purse, bows, bags and more "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/C0253EC1-7296-4E87-BB22-ECE8381D038A-1024x600.png
 last-modified-db: "2019-09-09 22:05:03"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

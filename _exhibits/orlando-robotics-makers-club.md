@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Logo-highres_369326132-300x298.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Logo-highres_369326132.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Logo-highres_369326132.jpeg
+additional-images:
+  - 20140:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Drones-Pic-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Drones-Pic-300x225.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Drones-Pic.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/ORMC-Drones-Pic.jpeg
 website: http://www.orlandorobotics.org
 email: 
 twitter: 
@@ -67,6 +73,6 @@ maker:
 Mytime: Maker, geek, robotics mentor."
   image-primary: 
 last-modified-db: "2019-10-26 13:19:57"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

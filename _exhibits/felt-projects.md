@@ -14,6 +14,7 @@ image-primary:
   medium: 
   large: 
   full: 
+additional-images:
 website: 
 email: 
 twitter: 
@@ -54,6 +55,6 @@ maker:
   description: "We will be teaching sewing by creating felt crafts that we will sell at the event. We will also be teach needle felting."
   image-primary: 
 last-modified-db: "2019-10-14 20:35:17"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

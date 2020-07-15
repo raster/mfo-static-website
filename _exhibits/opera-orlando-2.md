@@ -18,6 +18,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-20-SEASON_Facebook-Cover-Photo-05-300x167.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-20-SEASON_Facebook-Cover-Photo-05-1024x571.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/2019-20-SEASON_Facebook-Cover-Photo-05.jpg
+additional-images:
 website: http://www.operaorlando.org
 email: info@operaorlando.org
 twitter: http://www.twitter.com/operaorlando
@@ -34,6 +35,6 @@ maker:
   description: "Opera sings to every heart, connecting us to our history, to our humanity, and to our community. It is Opera Orlando’s privilege and responsibility to carry on opera’s legacy by sharing emotionally compelling and unique stories. We strive to introduce audiences new and old to the beauty and splendor of the greatest of all art forms."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/09CABE7C-49FA-4258-8651-5AFEBA1031DD.jpeg
 last-modified-db: "2019-10-27 16:28:31"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

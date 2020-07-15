@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111615-1.jpg
+additional-images:
+  - 38306:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111609-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111609-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111609-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20181111_111609.jpg
 website: https://www.funking3d.com
 email: 
 twitter: https://twitter.com/FunKing3d
@@ -33,6 +39,6 @@ maker:
   description: "We are a father and son team that does 3D Printing and Electronic Projects on YouTube. We love to learn, and teach what we learn."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180312_200118-1024x576.jpg
 last-modified-db: "2019-10-26 13:28:00"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

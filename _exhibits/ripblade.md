@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout-300x265.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Trout.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description: "Son (and father) amateur team. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CE340C0C-FC6F-4324-AC0A-C374F5471290-1024x768.jpeg
 last-modified-db: "2019-11-06 18:01:32"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

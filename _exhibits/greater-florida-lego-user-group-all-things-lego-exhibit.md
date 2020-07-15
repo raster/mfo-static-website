@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180603_110349-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180603_110349-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180603_110349.jpg
+additional-images:
+  - 36941:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190517_165955_HDR-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190517_165955_HDR-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190517_165955_HDR-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190517_165955_HDR.jpg
 website: http://www.glfug.org
 email: tthuma@gmail.com
 twitter: 
@@ -32,6 +38,6 @@ maker:
 The primary goal of the group is camaraderie that is achieved by providing members the opportunity to meet other adults who share a common fascination with the LEGO® hobby through correspondence, meetings and events. We are a family oriented group with member's spouses and children helping at select events and enjoying the fruits of our building labor."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/04/GFLUG-1024x787.jpg
 last-modified-db: "2019-10-26 13:06:34"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

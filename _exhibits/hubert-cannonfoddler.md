@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0587_Fotor_Collage-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0587_Fotor_Collage.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0587_Fotor_Collage.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "I'm a first time builder in the realm of combat robots. I have been a huge fan of combat robot for many years and didn't actually believe that i could do it until seeing 3lb bots at MakerFaire in 2018. I am excited for the chance to check (and continue to check) that of my bucket list."
   image-primary: 
 last-modified-db: "2019-11-06 17:56:37"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

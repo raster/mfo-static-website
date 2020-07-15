@@ -15,6 +15,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20180925_125621-2.jpg
+additional-images:
 website: https://www.jedijill.com/
 email: muccij@burnsscitech.org
 twitter: https://twitter.com/JillsScholars
@@ -33,6 +34,6 @@ Zoe Jane is Team MISSION SICK's driver/builder. She is Team Kraken-BattleBot's g
 "
   image-primary: 
 last-modified-db: "2019-11-06 16:28:51"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

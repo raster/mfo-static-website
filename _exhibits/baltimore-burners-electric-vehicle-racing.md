@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/wide_BaHa-1-300x225.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/wide_BaHa-1.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/wide_BaHa-1.png
+additional-images:
 website: 
 email: 
 twitter: 
@@ -42,6 +43,6 @@ maker:
   description: "We've evolved from burning down on the track to burning out on the track! Along the way we've built art cars, fun cars, fast cars, and the legendary TrainRex. Stay tuned for our next wacky adventure!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/wide_BaHa.png
 last-modified-db: "2019-10-02 20:53:21"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

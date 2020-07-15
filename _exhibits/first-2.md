@@ -25,6 +25,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1-300x224.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-1.jpg
+additional-images:
+  - 41022:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n-300x224.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/73321105_10220960070297913_624017168530407424_n.jpg
 website: http://WWW.team5937.com
 email: info@team5937.com
 twitter: https://twitter.com/Team5937
@@ -58,6 +64,6 @@ Renaissance Robotics has participated in numerous demos and often brings additio
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/RRlogo-1024x791.gif
 last-modified-db: "2019-11-05 09:09:36"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

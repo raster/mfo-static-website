@@ -14,6 +14,62 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_3201.jpg
+additional-images:
+  - 25983:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy5-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy5-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy5.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy5.jpg
+  - 25982:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/blue-damascus1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/blue-damascus1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/blue-damascus1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/blue-damascus1.jpg
+  - 25981:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/webNightmareSquare3-wm-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/webNightmareSquare3-wm-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/webNightmareSquare3-wm.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/webNightmareSquare3-wm.jpg
+  - 25980:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1.jpg
+  - 25979:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-IMG_8485-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-IMG_8485-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-IMG_8485-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-IMG_8485.jpg
+  - 25978:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-belts-and-gloves-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-belts-and-gloves-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-belts-and-gloves.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-belts-and-gloves.jpg
+  - 25977:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-nailmaille-uheart-set-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-nailmaille-uheart-set-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-nailmaille-uheart-set.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/eres-nailmaille-uheart-set.jpg
+  - 25976:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1-web-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1-web-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1-web.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy1-web.jpg
+  - 25975:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_1746-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_1746-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_1746-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_1746.jpg
+  - 25953:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2584-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2584-1-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2584-1-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2584-1.jpg
+  - 25984:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/etsy3.jpg
 website: http://www.steampunkgarage.com
 email: steampunkgarage@gmail.com
 twitter: http://www.twitter.com/steampunkgarage
@@ -48,6 +104,6 @@ maker:
   description: "Handmade steel and titanium chainmaille mixed with antique keys, clock parts, construction nails, and recycled stuff."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/store-logojpg-1024x1024.jpg
 last-modified-db: "2019-11-07 20:39:27"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -15,6 +15,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Butterbeer_Spa_Set_XL2.jpg
+additional-images:
+  - 34949:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Bath-Bombs2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Bath-Bombs2-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Bath-Bombs2-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Bath-Bombs2.jpg
+  - 34948:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mellon-Ball-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mellon-Ball-1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mellon-Ball-1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mellon-Ball-1.jpg
+  - 34950:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Beach-Set-3-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Beach-Set-3-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Beach-Set-3-1024x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Beach-Set-3.png
+  - 34951:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Gummy-Bears-2.1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Gummy-Bears-2.1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Gummy-Bears-2.1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Gummy-Bears-2.1.jpg
+  - 34952:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mary-Poppins-Collection-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mary-Poppins-Collection-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mary-Poppins-Collection-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Mary-Poppins-Collection.jpg
 website: https://www.cherrypitcrafts.com/
 email: customerservice@cherrypitcrafts.com
 twitter: https://twitter.com/CherryPitCrafts
@@ -43,6 +69,6 @@ maker:
   description: "Creators of handcrafted all natural bath and body products"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/cherrieslogo.png
 last-modified-db: "2019-10-27 17:00:43"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/konnected-closeup-nate-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/konnected-closeup-nate-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/konnected-closeup-nate.jpg
+additional-images:
+  - 35231:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190412_140901-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190412_140901-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190412_140901-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190412_140901.jpg
 website: https://konnected.io
 email: help@konnected.io
 twitter: https://twitter.com/konnected_io
@@ -39,6 +45,6 @@ maker:
   description: "Konnected is a local Orlando startup that is disrupting the home security space and putting homeowners back in control of their home alarm system. Our flagship product, the Konnected Alarm Panel, launched on Kickstarter in 2017 and has become a huge hit with DIY smart home enthusiasts. The Konnected Alarm Panel allows you to convert your home's old and outdated wired alarm system into a modern smart home alarm, integrating with popular home automation hubs like SmartThings and Home Assistant. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/konnected-logo-blue-1024x195.png
 last-modified-db: "2019-10-29 14:44:51"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

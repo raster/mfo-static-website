@@ -15,6 +15,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010-1024x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/OpenBuilds-LEAD-1010.jpg
+additional-images:
 website: https://www.openbuilds.com
 email: OpenBuilds@OpenBuilds.com
 twitter: https://www.twitter.com/openbuilds
@@ -83,6 +84,6 @@ maker:
 We believe that the right tools in the hands of those that have this knowledge will change the world making a better future for us all."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/OpenBuilds_Logo_300.jpg
 last-modified-db: "2019-11-06 16:50:09"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

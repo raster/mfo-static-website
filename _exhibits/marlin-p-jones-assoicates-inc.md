@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5315-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5315.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5315.jpg
+additional-images:
+  - 35012:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/16142536_1149406625156810_3036177738358698316_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/16142536_1149406625156810_3036177738358698316_n-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/16142536_1149406625156810_3036177738358698316_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/16142536_1149406625156810_3036177738358698316_n.jpg
+  - 35013:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Moms-Iphone-503-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Moms-Iphone-503-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Moms-Iphone-503-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Moms-Iphone-503.jpg
 website: https://www.mpja.com/
 email: mpja@mpja.com
 twitter: https://twitter.com/MPJAonline
@@ -42,6 +53,6 @@ maker:
   description: "We are an electronic company that works with hobbyist  and Makers with parts and supplies. We have kits for the kids to create there own items. We supply soldering irons and accessories for the kid to learn how to solder and work with electronics. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/63019_391470484283765_520449786_n.jpg
 last-modified-db: "2019-10-26 13:36:56"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

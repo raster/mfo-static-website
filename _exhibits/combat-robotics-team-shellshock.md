@@ -15,6 +15,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/TeamShellshock.jpg
+additional-images:
+  - 36887:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ShellShock-Bot-S2019.jpg
 website: https://outreach.rollingrobots.com/battlebots
 email: gkirkman@rollingrobots.com
 twitter: https://twitter.com/RollingRobots
@@ -31,6 +37,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 18:15:16"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

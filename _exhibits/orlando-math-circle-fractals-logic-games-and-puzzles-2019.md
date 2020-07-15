@@ -14,6 +14,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/manda-1-268x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/manda-1-916x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/manda-1.jpg
+additional-images:
+  - 29142:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/6269AB2A-5F97-433A-80DF-FDC343FA4AEC-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/6269AB2A-5F97-433A-80DF-FDC343FA4AEC-300x225.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/6269AB2A-5F97-433A-80DF-FDC343FA4AEC-1024x768.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/6269AB2A-5F97-433A-80DF-FDC343FA4AEC.jpeg
+  - 29140:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/E2CCAFCD-9B59-4C71-86F1-C08AB33025A0-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/E2CCAFCD-9B59-4C71-86F1-C08AB33025A0-300x225.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/E2CCAFCD-9B59-4C71-86F1-C08AB33025A0-1024x768.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/E2CCAFCD-9B59-4C71-86F1-C08AB33025A0.jpeg
+  - 29139:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/8912ADE9-DF10-4867-81C1-F3313CA65EB7-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/8912ADE9-DF10-4867-81C1-F3313CA65EB7-225x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/8912ADE9-DF10-4867-81C1-F3313CA65EB7-768x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/8912ADE9-DF10-4867-81C1-F3313CA65EB7.jpeg
+  - 36602:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/sierp-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/sierp-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/sierp.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/sierp.jpg
 website: http://www.orlandomathcircle.org
 email: orlandomathcircle@gmail.com
 twitter: https://twitter.com/orlandomathcir?lang=en
@@ -41,6 +62,6 @@ OMC is a grass roots organization working to show that everyone is a math person
 https://youtu.be/fNHfZhvpa2E"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/CBBB47BB-69C0-4360-A270-881E2DC8FD60.png
 last-modified-db: "2019-11-08 09:02:45"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

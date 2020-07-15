@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD-300x221.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/VoD.png
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Robot Ruckus fairy weight entry Suzy Spinnerbot."
   image-primary: 
 last-modified-db: "2019-11-06 17:34:02"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

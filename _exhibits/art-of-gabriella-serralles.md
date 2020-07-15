@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KaMU-show1-300x165.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KaMU-show1-1024x563.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KaMU-show1.jpg
+additional-images:
+  - 36038:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/jaceler-you-and-me-together-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/jaceler-you-and-me-together-265x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/jaceler-you-and-me-together-904x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/jaceler-you-and-me-together.jpg
+  - 36039:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ciarster-witches-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ciarster-witches-300x207.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ciarster-witches-1024x705.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ciarster-witches.jpg
+  - 36041:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RAGEMIGHT-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RAGEMIGHT-300x211.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RAGEMIGHT-1024x719.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RAGEMIGHT.jpg
 website: http://behance.net/GSerralles
 email: artofgabriella@gmail.com
 twitter: 
@@ -36,6 +52,6 @@ maker:
   description: "I’m a first generation Puerto Rican story artist and designer with a fierce passion for storytelling. I communicate story and message following the work and style of Steve Ahn (Nickelodeon Studios, Cartoon Network, Dreamworks) and Phil Craven (Dreamworks). With a passion and skill for storytelling, I combined the visual and traditional techniques in media. Writing was never enough, so I learned the art of visual storytelling so I could truly connect and engage with my audience"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/businesscard1.jpg
 last-modified-db: "2019-11-05 14:51:42"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-1-272x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-1-929x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-1.jpg
+additional-images:
 website: 
 email: skbuesch@bellsouth.net
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Builder of fighting robots large and small"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/death_metal_pic2-929x1024.jpg
 last-modified-db: "2019-11-06 17:31:24"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -14,6 +14,52 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Grand-Canyon-Sunset-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Grand-Canyon-Sunset.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Grand-Canyon-Sunset.jpg
+additional-images:
+  - 5754:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Slipper-Orchid-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Slipper-Orchid-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Slipper-Orchid.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Slipper-Orchid.jpg
+  - 5755:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Horseplay-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Horseplay-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Horseplay.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Horseplay.jpg
+  - 5756:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/World-Trade-Center-Heros-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/World-Trade-Center-Heros-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/World-Trade-Center-Heros.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/World-Trade-Center-Heros.jpg
+  - 5757:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Florida-Pelican-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Florida-Pelican-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Florida-Pelican.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/The-Florida-Pelican.jpg
+  - 5758:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/guitar-necklace-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/guitar-necklace-300x212.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/guitar-necklace.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/guitar-necklace.jpg
+  - 5759:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lauraartshowstuff-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lauraartshowstuff-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lauraartshowstuff-1024x681.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lauraartshowstuff.jpg
+  - 5752:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Natures-Nectar-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Natures-Nectar-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Natures-Nectar.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Natures-Nectar.jpg
+  - 5751:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/flower-power-stamp-guitar-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/flower-power-stamp-guitar-300x179.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/flower-power-stamp-guitar-1024x611.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/flower-power-stamp-guitar.jpg
+  - 5753:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Framed-Guitars-61-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Framed-Guitars-61-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Framed-Guitars-61.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/Framed-Guitars-61.jpg
 website: http://www.photoandstamp.com
 email: photoandstamp@yahoo.com
 twitter: 
@@ -48,6 +94,6 @@ capturing images with her unique style. Her works have been published in numerou
 magazines and newspapers. Recently, Laura's art has evolved into blending her photography with cool objects creating unique 4-D mixed media art designed to fascinate and encourage the viewers to appreciate functional art."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/lm-photo.png
 last-modified-db: "2019-10-27 17:18:55"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

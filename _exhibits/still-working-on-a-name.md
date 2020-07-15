@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/68784534_100198098023462_1881906784793264128_o.jpg
+additional-images:
+  - 36840:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/69803108_10157130917306253_8566433097891971072_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/69803108_10157130917306253_8566433097891971072_o-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/69803108_10157130917306253_8566433097891971072_o-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/69803108_10157130917306253_8566433097891971072_o.jpg
 website: http://www.fritzsoapshoppe.com
 email: fritzsoapshoppe@gmail.com
 twitter: 
@@ -33,6 +39,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 10:50:22"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

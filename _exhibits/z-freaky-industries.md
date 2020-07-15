@@ -20,6 +20,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0116.jpg
+additional-images:
+  - 37169:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif-300x181.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif-1024x616.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/rawgif.jpg
+  - 37170:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/UVIU9295.jpg
+  - 37173:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249-300x189.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249-1024x646.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0249.jpg
+  - 37174:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/overhead-panel.jpg
 website: 
 email: 
 twitter: 
@@ -72,6 +93,6 @@ maker:
   description: "My hands are in a bit of everything, from automotive repair/aftermarket support for defunct car brands to embedded systems development. I have many projects involving inter-system interaction, electric skateboards, PCB design, reverse engineering, and 3D printing."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Z-Freaky-Industries-retrov11p-1024x1024.png
 last-modified-db: "2019-10-26 13:30:25"
-last-exported: "2020-14-07 08:51:56"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

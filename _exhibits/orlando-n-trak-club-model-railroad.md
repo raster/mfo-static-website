@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-300x148.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B-1024x506.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Maker-Faire-B.jpg
+additional-images:
+  - 25999:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-300x199.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o-1024x681.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36002525_10216474822682821_7639903068963733504_o.jpg
+  - 26001:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-300x199.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o-1024x681.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36199906_10216474813562593_5590812083718455296_o.jpg
+  - 26000:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-300x199.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o-1024x681.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/36088188_10216474828442965_3055995258329366528_o.jpg
 website: 
 email: 
 twitter: 
@@ -57,6 +73,6 @@ maker:
   description: "Model Railroad Club"
   image-primary: 
 last-modified-db: "2019-10-26 13:53:08"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

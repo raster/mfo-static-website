@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/JBA4112-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/JBA4112-1024x684.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/JBA4112.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description: "International combat robot competitor.  Director of 1500 member Mountie Makerspace in Los Angeles California. "
   image-primary: 
 last-modified-db: "2019-10-08 20:55:28"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

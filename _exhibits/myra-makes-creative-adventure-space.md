@@ -20,6 +20,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-300x134.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1-1024x456.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1.png
+additional-images:
+  - 36592:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-300x254.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes-1024x868.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kids-are-In-Charge-Myra-Makes.jpg
 website: https://MyraMakes.com
 email: contact@myramakes.com
 twitter: https://twitter.com/myramakes
@@ -69,6 +75,6 @@ maker:
   description: "Myra Makes is a creative education startup which publishes books and games that help kids develop creative, problem-solving, and emotional skills. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Myra-Makes-Logo-Stacked-with-Myra-1024x456.png
 last-modified-db: "2019-10-26 13:04:35"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

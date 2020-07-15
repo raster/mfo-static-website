@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1-300x245.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1-1024x835.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1.jpg
+additional-images:
+  - 35730:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Beeess.-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Beeess.-300x180.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Beeess..jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Beeess..jpg
 website: https://hugebattlebots.com
 email: goldteamrobotics@gmail.com
 twitter: 
@@ -41,6 +47,6 @@ maker:
 www.facebook.com/BattlebotsHUGE"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1huge_team2019-1024x835.jpg
 last-modified-db: "2019-11-06 16:56:46"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

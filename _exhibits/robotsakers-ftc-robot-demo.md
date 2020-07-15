@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/team-picture-3-300x209.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/team-picture-3.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/team-picture-3.jpg
+additional-images:
+  - 40366:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sakers-logo-2-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sakers-logo-2-300x185.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sakers-logo-2.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/sakers-logo-2.png
+  - 40365:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/robot-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/robot-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/robot-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/robot.jpg
 website: 
 email: team7579robotsakers@gmail.com
 twitter: https://twitter.com/robotsakers
@@ -30,6 +41,6 @@ maker:
   description: "RobotSakers was launched as a FIRST Tech Challenge program by a group of students with an interest in engineering and robotics.  Our team’s mission is to inspire young people to become leaders in Science, Technology, Engineering, and Mathematics by developing partnerships with industry professionals to solve annual engineering challenges put forth by FIRST.  We are building a foundation of technical skills, social skills, and values to create leaders in the STEM community."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Robotsakers-logo.png
 last-modified-db: "2019-10-29 13:22:23"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

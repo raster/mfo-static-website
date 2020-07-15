@@ -17,6 +17,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq-1024x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BA_MFO_1200sq.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description: "International robot fighting team!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/LogoBlack-1024x172.png
 last-modified-db: "2019-11-06 17:34:29"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

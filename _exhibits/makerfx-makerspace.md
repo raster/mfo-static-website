@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2-300x47.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MFX-Meetup-Header-2.png
+additional-images:
+  - 35075:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/47510320782_951a413805_z.jpg
+  - 35076:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/33136375358_efab3c1b35_z.jpg
+  - 35077:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/32047389287_f1ed96bd2c_z.jpg
 website: http://www.makerfx.org
 email: info@makerfx.org
 twitter: https://twitter.com/makerfx
@@ -82,6 +98,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-27 17:35:46"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A82AAE79-4A4A-45AE-9376-184F21603C81-300x225.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A82AAE79-4A4A-45AE-9376-184F21603C81-1024x768.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/A82AAE79-4A4A-45AE-9376-184F21603C81.jpeg
+additional-images:
 website: 
 email: silvertales@gmail.com
 twitter: https://www.twitter.com/silvertales
@@ -33,6 +34,6 @@ maker:
   description: "Award-winning artist and illustrator, Kit uses watercolor and mixed media to bring life to whimsical and fantastical creations. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/E3AF3777-BC48-4912-B63F-5BFCB455C089.jpeg
 last-modified-db: "2019-10-27 17:27:55"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

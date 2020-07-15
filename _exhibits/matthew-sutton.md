@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-251x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier-858x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Calvin-and-Hobbes-Captain-America-and-Winter-Soldier.png
+additional-images:
+  - 27419:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Rittenhouse-Set-Preview-Marvel-Cards-Resized-to-specs-650x908-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Rittenhouse-Set-Preview-Marvel-Cards-Resized-to-specs-650x908-216x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Rittenhouse-Set-Preview-Marvel-Cards-Resized-to-specs-650x908.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Rittenhouse-Set-Preview-Marvel-Cards-Resized-to-specs-650x908.jpg
+  - 27418:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Raphael-Ink-Red-Cropped-half-the-size-of-the-original-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Raphael-Ink-Red-Cropped-half-the-size-of-the-original-234x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Raphael-Ink-Red-Cropped-half-the-size-of-the-original-799x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Raphael-Ink-Red-Cropped-half-the-size-of-the-original.jpg
 website: http://www.sketchbooksart.com
 email: 
 twitter: 
@@ -36,6 +47,6 @@ maker:
   description: "I am an illustrator and comic book artists! I regularly create licensed artwork for properties such as; Star Wars, Spider-Man Homecoming, Stranger Things, Ant-Man 2, and many more. I'm currently working for Marvel Comics, Topps, Upper Deck, Cryptozoic Ent. and several other companies. I also create commissions for clients and fans from all over the world. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Matt-Sutton-300x225.jpeg
 last-modified-db: "2019-11-04 17:25:09"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

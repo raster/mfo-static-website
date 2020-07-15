@@ -16,6 +16,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n-300x196.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/1610913_885423104837246_7360532481243816421_n.jpg
+additional-images:
+  - 8421:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/05/1918076_943088889119922_8388568937761643873_n.jpg
 website: http://www.gypsysweavings.etsy.com
 email: gypsysweavings@hotmail.com
 twitter: 
@@ -53,6 +59,6 @@ maker:
   description: "Greetings! I'm Anakhet of Gypsy's Weavings. I'm a chainmaile armourer and accessory maker who takes historical patterns and puts a more modern use to them. I start with a pile of links and using pliers I artfully weave them together. I mostly use premade links from a supplier though I have made my own in the past and still have the supplies to do so. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/10846479_1004816692869144_6371303313562769882_n.jpg
 last-modified-db: "2019-11-07 20:38:03"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

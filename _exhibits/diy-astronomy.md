@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20191025_125915.jpg
+additional-images:
+  - 38508:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/3dtelescope-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/3dtelescope-300x199.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/3dtelescope.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/3dtelescope.jpg
+  - 40930:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/planisphere-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/planisphere-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/planisphere-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/planisphere.jpg
 website: https://www.seminolestate.edu/planet
 email: planetarium@seminolestate.edu
 twitter: 
@@ -48,6 +59,6 @@ maker:
   description: "We are featuring astronomical DIY projects including telescopes, space arts and crafts, astronomical accessories, and more. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DSC_0116-811x1024.jpg
 last-modified-db: "2019-11-04 15:05:06"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

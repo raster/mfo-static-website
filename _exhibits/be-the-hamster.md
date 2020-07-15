@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160424_143432108-169x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160424_143432108-576x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160424_143432108.jpg
+additional-images:
+  - 25818:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160813_105220517_HDR-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160813_105220517_HDR-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160813_105220517_HDR-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20160813_105220517_HDR.jpg
 website: http://www.bethehamster.com
 email: bethehamster@gmail.com
 twitter: 
@@ -30,6 +36,6 @@ maker:
   description: "I dream up and create creative hands-on-things for kids; to get them interested in Engineering."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Hamster-Logo-2-1024x1024.jpg
 last-modified-db: "2019-08-17 18:42:23"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

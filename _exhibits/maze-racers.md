@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Maze-Racers-300x214.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Maze-Racers.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Maze-Racers.png
+additional-images:
+  - 36150:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Picture1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Picture1-300x190.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Picture1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Picture1.jpg
 website: http://www.cerealboxmaze.com/
 email: 
 twitter: 
@@ -33,6 +39,6 @@ maker:
   description: "Andy Geremia is a father of three and always makes time to play games. He is sales engineer by day and a board game designer the rest of the time!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Headshot-852x1024.png
 last-modified-db: "2019-10-26 13:01:44"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

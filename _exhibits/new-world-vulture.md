@@ -14,6 +14,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/tcyxoe-preview-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/tcyxoe-preview.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/tcyxoe-preview.png
+additional-images:
+  - 39755:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/20191016_160630-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/20191016_160630-146x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/20191016_160630-498x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/20191016_160630.jpg
+  - 39759:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20180327_213119_665-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20180327_213119_665-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20180327_213119_665-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20180327_213119_665.jpg
+  - 39757:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190808_203450_435-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190808_203450_435-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190808_203450_435-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190808_203450_435.jpg
+  - 39758:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20181222_132017_268-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20181222_132017_268-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20181222_132017_268-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20181222_132017_268.jpg
 website: https://l.instagram.com/?u=https%3A%2F%2Fwww.etsy.com%2Fshop%2FNewWorldVultureCo%3Fref%3Dsearch_shop_redirect&e=ATNlAISGAwdIsK0noBX__NBIm2YrbQl5ctTpnNDDWrs00qj_xD8Gychx9P3LfAhp9ky_4dd9eXd_3zOZepIdnpOKPbw6bBza
 email: Nwvcreations@gmail.com
 twitter: 
@@ -45,6 +66,6 @@ maker:
   description: "Makes and sells jewelry and terrariums out of roadkill animal bones and leather"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMG_20190927_162009_929-1.jpg
 last-modified-db: "2019-10-21 14:54:14"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

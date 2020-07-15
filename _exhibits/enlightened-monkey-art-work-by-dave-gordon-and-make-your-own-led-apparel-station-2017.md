@@ -15,6 +15,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker--300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker--1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mask-with-sign-orlado-maker-.jpg
+additional-images:
+  - 37454:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DIY-Light-Up-Necklace-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DIY-Light-Up-Necklace-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DIY-Light-Up-Necklace-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/DIY-Light-Up-Necklace.jpg
+  - 37455:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/my-little-pony-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/my-little-pony-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/my-little-pony-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/my-little-pony.jpg
+  - 37457:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/making-stuff-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/making-stuff-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/making-stuff-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/making-stuff.jpg
 website: https://www.enlightenedmonkeyarts.com/
 email: Ellnhagney@gmail.com
 twitter: 
@@ -40,6 +56,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-04 13:55:36"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

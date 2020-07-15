@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/PumpkinGroup-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/PumpkinGroup-1024x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/PumpkinGroup.jpg
+additional-images:
+  - 36188:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190725_224902-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190725_224902-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190725_224902-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190725_224902.jpg
+  - 36189:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190629_115930-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190629_115930-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190629_115930-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190629_115930.jpg
+  - 36190:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190805_230603-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190805_230603-1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190805_230603-1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190805_230603-1.jpg
 website: 
 email: dennis.hansbury.art@gmail.com
 twitter: https://twitter.com/dennishansbury
@@ -45,6 +61,6 @@ maker:
   description: "2019 marks my third year at Maker Faire Orlando! What you’ll find is an array of artwork ranging from spooky and macabre to familiar and friendly, original illustrations, woodworking, handmade crafts, fan art, prints, and more. Everything created has a focus on quality, originality, and creating a product that either you will be happy to own or enjoy gifting to someone else."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dhlogo.jpg
 last-modified-db: "2019-10-27 17:28:45"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

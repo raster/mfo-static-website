@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/15672035180202907914806740610925.jpg
+additional-images:
+  - 37227:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/photo-1-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/photo-1-1-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/photo-1-1-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/photo-1-1.jpg
+  - 37228:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/tp-product-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/tp-product-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/tp-product-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/tp-product.jpg
 website: 
 email: Sbonich@firetronics.com
 twitter: 
@@ -51,6 +62,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-11 21:05:46"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

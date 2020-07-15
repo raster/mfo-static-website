@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/15403263956367951181588606471078-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/15403263956367951181588606471078-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/15403263956367951181588606471078.jpg
+additional-images:
+  - 28466:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/1540326587346540940817715790693-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/1540326587346540940817715790693-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/1540326587346540940817715790693-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/1540326587346540940817715790693.jpg
+  - 28464:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180925_101748-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180925_101748-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180925_101748-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180925_101748.jpg
+  - 28463:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181023_161912-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181023_161912-1-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181023_161912-1-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181023_161912-1.jpg
 website: 
 email: beneto2k@yahoo.com
 twitter: 
@@ -30,6 +46,6 @@ maker:
   description: "Team of combat robots"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Color-dog.jpg
 last-modified-db: "2019-11-06 16:24:31"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

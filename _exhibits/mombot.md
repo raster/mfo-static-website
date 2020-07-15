@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MomBot_2017-300x224.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MomBot_2017-1024x764.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MomBot_2017.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "I have been competing with MomBot for 2 1/2 years.  In June, I won the beetleweight class at Robot Rebellion 2.2 at DARC.  My son Ian has been a combat robot builder for over 15 years."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_20180811_174719.jpg
 last-modified-db: "2019-11-06 16:27:37"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

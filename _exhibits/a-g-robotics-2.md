@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Animosity.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: " A combat robot team of 17 years, A.G. Robotics began in Florida, but has moved to different regions in different phases of life, competing with the best around the country. "
   image-primary: 
 last-modified-db: "2019-11-06 18:11:16"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

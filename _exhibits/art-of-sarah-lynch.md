@@ -14,6 +14,42 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018-1024x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2018.png
+additional-images:
+  - 25748:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/aizawadood-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/aizawadood-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/aizawadood-1024x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/aizawadood.png
+  - 35189:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/jaysoos-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/jaysoos-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/jaysoos-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/jaysoos.jpg
+  - 25750:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/felix-1-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/felix-1-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/felix-1-1024x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/felix-1.png
+  - 25779:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/mamoruredraw-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/mamoruredraw-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/mamoruredraw-1024x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/mamoruredraw.png
+  - 20754:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/hellboy-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/hellboy-272x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/hellboy.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/hellboy.png
+  - 35190:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/homing-bord-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/homing-bord-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/homing-bord-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/homing-bord.jpg
+  - 35191:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/poopy-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/poopy-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/poopy-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/poopy.jpg
 website: http://www.confusingdrawings.tumblr.com
 email: confusingd@gmail.com
 twitter: https://twitter.com/sarahlunch
@@ -36,6 +72,6 @@ maker:
   description: "Multi-media Artist"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/me2o18-1024x1024.png
 last-modified-db: "2019-11-01 14:21:14"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

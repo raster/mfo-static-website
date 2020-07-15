@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1072Square-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1072Square-1024x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/1072Square.png
+additional-images:
 website: http://107Aviation.com/107aviation
 email: sean@107Aviation.com
 twitter: 
@@ -69,6 +70,6 @@ maker:
   description: "A new life with drones. A local commercial drone pilot and owner of 107 Aviation, a drone services company. Background in embedded electronics design from Florida Tech and local community maker at MakerFX. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/107aviation_square-1-1024x1024.png
 last-modified-db: "2019-09-30 16:17:07"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

@@ -19,6 +19,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66262596_2293345494053773_9063570099205570560_o.jpg
+additional-images:
+  - 37390:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69116949_2375906369131018_284736690839355392_n.jpg
+  - 37391:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/61516716_2233194166735573_2290927090305859584_n.jpg
+  - 37392:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/62142319_2233194093402247_3642318187552309248_n.jpg
 website: http://kickbrightshop.com/
 email: kickbright@hotmail.com
 twitter: https://twitter.com/kbzshop
@@ -41,6 +57,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Kick-Bright-Logo-copy.jpg
 last-modified-db: "2019-10-27 16:59:57"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

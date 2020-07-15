@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/MakersFaireprofl-1-237x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/MakersFaireprofl-1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/MakersFaireprofl-1.jpg
+additional-images:
+  - 35169:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/64897910_10157551402061052_3075220305040375808_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/64897910_10157551402061052_3075220305040375808_o-300x146.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/64897910_10157551402061052_3075220305040375808_o-1024x498.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/64897910_10157551402061052_3075220305040375808_o.jpg
 website: https://www.queenscovecreative.com/
 email: jason@LJasonQueen.com
 twitter: 
@@ -39,6 +45,6 @@ maker:
   description: "I am an illustrator, graphic designer and Fine Artist currently working as a independent artist and recently have had artwork licensed by Lucasfilm, Netflix and Nickelodeon for Topps collector card sets. I'll also be featured in the upcoming official Netflix  \"Stranger Things\" artbook published by penguin publishing and the Printed in Blood company."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/FinalQueensCovelogo.jpg
 last-modified-db: "2019-11-07 11:38:10"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

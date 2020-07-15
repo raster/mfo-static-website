@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Alice_Rabbit_Falling-226x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Alice_Rabbit_Falling-771x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Alice_Rabbit_Falling.jpg
+additional-images:
+  - 37584:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Indian_-Mermaid_edited-2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Indian_-Mermaid_edited-2-206x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Indian_-Mermaid_edited-2-702x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Indian_-Mermaid_edited-2.jpg
+  - 37585:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/African_Mermaid-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/African_Mermaid-247x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/African_Mermaid-844x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/African_Mermaid.jpg
 website: https://www.jenniferlueders.com
 email: jennifer.lueders1@gmail.com
 twitter: https://mobile.twitter.com/JenniferLueder6
@@ -33,6 +44,6 @@ maker:
   description: "My name is Jennifer Lueders and I am an artist.  Since I was a wee girl back in the Appalachian Mountains,  I was steeped in the cultural tradition of storytelling, which can be traced back to England, Ireland, and Scotland.  The old folk tales, grand ditties, and riddles that we would share, often inspired me to create delightful pictures in my imagination.  I would take these images and sketch my own drawings and handmade books.  After high school, I received a higher education, pursued art and teaching for a long while. My husband and I enjoy traveling and have explored many places and at one time we lived in Germany, near the homestead of the Brothers Grimm.  Now we reside in beautiful, sunny Florida. Besides selling whimsical and fantasy art at conventions and art festivals, I am currently a few children's books.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/06/MINI-FAIRY-WITH-BUTTERFLY_mini-1024x1014.jpg
 last-modified-db: "2019-11-08 08:09:58"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

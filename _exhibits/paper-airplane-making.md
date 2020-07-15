@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2012-TOPAM-Logo-300x274.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2012-TOPAM-Logo.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2012-TOPAM-Logo.jpg
+additional-images:
+  - 39193:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190801_150841-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190801_150841-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190801_150841-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190801_150841.jpg
 website: http://www.theonlinepaperairplanemuseum.com
 email: Deanmackey@gmail.com
 twitter: 
@@ -32,6 +38,6 @@ maker:
 I would like to set up a table to make paper airplanes with the kids, and if you have time, I can do demonstrations of the history of paper airplanes for groups."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Screenshot_20181118-135459-1024x640.png
 last-modified-db: "2019-10-26 13:07:22"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

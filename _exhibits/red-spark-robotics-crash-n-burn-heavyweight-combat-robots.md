@@ -15,6 +15,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-300x169.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail-1024x576.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/CnB-YouTube-thumbnail.png
+additional-images:
+  - 36607:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34048829270_798297a6c7_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34048829270_798297a6c7_o-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34048829270_798297a6c7_o-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34048829270_798297a6c7_o.jpg
+  - 36608:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/34274052042_62b8d7184b_o.jpg
 website: https://www.redsparkrobotics.ca
 email: 
 twitter: https://twitter.com/FingerTech_Bots/
@@ -31,6 +42,6 @@ maker:
   description: "Red Spark Robotics bringing heavyweight multibot Crash n’ Burn to entertain the audience at Robot Ruckus!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Red-Spark-Robotics-full-color-600x454.png
 last-modified-db: "2019-11-06 18:09:15"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

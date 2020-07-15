@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey1-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey1.jpg
+additional-images:
+  - 40154:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey2.jpg
+  - 40155:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey3-300x165.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey3.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/makey3.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +41,6 @@ maker:
   description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
 last-modified-db: "2019-10-26 17:51:21"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

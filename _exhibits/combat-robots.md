@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Foxic.jpg
+additional-images:
+  - 26867:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/predator-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/predator-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/predator.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/predator.jpg
 website: 
 email: 
 twitter: 
@@ -39,6 +45,6 @@ maker:
   description: "builder of combat robots for Battlebots "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/rgpp.jpg
 last-modified-db: "2019-11-06 18:05:13"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

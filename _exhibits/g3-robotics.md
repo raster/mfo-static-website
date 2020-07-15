@@ -16,6 +16,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o-1024x684.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/18278806_1325734650850145_5984536270649327593_o.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -32,6 +33,6 @@ maker:
   description: "Cosplay, Robots, Photography"
   image-primary: 
 last-modified-db: "2019-11-06 18:02:23"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---
