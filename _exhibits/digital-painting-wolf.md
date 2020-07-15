@@ -14,6 +14,52 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5244-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5244-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_5244.jpg
+additional-images:
+  - 35043:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1hngfgf-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1hngfgf-300x240.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1hngfgf-1024x819.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1hngfgf.png
+  - 35044:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1erer-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1erer-240x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1erer-819x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1erer.png
+  - 35045:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1fghf-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1fghf-300x240.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1fghf-1024x819.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1fghf.png
+  - 35046:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gfvdsfgbs-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gfvdsfgbs-240x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gfvdsfgbs-819x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gfvdsfgbs.png
+  - 35047:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1jfjfccdgg-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1jfjfccdgg-240x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1jfjfccdgg-819x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1jfjfccdgg.png
+  - 35048:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gdgd-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gdgd-300x240.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gdgd-1024x819.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1gdgd.png
+  - 35049:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1ftt-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1ftt-240x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1ftt-819x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/NewCanvas1ftt.png
+  - 37910:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1mgggk-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1mgggk-240x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1mgggk-819x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1mgggk.png
+  - 37911:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1uufuf-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1uufuf-240x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1uufuf-819x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/NewCanvas1uufuf.png
 website: 
 email: digitalpaintingwolf@gmail.com
 twitter: 
@@ -30,6 +76,6 @@ maker:
   description: "I am a 16 year old digital artist.  I have been drawing for over a year, and it has completely changed my life.  My step sister and my mother are my biggest inspirations.  They both draw and they help me to improve.  Ever since my first drawing I have not stopped practicing, and now I have over 200 drawings.  Art helps me with my depression and anxiety, and I would love to share my experience and my art with others.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/profile.png
 last-modified-db: "2019-10-26 12:10:28"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

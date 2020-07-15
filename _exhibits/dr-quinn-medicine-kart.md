@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/dscf1793-20190727_48449865196_o.jpg
+additional-images:
 website: http://teamlazygecko.com
 email: 
 twitter: 
@@ -44,6 +45,6 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:25"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

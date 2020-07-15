@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44929838_10156678709946163_168992398863499264_o.jpg
+additional-images:
 website: http://giantbacon.com
 email: craigbyrne131@gmail.com
 twitter: https://twitter.com/CraigByrne131
@@ -51,6 +52,6 @@ maker:
   description: "Software developer by day, garage tinkerer by night. Likes to mash electronics in unnecessary places to make things fun or just for laughs with a group of friends. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/44971658_10156678711291163_6007435031100784640_o-1024x683.jpg
 last-modified-db: "2019-09-09 19:53:52"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

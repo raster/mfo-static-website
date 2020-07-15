@@ -19,6 +19,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/20160721_172631.jpg
+additional-images:
+  - 22426:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof-300x120.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Proof.png
 website: 
 email: 
 twitter: 
@@ -35,6 +41,6 @@ maker:
   description: "DaVinci Learning Academy's mission is to encourage, enhance,  support and enrich each individual families academic, elective enrichment and social learning goals. Our students are engaged in a wide variety of STEM and artistic endeavors."
   image-primary: 
 last-modified-db: "2019-10-26 14:45:01"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

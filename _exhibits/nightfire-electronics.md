@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-300x161.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725-1024x548.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E5725.jpg
+additional-images:
+  - 26361:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E57144-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E57144-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E57144-1024x1022.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_E57144.jpg
 website: http://www.vakits.com
 email: vakits@yahoo.com
 twitter: 
@@ -51,6 +57,6 @@ maker:
   description: "We make electronic hobby kits including Arduino fun kits."
   image-primary: 
 last-modified-db: "2019-10-26 13:37:42"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

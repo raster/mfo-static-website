@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190724_110148-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190724_110148-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190724_110148.jpg
+additional-images:
+  - 36262:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-2-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-2-300x199.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-2-1024x678.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-2.png
+  - 36267:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190530_125223-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190530_125223-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190530_125223-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190530_125223.jpg
+  - 36268:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190725_152039-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190725_152039-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190725_152039-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20190725_152039.jpg
 website: https://github.com/bagofarms/midi-channel-mapper
 email: midi.chlorians.collective@gmail.com
 twitter: 
@@ -48,6 +64,6 @@ maker:
   description: "The MIDI-chlorians are a collective of performing musicians and engineers. We make solutions to musical problems using common tools like Arduinos and Rapsberry Pis and share them with the maker community."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/midi_channel_mapper_2-1024x678.png
 last-modified-db: "2019-10-26 12:49:22"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

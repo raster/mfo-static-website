@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/joint-paint2-300x160.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/joint-paint2-1024x544.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/joint-paint2.jpg
+additional-images:
 website: http://www.genkigothstudios.com
 email: genkigothstudios@gmail.com
 twitter: https://twitter.com/genkigoth
@@ -39,6 +40,6 @@ maker:
   description: "GenkiGoth Studios is comprised of Miriam and Dee Jay, two Florida based artists whose combined backgrounds in classical, urban, and multi-media art embrace their love of nerd culture through their loosely narrative, but mostly spontaneous paintings."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/GGS-logo-default-1002x1024.jpg
 last-modified-db: "2019-10-27 17:30:18"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

@@ -15,6 +15,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Tantrum-Bot-S2018-1140x832-300x219.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Tantrum-Bot-S2018-1140x832-1024x747.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Tantrum-Bot-S2018-1140x832.jpg
+additional-images:
 website: https://www.facebook.com/tantrum.battlebot/
 email: Aren@seemsreasonable.net
 twitter: 
@@ -31,6 +32,6 @@ maker:
   description: "Engineer that really likes making things."
   image-primary: 
 last-modified-db: "2019-11-06 17:36:31"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

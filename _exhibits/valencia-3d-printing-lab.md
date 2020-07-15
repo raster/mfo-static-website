@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Riccardo-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Riccardo-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Riccardo.jpg
+additional-images:
+  - 9958:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Andy_MakerFaire-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Andy_MakerFaire-192x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Andy_MakerFaire-655x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/Andy_MakerFaire.jpg
+  - 9959:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_2114-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_2114-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_2114-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/IMG_2114.jpg
 website: http://valenciacollege.edu/west/engineering/
 email: ARay@valenciacollege.edu
 twitter: 
@@ -43,6 +54,6 @@ maker:
 the 2nd such program established in Florida. Projects completed by our students include custom 3D printed electric violins (one of which was played by Valencia Professor Neal Phillips at an Orlando City soccer game), braille relief maps of our campus for sight-impaired students, and a variety of teaching/learning artifacts for Faculty use in multiple disciplines at the College."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/vc-logo-web-box-rev-1024x156.jpg
 last-modified-db: "2019-11-06 16:53:00"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

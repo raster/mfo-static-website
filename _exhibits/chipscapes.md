@@ -14,6 +14,37 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/EA821A96-9371-48CF-9D39-7308E26D33D1-169x300.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/EA821A96-9371-48CF-9D39-7308E26D33D1.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/EA821A96-9371-48CF-9D39-7308E26D33D1.jpeg
+additional-images:
+  - 25833:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0017-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0017-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0017-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0017.jpg
+  - 25835:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8542-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8542-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8542-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8542.jpg
+  - 25834:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0292-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0292-300x286.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0292-1024x975.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0292.jpg
+  - 25832:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_4729-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_4729-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_4729-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_4729.jpg
+  - 25831:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2428-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2428-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2428-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_2428.jpg
+  - 25830:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0589-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0589-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0589-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0589.jpg
 website: http://www.ChipScapes.com
 email: iSteve@ChipScapes.com
 twitter: 
@@ -57,6 +88,6 @@ I am grateful for the support I have received and the opportunities that I have 
 We can live our lives ignoring the beauty all around us and just see gray, but I choose to seek out beauty and share it with others. I hope to inspire people to find the art in all that they do. After all, even in the coldness of technology, we can find beauty, if we just look for it."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Steve-Winter-Park-Magazine_Smiling.jpg
 last-modified-db: "2019-10-27 16:53:06"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

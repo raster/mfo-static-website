@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2-1.jpg
+additional-images:
+  - 25962:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018-300x105.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018-1024x359.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_0018.jpg
 website: http://mandalorianmercs.org/
 email: batuu@mandalorianmercs.com
 twitter: https://twitter.com/batuuclan
@@ -42,6 +48,6 @@ The Mandalorian Mercs Costume Club lives up to it’s label as “The Elite Mand
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/batuulogo2.jpg
 last-modified-db: "2019-10-27 16:31:05"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

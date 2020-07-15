@@ -16,6 +16,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/15286750225_ae0ca0cc75_o.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -35,6 +36,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/makey.png
 last-modified-db: "2019-10-26 14:26:04"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-cover-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-cover.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-cover.jpg
+additional-images:
+  - 35361:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic2.jpg
+  - 35362:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic3-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic3.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/dalek-pic3.jpg
+  - 26265:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/31404147_1673475386020803_4195444785780408664_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/31404147_1673475386020803_4195444785780408664_n-165x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/31404147_1673475386020803_4195444785780408664_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/31404147_1673475386020803_4195444785780408664_n.jpg
 website: 
 email: daleksofflorida@gmail.com
 twitter: 
@@ -33,6 +49,6 @@ maker:
   description: "We are Florida geeks that love Doctor Who and the villainous Daleks, that is why we built them. We love building them and sharing them with other enthusiasts. We will talk up storm about our builds and sharing tips and procedures for the builds. We are always looking to add to our Florida Brigade Skaro Army."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dalek_builders_v3-01-1024x1024.jpg
 last-modified-db: "2019-10-27 16:31:37"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

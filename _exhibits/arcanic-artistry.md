@@ -14,6 +14,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190712_1301470-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190712_1301470-1024x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190712_1301470.jpg
+additional-images:
+  - 34857:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_20190525_111522-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_20190525_111522-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_20190525_111522-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_20190525_111522.jpg
+  - 34858:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181225_142743-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181225_142743-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181225_142743-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181225_142743.jpg
+  - 34859:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190403_185818-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190403_185818-300x220.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190403_185818-1024x750.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190403_185818.jpg
+  - 34860:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190623_114028-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190623_114028-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190623_114028-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190623_114028.jpg
+  - 34861:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190405_110521-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190405_110521-300x158.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190405_110521-1024x538.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190405_110521.jpg
 website: https://www.arcanicartistry.com
 email: arcanicartistry@gmail.com
 twitter: https://twitter.com/ArcanicArtistry
@@ -39,6 +65,6 @@ maker:
   description: "Laser cut nerdy artwork, various gaming designs, and tabletop rpg accessories to enhance your home and playspace."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/AA-Logo-image-1-1024x1024.png
 last-modified-db: "2019-11-04 10:20:10"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

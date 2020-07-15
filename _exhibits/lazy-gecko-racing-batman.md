@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman3.jpg
+additional-images:
+  - 27834:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman2-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman2-1-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman2-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman2-1.jpg
 website: Http://Teamlazygecko.com
 email: 
 twitter: 
@@ -48,6 +54,6 @@ maker:
   description: "We've been making things happen as a group and find a way to continue as our members spread out across the country."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/batman4.jpg
 last-modified-db: "2019-11-03 18:04:08"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

@@ -14,6 +14,57 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181123_210823.jpg
+additional-images:
+  - 25390:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-20-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-20-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-20-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-20.jpg
+  - 27868:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Image-56-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Image-56-300x205.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Image-56-1024x701.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Image-56.jpg
+  - 25391:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-70-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-70-1-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-70-1-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/11/Image-70-1.jpg
+  - 22785:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171008_211839-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171008_211839-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171008_211839-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/20171008_211839.jpg
+  - 34992:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180517_024814-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180517_024814-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180517_024814-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180517_024814.jpg
+  - 27865:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181001_023431-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181001_023431-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181001_023431-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20181001_023431.jpg
+  - 34989:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180512_020722-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180512_020722-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180512_020722-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20180512_020722.jpg
+  - 34984:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190116_192137-2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190116_192137-2-300x242.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190116_192137-2-1024x825.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190116_192137-2.jpg
+  - 25383:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Featured-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Featured-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Featured.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Featured.jpg
+  - 34981:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181109_005534-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181109_005534-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181109_005534-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20181109_005534.jpg
 website: http://holofullyloaded.com/
 email: holofullyloaded@gmail.com
 twitter: https://twitter.com/holofullyloaded
@@ -30,6 +81,6 @@ maker:
   description: "I'm a maker in the Maitland area who loves all things holographic. My hobbies are power racing, 3d printing, and binging Netflix while doing prototyping work for my business P3D Creations. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20150913_200114960-1-539x1024.jpg
 last-modified-db: "2019-08-17 18:45:24"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

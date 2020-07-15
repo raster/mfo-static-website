@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-262x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit-895x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Avatar-Kit.png
+additional-images:
+  - 40405:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Ess-and-Jr-kit-Package-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Ess-and-Jr-kit-Package-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Ess-and-Jr-kit-Package-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Ess-and-Jr-kit-Package.jpg
 website: http://www.DuinoKit.com
 email: Support@DuinoKit.com
 twitter: 
@@ -42,6 +48,6 @@ maker:
   description: "DuinoKits were developed by a teacher looking to help teach kids about electronics and coding using Arduino."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/DK-Avatar.jpg
 last-modified-db: "2019-11-05 15:22:13"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

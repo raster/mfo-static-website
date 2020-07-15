@@ -23,6 +23,92 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Jean-with-MAX.jpg
+additional-images:
+  - 35778:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/meandrobots-1.jpg
+  - 35779:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1-198x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-world-1.jpg
+  - 35780:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1-300x186.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Robot-Collection-Jean-1.jpg
+  - 35781:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2227.jpg
+  - 35782:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2344.jpg
+  - 35783:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family-300x140.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Sanbot-Family.jpg
+  - 35784:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid-273x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Mechano-humanoid.png
+  - 35844:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG2361.jpg
+  - 35848:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Lego-rescue-6.jpg
+  - 35849:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMAG1500.jpg
+  - 35850:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Building-robot-2.jpg
+  - 36168:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem-300x112.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/High-quality-stem.png
+  - 36271:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city-300x294.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Circuit-city.jpg
+  - 36275:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face-192x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Big-round-face.jpg
+  - 39345:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf-300x234.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Max-and-Elf.png
+  - 39346:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/IMAG2438.jpg
+  - 39354:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Orlando-Temi.png
 website: https://www.kidsrobotacademy.com/home.html
 email: jduteau@kidsrobotacademy.com
 twitter: 
@@ -92,6 +178,6 @@ team-building environment, and thus generating intense interest and excitement f
 Note : The Robots Shop Opening soon In Orlando and Miami"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/KRA-Full-Logo-1024x486.jpg
 last-modified-db: "2019-10-26 13:34:20"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

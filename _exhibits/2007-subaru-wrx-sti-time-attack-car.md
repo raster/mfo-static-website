@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20180512-BV8K7277-1-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20180512-BV8K7277-1-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20180512-BV8K7277-1.jpg
+additional-images:
+  - 41078:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/unnamed-9-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/unnamed-9-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/unnamed-9-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/unnamed-9.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +36,6 @@ maker:
   description: "Global Time Attack Race Car, Race Car Driver, Drifting, Road Racing, Time Attack"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/20180512-BV8K7277-1024x683.jpg
 last-modified-db: "2019-11-06 16:03:04"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:03"
 sitemap: false
 ---

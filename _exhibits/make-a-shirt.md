@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-300x114.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner-1024x390.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Make-a-shirt-banner.jpg
+additional-images:
+  - 27225:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt1-300x210.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt1-1024x717.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt1.jpg
+  - 27226:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt2-199x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt2-678x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt2.jpg
+  - 27227:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt3-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt3-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/MAke-a-shirt3.jpg
 website: 
 email: 
 twitter: 
@@ -48,6 +64,6 @@ maker:
   description: "We are a FIRST Robotics family of teams that are based in Central Florida.  Our teams, we are open to students in grade K-12 from around Orlando who would like to participate in robotics.  Joins us and have fun #morethanrobots #5816pitcrew #gravtrain"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/GRA-V-Standard-791x1024.png
 last-modified-db: "2019-11-01 14:30:01"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

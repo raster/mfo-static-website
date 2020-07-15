@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/sb72-mid-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/sb72-mid.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/sb72-mid.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description: "Charles thinks robots are horrible but builds them anyways. MIT Mechanical Engineering, design instructor, BattleBots contestant, fine 80s van connoisseur, and co-founder of a drone company."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/m6ysUikjWfNM3xcqgZsF6XpX9LRs6HUI_edited.png
 last-modified-db: "2019-11-06 17:11:14"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

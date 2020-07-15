@@ -15,6 +15,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-300x187.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1-1024x639.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-3-1.jpg
+additional-images:
+  - 26424:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/candy-land-1-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/candy-land-1-1-200x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/candy-land-1-1-683x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/candy-land-1-1.jpg
+  - 26426:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/guess-who-3-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/guess-who-3-1-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/guess-who-3-1-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/guess-who-3-1.jpg
+  - 26334:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4-252x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4-860x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/dragon-4.jpg
 website: https://padlet.com/kmcclart/g0v20ir8cqb2
 email: jdkrob@volusia.k12.fl.us
 twitter: 
@@ -31,6 +47,6 @@ maker:
   description: "A group of middle school teachers with a maker spirit.  Working with 11-14 year-olds requires an outside of the box approach.  We are constantly planning and building things to use with our lessons and activities.  We Make things for our 8th grade lock-in, Science Olympiad, the STEM Academy, and science classes."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180508_225928-1024x576.jpg
 last-modified-db: "2019-10-26 13:13:31"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

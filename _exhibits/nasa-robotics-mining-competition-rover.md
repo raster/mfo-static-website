@@ -16,6 +16,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-300x219.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render-1024x747.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Robot_Render.jpg
+additional-images:
+  - 29377:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1-300x219.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1-1024x748.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/20181104_215450-1.jpg
 website: https://www.lunarknights.org/
 email: president@lunarknights.org
 twitter: https://twitter.com/lunar_knights?lang=en
@@ -47,6 +53,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-26 17:45:27"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

@@ -16,6 +16,57 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Dash-Robots.jpg
+additional-images:
+  - 25859:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April25-18-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April25-18-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April25-18-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April25-18.jpg
+  - 25862:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/January24-38-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/January24-38-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/January24-38-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/January24-38.jpg
+  - 25861:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April07-31-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April07-31-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April07-31-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/April07-31.jpg
+  - 25863:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June30-20-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June30-20-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June30-20-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June30-20.jpg
+  - 25865:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June21-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June21-1-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June21-1-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June21-1.jpg
+  - 25864:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June19-28-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June19-28-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June19-28-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/June19-28.jpg
+  - 25866:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/August22-12-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/August22-12-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/August22-12-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/August22-12.jpg
+  - 25868:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/May25-17_0-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/May25-17_0-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/May25-17_0-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/May25-17_0.jpg
+  - 25867:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/July10-10-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/July10-10-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/July10-10-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/July10-10.jpg
+  - 25857:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_9092-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_9092-300x199.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_9092-1024x678.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_9092.jpg
 website: https://www.ocls.info/
 email: 
 twitter: https://twitter.com/oclslibrary
@@ -104,6 +155,6 @@ maker:
   description: "The Orange County Library System brings value to the residents of the district through collections, staff, services and facilities. The Library connects our changing community to the evolving world of ideas, information and technology. Through continuous innovation, the Orange County Library System will create a well informed, well connected community, making Orange County a great place to live, learn, work, and play."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Square_Logo.gif
 last-modified-db: "2019-10-26 14:33:27"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

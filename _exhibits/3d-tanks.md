@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142156-169x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142156-576x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142156.jpg
+additional-images:
+  - 38536:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142046-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142046-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142046-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190604_142046.jpg
+  - 38537:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190425_170509-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190425_170509-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190425_170509-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190425_170509.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +41,6 @@ maker:
   description: "Boca Bearing is a proud supporter and bearing provider for makers all over the world. Based in South Florida, Boca Bearings provides all types of bearings for robotics, remote-controlled aircraft, 3D printers, industrial equipment- you name it! If it rotates, it probably has our bearing inside of it! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/BocaBearings-Logo-Tagline-1024x427.jpg
 last-modified-db: "2019-10-26 12:40:40"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:03"
 sitemap: false
 ---

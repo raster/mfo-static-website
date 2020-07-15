@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181104_182925566-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181104_182925566-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20181104_182925566.jpg
+additional-images:
+  - 36081:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20170216_200649288-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20170216_200649288-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20170216_200649288-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_20170216_200649288.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +36,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Rat-Fish-1024x576.jpg
 last-modified-db: "2019-11-06 17:37:58"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

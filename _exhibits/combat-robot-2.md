@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Technocide-Banner-Black-x720-300x84.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Technocide-Banner-Black-x720-1024x288.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Technocide-Banner-Black-x720.jpg
+additional-images:
+  - 36010:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019_0127_185930_025-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019_0127_185930_025-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019_0127_185930_025-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2019_0127_185930_025.jpg
+  - 36011:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Recon-V2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Recon-V2-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Recon-V2-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Recon-V2.jpg
+  - 29626:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/11849-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/11849-1-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/11849-1-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/11849-1.jpg
 website: 
 email: 
 twitter: 
@@ -30,6 +46,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:27:38"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

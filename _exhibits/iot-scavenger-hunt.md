@@ -19,6 +19,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/new_box-1.jpg
+additional-images:
+  - 38229:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/makerfaire_iot_station-150x150.jpg
 website: 
 email: irving2nd2000@gmail.com
 twitter: 
@@ -53,6 +59,6 @@ maker:
   description: "Professor, Gadgeteer, friend to cats and bats."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/trailer_park_computers_greenie_and_gaz-1024x612.jpg
 last-modified-db: "2019-11-07 12:11:35"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

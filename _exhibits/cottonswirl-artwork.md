@@ -16,6 +16,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190209_100059-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190209_100059-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190209_100059.jpg
+additional-images:
+  - 37603:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190906_115115-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190906_115115-300x171.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190906_115115-1024x585.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20190906_115115.jpg
 website: 
 email: 
 twitter: 
@@ -33,6 +39,6 @@ maker:
 15 year old Sarah Mae Hubbard designs artwork and video games in her particular chibi style."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/CS_Redesign_-_Copy1.jpg
 last-modified-db: "2019-10-27 16:45:59"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

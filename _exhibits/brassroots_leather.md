@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/26225928989_928dd84777_k-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/26225928989_928dd84777_k-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/26225928989_928dd84777_k.jpg
+additional-images:
 website: http://www.brassrootsleather.com
 email: BrassrootsLeather@gmail.com
 twitter: https://twitter.com/Brassroots_Lthr
@@ -33,6 +34,6 @@ maker:
   description: "A home hobby shop that has taken adopted Steampunk inspired leather crafting. We strive to make things new, fresh and unique.  Our items vary in size and can be big or small, all with the customer's design in mind. We make personal items that take hours of pre-planning, designing and learning of new crafts in order to complete, many are more than just leather. Using drafting knowledge, we review all parts of the design prior to construction, details, and even measurements to assure that everything fits exactly to how we need it. We are ever growing in our makings, items, ideas, and costume builds. Please check out our links to see all we have accomplished."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/Brassroots-Icon.png
 last-modified-db: "2019-10-27 17:49:15"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

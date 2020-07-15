@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/BoxUp-300x262.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/BoxUp-1024x894.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/BoxUp.jpg
+additional-images:
+  - 37472:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Promo-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Promo-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Promo.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Promo.jpg
 website: https://www.alien3d.us
 email: info@alien3d.us
 twitter: https://www.twitter.com/alienslacker
@@ -30,6 +36,6 @@ maker:
   description: "Distributor of UFOs, Unidentified Filament Objects - Monthly Mystery Boxes - 3D Printers, Accessories and Filament"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/alien3d-sba.jpg
 last-modified-db: "2019-09-09 21:53:22"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

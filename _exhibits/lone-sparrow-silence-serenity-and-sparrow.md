@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-225x300.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4-768x1024.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/9A8FFD74-F708-4FB9-BBED-BDC8E3AEECD4.jpeg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-11-06 17:07:25"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -18,6 +18,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1-1024x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/15556453_10211824716760436_1215592741_o-1.png
+additional-images:
+  - 26117:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8099-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8099-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8099-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8099.jpg
+  - 26115:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_0341-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_0341-300x138.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_0341-1024x472.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/DSC_0341.jpg
+  - 26116:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8094-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8094-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8094-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_8094.jpg
 website: http://www.rakurabase.org
 email: CommandStaff@rakurabase.org
 twitter: 
@@ -34,6 +50,6 @@ maker:
   description: "We are the Ra Kura Base of the Rebel Legion, serving the state of Florda.  The Rebel Legion is an international costuming club dedicated to sharing and enjoying costuming talents, promoting the quality and improvement of Star Wars costumes, and giving back to the community through works of charity and volunteerism."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/RaKuraBase.png
 last-modified-db: "2019-10-27 16:30:26"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-300x250.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M-1024x854.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Mad_Science_Logo_3D_M.png
+additional-images:
+  - 27369:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-Slime-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-Slime-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-Slime.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-Slime.jpg
+  - 27368:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-2-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Orange-Park-2.jpg
+  - 27301:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/Cosmic-Kathy-Booth.jpg
 website: http://CFL.MadScience.org
 email: MadScienceRocks@gmail.com
 twitter: 
@@ -57,6 +73,6 @@ Check out Mad Science online at CFL.MadScience.org. Call today and find out just
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/MixedColorLogo-Small.png
 last-modified-db: "2019-10-26 12:51:00"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

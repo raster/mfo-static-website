@@ -14,6 +14,27 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Capture2-238x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Capture2.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Capture2.png
+additional-images:
+  - 37286:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed.jpg
+  - 37279:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/4-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/4-283x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/4.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/4.png
+  - 37285:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-1-245x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unnamed-1.jpg
+  - 37277:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/1-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/1-278x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/1.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/1.png
 website: 
 email: 
 twitter: 
@@ -52,6 +73,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/43984324_1414885788643123_6479562871641473024_n.jpg
 last-modified-db: "2019-10-11 21:57:49"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

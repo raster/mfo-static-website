@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/6B9E328B-BD4C-466E-9432-03D444976316-273x300.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/6B9E328B-BD4C-466E-9432-03D444976316-932x1024.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/6B9E328B-BD4C-466E-9432-03D444976316.jpeg
+additional-images:
+  - 35289:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/78D48C3B-5DA3-4CD4-A1DF-3B1799719DE3-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/78D48C3B-5DA3-4CD4-A1DF-3B1799719DE3-209x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/78D48C3B-5DA3-4CD4-A1DF-3B1799719DE3-712x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/78D48C3B-5DA3-4CD4-A1DF-3B1799719DE3.jpeg
+  - 35290:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/C002F3BE-D9CE-4033-8AAD-0C04909D556E-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/C002F3BE-D9CE-4033-8AAD-0C04909D556E-247x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/C002F3BE-D9CE-4033-8AAD-0C04909D556E-844x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/C002F3BE-D9CE-4033-8AAD-0C04909D556E.jpeg
+  - 35291:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A-300x247.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A-1024x844.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/937662C3-F1D3-441E-94F2-199B36E4352A.jpeg
 website: 
 email: 
 twitter: 
@@ -36,6 +52,6 @@ maker:
   description: "Maker and 3D printer. I own several printer ranging from inexpensive to more expensive. I consider myself to be of Intermedite to Advanced  skill level."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/2B39041E-58DB-49B7-9033-7321E988877F-779x1024.jpeg
 last-modified-db: "2019-09-09 20:45:56"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:03"
 sitemap: false
 ---

@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/2015-magnet-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/2015-magnet.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/07/2015-magnet.jpg
+additional-images:
+  - 36030:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00365-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00365-300x225.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00365-1024x768.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00365.jpeg
+  - 36031:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00429-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00429-300x225.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00429-1024x768.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC00429.jpeg
+  - 36032:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC07704-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC07704-225x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC07704-768x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/DSC07704.jpeg
 website: http://www.ExplodingBacon.com
 email: explodingbacon.team1902@gmail.com
 twitter: https://twitter.com/#!/FRCBacon1902
@@ -30,6 +46,6 @@ maker:
   description: "Exploding Bacon Robotics, is a 4-H club that among other things, participates in FIRST. Our students learn engineering, computer programming, and hands-on machinery skills, as well as the problem solving, strategic thinking, time management, public speaking, teamwork and leadership skills essential in any career. The goal is to inspire and support these youth members to continue on to higher education in trade schools and STEM programs in college."
   image-primary: 
 last-modified-db: "2019-10-26 14:42:37"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

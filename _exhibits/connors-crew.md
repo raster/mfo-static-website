@@ -18,6 +18,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ted-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ted.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/ted.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -34,6 +35,6 @@ maker:
   description: "Building bots and friendships. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/044323C6-22F0-49E0-A026-F59E441537D2.jpeg
 last-modified-db: "2019-11-06 18:03:32"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

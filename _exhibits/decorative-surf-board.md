@@ -21,6 +21,37 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/surf1-1-88x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/surf1-1-301x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/surf1-1.jpg
+additional-images:
+  - 38762:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4502-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4502-300x296.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4502-1024x1010.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_4502.jpg
+  - 38763:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/78164F6B-28A0-4429-BFB7-578B8BB26AEE-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/78164F6B-28A0-4429-BFB7-578B8BB26AEE-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/78164F6B-28A0-4429-BFB7-578B8BB26AEE-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/78164F6B-28A0-4429-BFB7-578B8BB26AEE.jpg
+  - 38764:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/C9F6578E-A1A2-4283-9286-0F3643EFC584-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/C9F6578E-A1A2-4283-9286-0F3643EFC584-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/C9F6578E-A1A2-4283-9286-0F3643EFC584-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/C9F6578E-A1A2-4283-9286-0F3643EFC584.jpg
+  - 38770:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8D4F5000-7B91-4826-9682-5B49EF8EE230-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8D4F5000-7B91-4826-9682-5B49EF8EE230-1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8D4F5000-7B91-4826-9682-5B49EF8EE230-1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/8D4F5000-7B91-4826-9682-5B49EF8EE230-1.jpg
+  - 38771:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/909F4B6C-FD69-46D5-851F-FBBF6FC82C93-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/909F4B6C-FD69-46D5-851F-FBBF6FC82C93-1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/909F4B6C-FD69-46D5-851F-FBBF6FC82C93-1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/909F4B6C-FD69-46D5-851F-FBBF6FC82C93-1.jpg
+  - 38772:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/51069BFE-A16F-4F62-A18E-28524624FF07-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/51069BFE-A16F-4F62-A18E-28524624FF07-1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/51069BFE-A16F-4F62-A18E-28524624FF07-1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/51069BFE-A16F-4F62-A18E-28524624FF07-1.jpg
 website: 
 email: ankita.nagaraju@gmail.com
 twitter: 
@@ -38,6 +69,6 @@ maker:
 I have been making art for last 8 year and got a chance to experiment many art mediums. I would like get my hands on encaustic art sometime soon in the future. "
   image-primary: 
 last-modified-db: "2019-10-27 17:17:22"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

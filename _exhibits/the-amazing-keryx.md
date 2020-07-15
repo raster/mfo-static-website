@@ -18,6 +18,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx2019-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx2019.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx2019.jpg
+additional-images:
+  - 36515:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx_logo-1-150x74.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx_logo-1-300x51.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx_logo-1.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/AmazingKeryx_logo-1.png
+  - 41199:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/CavebotPaintings-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/CavebotPaintings-1-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/CavebotPaintings-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/11/CavebotPaintings-1.jpg
 website: http://www.artvyd.com/amazing_keryx.html
 email: tampavyd@gmail.com
 twitter: 
@@ -43,6 +54,6 @@ maker:
   description: "Independent studio artist with an MFA from FSU. My artwork is focused on HERO. I combine principles of Joseph Campbell & Bob Rauschenberg with Pop Culture materials. My hometown is Sanibel island, Florida. Art Handler. Member of IATSE 647: setting up broadway plays in local theaters; I specialize in video.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/ArtVyd.png
 last-modified-db: "2019-11-07 20:15:25"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/thearustocrats-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/thearustocrats.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/thearustocrats.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -42,6 +43,6 @@ maker:
   description: "Weirdo machinist and engineer who loves making rideable projects, like ebikes and gokarts, using digital design and fabrication."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/profile.jpg
 last-modified-db: "2019-08-17 21:44:58"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

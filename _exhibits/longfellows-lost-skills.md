@@ -16,6 +16,107 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1-1024x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1.jpg
+additional-images:
+  - 37648:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66289096_1767060216771868_2446902630976688695_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66289096_1767060216771868_2446902630976688695_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66289096_1767060216771868_2446902630976688695_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66289096_1767060216771868_2446902630976688695_n.jpg
+  - 37649:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67562726_358435778184908_6099934507957392827_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67562726_358435778184908_6099934507957392827_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67562726_358435778184908_6099934507957392827_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67562726_358435778184908_6099934507957392827_n.jpg
+  - 37650:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69522359_165439117842426_2920803438574100075_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69522359_165439117842426_2920803438574100075_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69522359_165439117842426_2920803438574100075_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69522359_165439117842426_2920803438574100075_n.jpg
+  - 37651:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67403054_371227506876303_193672420818189314_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67403054_371227506876303_193672420818189314_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67403054_371227506876303_193672420818189314_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67403054_371227506876303_193672420818189314_n.jpg
+  - 37652:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66629652_551922905346786_6020502238097463232_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66629652_551922905346786_6020502238097463232_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66629652_551922905346786_6020502238097463232_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66629652_551922905346786_6020502238097463232_n.jpg
+  - 37653:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67543547_411983942786785_1189959474634897262_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67543547_411983942786785_1189959474634897262_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67543547_411983942786785_1189959474634897262_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67543547_411983942786785_1189959474634897262_n.jpg
+  - 37654:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67547021_2468751013360693_7666111351531414055_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67547021_2468751013360693_7666111351531414055_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67547021_2468751013360693_7666111351531414055_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67547021_2468751013360693_7666111351531414055_n.jpg
+  - 37655:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67976064_967191826952226_1912543044622206934_n1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67976064_967191826952226_1912543044622206934_n1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67976064_967191826952226_1912543044622206934_n1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67976064_967191826952226_1912543044622206934_n1.jpg
+  - 37656:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67158390_367467357482797_3962768150138481126_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67158390_367467357482797_3962768150138481126_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67158390_367467357482797_3962768150138481126_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67158390_367467357482797_3962768150138481126_n.jpg
+  - 37657:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/57591671_2254017634916238_1598435136904578130_n1.jpg
+  - 37658:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58410723_108611327022326_3360922481445863175_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58410723_108611327022326_3360922481445863175_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58410723_108611327022326_3360922481445863175_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58410723_108611327022326_3360922481445863175_n.jpg
+  - 37659:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58616636_195663158069423_5199944002211531042_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58616636_195663158069423_5199944002211531042_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58616636_195663158069423_5199944002211531042_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/58616636_195663158069423_5199944002211531042_n.jpg
+  - 37660:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67288117_151249692686237_2477220942409927266_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67288117_151249692686237_2477220942409927266_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67288117_151249692686237_2477220942409927266_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67288117_151249692686237_2477220942409927266_n.jpg
+  - 37661:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20184135_503030670033462_4743467258725007360_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20184135_503030670033462_4743467258725007360_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20184135_503030670033462_4743467258725007360_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20184135_503030670033462_4743467258725007360_n.jpg
+  - 37662:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/56352797_279713946300237_570881112181868344_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/56352797_279713946300237_570881112181868344_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/56352797_279713946300237_570881112181868344_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/56352797_279713946300237_570881112181868344_n.jpg
+  - 37663:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66630754_175254150176780_3365653431490753209_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66630754_175254150176780_3365653431490753209_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66630754_175254150176780_3365653431490753209_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66630754_175254150176780_3365653431490753209_n.jpg
+  - 37664:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67345360_2274405706152561_6611969176568605363_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67345360_2274405706152561_6611969176568605363_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67345360_2274405706152561_6611969176568605363_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/67345360_2274405706152561_6611969176568605363_n.jpg
+  - 37665:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69520878_460885781425411_4474934752533758365_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69520878_460885781425411_4474934752533758365_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69520878_460885781425411_4474934752533758365_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69520878_460885781425411_4474934752533758365_n.jpg
+  - 37666:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69411730_2189238867847930_1643998265664830538_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69411730_2189238867847930_1643998265664830538_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69411730_2189238867847930_1643998265664830538_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/69411730_2189238867847930_1643998265664830538_n.jpg
+  - 37667:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66626308_2636965326335862_5596586571051306873_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66626308_2636965326335862_5596586571051306873_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66626308_2636965326335862_5596586571051306873_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/66626308_2636965326335862_5596586571051306873_n.jpg
 website: https://www.linkedin.com/in/alanlongfellow/
 email: minecrafter0925@gmail.com
 twitter: 
@@ -93,6 +194,6 @@ maker:
  I love making things and bettering my skill set.  I use \"lost skills\" that people usually no longer have, such as using manual machine tools and vintage woodworking equipment.  I want to share these skills with people in the area and help get them started if they want to join us Makers!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Profile.jpg
 last-modified-db: "2019-10-26 13:49:02"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

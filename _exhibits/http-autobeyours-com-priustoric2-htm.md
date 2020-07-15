@@ -16,6 +16,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180707_125319-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180707_125319-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180707_125319.jpg
+additional-images:
+  - 28208:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_103318-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_103318-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_103318-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_103318.jpg
+  - 28207:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_134610-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_134610-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_134610-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20171013_134610.jpg
+  - 28206:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180320_163221-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180320_163221-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180320_163221-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/20180320_163221.jpg
+  - 25787:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180305_210212-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180305_210212-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180305_210212-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180305_210212.jpg
+  - 25786:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180430_1811361-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180430_1811361-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180430_1811361-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20180430_1811361.jpg
 website: http://autobeyours.com/Priustoric2.htm
 email: 
 twitter: 
@@ -53,6 +79,6 @@ maker:
   description: "Hybrid car recycler with a tendency toward unusual vehicle design. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/I-think-this-is-the-one-edit-1024x859.jpg
 last-modified-db: "2019-09-02 20:07:27"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

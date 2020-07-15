@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/polebot-300x224.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/polebot-1024x764.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/polebot.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "I make silly robots like Surrenderbot and Free hugs "
   image-primary: 
 last-modified-db: "2019-11-06 18:06:46"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -14,6 +14,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0040.jpg
+additional-images:
+  - 36636:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0007-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0007-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0007-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0007.jpg
+  - 36637:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1630-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1630-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1630-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1630.jpg
+  - 36670:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_E7301-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_E7301-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_E7301-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_E7301.jpg
+  - 36671:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0027-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0027-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0027-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0027.jpg
+  - 36672:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2412-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2412-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2412-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2412.jpg
 website: https://www.dooritebots.com/
 email: douglas@dooritebots.com
 twitter: https://twitter.com/DooRiteRobotics
@@ -30,6 +56,6 @@ maker:
   description: "I give new life to discarded and forgotten objects to make 2-foot tall sculptures that resemble a robot, each with their  own personality. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0018-1-768x1024.jpg
 last-modified-db: "2019-10-26 12:47:24"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

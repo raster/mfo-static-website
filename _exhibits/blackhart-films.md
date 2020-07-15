@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-300x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1-1024x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1.jpg
+additional-images:
 website: http://www.blackhartfilms.com
 email: Jeffrey.Hepburn@BlackhartFilms.com
 twitter: https://Twitter.com/BlackhartFilms
@@ -72,6 +73,6 @@ Locally I've worked as a photographer, filmmaker, and technical supervisor for m
 Most recently I've been inspired by Adam Savage's Tested to take my digital art and make it real- with 3D printing and electronics for prop design. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Blackhart-Films-Logo-1024x1024.jpg
 last-modified-db: "2019-10-29 14:47:22"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

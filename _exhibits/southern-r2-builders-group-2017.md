@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/224745_10151001451231787_1186744176_n.jpg
+additional-images:
 website: Http://astromech.net
 email: eagledancer_1_2000@yahoo.com
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "We are the Florida chapter of the world wide R2 Builders club. We help each other build our favorite little buddy from Star Wars, R2-D2 and his friends."
   image-primary: 
 last-modified-db: "2019-10-27 17:37:46"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

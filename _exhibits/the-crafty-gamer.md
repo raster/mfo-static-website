@@ -14,6 +14,42 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA-300x298.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
+additional-images:
+  - 39293:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA-300x298.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/xRjvTBShWCk25wt1xsOdKplda2KZ6RhWVA.png
+  - 39294:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Forest-Wilds-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Forest-Wilds-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Forest-Wilds-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Forest-Wilds.jpg
+  - 39299:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Underwater-Cavern-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Underwater-Cavern-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Underwater-Cavern-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Underwater-Cavern.jpg
+  - 39295:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Wood-Mill-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Wood-Mill-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Wood-Mill-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Wood-Mill.jpg
+  - 39296:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0029-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0029-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0029-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0029.jpg
+  - 39297:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0019-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0019-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0019-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0019.jpg
+  - 39298:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0030-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0030-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0030-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0030.jpg
 website: http://www.thecraftygamer.com
 email: contact@thecraftygamer.com
 twitter: http://www.twitter.com/craftygamershop
@@ -33,6 +69,6 @@ maker:
   description: "We create tabletop inspired merchandise. Soy Candles, Wax Melts, Reed Diffusers, Room Sprays & Apparel with more items to come."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Logo-Social-1024x1024.png
 last-modified-db: "2019-10-20 12:21:22"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

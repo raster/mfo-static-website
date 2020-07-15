@@ -22,6 +22,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E-300x200.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/7975CF9C-38B6-49BD-80C0-E45B26C8F16E.jpeg
+additional-images:
+  - 35179:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/07D007D7-6A83-4C14-B243-1E6EAE9CA882.jpeg
 website: https://www.airigami.com/
 email: Info@airigami.com
 twitter: Http://twitter.com/airigami
@@ -41,6 +47,6 @@ maker:
   description: "Airigami is, at its heart, a team of artists who create art and experiences entirely out of balloons—from small single sculptures to stadium-sized, record-breaking installations."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB33DD5A-962E-4624-A07D-872E0B859BCF.jpeg
 last-modified-db: "2019-09-02 21:04:46"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

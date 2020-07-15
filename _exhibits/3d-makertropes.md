@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2017-10-22-15.33.40.jpg
+additional-images:
+  - 26309:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/2018-07-17-19.13.23.jpg
 website: http://www.makertropes.com
 email: 
 twitter: 
@@ -78,6 +84,6 @@ maker:
   description: "Prop maker, Artist, Special Effects Artist, Scenic, Mechanical Engineer, and professional Maker."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/05/WebLogo2sm.png
 last-modified-db: "2019-11-01 14:25:35"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:03"
 sitemap: false
 ---

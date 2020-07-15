@@ -17,6 +17,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-252x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2-860x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-2.jpg
+additional-images:
+  - 37525:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/odyssey-3.jpg
+  - 37526:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-5.jpg
+  - 37530:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-6.jpg
+  - 37531:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-7.jpg
+  - 37532:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-8.jpg
 website: 
 email: 
 twitter: 
@@ -43,6 +69,6 @@ maker:
 After all of the time, effort, blood, sweat and tears that the boys put in without being able to fully demonstrate their creation, their one request was that they be allowed to exhibit at Maker Faire, which they faithfully attend every year."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Odyssey-2-1-860x1024.jpg
 last-modified-db: "2019-11-08 14:35:58"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

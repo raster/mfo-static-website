@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2-300x238.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/Pop-up-card-2.jpg
+additional-images:
+  - 26847:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_2170-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_2170-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_2170-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/IMG_2170.jpg
+  - 30162:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_3879-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_3879-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_3879-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_3879.jpg
+  - 30165:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8662-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8662-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8662-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8662.jpg
 website: 
 email: lolliepopup@gmail.com
 twitter: 
@@ -36,6 +52,6 @@ maker:
   description: "Lollie Pop Up learned basic pop up techniques through books and video tutorial. Various techniques were utilized to make holiday, birthday, get well, retirement, and thank you cards more fun. Please visit @lolliepopup on Instagram to see examples of pop up cards, explosion boxes, and other paper crafts that were created for friends. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/IMG_8746-1024x1024.jpg
 last-modified-db: "2019-10-26 14:29:35"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

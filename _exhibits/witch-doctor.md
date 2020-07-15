@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Witch-Doctor-Team-S2019-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Witch-Doctor-Team-S2019-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Witch-Doctor-Team-S2019.jpg
+additional-images:
+  - 34997:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_9640-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_9640-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_9640-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_9640.jpg
+  - 34998:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB2019-Jon-C-R-Bennett-_JBP6223-Edit-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB2019-Jon-C-R-Bennett-_JBP6223-Edit-300x167.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB2019-Jon-C-R-Bennett-_JBP6223-Edit-1024x569.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/BB2019-Jon-C-R-Bennett-_JBP6223-Edit.jpg
 website: http://www.teamwitchdoctor.com
 email: witchdoctorbattlebot@gmail.com
 twitter: 
@@ -30,6 +41,6 @@ maker:
   description: "Team Witch Doctor is based in Miami, Florida, and most recently competed in BattleBots on ABC with their multi-bot Witch Doctor and Shaman. The team has been competing combat robots ranging from 150 grams to 250 pounds for the last 10+ years."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Witch-Doctor-Team-S2019-1024x683.jpg
 last-modified-db: "2019-10-05 12:25:36"
-last-exported: "2020-14-07 08:51:56"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

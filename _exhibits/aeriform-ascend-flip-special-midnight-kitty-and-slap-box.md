@@ -28,6 +28,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-300x188.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202-1024x643.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_184202.jpg
+additional-images:
+  - 36731:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190211_103810-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190211_103810-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190211_103810-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20190211_103810.jpg
+  - 36732:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_171159-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_171159-300x169.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_171159-1024x576.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20190217_171159.jpeg
+  - 36733:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709-274x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709-935x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Resized_20181117_180709.jpeg
 website: 
 email: 
 twitter: 
@@ -44,6 +60,6 @@ maker:
   description: "A family team that competes at different types of competitions."
   image-primary: 
 last-modified-db: "2019-11-06 18:16:54"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

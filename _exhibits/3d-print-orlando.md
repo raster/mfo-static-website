@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/65140959_388545205105208_5591535038383521792_o-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/65140959_388545205105208_5591535038383521792_o-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/65140959_388545205105208_5591535038383521792_o.jpg
+additional-images:
 website: http://www.3dprintorlando.com
 email: andy@3dprintorlando.com
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "3d printing hobby shop based out of Orlando, Florida.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/59129548_360136704612725_6077091167189598208_n.jpg
 last-modified-db: "2019-09-09 20:48:20"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:03"
 sitemap: false
 ---

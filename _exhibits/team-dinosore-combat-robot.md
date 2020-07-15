@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DinoSore-093018-1-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DinoSore-093018-1-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DinoSore-093018-1.jpg
+additional-images:
+  - 28172:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Robot-Riot-Chair-093018-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Robot-Riot-Chair-093018-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Robot-Riot-Chair-093018-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Robot-Riot-Chair-093018.jpg
+  - 28171:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Andrea-Robot-Riot-093018-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Andrea-Robot-Riot-093018-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Andrea-Robot-Riot-093018-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/BEB-Andrea-Robot-Riot-093018.jpg
 website: https://bradblanton.com/b3-robotics
 email: 
 twitter: 
@@ -30,6 +41,6 @@ maker:
   description: "I am six years old and built and fought my first ant weight robot last year at MakeMIA in Miami.  My robot's name is Dinosore and he is a wedge bot with a vertical spinner.  I have participated in five robot battles in the past year, including Maker Faire Orlando last year, and really enjoy the competition and sportsmanship.  And a special thanks to Team Witch Doctor for helping me along the way."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/DinoSore-093018-768x1024.jpg
 last-modified-db: "2019-11-06 17:05:06"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-184x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1-629x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/driftie-1.jpg
+additional-images:
+  - 39091:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/rocket_2wheels-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/rocket_2wheels-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/rocket_2wheels-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/rocket_2wheels.jpg
+  - 39092:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/GS_NaZA-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/GS_NaZA-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/GS_NaZA-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/GS_NaZA.jpg
 website: http://www.makerfx.org
 email: 
 twitter: 
@@ -30,6 +41,6 @@ maker:
   description: "Power wheels aren't for kids anymore."
   image-primary: 
 last-modified-db: "2019-10-07 14:31:31"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

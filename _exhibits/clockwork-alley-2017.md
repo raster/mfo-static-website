@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07522.jpg
+additional-images:
+  - 20362:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC08718-e1504717024606-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC08718-e1504717024606-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC08718-e1504717024606-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC08718-e1504717024606.jpg
+  - 20361:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07842-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07842-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07842-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/DSC07842.jpg
 website: https://www.etsy.com/shop/ClockworkAlley?ref=shop_sugg
 email: 
 twitter: 
@@ -33,6 +44,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/logo.jpg
 last-modified-db: "2019-10-27 17:47:48"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

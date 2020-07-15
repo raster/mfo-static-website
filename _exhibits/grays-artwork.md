@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/InsomiacSpidey_PrintReady-236x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/InsomiacSpidey_PrintReady-805x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/InsomiacSpidey_PrintReady.jpg
+additional-images:
+  - 36495:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2737-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2737-236x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2737-805x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_2737.jpg
+  - 36496:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Super-Girl_PR-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Super-Girl_PR-236x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Super-Girl_PR-805x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Super-Girl_PR.jpg
 website: 
 email: grayhollow707@gmail.com
 twitter: https://twitter.com/GrandmastaGray
@@ -33,6 +44,6 @@ maker:
   description: "I'm a Free-lance Illustrator and Comic-Artist. I love to draw Fan-art of comics, videogames,  cartoons, and animated movies.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_0095-768x1024.jpg
 last-modified-db: "2019-11-04 17:50:55"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

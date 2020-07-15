@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/854DFB10-6008-456C-8D31-699B201A869C-300x235.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/854DFB10-6008-456C-8D31-699B201A869C.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/854DFB10-6008-456C-8D31-699B201A869C.jpeg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Combat robot builders."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/2DBBE9DE-D5FA-46BA-AE4F-CAC10D5EEFA4.jpeg
 last-modified-db: "2019-11-06 17:01:29"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

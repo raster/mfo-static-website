@@ -15,6 +15,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Projection-mapping-Sage.jpg
+additional-images:
+  - 37716:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Day-time-cakes-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Day-time-cakes-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Day-time-cakes-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Day-time-cakes.jpg
 website: https://www.enlightenedmonkeyarts.com/
 email: ELLNHAGNEY@GMAIL.COM
 twitter: 
@@ -40,6 +46,6 @@ maker:
   description:
   image-primary: 
 last-modified-db: "2019-10-27 16:34:34"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

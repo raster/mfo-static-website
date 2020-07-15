@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20151015_150607-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20151015_150607-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20151015_150607.jpg
+additional-images:
+  - 25675:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20160713_164048-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20160713_164048-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20160713_164048-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/20160713_164048.jpg
+  - 26010:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Composit-lidded-bowl-11-2017-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Composit-lidded-bowl-11-2017-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Composit-lidded-bowl-11-2017-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Composit-lidded-bowl-11-2017.jpg
+  - 26011:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Pens-08-2017-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Pens-08-2017-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Pens-08-2017-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/Pens-08-2017.jpg
 website: http://KnotSquare.com
 email: 2kbuglover@gmail.com
 twitter: 
@@ -45,6 +61,6 @@ maker:
   description: "Knot Square , Inc. In our WoodSmith shop we  re-purposes items that would goto landfills, be burned or otherwise wasted. We use wood crafting skills to make furniture, serving trays, bowls, candle holders, pilons, boxes, wine racks, etc. We also use the skills of the BlackSmith Shop to produce hangers, knives, scrapers, rain chains and other useful items."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2016/07/20160201_182232-2-683x1024.jpg
 last-modified-db: "2019-10-26 13:47:47"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

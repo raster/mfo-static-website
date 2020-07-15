@@ -15,6 +15,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o-300x96.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/08/13640780_693177150821082_4873233138541640398_o.png
+additional-images:
 website: http://www.katecarleton-illustration.com
 email: katecarletonillustration@gmail.com
 twitter: https://twitter.com/keelhaulkate
@@ -37,6 +38,6 @@ maker:
   description: "Kate is a freelance artist who has done work for such companies as Marvel, DC, LucasFilms LTD, IDW, Zenescope and Actionlab. She has done everything from sketch card work, coloring, flatting , and making her own comics. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0227.jpg
 last-modified-db: "2019-10-27 17:25:34"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

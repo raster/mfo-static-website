@@ -16,6 +16,37 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-touch-tank-pic-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-touch-tank-pic-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-touch-tank-pic.jpg
+additional-images:
+  - 35764:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-crab-race-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-crab-race-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-crab-race-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-crab-race.jpg
+  - 35765:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-convention-race-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-convention-race-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-convention-race-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-convention-race.jpg
+  - 35766:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-looking-at-crab-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-looking-at-crab-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-looking-at-crab-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-looking-at-crab.jpg
+  - 35767:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-staff-front-view-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-staff-front-view-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-staff-front-view-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-staff-front-view.jpg
+  - 35768:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-for-families-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-for-families-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-for-families-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crabs-for-families.jpg
+  - 35769:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crab-hermit-train-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crab-hermit-train-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crab-hermit-train-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/mister-crab-hermit-train.jpg
 website: https://mistercrabs.com
 email: jim@mistercrabs.com
 twitter: https://twitter.com/realjimdeberry
@@ -69,6 +100,6 @@ maker:
 Learn about land hermit crabs that are native to Florida, see hundreds of their creative hermit crab homes including  from Lego, shells, transparent glass, 3D printed and many others.  Also participate in our create crab shell, create a Crabitat, and learn about our Adopt-a-Hermit program. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Logo-250x250.jpg
 last-modified-db: "2019-11-08 14:38:10"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

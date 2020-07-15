@@ -16,6 +16,37 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Tampa-Hackerspace-2048-Transparent-border-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Tampa-Hackerspace-2048-Transparent-border-1024x1024.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Tampa-Hackerspace-2048-Transparent-border.png
+additional-images:
+  - 23592:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_163100-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_163100-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_163100-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_163100.jpg
+  - 23595:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_162925-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_162925-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_162925-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20151010_162925.jpg
+  - 37619:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190206_212945-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190206_212945-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190206_212945-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20190206_212945.jpg
+  - 23593:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_204151-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_204151-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_204151-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_204151.jpg
+  - 37618:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20160918_132826-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20160918_132826-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20160918_132826-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_20160918_132826.jpg
+  - 23594:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_223303-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_223303-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_223303-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/IMG_20141104_223303.jpg
 website: http://www.tampahackerspace.com
 email: info@tampahackerspace.com
 twitter: https://twitter.com/hacktampa
@@ -56,6 +87,6 @@ maker:
   description: "The Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, and our lastest tools include Full CNC Controlled Milling machine ( Tormach Personnel 700 ) so please come check out our booth and talk to our members!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/Tampa-Hackerspace-2048-Transparent-border.png
 last-modified-db: "2019-10-26 13:15:49"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

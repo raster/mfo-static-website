@@ -22,6 +22,42 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-1.jpg
+additional-images:
+  - 3787:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0243.jpg
+  - 3785:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0184.jpg
+  - 3786:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1-300x218.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/polygons_craft1.jpg
+  - 9163:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2016/06/IMG_0956.jpg
+  - 25718:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/makerfaire-wh40k.jpg
+  - 25719:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/IMG_20171020_192645.jpg
+  - 6701:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2015/08/IMG_0850.jpg
 website: http://outlawgarage.org
 email: ryan.evans@gmail.com
 twitter: https://twitter.com/rjevans
@@ -47,6 +83,6 @@ maker:
   description: "I build costumes for my son.  We've made armor, helmets, tabards etc, mainly on my kitchen table with a hot glue gun."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/IMG_0185-1024x768.jpg
 last-modified-db: "2019-10-26 14:01:55"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

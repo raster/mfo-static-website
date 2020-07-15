@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN61-Poster-800x450-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN61-Poster-800x450.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN61-Poster-800x450.jpg
+additional-images:
+  - 37320:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN-107-20171202_091546-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN-107-20171202_091546-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN-107-20171202_091546-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/FIN-107-20171202_091546.jpg
+  - 37321:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20140913-002-OMF-FIN-Kim-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20140913-002-OMF-FIN-Kim-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20140913-002-OMF-FIN-Kim-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/20140913-002-OMF-FIN-Kim.jpg
 website: http://www.tecreationdev.com/maxair.php
 email: DWoodsTCR@gmail.com
 twitter: https://twitter.com/DWoodsTEC
@@ -42,6 +53,6 @@ maker:
   description: "Born into a family that loved water, David became part fish.  After years of sailing, swimming, SCUBA diving, sailboarding, hang gliding, and an engineering degree he decided swim fins need a serious update and TECreation was born.  The foray into swim fin design started in 2006 and has caused him to join the Inventors Council of Central Florida, eventually bringing it into the 21st century.  He has learned about urethane casting and prototyping techniques.  Now he is engaging with the US military to design fins for them."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/David-Woods-Headshot.jpg
 last-modified-db: "2019-10-26 12:35:36"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

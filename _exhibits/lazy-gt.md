@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8977-1-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8977-1-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8977-1.jpg
+additional-images:
+  - 27857:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Karts-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Karts-1-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Karts-1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Karts-1.jpg
+  - 27856:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8980-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8980-1-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8980-1-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/IMG_8980-1.jpg
 website: 
 email: 
 twitter: 
@@ -32,6 +43,6 @@ maker:
 Member of Team Lazy Gecko (www.teamlazygecko.com)"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Legit-Banner.jpg
 last-modified-db: "2019-08-17 21:36:14"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

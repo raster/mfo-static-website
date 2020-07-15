@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture-276x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Capture.jpg
+additional-images:
 website: https://www.etsy.com/shop/animeknickknacks
 email: animeknickknacks@yahoo.com
 twitter: https://twitter.com/animeknickknack
@@ -42,6 +43,6 @@ maker:
   description: "We are a group of friends who make perler bead art and sell bows and magnets as well as temporary tattoos, candles and buttons. We even do custom orders. "
   image-primary: 
 last-modified-db: "2019-09-02 20:37:33"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

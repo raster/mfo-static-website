@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-0-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-0.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-0.jpg
+additional-images:
+  - 40220:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man1-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man1.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man1.jpg
+  - 40221:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-2.jpg
+  - 40222:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-3-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-3.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/florida-man-3.jpg
 website: 
 email: drew@raisinggeeks.com
 twitter: 
@@ -30,6 +46,6 @@ maker:
   description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
 last-modified-db: "2019-10-27 15:53:47"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

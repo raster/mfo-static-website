@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-300x258.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl-1024x880.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/Paper-Owl.jpg
+additional-images:
+  - 36810:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20171021_113626-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20171021_113626-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20171021_113626-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/20171021_113626.jpg
 website: 
 email: 
 twitter: https://twitter.com/SciNanceTweet
@@ -30,6 +36,6 @@ maker:
   description: "I am an educator at Florida Atlantic University's A.D. Henderson School working to bring low-cost combat robotics to the 6-12 grade levels in public school.  My daughters are makers and will be campaigning their own robot. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/geek_head.png
 last-modified-db: "2019-11-06 18:11:41"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto2.jpg
+additional-images:
+  - 37695:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto3.jpg
 website: http://wd4wdw.org
 email: presidnet@wd4wdw.org
 twitter: https://twitter.com/WD4WDW
@@ -42,6 +48,6 @@ maker:
   description:
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dearsphoto1.jpg
 last-modified-db: "2019-11-05 15:13:46"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

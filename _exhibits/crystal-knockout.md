@@ -14,6 +14,47 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_6574A-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_6574A-1024x578.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/IMG_6574A.jpg
+additional-images:
+  - 35206:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-7-04-19-PM-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-7-04-19-PM-300x300.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-7-04-19-PM-1024x1024.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-7-04-19-PM.png
+  - 19069:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble-300x171.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble.jpg
+  - 19068:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Z-RainbowMermaidAura1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Z-RainbowMermaidAura1-300x224.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Z-RainbowMermaidAura1-1024x763.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/Z-RainbowMermaidAura1.jpg
+  - 35205:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Aug-20-7-07-15-PM-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Aug-20-7-07-15-PM-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Aug-20-7-07-15-PM-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Aug-20-7-07-15-PM.jpg
+  - 35207:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jun-18-6-49-34-PMEDIT-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jun-18-6-49-34-PMEDIT-300x243.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jun-18-6-49-34-PMEDIT-1024x831.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jun-18-6-49-34-PMEDIT.jpg
+  - 35208:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-6-59-53-PM-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-6-59-53-PM-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-6-59-53-PM-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Jul-14-6-59-53-PM.jpg
+  - 19073:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble2-300x233.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble2-1024x795.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/MakerFDouble2.jpg
+  - 19072:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/1Photo-Oct-23-2-02-52-P-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/1Photo-Oct-23-2-02-52-P-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/1Photo-Oct-23-2-02-52-P-1024x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/07/1Photo-Oct-23-2-02-52-P.jpg
 website: http://www.crystalknockout.com
 email: candacecrystalk@gmail.com
 twitter: 
@@ -39,6 +80,6 @@ maker:
   description: "Born-and-raised in Orlando and a graduate of the University of Central Florida, Candace began running her own small business in 2013. Originally intended as an avenue where she could sell her crystallized phone case designs, it has expanded over the years and now includes event decor, home items, and the reduced-chemical nail polish line, Crystal Knockout. Candace is married to a fellow Orlando native, has two furry Chihuahua children, and loves music, nature, gaming, and Florida Gators football. She is also currently serving as the president of a local nonprofit, Helping Handmade, Inc., which organizes events featuring handmade artisans to raise funds for local charities (see www.orlandohelpinghandmade.org for more)."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Photo-Mar-11-11-03-17-AM2-1.jpg
 last-modified-db: "2019-10-27 17:21:41"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

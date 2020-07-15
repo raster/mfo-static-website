@@ -14,6 +14,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018_2-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018_2-1024x684.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018_2.jpg
+additional-images:
+  - 39096:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018-1024x684.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/dorado_mfo2018.jpg
 website: https://www.doradowideformat.com
 email: contact@doradographix.com
 twitter: http://twitter.com/doradographix
@@ -48,6 +54,6 @@ maker:
   description: "We are an equipment & supply provider that specializes in training our customers on the techniques and applications afforded by the products we sell. This includes applying our products for \"out of the box\" thinkers - meaning that we work with entrepreneurs to help them achieve their vision by testing our products in ways that are not always shown in the owners manual or material specification."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/DoradoLogo2x1.jpg
 last-modified-db: "2019-10-27 17:51:13"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

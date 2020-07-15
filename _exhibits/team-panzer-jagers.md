@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/17358794_10208375200447155_4823202971855293261_o-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/17358794_10208375200447155_4823202971855293261_o-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/17358794_10208375200447155_4823202971855293261_o.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Interested in combat robotics. Member of the team \"Panzer Jagers\""
   image-primary: 
 last-modified-db: "2019-11-06 16:58:26"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

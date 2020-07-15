@@ -16,6 +16,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/halo_final.jpg
+additional-images:
+  - 35096:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/image1-150x150.jpeg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/image1-225x300.jpeg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/image1-768x1024.jpeg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/image1.jpeg
+  - 35106:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0637-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0637-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0637-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0637.jpg
+  - 35107:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0615-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0615-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0615-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/IMG_0615.jpg
 website: https://www.swallenhardware.io/battlebots
 email: 
 twitter: 
@@ -47,6 +63,6 @@ maker:
   description: "A combat robotics team specializing in meltybrain spinners."
   image-primary: 
 last-modified-db: "2019-11-06 16:38:12"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

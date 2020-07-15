@@ -14,6 +14,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-Logo-300x300.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-Logo.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-Logo.png
+additional-images:
+  - 38105:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-MF-2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-MF-2-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-MF-2.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-MF-2.jpg
+  - 38109:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/016-230718-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/016-230718-1-300x200.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/016-230718-1-1024x683.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/016-230718-1.jpg
 website: https://turta.io
 email: hello@turta.io
 twitter: https://twitter.com/turta_io
@@ -54,6 +65,6 @@ maker:
   description: "We are makers who create development boards for other makers. Our team created development hardware mainly for maker community. We have numbers of devices that can be used for community events such as hackatons. We also have been participated in other maker faires such as New York Maker Faire and Bay Area Maker Faire. We also organized Istanbul Maker Faires 3 years in row."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Turta-Logo-Sq-2000px-1024x1024.png
 last-modified-db: "2019-10-26 12:39:59"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -20,6 +20,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons4.jpg
+additional-images:
+  - 22495:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons3.jpg
+  - 22493:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons1.jpg
+  - 22494:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/10/buttons2.jpg
 website: http://www.makerfx.org/buttons
 email: info@makerfx.org
 twitter: 
@@ -49,6 +65,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/makerfx_hex_square.png
 last-modified-db: "2019-10-26 14:35:09"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

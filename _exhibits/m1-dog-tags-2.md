@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/edited_1468106728427-300x209.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/edited_1468106728427-1024x713.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/edited_1468106728427.jpg
+additional-images:
+  - 27465:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20161015_101148-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20161015_101148-1-300x169.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20161015_101148-1-1024x576.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20161015_101148-1.jpg
+  - 27466:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/IMG_3366-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/IMG_3366-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/IMG_3366-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/IMG_3366.jpg
+  - 27467:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20160511_061749-1-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20160511_061749-1-169x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20160511_061749-1-576x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20160511_061749-1.jpg
 website: 
 email: davidwelborn@gmail.com
 twitter: 
@@ -30,6 +46,6 @@ maker:
   description: "I am a flight instructor most of the time and drive boats at Disney part time. On weekends we like to bring the military trailer out to fun events and make vintage dog tags with any message the customer wants.  Is great to get out there and meet people and honor our military."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/09/20161015_101148-1024x576.jpg
 last-modified-db: "2019-10-11 21:01:56"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

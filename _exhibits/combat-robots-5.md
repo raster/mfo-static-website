@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred-300x216.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Shred.jpg
+additional-images:
+  - 29687:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Uppercut-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Uppercut-300x230.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Uppercut.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Uppercut.jpg
+  - 29686:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Upbeat-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Upbeat-275x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Upbeat.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Upbeat.jpg
+  - 29685:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/Bambulance.jpg
 website: https://www.facebook.com/battlebeachllc
 email: 
 twitter: https://www.twitter.com/battlebeachllc
@@ -30,6 +46,6 @@ maker:
   description: "Team LOGICOM has been competing in combat robots for almost 20 years. You may have seen our robot, Captain Shrederator, on Discovery Channel's \"Battlebots.\" You may have seen our other robot, Shrederator Tiger Claw, on Youku's \"This is Fighting Robots!\""
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/makers-faire-orlando-2018-1024x424.jpg
 last-modified-db: "2019-11-06 17:22:07"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

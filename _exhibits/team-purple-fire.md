@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544-1.png
+additional-images:
 website: https://floridapoly.edu/
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "We are the robotics club at Florida Polytechnic University."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2017/09/IMG_2544.png
 last-modified-db: "2019-10-13 10:45:21"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

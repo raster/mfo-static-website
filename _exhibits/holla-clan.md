@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/JTs-Bot-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/JTs-Bot.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/JTs-Bot.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "8 year old JT loves science and technology.  He is excited to enter the world of robots! "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/IMG_1142-683x1024.jpg
 last-modified-db: "2019-11-06 16:59:52"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

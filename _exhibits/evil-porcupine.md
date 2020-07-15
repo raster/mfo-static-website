@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/43588767_10205351451743590_71763526217105408_n-1-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/43588767_10205351451743590_71763526217105408_n-1.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/43588767_10205351451743590_71763526217105408_n-1.jpg
+additional-images:
 website: http://www.nonabots.com
 email: 
 twitter: 
@@ -30,6 +31,6 @@ maker:
   description: "Hampton is in an accelerated first grade class at Northlake Parkway Community School in Lake Nona.  He loves watching Battlebots with his daddy!"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Hampy-Daddy-1024x683.jpg
 last-modified-db: "2019-10-11 21:28:27"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

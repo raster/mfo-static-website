@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/2019-FLDI-photo-1-300x200.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/2019-FLDI-photo-1-1024x683.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/2019-FLDI-photo-1.jpg
+additional-images:
 website: https://www.floridadi.org
 email: difl.info@yahoo.com
 twitter: https://twitter.com/Diffle_DIFL
@@ -36,6 +37,6 @@ maker:
   description: "Florida Destination Imagination promotes STEAM and project based learning in Florida by supporting Destination Imagination and presenting an annual competition celebrating creative problem solving."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/07/10-percent-florida-di-logo-2.png
 last-modified-db: "2019-10-28 19:20:46"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

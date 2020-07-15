@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/71052271_790386661419927_8401706105210279188_n-300x278.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/71052271_790386661419927_8401706105210279188_n.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/71052271_790386661419927_8401706105210279188_n.jpg
+additional-images:
 website: http://rockstarrobotics.wixsite.com/rockstarrobot
 email: Rockstarrobotics@gmail.com
 twitter: 
@@ -55,6 +56,6 @@ maker:
 We would like to present our robots from our team."
   image-primary: 
 last-modified-db: "2019-11-02 11:47:01"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

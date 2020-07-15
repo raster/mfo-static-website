@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190518_092957-300x225.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190518_092957-1024x768.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/20190518_092957.jpg
+additional-images:
 website: http://www.that3dprinter.com
 email: that3dprinter@gmail.com
 twitter: https://www.twitter.com/that3dprinter
@@ -39,6 +40,6 @@ maker:
   description: "Started 3D printing with a Printrbot and fell in love with the technology.  I draw on my engineering and 3D modeling background to produce custom items to print.  Gaming has always been a big influence; most of what I do is related to games.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/cropped-t3dp_logotype.jpg
 last-modified-db: "2019-09-09 20:57:22"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

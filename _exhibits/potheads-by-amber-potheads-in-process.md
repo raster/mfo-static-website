@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AOTLNlI7RWiNE4lesNm6iQ-1-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AOTLNlI7RWiNE4lesNm6iQ-1-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/AOTLNlI7RWiNE4lesNm6iQ-1.jpg
+additional-images:
+  - 37729:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vtDytKh0SOC8sfebVZ0ng-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vtDytKh0SOC8sfebVZ0ng-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vtDytKh0SOC8sfebVZ0ng-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/vtDytKh0SOC8sfebVZ0ng.jpg
+  - 37730:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Blm2ahu1RaWzmFE9TBo8WA-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Blm2ahu1RaWzmFE9TBo8WA-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Blm2ahu1RaWzmFE9TBo8WA-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/Blm2ahu1RaWzmFE9TBo8WA.jpg
+  - 37731:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mpyfsOdnQiOJ5Y8c1GWaYA-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mpyfsOdnQiOJ5Y8c1GWaYA-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mpyfsOdnQiOJ5Y8c1GWaYA-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/mpyfsOdnQiOJ5Y8c1GWaYA.jpg
 website: https://www.potheadsbyamber.com
 email: potheadsbyamber@gmail.com
 twitter: 
@@ -33,6 +49,6 @@ maker:
   description: "Potheads are whimsical little succulent planters, or small sculptures with a function.  They are hand sculpted from clay, handprinted with a color clay, black washed and fired three times.  All made by Amber, a self taught sculptor who started out teaching kids and beginning adults ceramics in Chicago Illinois.  "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/IMG_3343-1024x1024.jpg
 last-modified-db: "2019-10-26 13:02:42"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

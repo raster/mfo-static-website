@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019-256x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Extinguisher-Team-S2019.jpg
+additional-images:
 website: 
 email: quicksilverrobotics@gmail.com
 twitter: 
@@ -36,6 +37,6 @@ maker:
   description: "We are an electronics recycling company from tampa. In business for over 25 years we have properly disposed of electronic scrap. "
   image-primary: 
 last-modified-db: "2019-11-06 17:42:05"
-last-exported: "2020-14-07 08:51:53"
+last-exported: "2020-14-07 20:45:05"
 sitemap: false
 ---

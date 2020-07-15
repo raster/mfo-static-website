@@ -17,6 +17,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/unknown_avenger.jpg
+additional-images:
+  - 37633:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/scoop.jpg
+  - 37634:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/stumpy.jpg
 website: 
 email: 
 twitter: 
@@ -33,6 +44,6 @@ maker:
   description: "Robot Combat "
   image-primary: 
 last-modified-db: "2019-11-06 17:41:25"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -14,6 +14,32 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-300x225.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1-1024x768.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Inside-1.png
+additional-images:
+  - 36818:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Front-2-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Front-2-300x225.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Front-2-1024x768.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/Emery_Adder_Front-2.png
+  - 36824:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_puzzles-3-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_puzzles-3-300x225.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_puzzles-3-1024x768.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_puzzles-3.png
+  - 36825:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_internal-1-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_internal-1-300x225.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_internal-1-1024x768.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/river_crossing_internal-1.png
+  - 36826:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RTB_2018_Full-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RTB_2018_Full-300x225.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RTB_2018_Full-1024x768.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/08/RTB_2018_Full.png
+  - 26774:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side-300x225.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side-1024x768.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/08/RTB_2018_Side.png
 website: http://knickknackatory.com/?p=24
 email: 
 twitter: https://twitter.com/RelayPuzzle
@@ -57,6 +83,6 @@ maker:
   description: "An electronics engineer with an interest in old-school switching logic."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2018/11/profile_pic_small.jpg
 last-modified-db: "2019-10-27 16:54:07"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/7889E9CB-EC30-49C2-9A08-17BB08686E98-300x225.jpeg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/7889E9CB-EC30-49C2-9A08-17BB08686E98-1024x768.jpeg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/7889E9CB-EC30-49C2-9A08-17BB08686E98.jpeg
+additional-images:
 website: 
 email: Apiary15@gmail.com
 twitter: 
@@ -36,6 +37,6 @@ maker:
   description: "Matt is a mechanical engineering supervisor for an engineering firm in Philadelphia. On the weekends he builds and races electric go karts with the power racing series."
   image-primary: 
 last-modified-db: "2019-10-02 20:57:41"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

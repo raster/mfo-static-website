@@ -14,6 +14,22 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa1-300x130.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa1.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa1.png
+additional-images:
+  - 40214:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa2-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa2-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa2-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa2.jpg
+  - 40215:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa3-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa3-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa3.jpg
+  - 40217:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa5-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa5-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa5-768x1024.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/prusa5.jpg
 website: https://www.prusa3d.com/
 email: 
 twitter: 
@@ -39,6 +55,6 @@ maker:
   description: "The Maker Effect Foundation exists to activate and amplify the efforts of makers as they learn, build and work together in their communities. Our efforts include research, publication, community organization, event production, and startup advisement. The foundation’s community organization and startup efforts are focused on Central Florida, however our research and publication efforts are not limited in scope. The Maker Effect Foundation is a 501(c)(3) public charity. "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/09/candy_making_buttons_at_makerfx-1024x1024.jpg
 last-modified-db: "2019-11-01 14:24:44"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

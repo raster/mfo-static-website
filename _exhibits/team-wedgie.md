@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-300x201.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1-1024x685.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/Shiny-Wedgie-2-1.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -33,6 +34,6 @@ maker:
   description: "New to combat robots and ready to build, destroy and repeat."
   image-primary: 
 last-modified-db: "2019-11-06 17:28:14"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

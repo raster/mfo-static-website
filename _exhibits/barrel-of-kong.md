@@ -17,6 +17,17 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Main-225x300.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Main-768x1024.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/Main.jpg
+additional-images:
+  - 39209:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/JDArcade3-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/JDArcade3-225x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/JDArcade3.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/JDArcade3.jpg
+  - 39210:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/bar-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/bar-300x225.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/bar-1024x768.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/bar.jpg
 website: http://www.barrelofkong.com
 email: Darrin@barrelofkong.com
 twitter: 
@@ -36,6 +47,6 @@ This started out about a year ago when I made one for myself and then for my nei
 They have been a huge hit and I am getting referrals from past customers."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/10/BOK.jpg
 last-modified-db: "2019-10-26 13:25:11"
-last-exported: "2020-14-07 08:51:52"
+last-exported: "2020-14-07 20:45:04"
 sitemap: false
 ---

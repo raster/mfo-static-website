@@ -16,6 +16,12 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-300x288.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2-1024x983.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof2.jpg
+additional-images:
+  - 34835:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny-218x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Magician-Hat-with-Bunny.jpg
 website: http://www.poofsoftware.com
 email: info@poofsoftware.com
 twitter: 
@@ -32,6 +38,6 @@ maker:
   description: "adafadsfdasfadf"
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/07/Poof-1024x710.jpg
 last-modified-db: "2019-10-31 20:34:36"
-last-exported: "2020-14-07 08:51:54"
+last-exported: "2020-14-07 20:45:06"
 sitemap: false
 ---

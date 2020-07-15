@@ -16,6 +16,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Booth-table2-1-300x169.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Booth-table2-1-1024x576.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2018/10/Booth-table2-1.jpg
+additional-images:
 website: 
 email: 
 twitter: 
@@ -32,6 +33,6 @@ maker:
   description: "A non-profit organization of volunteers that counsel and mentor people who want to start a business, are already in business and want to grow or people who are already in business and are floundering and need help righting the ship."
   image-primary: 
 last-modified-db: "2019-10-26 12:33:04"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

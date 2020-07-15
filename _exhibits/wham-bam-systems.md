@@ -14,6 +14,7 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/cover2-300x131.png
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/cover2-1024x447.png
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/cover2.png
+additional-images:
 website: http://www.WhamBamSystems.com
 email: info@whambamsystems.com
 twitter: https://twitter.com/whambamsystems
@@ -30,6 +31,6 @@ maker:
   description: "We make 3d printing easy, fun, and productive with our 3d printer accessories."
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2019/09/whambamhorizshadowsmall.jpg
 last-modified-db: "2019-10-21 14:49:41"
-last-exported: "2020-14-07 08:51:56"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---

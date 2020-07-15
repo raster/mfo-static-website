@@ -14,6 +14,42 @@ image-primary:
   medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Tiny-Toons.jpg
   large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Tiny-Toons.jpg
   full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Tiny-Toons.jpg
+additional-images:
+  - 20268:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic.png
+  - 20267:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Micro-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Micro.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Micro.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Micro.png
+  - 20266:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Graphing-Pic-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Graphing-Pic.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Graphing-Pic.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Graphing-Pic.png
+  - 20271:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/11737873_1122401744440988_3293701709016989450_n-150x150.jpg
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/11737873_1122401744440988_3293701709016989450_n-300x300.jpg
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/11737873_1122401744440988_3293701709016989450_n.jpg
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/11737873_1122401744440988_3293701709016989450_n.jpg
+  - 20265:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-GB-Pic-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-GB-Pic.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-GB-Pic.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-GB-Pic.png
+  - 20270:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-SW-Pic-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-SW-Pic.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-SW-Pic.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-SW-Pic.png
+  - 20269:
+    thumbnail: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic2-150x150.png
+    medium: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic2.png
+    large: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic2.png
+    full: https://makers.makerfaireorlando.com/wp-content/uploads/2017/08/MF-Misc-Pic2.png
 website: http://www.Sillyrabbitcrafts.com
 email: sillyrabbit4crafts@gmail.com
 twitter: 
@@ -44,6 +80,6 @@ maker:
 "
   image-primary: https://makers.makerfaireorlando.com/wp-content/uploads/2015/06/C44-Pac-Man-Set-12-1024x683.jpg
 last-modified-db: "2019-10-26 14:28:34"
-last-exported: "2020-14-07 08:51:55"
+last-exported: "2020-14-07 20:45:07"
 sitemap: false
 ---
