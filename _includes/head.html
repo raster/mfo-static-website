@@ -3,8 +3,10 @@
   <!--{% if page.last_updated %}<span>Page last updated:</span> {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y  %H:%M"  }}-->
   <!-- site.url: {{site.url}}-->
   <!-- site.baseurl: {{site.baseurl}}-->
-  <!-- prepend relative_url: {{ 'foo.bar' | relative_url}}-->
   <!-- jekyll.environment: {{jekyll.environment}}-->
+
+{% comment %}Moved fontawesome back to head based on pagespeed optimization{% endcomment %}
+  <script src="https://use.fontawesome.com/59d0d247bb.js"></script>
 
   <meta http-equiv="cache-control" content="max-age=2592000, public" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
