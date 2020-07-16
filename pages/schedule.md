@@ -22,7 +22,7 @@ the type of scheduled events you can expect at Maker Faire Orlando.**
 
 
 <p>Most exhibits and hands-on activities at Maker Faire Orlando run through the entire event &#8211; the schedule below has days &amp; times for performances and competitions that are scheduled across the weekend!</p>
-<p><a href="https://www.facebook.com/makerfaireorlando">Follow us on Facebook</a>, or <a href="http://orlandominimakerfaire.us4.list-manage.com/subscribe?u=5cae882ebb17a2037530dcfdb&amp;id=d88220bd9e">signup for our mailing list</a> for the most up to date information.</p>
+<p><a href="https://www.facebook.com/makerfaireorlando">Follow us on Facebook</a>, or <a href="https://orlandominimakerfaire.us4.list-manage.com/subscribe?u=5cae882ebb17a2037530dcfdb&amp;id=d88220bd9e">signup for our mailing list</a> for the most up to date information.</p>
 
 <div class="container">
 	<div id="page-schedule" class="sched-table container wpv-loop js-wpv-loop">

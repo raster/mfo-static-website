@@ -20,7 +20,7 @@ We can help you:
 -   Find local makers to help with topics outside your area of expertise
 -   Help you come up with great project ideas for all ages and budgets
 
-**Looking for information for Homeschool parents? [Check out our Homeschool programs!](/homeschool)**
+**Looking for information for Homeschool parents? [Check out our Homeschool programs!](/homeschool/)**
 
 ## The Maker Effect Foundation
 
@@ -28,7 +28,7 @@ We can help you:
 
 ## Maker Faire Orlando
 
-[Maker Faire Orlando](http://www.makerfaireorlando.com/) is a community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It's an event where people show what they are making and share what they are learning.
+[Maker Faire Orlando](https://www.makerfaireorlando.com/) is a community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It's an event where people show what they are making and share what they are learning.
 
 Florida Educators (all grade levels including college / university) receive Free admission to Maker Faire Orlando. In addition, pre-registered Title I school groups including students, educators, and chaperones receive free admission. If your organization is interested in sponsoring our programs for educators, please visit our [sponsor information page](/become-a-sponsor).
 
@@ -46,9 +46,9 @@ If you would like to learn more about [Maker Faire Orlando](https://www.makerfa
 
 ### Other Resources
 
-* [Maker Ed](http://makered.org/) is a non-profit organization who is committed to "empowering communities transform their education systems by integrating making into all facets of their work". The team at Maker Ed has put together an extensive library of resources that you may want to check out! This link will take you to the [getting started](http://makered.org/resources/getting-started/) page, but there is so much more information available.
+* [Maker Ed](https://makered.org/) is a non-profit organization who is committed to "empowering communities transform their education systems by integrating making into all facets of their work". The team at Maker Ed has put together an extensive library of resources that you may want to check out! This link will take you to the [getting started](http://makered.org/resources/getting-started/) page, but there is so much more information available.
 
-* [Make Magazine](http://makezine.com/) is a publication created by [Maker Media](http://makermedia.com/) to connect Makers with each other, with products and services, and with their partners.
+* [Make Magazine](https://makezine.com/) is a publication created by [Maker Media](http://makermedia.com/) to connect Makers with each other, with products and services, and with their partners.
 
 * [FamiLAB](https://familab.org/) is a provider of space, tools, and community for creative technical learning and projects. FamiLAB's mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills & tools to improve ourselves and enrich the world around us.
 
