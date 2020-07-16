@@ -42,7 +42,7 @@ We maintain a list of local makers that are willing to do demonstrations or talk
 
 **Stay up to date with the latest on the Maker Movement in Central Florida with our [Maker Faire Orlando Educator email newsletter](http://eepurl.com/buLkzr).**
 
-If you would like to learn more about [Maker Faire Orlando](http://www.makerfaireorlando.com/) or for assistance bringing the maker movement into your classroom, email us at <educators@makerfaireorlando.com>
+If you would like to learn more about [Maker Faire Orlando](https://www.makerfaireorlando.com/) or for assistance bringing the maker movement into your classroom, email us at <educators@makerfaireorlando.com>
 
 ### Other Resources
 
