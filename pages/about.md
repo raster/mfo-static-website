@@ -60,7 +60,7 @@ carousel-slides:
   </div>
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
-      <a href="https://makerfaire.com/">Maker Faire</a> originated in 2006 in the San Francisco Bay Area as a project of the editors of <a href="https://makezine.com/">Make: magazine</a>.  It has since grown into a significant <a href="https://makerfaire.com/map">worldwide network</a> of both flagship and independently-produced events.  Read more on <a href="https://makerfaire.com/makerfairehistory/">Maker Faire history</a>, the <a href="https://makerfaire.com/maker-movement/">Maker Movement</a>, as well as how to <a href="https://makerfaire.com/global">start a Maker Faire</a> or a <a href="https://makerfaire.com/global/school">School Maker Faire</a> where you live.
+      <a href="https://makerfaire.com/">Maker Faire</a> originated in 2006 in the San Francisco Bay Area as a project of the editors of <a href="https://makezine.com/">Make: magazine</a>.  It has since grown into a significant <a href="https://makerfaire.com/map/">worldwide network</a> of both flagship and independently-produced events.  Read more on <a href="https://makerfaire.com/makerfairehistory/">Maker Faire history</a>, the <a href="https://makerfaire.com/maker-movement/">Maker Movement</a>, as well as how to <a href="https://makerfaire.com/global/">start a Maker Faire</a> or a <a href="https://makerfaire.com/global/school/">School Maker Faire</a> where you live.
     </div>
   </div>
   <div style="margin-top: 20px"></div>
