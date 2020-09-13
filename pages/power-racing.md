@@ -38,14 +38,17 @@ carousel-slides:
     url: /power-racing/
 ---
 
-# Power Racing - Live at Maker Faire Orlando!
+# Power Racing - 2020 Update
+We will be hosting a standalone Power Racing Series event in December 2020 (date TBD) with socially-distanced pits and no spectators. We will livestream the event for our audience and the teams in other cities that are unable to participate.
 
+For the latest info on this standalone event, email us at [powerracing@makerfaireorlando.com ](mailto:powerracing@makerfaireorlando.com).
 
-Power Racing is an fun-filled racing experience where makers construct their own machines to go racing.  Racers can spend up to $500 on a racer that looks like a children's ride on toy!
-
+<br><br>
 ![Power Racing Teams group shot 2018](/assets/images/power-racing-group-shot-2018.jpg){:width="100%"}
 
-## The Power Racing Series is returning in 2020!  Do you have what it takes to build the best racer?
+## Do you have what it takes to build a racer?
+
+Power Racing is an fun-filled racing experience where makers construct their own machines to go racing.  Racers can spend up to $500 on a racer that looks like a children's ride on toy!
 
 We are looking for some slightly crazy people with just enough engineering talent to be dangerous. Individuals and teams (friends, businesses, organizations) are welcome to join in the fun and to compete for Power Racing bragging rights!
 
