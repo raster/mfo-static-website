@@ -14,7 +14,7 @@ Volunteers who work at least a 4 hour shift will receive free admission for the 
 
 ---
 
-## Due to the uncertain COVID-19 environment, we are not currently accepting volunteer registrations for Maker Faire Orlando 2020.
+## Due to COVID-19, we will not be holding a large Maker Faire Orlando event in 2020. We look forward to welcoming back our volunteers for Maker Faire Orlando 2021.
 
 ---
 
