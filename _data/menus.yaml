@@ -7,38 +7,50 @@ topnav:
         url: /about/
       - page: Media
         url: /media/
-  - title: THINGS TO SEE & DO
+  - title: 2020 Programs
     subfolderitems:
-      - page: Makers & Exhibits
-        url: /makers/
-      - page: Event Schedule
-        url: /schedule/
-      - page: Hands-On Workshops
-        url: /makers/?category=workshop
-      - page: Combat Robots
-        url: /combat-robots/
-      - page: Power Racing
-        url: /power-racing/
-      - page: Nerdy Derby
-        url: /nerdy-derby/
-  - title: GET INVOLVED
-    subfolderitems:
-      - page: Exhibit at Maker Faire Orlando
-        url: /exhibit-at-maker-faire-orlando/
-      - page: Volunteer
-        url: /volunteer/
-      - page: Become a Sponsor
-        url: /become-a-sponsor/
-  - title: ATTEND
-    subfolderitems:
-      - page: Tickets & Info
-        url: /attend/
-      - page: Homeschool Programs
-        url: /homeschool/
-      - page: School Educators
-        url: /educators/
-  - title: MAKER LOGIN
-    url: /maker-login/
+      - page: 2020 Update
+        url: /#2020
+      - page: Pop-Up Maker Faire Events
+        url: https://www.eventbrite.com/o/the-maker-effect-foundation-6674636673
+#      - page: Bright Bikes Parades
+#        url: /bright-bikes
+      - page: Power Racing Series
+        url: /power-racing
+      - page: Robot Ruckus
+        url: https://robotruckus.org
+#  - title: THINGS TO SEE & DO
+#    subfolderitems:
+#      - page: Makers & Exhibits
+#        url: /makers/
+#      - page: Event Schedule
+#        url: /schedule/
+#      - page: Hands-On Workshops
+#        url: /makers/?category=workshop
+#      - page: Combat Robots
+#        url: /combat-robots/
+#      - page: Power Racing
+#        url: /power-racing/
+#      - page: Nerdy Derby
+#        url: /nerdy-derby/
+#  - title: GET INVOLVED
+#    subfolderitems:
+#      - page: Exhibit at Maker Faire Orlando
+#        url: /exhibit-at-maker-faire-orlando/
+#      - page: Volunteer
+#        url: /volunteer/
+#      - page: Become a Sponsor
+#        url: /become-a-sponsor/
+#  - title: ATTEND
+#    subfolderitems:
+#      - page: Tickets & Info
+#        url: /attend/
+#      - page: Homeschool Programs
+#        url: /homeschool/
+#      - page: School Educators
+#        url: /educators/
+#  - title: MAKER LOGIN
+#    url: /maker-login/
 
 footernav:
   - title: Maker Faire Orlando
