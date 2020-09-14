@@ -19,6 +19,11 @@ topnav:
         url: /power-racing
       - page: Robot Ruckus
         url: https://robotruckus.org
+  - title: Sponsor
+    subfolderitems:
+      - page: Become a Sponsor
+        url: /become-a-sponsor
+
 #  - title: THINGS TO SEE & DO
 #    subfolderitems:
 #      - page: Makers & Exhibits
