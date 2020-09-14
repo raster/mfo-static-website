@@ -10,23 +10,23 @@ carousel-controls: true
 carousel-slides:
   - image: /assets/images/slider/welcome-to-maker-faire.jpg  
     caption: Welcome to Maker Faire!
-    url: /
+    url:
 
   - image: /assets/images/slider/retro-computers-kid-cropped.jpg  
     caption: Inspire the future!
-    url: /makers/
+    url:
 
   - image: /assets/images/slider/muralist-cropped.jpg
     caption: See art in action!
-    url: /makers/
+    url:
 
   - image: /assets/images/slider/Ghost-busters-cropped.jpg
     caption: Meet like minded makers!
-    url: /makers/
+    url:
 
   - image: /assets/images/slider/mold-a-makey-cropped.jpg
     caption: Make stuff!
-    url: /makers/?category=workshop
+    url: 
 ---
 
 
