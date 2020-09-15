@@ -43,9 +43,9 @@ carousel-slides:
         <div class="row">
         <div class="col-md-8 col-md-offset-2">
         <p>2020 has been a year of unprecedented challenges that have affected all facets of life including our maker events and gatherings.
-        The Maker Faire Orlando team is heartbroken that we cannot gather together as we do each year. We will not be holding a full-scale Maker Faire Orlando event in 2020 - but that doesn't mean that you can't stay involved with the maker community.</p>
+        The Maker Faire Orlando team is heartbroken that we cannot gather together as we do each year. We will not be holding a full-scale Maker Faire Orlando event in 2020 - but we have some new ways you can stay connected with the maker community.</p>
         <BR>
-        <p>We know you've been making at home and in the local makerspaces, and we are excited to create some opportunities for you to show off what you've been making, to compete in our annual competitions, and to continue our focus on teaching maker skills.
+        <p>We know you've been making at home and in the local makerspaces, and we are excited to create some opportunities for you to show off what you've been making, to compete in our annual competitions, and to continue to share our maker knowledge and skills with others.
         <ul>
         <li>We will host several Pop-Up Maker Faire events around Orlando this fall - these will be small-scale, socially-distanced events at local makerspaces and other institutions with a virtual component for those that want to interact from home. <a href="https://www.facebook.com/makerfaireorlando">Follow us on Facebook</a> or <a href="http://eepurl.com/bpCB8T">subscribe to our email newsletter</a> to stay informed! If your organization would like to host one of these small events, <a href="mailto:makers@makerfaireorlando.com">please email us to discuss.</a></li><br>
         <li>We are launching a new participative art project called "Bright Bikes" which includes a fleet of LED-covered art bikes with music and interactive graphics created by local interactive artists. We will be launching this program in late September with opportunities to build your own art bike and participate in socially-distanced light parades in communities around Orlando!</li><br>
