@@ -43,7 +43,7 @@ carousel-slides:
         <div class="row">
         <div class="col-md-8 col-md-offset-2">
         <p>2020 has been a year of unprecedented challenges that have affected all facets of life including our maker events and gatherings.
-        The Maker Faire Orlando team is heartbroken that we cannot gather together as we do each year. We will not be holding a full-scale Maker Faire Orlando event in 2020 - but we have some new ways you can stay connected with the maker community.</p>
+        The Maker Faire Orlando team is heartbroken that we cannot gather together for our annual tradition. We will not be holding a full-scale Maker Faire Orlando event in 2020 - but we have some new ways you can stay connected with the maker community.</p>
         <BR>
         <p>We know you've been making at home and in the local makerspaces, and we are excited to create some opportunities for you to show off what you've been making, to compete in our annual competitions, and to continue to share our maker knowledge and skills with others.
         <ul>
