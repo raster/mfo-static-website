@@ -65,7 +65,8 @@ carousel-slides:
         <li>Since we could not teach soldering at Maker Faire Orlando in 2020, we created a partnership program with Boys & Girls Clubs of Central Florida. Kids in the Orange County clubs are now making an awesome LED badges right in their community clubhouse!<br><br>
         <p><img src="assets/images/bgccf-lts-pin.jpg" width="560"></p><br>
         <p><img src="assets/images/bgccf-lts-training.jpg" width="560"></p>
-        A Boys & Girls Clubs of Central Florida staff member makes the first badge during training!
+        A Boys & Girls Clubs of Central Florida staff member makes the first badge during training!<br>
+        We will be working with our BGCCF partners to package this program and share with Boys & Girls Clubs and maker groups nationwide so that it can be easily replicated. <a href="mailto:makers@makerfaireorlando.com">Email us</a> if you'd like information to get started within your community. 
         </li><br>
 
         <li>We tested a small-format, socially-distanced <a href="https://robotruckus.org">Robot Ruckus</a> event ("R5") in December to great feedback. You can see the event and be notified of future streams over on the <a href="https://www.twitch.tv/robotruckus">Robot Ruckus Twitch</a> We will continue these smaller events (live-streamed with no spectators) in 2021. Watch the <a href="https://www.robotruckus.org">Robot Ruckus website</a> or the <a href="https://www.facebook.com/robotruckus">Robot Ruckus page on Facebook</a> for more information.</li><br>
