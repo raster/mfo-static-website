@@ -47,7 +47,7 @@ carousel-slides:
         <BR>
         <p>We've followed your posts, watching you make in your home studios, workshops and in your local makerspaces. <a href="https://orlandofightscovid.com/">We worked together to create PPE alternatives</a> during the early months of the pandemic, and we've seen those impacted by furloughs and layoffs starting maker business, opening Etsy shops, and creating in entirely new ways. We continue to be inspired by the resolve and your spirit of the maker community!
         <ul>
-        <li>We hosted several small Pop-Up Maker Faire events around Orlando during 2020, and participated in the <a href="https://www.facebook.com/events/1031440747333061">"Maker Takeover at Orlando Science Center"</a> in December. The <a href="https://flic.kr/s/aHsmSqFVfw">October Pop-up event featured Disney Cast Members</a> that had been furloughed, and it was great to meet these amazing makers, hear their stories and to purchase their awesome creations.
+        <li>We hosted several small Pop-Up Maker Faire events around Orlando during 2020, and participated in the <a href="https://www.facebook.com/events/1031440747333061">"Maker Takeover at Orlando Science Center"</a> in December. The October Pop-up event featured Disney Cast Members <a href="https://flic.kr/s/aHsmSqFVfw">(pictures)</a> that had been furloughed, and it was great to meet these amazing makers, hear their stories and to purchase their awesome creations. <br><br>
         <p><img src="assets/images/mfo_popup_website_image_800px.jpg" width="560"></p>
 
          We enjoyed this "Pop-up" event formula and will continue these small events in 2021. <a href="https://www.facebook.com/makerfaireorlando">Follow us on Facebook</a> or <a href="http://eepurl.com/bpCB8T">subscribe to our email newsletter</a> to stay informed! If your organization would like to host one of these small events, <a href="mailto:makers@makerfaireorlando.com">please email us to discuss.</a></li><br>
@@ -61,7 +61,12 @@ carousel-slides:
         <iframe src="https://giphy.com/embed/k93bPqzXO9m5b2PXl6" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/led-soldering-brightbikes-k93bPqzXO9m5b2PXl6"></a></p>
 
         <br><a href="https://www.facebook.com/brightbikesorf">Follow BrightBikes on Facebook</a> or <a href="http://eepurl.com/bpCB8T">subscribe to our email newsletter</a> to stay informed and to get involved! If your organization would like to host the bikes at your location or rent the bikes for an event, <a href="mailto:makers@makerfaireorlando.com">please email us to discuss.</a></li><br>
-        <li>We are creating a new program to teach Hands-on Maker skills in schools and after-care programs for underprivileged youth. If you are an educator or an organizer of an after-school program, <a href="mailto:educators@makerfaireorlando.com">please email us for more info.</a></li><br>
+
+        <li>Since we could not teach soldering at Maker Faire Orlando in 2020, we created a partnership program with Boys & Girls Clubs of Central Florida. Kids in the Orange County clubs are now making an awesome LED badges right in their community clubhouse!<br><br>
+        <p><img src="assets/images/bgccf-lts-pin.jpg" width="560"></p><br>
+        <p><img src="assets/images/bgccf-lts-training.jpg" width="560"></p>
+        A Boys & Girls Clubs of Central Florida staff member makes the first badge during training!
+        </li><br>
 
         <li>We tested a small-format, socially-distanced <a href="https://robotruckus.org">Robot Ruckus</a> event ("R5") in December to great feedback. You can see the event and be notified of future streams over on the <a href="https://www.twitch.tv/robotruckus">Robot Ruckus Twitch</a> We will continue these smaller events (live-streamed with no spectators) in 2021. Watch the <a href="https://www.robotruckus.org">Robot Ruckus website</a> or the <a href="https://www.facebook.com/robotruckus">Robot Ruckus page on Facebook</a> for more information.</li><br>
 
