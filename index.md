@@ -66,8 +66,13 @@ carousel-slides:
         <p><img src="assets/images/bgccf-lts-pin.jpg" width="560"></p><br>
         <p><img src="assets/images/bgccf-lts-training.jpg" width="560"></p>
         A Boys & Girls Clubs of Central Florida staff member makes the first badge during training!<br>
-        We will be working with our BGCCF partners to package this program and share with Boys & Girls Clubs and maker groups nationwide so that it can be easily replicated. <a href="mailto:makers@makerfaireorlando.com">Email us</a> if you'd like information to get started within your community. 
+        We will be working with our BGCCF partners to package this program and share with Boys & Girls Clubs and maker groups nationwide so that it can be easily replicated. We've placed the <a href="https://github.com/makerfx/bgccf-learn-to-solder">design files and BOM on GitHub</a>, and you can <a href="mailto:makers@makerfaireorlando.com">email us</a> if you'd like information to get started within your community.
         </li><br>
+
+        <li>During the pandemic, we kept hearing from educators that many kids do not have their own desks at home, and this is especially difficult for young artists. With this inspiration, local makers worked to design and make desks for underprivileged youth. Local artists are getting involved by painting and decorating desk tops and even entire desks!
+        <p><img src="assets/images/desk_profile_shot.jpg" width="560"></p>
+        <p><img src="assets/images/desks_at_osc.jpg" width="560"></p>
+        Thanks to HuntonBrady Architects for collaborating on the design, and to Boys & Girls Clubs of Central Florida for helping identify the young artists that need these desks.</li><br>
 
         <li>We tested a small-format, socially-distanced <a href="https://robotruckus.org">Robot Ruckus</a> event ("R5") in December to great feedback. You can see the event and be notified of future streams over on the <a href="https://www.twitch.tv/robotruckus">Robot Ruckus Twitch</a> We will continue these smaller events (live-streamed with no spectators) in 2021. Watch the <a href="https://www.robotruckus.org">Robot Ruckus website</a> or the <a href="https://www.facebook.com/robotruckus">Robot Ruckus page on Facebook</a> for more information.</li><br>
 
