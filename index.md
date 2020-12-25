@@ -77,6 +77,8 @@ carousel-slides:
 
         <li>We tested a small-format, socially-distanced <a href="https://robotruckus.org">Robot Ruckus</a> event ("R5") in December to great feedback. You can see the event and be notified of future streams over on the <a href="https://www.twitch.tv/robotruckus">Robot Ruckus Twitch</a> We will continue these smaller events (live-streamed with no spectators) in 2021. Watch the <a href="https://www.robotruckus.org">Robot Ruckus website</a> or the <a href="https://www.facebook.com/robotruckus">Robot Ruckus page on Facebook</a> for more information.</li><br>
 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/byWyOeH63Fw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+
         <li>Unfortunately we were not able to host a <a href="/power-racing">Power Racing Series</a> event this fall due to schedule conflicts with the competitors. We hope to be able to schedule an exhibition race in Q1 of 2021 which will be live streamed (no in-person spectators). If you want to build a new racer and to get into the competition - <a href="mailto:powerracing@makerfaireorlando.com">email us for more info!</a></li><br>
         </ul>
         </p>
