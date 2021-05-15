@@ -16,11 +16,18 @@ carousel-slides:
 # We need your help to educate & inspire!
 
 
-While a large Maker Faire Orlando event will not be held in 2020, we are still working every day to improve our communities through maker skills education and supporting those who learn, make and share with others.
+With non-profits and the maker community still recovering from the pandemic, financial and in-kind support from our sponsors is more important then ever.
 
- If you'd like to help support STEAM (Science, Technology, Engineering, Arts & Math) education in Central Florida, please consider sponsoring the programs of The Maker Effect Foundation. We are happy to match an existing program with your organization's goals, or to create a new program tailored to meet your community objectives.
+If you'd like to help support STEAM (Science, Technology, Engineering, Arts & Math) education in Central Florida, please consider sponsoring the programs of The Maker Effect Foundation. We are happy to match an existing program with your organization's goals, or to create a new program tailored to meet your community objectives.
 
+---
+<iframe width="1140" height="641" src="https://www.youtube.com/embed/Ze2G149b4Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Maker Faire Orlando is independently organized and operated under license from Make: Community, LLC.
 
+---
+<iframe width="1140" height="641" src="https://www.youtube.com/embed/g6SkFhdnwmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 For more information, please contact us at <sponsor@makerfaireorlando.com>  for more information.
 
