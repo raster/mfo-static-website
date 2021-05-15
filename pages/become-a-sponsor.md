@@ -8,8 +8,8 @@ carousel: true
 carousel-delay: 5000
 carousel-controls: false
 carousel-slides:
-  - image: /assets/images/volunteer-solder.jpg
-    caption: Learn-To-Solder
+  - image: /assets/images/slider/prusa_sponsor.jpg
+    caption: Prusa Research at Maker Faire Orlando 2019
     url:
 ---
 
