@@ -22,28 +22,24 @@ carousel-slides:
     url: /power-racing/
 
   - image: /assets/images/slider/power-racing-two-wheels.jpg
-    caption: Make Cool Stuff!
+    caption: Power racer on two wheels!
     url: /power-racing/
 
   - image: /assets/images/slider/starting_line.jpg
-    caption: Make Cool Stuff!
+    caption: Power racing starting line
     url: /power-racing/
 
   - image: /assets/images/slider/raphael.jpg
-    caption: Make Cool Stuff!
+    caption: Ninja turtle power racer!
     url: /power-racing/
 
   - image: /assets/images/slider/shes_fast.jpg
-    caption: Make Cool Stuff!
+    caption: Weinermobile Power Racer!
     url: /power-racing/
 ---
 
-# Power Racing - 2020 Update
-We will be hosting a standalone Power Racing Series event in December 2020 (date TBD) with socially-distanced pits and no spectators. We will livestream the event for our audience and the teams in other cities that are unable to participate.
+# Power Racing is back at Maker Faire Orlando 2021!
 
-For the latest info on this standalone event, email us at [powerracing@makerfaireorlando.com ](mailto:powerracing@makerfaireorlando.com).
-
-<br><br>
 ![Power Racing Teams group shot 2018](/assets/images/power-racing-group-shot-2018.jpg){:width="100%"}
 
 ## Do you have what it takes to build a racer?
@@ -65,5 +61,14 @@ Check out this presentation from local PPPRS Builders at [MakerFX](http://www.m
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWZ8h53DGRwdfLLGHiLBUGU1DnaZcRplbrXUG-0CoD6P2i_gsu_tLSOtzISR-AI2dJtQcZkIc-Hzla/embed?start=true&loop=true&delayms=3000" frameborder="0" width="950" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
+<iframe width="960" height="540" src="https://www.youtube.com/embed/f-ltN5vCwdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Use your pointer to drag your point of view for the 360 degree video!
 
+---
+<iframe src="https://giphy.com/embed/llByTiLtKWoV5iLJu7" width="960" height="540" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/makers-maker-faire-power-racing-series-llByTiLtKWoV5iLJu7"></a></p>
+
+---
+<iframe src="https://giphy.com/embed/cmm7Bixq0BxJ3cPg7L" width="960" height="540" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maker-faire-power-racing-series-miami-cmm7Bixq0BxJ3cPg7L"></a></p>
+
+---
 To enter the competition, email us at [powerracing@makerfaireorlando.com ](mailto:powerracing@makerfaireorlando.com)and we will send you the full information packet and help you get started on the road to victory! 
