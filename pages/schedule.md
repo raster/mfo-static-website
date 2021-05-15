@@ -10,8 +10,8 @@ redirect_from: "/event-schedule/"
 
 <div style="margin-bottom:30px"></div>
 
-**The Maker Faire Orlando team is hard at work planning Maker Faire Orlando 2020.
-Check back closer to the event to see the 2020 schedule - and in the interim, check out the Maker Faire Orlando 2019 schedule below to see
+**The Maker Faire Orlando team is hard at work planning Maker Faire Orlando 2021.
+Check back closer to the event to see the 2021 schedule - and in the interim, check out the Maker Faire Orlando 2019 schedule below to see
 the type of scheduled events you can expect at Maker Faire Orlando.**
 
 <div style="margin-bottom:30px"></div>

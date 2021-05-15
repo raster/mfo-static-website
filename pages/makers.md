@@ -6,8 +6,8 @@ redirect-from:
   - /exhibits/
 ---
 <div class="container">
-<h1>2019 Maker Exhibits</h1>
-We have not yet started accepting makers for Maker Faire Orlando 2020. Check out the exhibits from 2019 and check back to see 2020 exhibits late this summer.
+<h1>Past Maker Exhibits</h1>
+Maker Faire Orlando is back for 2021, but we have not yet started accepting maker applications. Check out the below exhibits from 2019 and check back to see 2021 exhibits late this summer!
 
 <p>Want to see all the combat robots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Check out out the <a href="/makers/?category=battlebot">BattleBot category</a> and the <a href="/makers/?category=combat-robots">full list of Combat Robots</a>.</p>
 </div>
