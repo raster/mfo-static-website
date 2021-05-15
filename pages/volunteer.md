@@ -3,18 +3,23 @@ title: Volunteer at Maker Faire Orlando!
 layout: default
 permalink: /volunteer/
 redirect_from: /volunteers/
+carousel: true
+carousel-delay: 5000
+carousel-controls: false
+carousel-slides:
+  - image: /assets/images/volunteer-solder.jpg
+    caption: Learn-To-Solder
+    url:
 ---
-# Volunteer at Maker Faire Orlando
 
-![Learn-to-Solder Volunteers at Maker Faire Orlando](/assets/images/volunteer-solder.jpg)
-
-## Volunteering at Maker Faire Orlando is a great way to give back to your local community AND to attend the event without needing to buy a ticket!
+# Volunteering at Maker Faire Orlando is a great way to give back to your local community AND to attend the event without needing to buy a ticket!
 
 Volunteers who work at least a 4 hour shift will receive free admission for the day they volunteer (if you volunteer late in the day, you are welcome to enjoy the event before your volunteer shift, and if you volunteer for setup day, you can come back for a full day on either Saturday or Sunday). Volunteers also receive a Maker Faire Orlando volunteer t-shirt.
 
 ---
 
-## Due to COVID-19, we will not be holding a large Maker Faire Orlando event in 2020. We look forward to welcoming back our volunteers for Maker Faire Orlando 2021.
+## Stay tuned for volunteer signup later this summer!
+If you'd like to be notified when we open volunteer registration, please email us at <volunteers@themakereffect.org> or [sign up for our email newsletter](http://eepurl.com/bpCB8T).
 
 ---
 
@@ -23,7 +28,7 @@ Volunteers who work at least a 4 hour shift will receive free admission for the 
 
 * Community service hours are available from The Maker Effect Foundation, a 501(c)(3) public charity.
 
-* If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at volunteers@themakereffect.org
+* If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at <volunteers@themakereffect.org>
 
 
 {% comment %}
