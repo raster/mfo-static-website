@@ -1,10 +1,12 @@
 ---
 title: Attend Maker Faire Orlando
 permalink: /attend/
+image: /assets/images/slider/family-makey-gate.jpg  
 layout: default
 redirect_from:
   - /ticket/
   - /tickets/
+
 
 carousel: true
 carousel-delay: 5000
