@@ -3,6 +3,7 @@ title: Sponsor Maker Faire Orlando
 permalink: /become-a-sponsor/
 layout: default
 redirect_from: "/sponsor"
+image: /assets/images/slider/prusa_sponsor.jpg
 
 carousel: true
 carousel-delay: 5000
@@ -13,7 +14,7 @@ carousel-slides:
     url:
 ---
 
-# We need your help to educate & inspire!
+# Sponsors help Maker Faire educate & inspire!
 
 
 With non-profits and the maker community still recovering from the pandemic, financial and in-kind support from our sponsors is more important then ever.
