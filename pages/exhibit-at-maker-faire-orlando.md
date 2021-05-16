@@ -28,6 +28,6 @@ Step 2: Create a Maker Profile on the Maker Dashboard on the My Account menu. No
 
 Step 3: Create an Exhibit Proposal attached to your Maker Profile. We will notify you about your proposal status as we do our rounds of approvals. The status of your exhibit proposals is visible on the Maker Dashboard. Please note that exhibits are approved by a curation process in several rounds, and are not approved based on submission date order.
 -->
-***Have any questions? Email us at makers@makerfaireorlando.com***
+***Have any questions? Email us at <makers@makerfaireorlando.com>***
 
 Maker Faire Orlando is a curated event. We reserve the right to select exhibits based on proposal completeness, exhibit content, content diversity, items sold, and other factors.
