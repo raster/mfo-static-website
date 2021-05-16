@@ -2,7 +2,7 @@
 title: Welcome to Maker Faire Orlando!
 permalink: /
 layout: full-width
-
+image:/assets/images/slider/welcome-to-maker-faire.jpg  
 
 carousel: true
 carousel-delay: 5000
