@@ -19,7 +19,7 @@ scrolltop: true
           <p>2020 was a year of unprecedented challenges that affected all facets of life including our maker events and gatherings.
           The Maker Faire Orlando team was heartbroken that we were not able to gather together for our annual tradition, but that didn't stop our maker spirit!</p>
           <BR>
-          <p>We've followed your posts, watching you make in your home studios, workshops and in your local makerspaces. <a href="https://orlandofightscovid.com/">We worked together to create PPE alternatives</a> as part of the <a href="opensourcemedialsupplies.org">Open Source Medical Supplies</a> community during the early months of the pandemic, and we've seen those impacted by furloughs and layoffs starting maker business, opening Etsy shops, and creating in entirely new ways. We continue to be inspired by the resolve and your spirit of the maker community!</p>
+          <p>We've followed your posts, watching you make in your home studios, workshops and in your local makerspaces. <a href="https://orlandofightscovid.com/">We worked together to create PPE alternatives</a> as part of the <a href="https://www.opensourcemedicalsupplies.org">Open Source Medical Supplies</a> community during the early months of the pandemic, and we've seen those impacted by furloughs and layoffs starting maker business, opening Etsy shops, and creating in entirely new ways. We continue to be inspired by the resolve and your spirit of the maker community!</p>
           <div style="margin-top:20px;margin-bottom:20px"><a href="https://orlandofightscovid.com"><img src="/assets/images/cropped-OFC-banner.jpg"></a></div>
           <div class="row" style="margin-bottom:40px"><div class="col-md-12 col-md-offset-1">
             Visit the <a href="https://orlandofightscovid.com">OrlandoFightsCovid.com website</a> to learn how local makers worked together to fight PPE shortages!
@@ -46,7 +46,7 @@ scrolltop: true
             <br><br>
           <iframe src="https://giphy.com/embed/k93bPqzXO9m5b2PXl6" width="972" height="547" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/led-soldering-brightbikes-k93bPqzXO9m5b2PXl6"></a></p>
 
-          <br><a href="https://www.facebook.com/brightbikesorf">Follow BrightBikes on Facebook</a> or <a href="http://eepurl.com/bpCB8T">subscribe to our email newsletter</a> to stay informed and to get involved! If your organization would like to host the bikes at your location or rent the bikes for an event, <a href="mailto:makers@makerfaireorlando.com">please email us to discuss.</a><br>
+          <br><a href="https://www.facebook.com/brightbikesorl">Follow BrightBikes on Facebook</a> or <a href="http://eepurl.com/bpCB8T">subscribe to our email newsletter</a> to stay informed and to get involved! If your organization would like to host the bikes at your location or rent the bikes for an event, <a href="mailto:makers@makerfaireorlando.com">please email us to discuss.</a><br>
           <hr>
 
           Since we could not teach soldering at Maker Faire Orlando in 2020, we created a partnership program with Boys & Girls Clubs of Central Florida. Kids in the Orange County clubs are now making an awesome LED badges right in their community clubhouse!<br><br>
