@@ -15,3 +15,5 @@ gem "jekyll", ">= 3.6.3"
 gem "activesupport", ">= 6.0.3.1"
 
 gem "jekyll-seo-tag"
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
