@@ -3,11 +3,16 @@ title: Apply to Exhibit!
 permalink: /exhibit-at-maker-faire-orlando/
 layout: default
 redirect_from: /exhibit
+carousel: true
+carousel-delay: 5000
+carousel-controls: false
+carousel-slides:
+  - image: /assets/images/cfm_brassroots_exhibit.jpg
+    caption: Brassroots Leather exhibiting at Maker Faire Orlando
+    url:
 ---
-# Exhibit at Maker Faire Orlando
-![Brassroots Leather exhibits at Maker Faire Orlando](/assets/images/cfm_brassroots_exhibit.jpg)
 
-## Maker Faire Orlando can’t happen without Makers!
+# Maker Faire Orlando Can’t Happen Without Makers!
 We need people willing to share the things they create and their passion for making. Join us and help inspire thousands in our community.
 
 There is no fee for individuals or community groups to exhibit at Maker Faire Orlando. There is a seller fee for individuals, small companies and startups to sell products you make at the event. Established companies and those looking to advertise are encouraged to sponsor Maker Faire Orlando which includes significant sponsor benefits.

@@ -7,10 +7,15 @@ redirect_from:
   - /homeschooling
 image: /assets/images/homeschool-page-header.jpg
 description: Homeschool educators receive free admission, get details on the Maker Faire Orlando website!
+carousel: true
+carousel-delay: 5000
+carousel-controls: false
+carousel-slides:
+  - image: /assets/images/homeschool-page-header.jpg
+    caption: Family building together at Maker Faire Orlando
+    url:
 ---
 # Homeschool Programs
-![Family building together at Maker Faire Orlando](/assets/images/homeschool-page-header.jpg)
-
 
 Are you interested in bringing the maker movement into your homeschool education program?  Check out the offerings from The Maker Effect Foundation including Maker Faire Orlando, [MakerFX Makerspace](http://www.makerfx.org) and more.
 
