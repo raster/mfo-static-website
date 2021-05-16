@@ -5,20 +5,10 @@ layout: default
 redirect_from:
   - /ticket/
   - /tickets/
-
-carousel: true
-carousel-delay: 5000
-carousel-controls: false
-carousel-slides:
-  - image: /assets/images/slider/family-makey-gate.jpg  
-    caption: Family at Maker Faire
-    url:
 ---
 
 # Attend Maker Faire Orlando 2021
 Maker Faire Orlando is a non-profit, community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It’s an event where people show what they are making and share what they are learning. The individuals behind these exhibits are known as “Makers” and they range from tech enthusiasts to crafters to homesteaders to scientists to garage tinkerers. They are of all ages and backgrounds. The aim of Maker Faire is to entertain, inform, connect and grow this community.
-
----
 
 ## Maker Faire Orlando 2021
 
@@ -30,10 +20,8 @@ Central Florida Expo Center & Fairgrounds
 
 **Parking is FREE!**
 
----
-
 ### Tickets will be on sale later this summer
-Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
+Follow us on social media or subscribe to our email newsletter for announcements.
 
 **Homeschool educators receive free admission** to Maker Faire Orlando 2021 with identification and documentation.
 Please see our Homeschool Programs page for more information including requirements and restrictions.
