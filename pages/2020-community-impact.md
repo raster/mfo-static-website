@@ -18,7 +18,13 @@ image: /assets/images/bgccf-lts-training.jpg
           <p>2020 was a year of unprecedented challenges that affected all facets of life including our maker events and gatherings.
           The Maker Faire Orlando team was heartbroken that we were not able to gather together for our annual tradition, but that didn't stop our maker spirit!</p>
           <BR>
-          <p>We've followed your posts, watching you make in your home studios, workshops and in your local makerspaces. <a href="https://orlandofightscovid.com/">We worked together to create PPE alternatives</a>as part of the <a href="opensourcemedialsupplies.org">Open Source Medical Supplies</a> community during the early months of the pandemic, and we've seen those impacted by furloughs and layoffs starting maker business, opening Etsy shops, and creating in entirely new ways. We continue to be inspired by the resolve and your spirit of the maker community!</p>
+          <p>We've followed your posts, watching you make in your home studios, workshops and in your local makerspaces. <a href="https://orlandofightscovid.com/">We worked together to create PPE alternatives</a> as part of the <a href="opensourcemedialsupplies.org">Open Source Medical Supplies</a> community during the early months of the pandemic, and we've seen those impacted by furloughs and layoffs starting maker business, opening Etsy shops, and creating in entirely new ways. We continue to be inspired by the resolve and your spirit of the maker community!</p>
+          <div style="margin-top:20px;margin-bottom:20px"><a href="https://orlandofightscovid.com"><img src="/assets/images/cropped-OFC-banner.jpg"></a></div>
+          <div class="row" style="margin-bottom:40px"><div class="col-md-12 col-md-offset-1">
+            Visit the <a href="https://orlandofightscovid.com">OrlandoFightsCovid.com website</a> to learn how local makers worked together to fight PPE shortages!
+          </div></div>
+
+
           <a href="https://opensourcemedicalsupplies.org/impact/"><img src="/assets/images/osms-report.png" style="width:100%"></a>
           <div class="row"><div class="col-md-10 col-md-offset-1">
             Read the <a href="https://opensourcemedicalsupplies.org/impact/">Open Source Medical Supplies "Design | Make | Protect" report</a> to learn about the amazing impact of the maker community during the global pandemic.
