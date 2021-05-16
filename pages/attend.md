@@ -24,7 +24,7 @@ Maker Faire Orlando is a non-profit, community-organized, family-friendly celebr
 
 ## Maker Faire Orlando 2021
 
-Sat November 13th & Sun November 14th
+Saturday, November 13th & Sunday, November 14th
 
 Central Florida Expo Center & Fairgrounds
 4603 W Colonial Dr, Orlando, FL 32808
