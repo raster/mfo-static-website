@@ -2,6 +2,7 @@
 title: About Maker Faire Orlando
 layout: default
 permalink: /about/
+image: /assets/images/slider/kid-with-stormtroopers.jpg  
 
 carousel: true
 carousel-delay: 5000
