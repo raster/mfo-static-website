@@ -7,11 +7,17 @@ redirect_from:
   - /educator-programs
 image: /assets/images/educator-page-header-bok-academy.jpg
 description: Learn how you can harness the Maker Movement in your classroom!
----
-# Makers and Education
-![Bok Academy at Maker Faire Orlando 2018](/assets/images/educator-page-header-bok-academy.jpg){:width="100%"}
+carousel: true
+carousel-delay: 5000
+carousel-controls: false
+carousel-slides:
+  - image: /assets/images/educator-page-header-bok-academy.jpg
+    caption: School group at Maker Faire Orlando
+    url:
 
-## Harness the Maker Movement in Your Classroom!
+---
+
+# Harness the Maker Movement in Your Classroom!
 Are you interested in learning more about making in the classroom, makerspaces, or the maker movement in general? There are lots of ways we can help!
 
 We can help you:
