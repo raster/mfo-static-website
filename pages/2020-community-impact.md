@@ -3,6 +3,7 @@ title: Making in a Pandemic - 2020
 layout: default
 permalink: /2020-Community-Impact/
 image: /assets/images/bgccf-lts-training.jpg
+scrolltop: true
 ---
 
 <section class="Maker Faire in 2020">
