@@ -21,16 +21,8 @@
 
 {% include footer.html %}
 {% include scripts.html %}
+{% include optional-js.html %}
 
-{% if page.carousel %}
-  <script language="JavaScript" type="text/javascript">
-    $(document).ready(function(){
-      $('#mfoCarousel').carousel({
-        interval: {{page.carousel-delay}}
-      })
-    });
-  </script>
-{% endif %}
 </body>
 {% if site.google_analytics %}
 {% include google_analytics.html %}

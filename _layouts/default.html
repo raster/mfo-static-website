@@ -24,26 +24,7 @@
 
 {% include footer.html %}
 {% include scripts.html %}
-
-{% if page.carousel %}
-  <script language="JavaScript" type="text/javascript">
-    $(document).ready(function(){
-      $('#mfoCarousel').carousel({
-        interval: {{page.carousel-delay}}
-      })
-    });
-  </script>
-{% endif %}
-
-{% if sponsor-carousel %}
-  <script language="JavaScript" type="text/javascript">
-    $(document).ready(function(){
-      $('#carousel-sponsors-slider').carousel({
-        interval: {{page.carousel-delay}}
-      })
-    });
-  </script>
-{% endif %}
+{% include optional-js.html %}
 
 
 </body>
