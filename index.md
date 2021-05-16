@@ -1,5 +1,5 @@
 ---
-title: Welcome to Maker Faire Orlando!
+title: The Greatest Show (& Tell) on Earth!
 permalink: /
 layout: full-width
 image:/assets/images/slider/welcome-to-maker-faire.jpg  
