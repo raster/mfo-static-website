@@ -1,7 +1,8 @@
 ---
 title: Making in a Pandemic - 2020
 layout: default
-permalink: /2020/
+permalink: /2020-Community-Impact/
+image: /assets/images/bgccf-lts-training.jpg
 ---
 
 <section class="Maker Faire in 2020">
@@ -36,21 +37,21 @@ permalink: /2020/
           <br><br>
           <iframe width="972" height="547" src="https://www.youtube.com/embed/_E--rsD7uEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br><br>
-          <iframe src="https://giphy.com/embed/k93bPqzXO9m5b2PXl6" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/led-soldering-brightbikes-k93bPqzXO9m5b2PXl6"></a></p>
+          <iframe src="https://giphy.com/embed/k93bPqzXO9m5b2PXl6" width="972" height="547" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/led-soldering-brightbikes-k93bPqzXO9m5b2PXl6"></a></p>
 
           <br><a href="https://www.facebook.com/brightbikesorf">Follow BrightBikes on Facebook</a> or <a href="http://eepurl.com/bpCB8T">subscribe to our email newsletter</a> to stay informed and to get involved! If your organization would like to host the bikes at your location or rent the bikes for an event, <a href="mailto:makers@makerfaireorlando.com">please email us to discuss.</a><br>
           <hr>
 
           Since we could not teach soldering at Maker Faire Orlando in 2020, we created a partnership program with Boys & Girls Clubs of Central Florida. Kids in the Orange County clubs are now making an awesome LED badges right in their community clubhouse!<br><br>
-          <p><img src="/assets/images/bgccf-lts-pin.jpg" width="560"></p><br>
-          <p><img src="/assets/images/bgccf-lts-training.jpg" width="560"></p>
+          <p><img src="/assets/images/bgccf-lts-pin.jpg" width="100%"></p><br>
+          <p><img src="/assets/images/bgccf-lts-training.jpg" width="100%"></p>
           A Boys & Girls Clubs of Central Florida staff member makes the first badge during training!<br>
           We will be working with our BGCCF partners to package this program and share with Boys & Girls Clubs and maker groups nationwide so that it can be easily replicated. We've placed the <a href="https://github.com/makerfx/bgccf-learn-to-solder">design files and BOM on GitHub</a>, and you can <a href="mailto:makers@makerfaireorlando.com">email us</a> if you'd like information to get started within your community.
           <br><hr>
 
           During the pandemic, we kept hearing from educators that many kids do not have their own desks at home, and this is especially difficult for young artists. With this inspiration, local makers worked to design and make desks for underprivileged youth. Local artists are getting involved by painting and decorating desk tops and even entire desks!
-          <p><img src="/assets/images/desk_profile_shot.jpg" width="560"></p>
-          <p><img src="/assets/images/desks_at_osc.jpg" width="560"></p>
+          <p><img src="/assets/images/desk_profile_shot.jpg" width="100%"></p>
+          <p><img src="/assets/images/desks_at_osc.jpg" width="100%"></p>
           Thanks to HuntonBrady Architects for collaborating on the design, and to Boys & Girls Clubs of Central Florida for helping identify the young artists that need these desks.<br>
           <hr>
           We tested a small-format, socially-distanced <a href="https://robotruckus.org">Robot Ruckus</a> event ("R5") in December to great feedback. You can see the event and be notified of future streams over on the <a href="https://www.twitch.tv/robotruckus">Robot Ruckus Twitch</a><br>
