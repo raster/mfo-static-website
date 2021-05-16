@@ -14,7 +14,7 @@ carousel-slides:
     url:
 ---
 
-# Sponsors help Maker Faire educate & inspire!
+# Sponsors Help Maker Faire Educate & Inspire!
 
 
 With non-profits and the maker community still recovering from the pandemic, financial and in-kind support from our sponsors is more important then ever.
