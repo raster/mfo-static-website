@@ -57,6 +57,7 @@ image: /assets/images/bgccf-lts-training.jpg
 
           During the pandemic, we kept hearing from educators that many kids do not have their own desks at home, and this is especially difficult for young artists. With this inspiration, local makers worked to design and make desks for underprivileged youth. Local artists are getting involved by painting and decorating desk tops and even entire desks!
           <p><img src="/assets/images/desk_profile_shot.jpg" width="100%"></p>
+          <p><img src="/assets/images/art-desks.jpg" width="100%"></p>
           <p><img src="/assets/images/desks_at_osc.jpg" width="100%"></p>
           Thanks to HuntonBrady Architects for collaborating on the design, and to Boys & Girls Clubs of Central Florida for helping identify the young artists that need these desks.<br>
           <hr>

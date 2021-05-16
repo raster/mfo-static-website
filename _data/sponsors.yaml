@@ -15,7 +15,7 @@ sponsors:
     url: https://www.sundanceusa.com
     logo: Sundance-Logo-Final_horz_CMYK.png
     level: 3
-    active: true
+    active: false
   - name: Prusa Reseach
     url: https://www.prusa3d.com/
     logo: prusaresearch.png
@@ -40,12 +40,12 @@ sponsors:
     url: https://twomenandatruck.com/movers/fl/orlando/west
     logo: black_wolf_group.jpg
     level: 4
-    active: true
+    active: false
   - name: Two Men & a Truck
     url: https://twomenandatruck.com/movers/fl/orlando/west
     logo: two-men-and-a-truck.jpg
     level: 4
-    active: true
+    active: false
   - name: Orange Technical College
     url: http://www.ocpstechcenters.net/
     logo: OTC_Horiz.png
@@ -75,7 +75,7 @@ sponsors:
     url: https://www.skycraftsurplus.com
     logo: skycraft_saucer_logo_wht-line-Maker.png
     level: 5
-    active: true
+    active: false
   - name: Brasfield & Gorrie
     url: https://www.brasfieldgorrie.com/
     logo: Brasfield-Gorrie-Logo-Blue-JPG.jpg
