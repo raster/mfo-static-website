@@ -55,7 +55,7 @@ sponsors:
     url: http://www.correctcraft.com/watershed/
     logo: watershed-v5.png
     level: 4
-    active: true
+    active: false
   - name: OpenBuilds
     url: https://openbuilds.com/
     logo: OpenBuilds.png
