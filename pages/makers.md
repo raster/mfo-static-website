@@ -4,6 +4,7 @@ permalink: /makers/
 isotope: true
 redirect-from:
   - /exhibits/
+scrolltop: true
 ---
 <div class="container">
 <h1>Past Maker Exhibits</h1>
