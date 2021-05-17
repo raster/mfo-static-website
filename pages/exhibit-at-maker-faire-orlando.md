@@ -2,6 +2,7 @@
 title: Apply to Exhibit!
 permalink: /exhibit-at-maker-faire-orlando/
 layout: default
+image: /assets/images/cfm_brassroots_exhibit.jpg
 redirect_from: /exhibit
 carousel: true
 carousel-delay: 5000
