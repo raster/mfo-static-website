@@ -1,4 +1,5 @@
 ---
+title: Exhibits
 layout: full-width
 permalink: /makers/
 isotope: true
