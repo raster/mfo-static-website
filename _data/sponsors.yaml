@@ -80,7 +80,7 @@ sponsors:
     url: https://www.brasfieldgorrie.com/
     logo: Brasfield-Gorrie-Logo-Blue-JPG.jpg
     level: 5
-    active: false
+    active: true
   - name: Amphenol Custom Cable
     url: http://www.customcable.com/amph
     logo: amphenol.jpg
