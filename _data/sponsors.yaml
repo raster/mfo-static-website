@@ -40,12 +40,12 @@ sponsors:
     url: https://twomenandatruck.com/movers/fl/orlando/west
     logo: black_wolf_group.jpg
     level: 4
-    active: false
+    active: true
   - name: Two Men & a Truck
     url: https://twomenandatruck.com/movers/fl/orlando/west
     logo: two-men-and-a-truck.jpg
     level: 4
-    active: false
+    active: true
   - name: Orange Technical College
     url: http://www.ocpstechcenters.net/
     logo: OTC_Horiz.png
