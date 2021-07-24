@@ -35,10 +35,9 @@ carousel-slides:
 
 {% include makey-border.html %}
 
-{% comment %}
 {% include call-for-makers-widget.html %}
-{% endcomment %}
 
+{% comment %}
 
 <section class="content-panel">
 <div class="container">
@@ -58,6 +57,8 @@ carousel-slides:
 </div>
 <div class="flag-banner"></div>
 </section>
+{% endcomment %}
+
 
 <section class="content-panel">
 <div class="container">
