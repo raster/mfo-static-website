@@ -22,8 +22,13 @@ There is no fee for individuals or community groups to exhibit at Maker Faire Or
 
 ## Application Deadline: September 1st, 2021
 
+&nbsp;
+
 ### [Click Here to Apply](https://www.jotform.com/makereffect/cfm2021)
 
+&nbsp;
+
+**COMBAT ROBOT COMPETITORS: You will be emailed a special form just for Combat Robots after you register on buildersdb and are accepted into the competition - you do not need to complete this form.**
 
 Exhibits are not approved in the order received, and it will be several weeks before we start the application process. We will contact you via the email provided in the exhibit application if we need more information or when your application has been approved or rejected. We are an all-volunteer team and we appreciate your patience as we process hundreds of applications.
 
