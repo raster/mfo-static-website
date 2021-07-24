@@ -16,13 +16,18 @@ carousel-slides:
 # Maker Faire Orlando Can’t Happen Without Makers!
 We need people willing to share the things they create and their passion for making. Join us and help inspire thousands in our community.
 
-There is no fee for individuals or community groups to exhibit at Maker Faire Orlando. There is a seller fee for individuals, small companies and startups to sell products you make at the event. Established companies and those looking to advertise are encouraged to sponsor Maker Faire Orlando which includes significant sponsor benefits.
+There is no fee for individuals or community groups to exhibit at Maker Faire Orlando. There is a seller fee for individuals, small companies and startups to sell products you make at the event. Established companies and those looking to advertise are encouraged to [sponsor Maker Faire Orlando](/become-a-sponsor) which includes significant sponsor benefits.
 
 ---
 
-## We will be accepting applications for Maker Faire Orlando 2021 later this summer. If you are interested in exhibiting, you can register your interest / concerns in this <a href="https://docs.google.com/forms/d/1DNyIJwTNtoc6E3vp-12fJ3h81bkeGlWCDLJEHcbmceQ/edit">online survey</a>.
+## Application Deadline: September 1st, 2021
 
-Note that this is NOT our Call for Makers, but it is a way to express your interest and tell us any concerns you have about an event in our current environment.
+### [Click Here to Apply](https://www.jotform.com/makereffect/cfm2021)
+
+
+Exhibits are not approved in the order received, and it will be several weeks before we start the application process. We will contact you via the email provided in the exhibit application if we need more information or when your application has been approved or rejected. We are an all-volunteer team and we appreciate your patience as we process hundreds of applications.
+
+Unfortunately, we do not have space at the event for all exhibit applications. Please ensure that you highlight your exhibit with good photos / video / description when you submit. We also maintain a balance between selling / non-selling exhibits and a good mix of the type of exhibits.
 
 ---
 <!--
