@@ -31,6 +31,9 @@ Central Florida Expo Center & Fairgrounds
 
 **Parking is FREE!**
 
+Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
+
+
 ---
 
 <div id="eventbrite-widget-container-164640154133"></div>
@@ -49,7 +52,7 @@ Central Florida Expo Center & Fairgrounds
         iframeContainerId: 'eventbrite-widget-container-164640154133',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 900,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
