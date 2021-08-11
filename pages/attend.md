@@ -37,13 +37,13 @@ Central Florida Expo Center & Fairgrounds
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
 **Homeschool educators receive free admission** to Maker Faire Orlando 2021 with identification and documentation.
-Please see our Homeschool Programs page for more information including requirements and restrictions.
+Please see our [Homeschool Programs page](/homeschool) for more information including requirements and restrictions.
 
 **Employees of schools, colleges, universities, and libraries** receive free admission to Maker Faire Orlando 2021 with identification.
-Please see our Educators page for more information including requirements and restrictions.
+Please see our [Educators page](/educators) for more information including requirements and restrictions.
 
 **Registered groups from Title I schools receive free admission** to Maker Faire Orlando 2021.
-Please see our Educators page for more information.
+Please see our [Educators page](/educators) for more information.
 
 **First Responders, Active Military and Veterans receive free admission** to Maker Faire Orlando 2021 with identification.
 
