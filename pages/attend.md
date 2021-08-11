@@ -31,9 +31,35 @@ Central Florida Expo Center & Fairgrounds
 
 **Parking is FREE!**
 
+Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
+
+
 ---
 
-### Tickets will be on sale later this summer
+<div id="eventbrite-widget-container-164640154133"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '164640154133',
+        iframeContainerId: 'eventbrite-widget-container-164640154133',
+
+        // Optional
+        iframeContainerHeight: 900,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
+
+---
+
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
 **Homeschool educators receive free admission** to Maker Faire Orlando 2021 with identification and documentation.
