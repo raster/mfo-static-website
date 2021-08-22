@@ -1,24 +1,41 @@
+#make sure you install the jotform-api-python from github not just with pip vanilla
+#the vanilla pip install doesnt support python3
+#pip install git+git://github.com/jotform/jotform-api-python.git
+
+
 from jotform import *
 import pprint
 import sys
 import yaml
-from slugify import slugify
+from slugify import slugify  #pip install python-slugify for python3
 import unicodedata
 import os
 import os.path
 import urllib
-from urlparse import urlparse
-import requests
+from urllib import request
+from urllib import parse
+
+#from urlparse import urlparse    python2
+
+#import requests
+from PIL import Image, ExifTags, ImageOps       #pip install pillow (not pil)
+import datetime
 
 import os.path
 from os import path
 
+eventYear = 2021
+
 pp = pprint.PrettyPrinter(indent=4, depth=6)
 
-# get api key from yaml
-# get folder location from yaml
-# get submissions from API
-  # if submission is web-visible, then output file
+
+#todo: fix thumbnails that rotate
+#todo: if images change, they they won't get overwritten since I'm not using any part of the original filename
+  #possibly make it so that if the exhibit has changed, then we redo all images?
+
+#todo: if instagram, twitter, youtube dont have properly formed URLs, fix them...
+#todo: create a sanitize function that deals with double quotes, etc.
+
 
 #image resizing: https://stackoverflow.com/questions/8631076/what-is-the-fastest-way-to-generate-image-thumbnails-in-python
 
@@ -28,23 +45,52 @@ pp = pprint.PrettyPrinter(indent=4, depth=6)
 
 # save image locally if not exists
 # return local url
-def processPhoto(eid, eslug, type, url):
+def processImage(eid, eslug, type, url):
 
-  a = urlparse(url)
+  a = parse.urlparse(url)
   aFn, aFnExt = os.path.splitext(url)
   #print aFnExt
-  eFn = "../assets/images/exhibit-images/" + eid + "-" + type + "-" + eslug + aFnExt
+  last = slugify(aFn.rsplit('/', 1)[-1])
+  print(last)
 
-  if path.exists(eFn):
-    print ("Skipping: " + url)
-  else:
-    print "Downloading: " + url
-    resource = urllib.urlopen(url)
-    output = open(eFn,"wb")
+  base = "../assets/images/exhibit-images/" + eid + "-" + type + "-" + eslug + "-" + last
+  fullFn      = base + "-full"    + aFnExt
+  smallFn     = base + "-small"   + aFnExt
+  mediumFn    = base + "-medium"  + aFnExt
+  largeFn     = base + "-large"   + aFnExt
+
+  filenames = (smallFn, mediumFn, largeFn, fullFn)
+
+  if not path.exists(fullFn):
+    url = url.replace(" ", "%20")
+    print ("Downloading: " + url)
+    resource = urllib.request.urlopen(url)
+    output = open(fullFn,"wb")
     output.write(resource.read())
     output.close()
 
-  return eFn
+  if not path.exists(smallFn):
+    # creating a object
+    image = Image.open(fullFn)
+    image = ImageOps.exif_transpose(image)
+    image.thumbnail((150,150))
+    image.save(smallFn)
+
+  if not path.exists(mediumFn):
+    # creating a object
+    image = Image.open(fullFn)
+    image = ImageOps.exif_transpose(image)
+    image.thumbnail((300,300))
+    image.save(mediumFn)
+
+  if not path.exists(largeFn):
+    # creating a object
+    image = Image.open(fullFn)
+    image = ImageOps.exif_transpose(image)
+    image.thumbnail((1024,1024))
+    image.save(largeFn)
+
+  return filenames
 
 
 def main():
@@ -54,7 +100,7 @@ def main():
     if path.exists('private.yaml'):
       yamlFile = 'private.yaml'
     else:
-      print "Error: Cannot locate settings file"
+      print("Error: Cannot locate settings file")
       sys.exit()
 
     with open(yamlFile) as settingsFile:
@@ -63,7 +109,7 @@ def main():
 
       token = settings['jotform-api-key']
       print ('API Key:  ', token)
-      
+
     jotformAPIClient = JotformAPIClient(token)
 
     forms = jotformAPIClient.get_forms()
@@ -73,10 +119,11 @@ def main():
       if form["title"] == "Call For Makers MFO2021":
 
         #print form
-        print form["id"] + " " + form["title"]
+        print(form["id"] + " " + form["title"])
         submissions = jotformAPIClient.get_form_submissions(form["id"], limit = 1000)
         for sub in submissions:
           #print sub
+          #sys.exit()
 
           exhibitName = sub["answers"].get(u'39').get('answer')
           mfoID = sub["answers"].get(u'98').get('answer')
@@ -95,29 +142,29 @@ def main():
             continue
 
           #slugify and remove apostrophes so they don't turn into dashes
-          slug = slugify(exhibitName, replacements = [["'", ""]])
 
-          print mfoID + " " + exhibitName + ": " + str(viz)
+          #slug = slugify(exhibitName, replacements = [["'", ""]])  python2
+          slug=slugify(exhibitName.replace("'", "")) #python3
+
+          print(mfoID + " " + exhibitName + ": " + str(viz))
 
           descShort       = sub["answers"].get(u'40').get('answer')
+          descShort.replace('"', '\\"')
+
           descLong        = sub["answers"].get(u'41').get('answer')
+          descLong = descLong.replace('"', '\\"')
 
           categories      = sub["answers"].get(u'64').get('answer')
 
-          exhibitPhoto    = processPhoto(mfoID,slug,"exhibit",sub["answers"].get(u'43').get('answer')[0])
+          exhibitImage    = processImage(mfoID,slug,"exhibit",sub["answers"].get(u'43').get('answer')[0])
 
-
-          exhibitAddlPhotos = sub["answers"].get(u'44').get('answer')
-          for exhibitAddlPhoto in exhibitAddlPhotos:
-            #print exhibitAddlPhoto
-            i=1
-
+          exhibitAddlImages = sub["answers"].get(u'44').get('answer')
 
           exhibitVideo    = sub["answers"].get(u'45').get('answer')
           exhibitWebsite  = sub["answers"].get(u'46').get('answer')
           makerName       = sub["answers"].get(u'15').get('answer')
           makerDesc       = sub["answers"].get(u'16').get('answer')
-          makerPhoto      = sub["answers"].get(u'18').get('answer')[0]
+          makerImage      = processImage(mfoID,slug,"maker",sub["answers"].get(u'18').get('answer')[0])
           makerEmail      = sub["answers"].get(u'19').get('answer')
           makerWebsite    = sub["answers"].get(u'20').get('answer')
           makerTwitter    = sub["answers"].get(u'21').get('answer')
@@ -125,42 +172,73 @@ def main():
           makerFacebook   = sub["answers"].get(u'23').get('answer')
           makerYouTube    = sub["answers"].get(u'24').get('answer')
 
-          #print descShort
-          #print descLong
-          #print exhibitPhoto
-          #print exhibitVideo
-          #print exhibitWebsite
-          #print makerName
-          #print makerDesc
-          #print makerPhoto
-          #print makerEmail
-          #print makerWebsite
-          #print makerTwitter
-          #print makerInstagram
-          #print makerFacebook
-          #print makerYouTube
-
           #create yaml file
 
-
-          fName = "../_exhibits/" + slug + ".md"
-          print "Exporting: " + fName
+          fName = "../_exhibits/" + str(eventYear) + "-" +slug + ".md"
+          print("Exporting: " + fName)
           outfile = open(fName, "w")
           outfile.write("---\n")
-          outfile.write("title: " + '"' + exhibitName.encode("utf8") + '"' + "\n")
+
+          #p2 outfile.write("title: " + '"' + exhibitName + '"' + "\n")
+          outfile.write("title: " + '"' + exhibitName + '"' + "\n")
           outfile.write("slug: " + slug + "\n")
           outfile.write("permalink: /exhibits/" + slug + "/\n")
           outfile.write("exhibit-id: " + mfoID + "\n")
-          outfile.write("description: " + '"' + descShort.encode("utf8") + '"' + "\n")
-          outfile.write("description-long: " + '"' + descLong.encode("utf8") + '"' + "\n")
-          outfile.write("image: " + exhibitPhoto + "\n")
+          outfile.write("description: " + '"' + descShort + '"' + "\n")
+          outfile.write("description-long: " + '"' + descLong + '"' + "\n")
 
+          outfile.write("image-primary: \n")
+          outfile.write("  small: "   + exhibitImage[0][2:] + "\n")
+          outfile.write("  medium: "  + exhibitImage[1][2:] + "\n")
+          outfile.write("  large: "   + exhibitImage[2][2:] + "\n")
+          outfile.write("  full: "    + exhibitImage[3][2:] + "\n")
+
+          outfile.write("additional-images: \n")
+
+          i=1
+          for addlImage in exhibitAddlImages:
+
+            image = processImage(mfoID,slug,"exhibit-addl" + str(i),addlImage)
+
+            outfile.write("  - " + str(i) + ":\n")
+            outfile.write("    small: "   + image[0][2:] + "\n")
+            outfile.write("    medium: "  + image[1][2:] + "\n")
+            outfile.write("    large: "   + image[2][2:] + "\n")
+            outfile.write("    full: "    + image[3][2:] + "\n")
+            i = i+1
+
+
+          #Let's stop listing email on the site, too easy to scrape...
+          #if makerEmail is not None: outfile.write("email: " + makerEmail + "\n")
+          if makerWebsite is not None: outfile.write("website: " + makerWebsite + "\n")
+          if makerTwitter is not None: outfile.write("twitter: " + makerTwitter + "\n")
+          if makerInstagram is not None: outfile.write("instagram: " + makerInstagram + "\n")
+          if makerFacebook is not None: outfile.write("facebook: " + makerFacebook + "\n")
+          if makerYouTube is not None: outfile.write("youtube: " + makerYouTube + "\n")
+
+
+          #maker info
+          outfile.write("maker: \n")
+          outfile.write ("  name: " + '"' + makerName + '"' + "\n")
+          outfile.write ("  description: " + '"' + makerDesc + '"' + "\n")
+          outfile.write ("  image-primary: " + makerImage[1][2:] + "\n")
+
+          #categories
           outfile.write("categories: \n")
 
           for category in categories:
             outfile.write ("  - slug: " + slugify(category) + "\n")
             outfile.write ("    name: " + category + "\n")
 
+          #metadata
+          outfile.write ("created-jotform: " + '"' + sub["created_at"] + '"' + "\n")
+          outfile.write ("last-modified-jotform: " + '"' + sub["updated_at"] + '"' + "\n")
+
+          now = datetime.datetime.now()
+          outfile.write ("last-exported: " + '"' + now.strftime("%Y-%m-%d %H:%M:%S") + '"' + "\n")
+
+          #don't include in sitemap
+          outfile.write ("sitemap: false\n")
 
           outfile.write("\n---\n")
           outfile.close()
@@ -168,7 +246,7 @@ def main():
 
 
           #sys.exit()
-    print "Exported: " + str(countExport)
+    print("Exported: " + str(countExport))
 
 
 if __name__ == "__main__":
