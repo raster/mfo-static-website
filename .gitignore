@@ -20,3 +20,6 @@ _mdwriter.cson
 
 _data/exhibits.json
 _data/pets.json
+
+_python/private.yaml
+.python-version
