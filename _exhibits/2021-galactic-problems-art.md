@@ -1,0 +1,66 @@
+---
+title: "Galactic Problems Art"
+slug: galactic-problems-art
+permalink: /exhibits/galactic-problems-art/
+exhibit-id: 21-30
+description: "Illustrator making comics and scifi art!"
+description-long: "Hiya! I&#039;m Daniella, and I&#039;m a digital illustrator. My current passion project is an original comic series called Galactic Problems, and the story revolves around a group of private investigators in space solving mysteries. Outside of personal work, I love making art of the stories that inspire me to create. Star Wars, anime, cartoons, I love it all. I&#039;ll be selling both original and fanart at my table, as well as sharing whatever info about my job I can! "
+image-primary: 
+  small: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-small.png
+  medium: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-medium.png
+  large: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-large.png
+  full: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-full.png
+additional-images: 
+  - 1:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl1-galactic-problems-art-alienforposting-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl1-galactic-problems-art-alienforposting-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl1-galactic-problems-art-alienforposting-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl1-galactic-problems-art-alienforposting-full.png
+  - 2:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl2-galactic-problems-art-badbatchforposting-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl2-galactic-problems-art-badbatchforposting-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl2-galactic-problems-art-badbatchforposting-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl2-galactic-problems-art-badbatchforposting-full.png
+  - 3:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl3-galactic-problems-art-discofinalforposting-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl3-galactic-problems-art-discofinalforposting-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl3-galactic-problems-art-discofinalforposting-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl3-galactic-problems-art-discofinalforposting-full.png
+  - 4:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl4-galactic-problems-art-ocsmallerver-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl4-galactic-problems-art-ocsmallerver-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl4-galactic-problems-art-ocsmallerver-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl4-galactic-problems-art-ocsmallerver-full.png
+  - 5:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl5-galactic-problems-art-plokoonandkidsforposting-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl5-galactic-problems-art-plokoonandkidsforposting-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl5-galactic-problems-art-plokoonandkidsforposting-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl5-galactic-problems-art-plokoonandkidsforposting-full.png
+  - 6:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl6-galactic-problems-art-rexforposting-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl6-galactic-problems-art-rexforposting-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl6-galactic-problems-art-rexforposting-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl6-galactic-problems-art-rexforposting-full.png
+  - 7:
+    small: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-small.png
+    medium: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-medium.png
+    large: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-large.png
+    full: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-full.png
+instagram: https://www.instagram.com/galactic_problems_/
+maker: 
+  name: "Daniella Krasulski"
+  description: "Hi! I&#039;m a freelance illustrator currently working on an original comic series, and I also design merchandise on the side! My biggest passion right now is my comic, which is about a group of private investigators in space solving mysteries. I want to tell fun stories for a wide age range audience. I&#039;m inspired by animation, scifi, and am a huge Star Wars nerd. Sharing my art with people is always a joy, and I hope to share what knowledge I have with beginners as well! "
+  image-primary: /assets/images/exhibit-images/21-30-maker-galactic-problems-art-newiconforposting-medium.png
+categories: 
+  - slug: art
+    name: Art
+  - slug: comics
+    name: Comics
+  - slug: illustration
+    name: Illustration
+created-jotform: "2021-07-26 13:26:08"
+last-modified-jotform: "2021-08-22 10:52:56"
+last-exported: "2021-08-22 18:42:56"
+sitemap: false
+
+---
