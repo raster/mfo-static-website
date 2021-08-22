@@ -8,10 +8,10 @@ redirect-from:
 scrolltop: true
 ---
 <div class="container">
-<h1>Past Maker Exhibits</h1>
-<p>Maker Faire Orlando is back for 2021, but we have not yet started accepting maker applications.</p><p>Check out the 2019 exhibits below and come back to see 2021 exhibits late this summer!</p>
+<h1>Maker Exhibits</h1>
+<p>Our "Call for Makers" is open until August 31st. <a href="/exhibit-at-maker-faire-orlando">Learn more about exhibiting!</a> </p>
 
-<p>Want to see all the combat robots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Check out out the <a href="/makers/?category=battlebot">BattleBot category</a> and the <a href="/makers/?category=combat-robots">full list of Combat Robots</a>.</p>
+<p>Want to see all the BattleBots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Head over to the <a href="https://robotruckus.org">Robot Ruckus website</a> for details!</p>
 </div>
 
 <div class="mtm">
@@ -37,7 +37,7 @@ scrolltop: true
 
 <div class="exhibits-container" id="exhibits">
   {% for exhibit in site.exhibits %}
-    {% if exhibit.status == 1 %}
+
       <div class="item{% for category in exhibit.categories -%}
                         {% if category.name %}
                           {{- category.slug | prepend: " "-}}
@@ -54,10 +54,10 @@ scrolltop: true
 
 {% comment %}
         <div id="{{ exhibit.slug }}">
-          <img src="{{ exhibit.image-primary.thumbnail }}">
+          <img src="{{ exhibit.image-primary.small }}">
         <a href="{{ exhibit.url }}">{{ exhibit.name }}</a>
         </div>
 {% endcomment %}
-    {% endif %}
+
 {% endfor %}
 </div>
