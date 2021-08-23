@@ -15,6 +15,7 @@ import urllib
 from urllib import request
 from urllib import parse
 from urllib.parse import urlparse
+import time
 
 #from urlparse import urlparse    python2
 
@@ -153,7 +154,7 @@ def main():
           viz = False
           if sub["answers"].get(u'114').get('answer') is not None:
             viz = True
-            countExport = countExport+1
+
           else:
             continue
 
@@ -191,95 +192,129 @@ def main():
           #create yaml file
 
           fName = "../_exhibits/" + str(eventYear) + "-" +slug + ".md"
-          print("Exporting: " + fName)
-          outfile = open(fName, "w")
-          outfile.write("---\n")
-
-          #p2 outfile.write("title: " + '"' + exhibitName + '"' + "\n")
-          outfile.write("title: " + '"' + exhibitName + '"' + "\n")
-          outfile.write("slug: " + slug + "\n")
-          outfile.write("permalink: /exhibits/" + slug + "/\n")
-          outfile.write("exhibit-id: " + mfoID + "\n")
-          outfile.write("description: " + '"' + descShort + '"' + "\n")
-          outfile.write("description-long: " + '"' + descLong + '"' + "\n")
-
-          outfile.write("image-primary: \n")
-          outfile.write("  small: "   + exhibitImage[0][2:] + "\n")
-          outfile.write("  medium: "  + exhibitImage[1][2:] + "\n")
-          outfile.write("  large: "   + exhibitImage[2][2:] + "\n")
-          outfile.write("  full: "    + exhibitImage[3][2:] + "\n")
-
-          outfile.write("additional-images: \n")
-
-          i=1
-          for addlImage in exhibitAddlImages:
-
-            image = processImage(mfoID,slug,"exhibit-addl" + str(i),addlImage)
-
-            outfile.write("  - " + str(i) + ":\n")
-            outfile.write("    small: "   + image[0][2:] + "\n")
-            outfile.write("    medium: "  + image[1][2:] + "\n")
-            outfile.write("    large: "   + image[2][2:] + "\n")
-            outfile.write("    full: "    + image[3][2:] + "\n")
-            i = i+1
 
 
-          #Let's stop listing email on the site, too easy to scrape...
-          #if makerEmail is not None: outfile.write("email: " + makerEmail + "\n")
-          if makerWebsite is not None:
-            outfile.write("website: " + urlClean(makerWebsite) + "\n")
-          if makerTwitter is not None:
-            outfile.write("twitter: " + socialURLClean(makerTwitter, "twitter") + "\n")
-          if makerInstagram is not None:
-            #insta = urlparse(makerInstagram)
-            #insta = insta._replace(scheme = "https")
-            #insta = insta._replace(netloc = "www.instagram.com")
-            #instapath = insta.path.lower()
-            #instapath = instapath.replace("www.instagram.com","")
-            #instapath = instapath.replace("instagram.com","")
-            #instapath = instapath.replace("/","")
-            #instapath = instapath.replace("www.","")
-            #instapath = instapath.replace("www","")
-            #insta = insta._replace(path = instapath)
-            #outfile.write("instagram: " + insta.geturl() + "\n")
-            outfile.write("instagram: " + socialURLClean(makerInstagram, "instagram") + "\n")
+          #check to see if last export date > last change date, and then we can skip
+          #this will reduce the number of github updates
+          export = True
 
-          if makerFacebook is not None:
-            outfile.write("facebook: " + socialURLClean(makerFacebook, "facebook") + "\n")
+          if path.exists(fName):
+            with open(fName) as yFile:
+              yData = yaml.load_all(yFile, Loader = yaml.FullLoader)
+              #print (yData)
+              #parse(yData)
+              for data in yData:
+                lastExport = data.get('last-exported')
+                lastMod = sub["updated_at"]
+                #print ('last-exported: ', lastExport)
+                #print ('last-modified: ', lastMod)
 
-          if makerYouTube is not None:
-            outfile.write("youtube: " + socialURLClean(makerYouTube, "youtube") + "\n")
+                dtExport = time.strptime(lastExport, '%Y-%m-%d %H:%M:%S')
+                dtMod    = time.strptime(lastMod, '%Y-%m-%d %H:%M:%S')
+
+                export = dtMod > dtExport
+
+                #print ('last-exported: ', dtExport)
+                #print ('last-modified: ', dtMod)
+
+                #print (export)
+
+                break
+                #only read from the first document
+
+          if export:
+
+            countExport = countExport+1
+            print("Exporting: " + fName)
+
+            outfile = open(fName, "w")
+            outfile.write("---\n")
+
+            #p2 outfile.write("title: " + '"' + exhibitName + '"' + "\n")
+            outfile.write("title: " + '"' + exhibitName + '"' + "\n")
+            outfile.write("slug: " + slug + "\n")
+            outfile.write("permalink: /exhibits/" + slug + "/\n")
+            outfile.write("exhibit-id: " + mfoID + "\n")
+            outfile.write("description: " + '"' + descShort + '"' + "\n")
+            outfile.write("description-long: " + '"' + descLong + '"' + "\n")
+
+            outfile.write("image-primary: \n")
+            outfile.write("  small: "   + exhibitImage[0][2:] + "\n")
+            outfile.write("  medium: "  + exhibitImage[1][2:] + "\n")
+            outfile.write("  large: "   + exhibitImage[2][2:] + "\n")
+            outfile.write("  full: "    + exhibitImage[3][2:] + "\n")
+
+            outfile.write("additional-images: \n")
+
+            i=1
+            for addlImage in exhibitAddlImages:
+
+              image = processImage(mfoID,slug,"exhibit-addl" + str(i),addlImage)
+
+              outfile.write("  - " + str(i) + ":\n")
+              outfile.write("    small: "   + image[0][2:] + "\n")
+              outfile.write("    medium: "  + image[1][2:] + "\n")
+              outfile.write("    large: "   + image[2][2:] + "\n")
+              outfile.write("    full: "    + image[3][2:] + "\n")
+              i = i+1
 
 
-          #maker info
-          outfile.write("maker: \n")
-          outfile.write ("  name: " + '"' + makerName + '"' + "\n")
-          outfile.write ("  description: " + '"' + makerDesc + '"' + "\n")
-          outfile.write ("  image-primary: " + makerImage[1][2:] + "\n")
+            #Let's stop listing email on the site, too easy to scrape...
+            #if makerEmail is not None: outfile.write("email: " + makerEmail + "\n")
+            if makerWebsite is not None:
+              outfile.write("website: " + urlClean(makerWebsite) + "\n")
+            if makerTwitter is not None:
+              outfile.write("twitter: " + socialURLClean(makerTwitter, "twitter") + "\n")
+            if makerInstagram is not None:
+              #insta = urlparse(makerInstagram)
+              #insta = insta._replace(scheme = "https")
+              #insta = insta._replace(netloc = "www.instagram.com")
+              #instapath = insta.path.lower()
+              #instapath = instapath.replace("www.instagram.com","")
+              #instapath = instapath.replace("instagram.com","")
+              #instapath = instapath.replace("/","")
+              #instapath = instapath.replace("www.","")
+              #instapath = instapath.replace("www","")
+              #insta = insta._replace(path = instapath)
+              #outfile.write("instagram: " + insta.geturl() + "\n")
+              outfile.write("instagram: " + socialURLClean(makerInstagram, "instagram") + "\n")
 
-          #categories
-          outfile.write("categories: \n")
+            if makerFacebook is not None:
+              outfile.write("facebook: " + socialURLClean(makerFacebook, "facebook") + "\n")
 
-          for category in categories:
-            outfile.write ("  - slug: " + slugify(category) + "\n")
-            outfile.write ("    name: " + category + "\n")
-
-          #metadata
-          outfile.write ("created-jotform: " + '"' + sub["created_at"] + '"' + "\n")
-          outfile.write ("last-modified-jotform: " + '"' + sub["updated_at"] + '"' + "\n")
-
-          now = datetime.datetime.now()
-          outfile.write ("last-exported: " + '"' + now.strftime("%Y-%m-%d %H:%M:%S") + '"' + "\n")
-
-          #don't include in sitemap
-          outfile.write ("sitemap: false\n")
-
-          outfile.write("\n---\n")
-          outfile.close()
+            if makerYouTube is not None:
+              outfile.write("youtube: " + socialURLClean(makerYouTube, "youtube") + "\n")
 
 
+            #maker info
+            outfile.write("maker: \n")
+            outfile.write ("  name: " + '"' + makerName + '"' + "\n")
+            outfile.write ("  description: " + '"' + makerDesc + '"' + "\n")
+            outfile.write ("  image-primary: " + makerImage[1][2:] + "\n")
 
-          #sys.exit()
+            #categories
+            outfile.write("categories: \n")
+
+            for category in categories:
+              outfile.write ("  - slug: " + slugify(category) + "\n")
+              outfile.write ("    name: " + category + "\n")
+
+            #metadata
+            outfile.write ("created-jotform: " + '"' + sub["created_at"] + '"' + "\n")
+            outfile.write ("last-modified-jotform: " + '"' + sub["updated_at"] + '"' + "\n")
+
+            now = datetime.datetime.now()
+            outfile.write ("last-exported: " + '"' + now.strftime("%Y-%m-%d %H:%M:%S") + '"' + "\n")
+
+            #don't include in sitemap
+            outfile.write ("sitemap: false\n")
+
+            outfile.write("\n---\n")
+            outfile.close()
+
+
+
+            #sys.exit()
     print("Exported: " + str(countExport))
 
 
