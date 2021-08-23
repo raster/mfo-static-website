@@ -9,7 +9,7 @@ scrolltop: true
 ---
 <div class="container">
 <h1>Maker Exhibits</h1>
-<p>Our "Call for Makers" is open until August 31st. <a href="/exhibit-at-maker-faire-orlando">Learn more about exhibiting!</a> </p>
+<p>Our "Call for Makers" is open until August 31st. <a href="/exhibit-at-maker-faire-orlando/">Learn more about exhibiting!</a> </p>
 
 <p>Want to see all the BattleBots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Head over to the <a href="https://robotruckus.org">Robot Ruckus website</a> for details!</p>
 </div>

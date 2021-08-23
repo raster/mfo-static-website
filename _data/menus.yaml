@@ -14,7 +14,7 @@ topnav:
       - page: Event Schedule
         url: /schedule/
       - page: Hands-On Workshops
-        url: /makers?category=workshop
+        url: /makers/?category=workshop
       - page: Power Racing Series
         url: /power-racing/
       - page: Robot Ruckus
@@ -108,7 +108,7 @@ footernav:
       - page: Be a Maker
         url: https://makerfaire.com/be-a-maker/
       - page: Become a Make&#58; Community Member
-        url: https://community.make.co/?utm_source=mfglobal&utm_medium=footer
+        url: https://make.co/
       - page: Make&#58; News & Projects
         url: https://makezine.com/?utm_source=mfglobal&utm_medium=footer
       - page: Maker Shed
@@ -128,5 +128,5 @@ footernav:
         url: https://www.instagram.com/makerfaire/
         icon: fa fa-instagram
       - title: Pinterest
-        url: http://www.pinterest.com/makemagazine/maker-faire/
+        url: https://www.pinterest.com/makemagazine/maker-faire/
         icon: fa fa-pinterest
