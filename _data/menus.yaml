@@ -10,13 +10,13 @@ topnav:
   - title: Things to See & DO
     subfolderitems:
       - page: Makers & Exhibits
-        url: /makers
+        url: /makers/
       - page: Event Schedule
-        url: /schedule
+        url: /schedule/
       - page: Hands-On Workshops
         url: /makers?category=workshop
       - page: Power Racing Series
-        url: /power-racing
+        url: /power-racing/
       - page: Robot Ruckus
         url: https://www.robotruckus.org
 #      - page: Nerdy Derby
@@ -24,19 +24,19 @@ topnav:
   - title: Get Involved
     subfolderitems:
       - page: Exhibit at Maker Faire Orlando
-        url: /exhibit-at-maker-faire-orlando
+        url: /exhibit-at-maker-faire-orlando/
       - page: Volunteer
-        url: /volunteer
+        url: /volunteer/
       - page: Become a Sponsor
-        url: /become-a-sponsor
+        url: /become-a-sponsor/
   - title: Attend
     subfolderitems:
       - page: Tickets & Info
-        url: /attend
+        url: /attend/
       - page: Homeschool Educators
-        url: /homeschool
+        url: /homeschool/
       - page: School Educators
-        url: /educators
+        url: /educators/
 #  - title: THINGS TO SEE & DO
 #    subfolderitems:
 #      - page: Makers & Exhibits
