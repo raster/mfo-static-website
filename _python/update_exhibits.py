@@ -14,6 +14,7 @@ import os.path
 import urllib
 from urllib import request
 from urllib import parse
+from urllib.parse import urlparse
 
 #from urlparse import urlparse    python2
 
@@ -26,12 +27,7 @@ from os import path
 
 eventYear = 2021
 
-pp = pprint.PrettyPrinter(indent=4, depth=6)
 
-
-#todo: fix thumbnails that rotate
-#todo: if images change, they they won't get overwritten since I'm not using any part of the original filename
-  #possibly make it so that if the exhibit has changed, then we redo all images?
 
 #todo: if instagram, twitter, youtube dont have properly formed URLs, fix them...
 #todo: create a sanitize function that deals with double quotes, etc.
@@ -51,7 +47,7 @@ def processImage(eid, eslug, type, url):
   aFn, aFnExt = os.path.splitext(url)
   #print aFnExt
   last = slugify(aFn.rsplit('/', 1)[-1])
-  print(last)
+  #print(last)
 
   base = "../assets/images/exhibit-images/" + eid + "-" + type + "-" + eslug + "-" + last
   fullFn      = base + "-full"    + aFnExt
@@ -92,6 +88,26 @@ def processImage(eid, eslug, type, url):
 
   return filenames
 
+def socialURLClean(url,name):
+  social = urlparse(url)
+  social = social._replace(scheme = "https")
+  social = social._replace(netloc = "www." + name + ".com")
+  socialpath = social.path.lower()
+  socialpath = socialpath.replace("www." + name + ".com","")
+  socialpath = socialpath.replace(name + ".com","")
+  #socialpath = socialpath.replace("/","")
+  socialpath = socialpath.replace("www.","")
+  socialapath = socialpath.replace("www","")
+  social = social._replace(path = socialpath)
+  return social.geturl()
+
+def urlClean(url):
+  site = urlparse(url)
+  if site.scheme == "":
+    site = site._replace(scheme = "http")
+  sitepath = site.path.lower()
+  site = site._replace(path = sitepath)
+  return site.geturl().replace("///", "//")
 
 def main():
 
@@ -210,11 +226,29 @@ def main():
 
           #Let's stop listing email on the site, too easy to scrape...
           #if makerEmail is not None: outfile.write("email: " + makerEmail + "\n")
-          if makerWebsite is not None: outfile.write("website: " + makerWebsite + "\n")
-          if makerTwitter is not None: outfile.write("twitter: " + makerTwitter + "\n")
-          if makerInstagram is not None: outfile.write("instagram: " + makerInstagram + "\n")
-          if makerFacebook is not None: outfile.write("facebook: " + makerFacebook + "\n")
-          if makerYouTube is not None: outfile.write("youtube: " + makerYouTube + "\n")
+          if makerWebsite is not None:
+            outfile.write("website: " + urlClean(makerWebsite) + "\n")
+          if makerTwitter is not None:
+            outfile.write("twitter: " + socialURLClean(makerTwitter, "twitter") + "\n")
+          if makerInstagram is not None:
+            #insta = urlparse(makerInstagram)
+            #insta = insta._replace(scheme = "https")
+            #insta = insta._replace(netloc = "www.instagram.com")
+            #instapath = insta.path.lower()
+            #instapath = instapath.replace("www.instagram.com","")
+            #instapath = instapath.replace("instagram.com","")
+            #instapath = instapath.replace("/","")
+            #instapath = instapath.replace("www.","")
+            #instapath = instapath.replace("www","")
+            #insta = insta._replace(path = instapath)
+            #outfile.write("instagram: " + insta.geturl() + "\n")
+            outfile.write("instagram: " + socialURLClean(makerInstagram, "instagram") + "\n")
+
+          if makerFacebook is not None:
+            outfile.write("facebook: " + socialURLClean(makerFacebook, "facebook") + "\n")
+
+          if makerYouTube is not None:
+            outfile.write("youtube: " + socialURLClean(makerYouTube, "youtube") + "\n")
 
 
           #maker info
