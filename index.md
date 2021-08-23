@@ -71,7 +71,7 @@ carousel-slides:
 <div class="col-sm-2"></div>
 <div class="col-sm-8 text-center">
 <p style="margin: 20px 30px 5px 30px">2020 was a year of unprecedented challenges that affected all facets of life including our maker events and gatherings. The Maker Faire Orlando team was heartbroken that we were not able to gather together for our annual tradition, but that didn't stop the maker spirit which led to a year spent making emergency PPE, hosting small socially-distanced outdoor events, forming a new partnership with Boys & Girls Clubs of Central Florida, and much more.</p>
-<p style="margin: 5px 30px 5px 30px;font-weight: bold;text-align: center"><a href="/2020-Community-Impact">Read more about the impact of Central Florida Makers in 2020 ></a></p>
+<p style="margin: 5px 30px 5px 30px;font-weight: bold;text-align: center"><a href="/2020-Community-Impact/">Read more about the impact of Central Florida Makers in 2020 ></a></p>
 </div>
 </div>
 </div>

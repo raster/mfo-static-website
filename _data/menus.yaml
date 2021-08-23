@@ -82,7 +82,7 @@ footernav:
       - page: About
         url: /about/
       - page: Privacy Policy
-        url: http://www.themakereffect.org/privacy/
+        url: https://www.themakereffect.org/privacy/
       - page: Maker Login
         url: /maker-login/
       - page: Create Maker Account
