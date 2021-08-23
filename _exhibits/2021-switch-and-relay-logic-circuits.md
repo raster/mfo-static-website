@@ -57,7 +57,7 @@ additional-images:
     large: /assets/images/exhibit-images/21-60-exhibit-addl9-switch-and-relay-logic-circuits-river-crossing-puzzles-3-1024x768-large.png
     full: /assets/images/exhibit-images/21-60-exhibit-addl9-switch-and-relay-logic-circuits-river-crossing-puzzles-3-1024x768-full.png
 website: http://knickknackatory.com/?p=24
-twitter: https://twitter.com/RelayPuzzle
+twitter: https://www.twitter.com/relaypuzzle
 maker: 
   name: "Stephen Emery"
   description: "An electronics engineer with an interest in old-school switching logic."
@@ -75,7 +75,7 @@ categories:
     name: Internet of Things
 created-jotform: "2021-08-08 11:37:10"
 last-modified-jotform: "2021-08-22 10:53:36"
-last-exported: "2021-08-22 18:41:21"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

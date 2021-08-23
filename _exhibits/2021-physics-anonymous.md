@@ -18,7 +18,7 @@ additional-images:
     full: /assets/images/exhibit-images/21-16-exhibit-addl1-physics-anonymous-img-20191110-161413-full.jpg
 website: https://physanon.com/
 instagram: https://www.instagram.com/physicsanonymous/
-youtube: http://youtube.com/physicsanonymous
+youtube: https://www.youtube.com/physicsanonymous
 maker: 
   name: "Physics Anonymous"
   description: "Rag tag team of two random building youtubers. "
@@ -36,7 +36,7 @@ categories:
     name: Tools
 created-jotform: "2021-07-24 11:05:26"
 last-modified-jotform: "2021-08-22 10:47:01"
-last-exported: "2021-08-22 18:44:15"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

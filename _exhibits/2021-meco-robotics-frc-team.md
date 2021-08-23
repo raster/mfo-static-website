@@ -12,7 +12,7 @@ image-primary:
   full: /assets/images/exhibit-images/21-49-exhibit-meco-robotics-frc-team-43-meco-color-scaled-745-full.jpg
 additional-images: 
 website: http://mecorobotics.org/
-facebook: https://m.facebook.com/MECO-Robotics-FRC-Team-8324-113115473570995/
+facebook: https://www.facebook.com/meco-robotics-frc-team-8324-113115473570995/
 maker: 
   name: "MECO Robotics "
   description: "FIRST Robotics Team"
@@ -22,7 +22,7 @@ categories:
     name: FIRST Robotics
 created-jotform: "2021-08-05 06:50:12"
 last-modified-jotform: "2021-08-22 10:53:26"
-last-exported: "2021-08-22 18:41:37"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

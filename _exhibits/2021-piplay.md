@@ -12,7 +12,7 @@ image-primary:
   full: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-full.png
 additional-images: 
 website: http://piplay.org
-twitter: https://twitter.com/ssilver2k2
+twitter: https://www.twitter.com/ssilver2k2
 maker: 
   name: "Shea Silverman / PiPlay"
   description: "Making all sorts of gaming devices with the Raspberry Pi!  This year&#039;s is a DDR machine powered by the Raspberry Pi 4!"
@@ -26,7 +26,7 @@ categories:
     name: Raspberry Pi
 created-jotform: "2021-07-24 10:52:01"
 last-modified-jotform: "2021-08-22 10:46:59"
-last-exported: "2021-08-22 18:44:16"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

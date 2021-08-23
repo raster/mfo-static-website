@@ -12,8 +12,8 @@ image-primary:
   full: /assets/images/exhibit-images/21-23-exhibit-four-bit-industries-dsc04634bw-full.png
 additional-images: 
 website: https://fourbitindustries.com/
-twitter: https://twitter.com/FourBitInd
-facebook: https://www.facebook.com/FourBitIndustries
+twitter: https://www.twitter.com/fourbitind
+facebook: https://www.facebook.com/fourbitindustries
 maker: 
   name: "Four Bit Industries"
   description: "We make electronics kits for educational and hobbyist use."
@@ -27,7 +27,7 @@ categories:
     name: Kits
 created-jotform: "2021-07-24 17:03:11"
 last-modified-jotform: "2021-08-22 10:47:06"
-last-exported: "2021-08-22 18:43:29"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

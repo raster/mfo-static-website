@@ -11,8 +11,8 @@ image-primary:
   large: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-large.jpg
   full: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-full.jpg
 additional-images: 
-website: www.osc.org
-twitter: twitter.com/orlandoscience
+website: http:///www.osc.org
+twitter: https://www.twitter.com/orlandoscience
 instagram: https://www.instagram.com/orlandosciencecenter/?hl=en
 facebook: https://www.facebook.com/orlandosciencecenter/
 youtube: https://www.youtube.com/user/orlandosciencecenter
@@ -39,7 +39,7 @@ categories:
     name: Tools
 created-jotform: "2021-08-12 15:10:53"
 last-modified-jotform: "2021-08-21 23:17:14"
-last-exported: "2021-08-22 18:40:44"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

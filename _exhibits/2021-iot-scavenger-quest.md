@@ -15,7 +15,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-large.jpg
   full: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-full.jpg
 additional-images: 
-youtube: https://www.youtube.com/channel/UCHs9IH9xj-2uPmSVRn-nRmA
+youtube: https://www.youtube.com/channel/uchs9ih9xj-2upmsvrn-nrma
 maker: 
   name: "Valencia College Embedded Workshop"
   description: "Faculty, students, and community members working and learning together about electronics, software and IoT/embedded microprocessor systems and applications."
@@ -33,7 +33,7 @@ categories:
     name: Software
 created-jotform: "2021-07-26 19:45:27"
 last-modified-jotform: "2021-08-22 10:52:58"
-last-exported: "2021-08-22 18:42:41"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

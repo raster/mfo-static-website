@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-large.jpg
   full: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-full.jpg
 additional-images: 
-facebook: https://www.facebook.com/FLDaleks
+facebook: https://www.facebook.com/fldaleks
 maker: 
   name: "Dalek Builders of Florida"
   description: "Fans who love to build Daleks for fun.  We love to talk to bring our Daleks out and talk to anyone about the build process."
@@ -29,7 +29,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-07 18:55:45"
 last-modified-jotform: "2021-08-22 10:46:55"
-last-exported: "2021-08-22 18:44:22"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

@@ -21,7 +21,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-71-exhibit-addl2-how-to-make-your-dragon-sam-0032-medium.JPG
     large: /assets/images/exhibit-images/21-71-exhibit-addl2-how-to-make-your-dragon-sam-0032-large.JPG
     full: /assets/images/exhibit-images/21-71-exhibit-addl2-how-to-make-your-dragon-sam-0032-full.JPG
-youtube: https://www.youtube.com/channel/UCxbjkgJ-oxxr8N7wnIyMH7Q
+youtube: https://www.youtube.com/channel/ucxbjkgj-oxxr8n7wniymh7q
 maker: 
   name: "Bill and Marlene Hyde"
   description: "Retired Dragonriders (hot air balloon pilots) that get a kick out of making things"
@@ -39,7 +39,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-08-12 15:40:36"
 last-modified-jotform: "2021-08-21 23:17:10"
-last-exported: "2021-08-22 18:40:43"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

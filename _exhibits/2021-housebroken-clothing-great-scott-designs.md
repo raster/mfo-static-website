@@ -11,9 +11,9 @@ image-primary:
   large: /assets/images/exhibit-images/21-36-exhibit-housebroken-clothing-great-scott-designs-booth-photo-large.jpg
   full: /assets/images/exhibit-images/21-36-exhibit-housebroken-clothing-great-scott-designs-booth-photo-full.jpg
 additional-images: 
-website: www.housebrokenclothing.com www.greatscottdesigns.com
+website: http:///www.housebrokenclothing.com www.greatscottdesigns.com
 instagram: https://www.instagram.com/greatscottdesigns
-facebook: https://www.facebook.com/GreatScottDesigns
+facebook: https://www.facebook.com/greatscottdesigns
 maker: 
   name: "Scott Marino"
   description: "Hey guys! 
@@ -30,7 +30,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-07-29 08:54:46"
 last-modified-jotform: "2021-08-22 10:53:08"
-last-exported: "2021-08-22 18:42:02"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

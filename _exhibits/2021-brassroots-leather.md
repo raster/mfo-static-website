@@ -11,11 +11,11 @@ image-primary:
   large: /assets/images/exhibit-images/21-9-exhibit-brassroots-leather-43-26225928989-928dd84777-k-8701-large.jpg
   full: /assets/images/exhibit-images/21-9-exhibit-brassroots-leather-43-26225928989-928dd84777-k-8701-full.jpg
 additional-images: 
-website: www.BrassrootsLeather.com
-twitter: https://twitter.com/Brassroots_Lthr
+website: http:///www.brassrootsleather.com
+twitter: https://www.twitter.com/brassroots_lthr
 instagram: https://www.instagram.com/brassroots_leather
-facebook: www.facebook.com/BrassrootsLeatherLLC
-youtube: https://www.youtube.com/c/BrassroostLeather
+facebook: https://www.facebook.com/brassrootsleatherllc
+youtube: https://www.youtube.com/c/brassroostleather
 maker: 
   name: "Brassroots Leather"
   description: "Steampunk Inspired Leather Crafts, and more. Creating Leather Items with steampunk flair, 3D printed designs, and props for other Cosplayers. "
@@ -31,7 +31,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-07-08 13:42:17"
 last-modified-jotform: "2021-08-22 10:46:57"
-last-exported: "2021-08-22 18:44:21"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

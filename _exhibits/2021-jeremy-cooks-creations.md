@@ -18,9 +18,9 @@ additional-images:
     medium: /assets/images/exhibit-images/21-37-exhibit-addl1-jeremy-cooks-creations-gears-crop1-medium.jpg
     large: /assets/images/exhibit-images/21-37-exhibit-addl1-jeremy-cooks-creations-gears-crop1-large.jpg
     full: /assets/images/exhibit-images/21-37-exhibit-addl1-jeremy-cooks-creations-gears-crop1-full.jpg
-website: jeremyscook.com
-twitter: https://twitter.com/JeremySCook
-youtube: https://www.youtube.com/channel/UCrCbscxHLiaauK4H478ArRQ
+website: http:///jeremyscook.com
+twitter: https://www.twitter.com/jeremyscook
+youtube: https://www.youtube.com/channel/ucrcbscxhliaauk4h478arrq
 maker: 
   name: "Jeremy Cook"
   description: "I make a variety of things, including the ClearCrawler strandbeest-style walker"
@@ -38,7 +38,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-29 09:46:49"
 last-modified-jotform: "2021-08-22 10:53:10"
-last-exported: "2021-08-22 18:42:01"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

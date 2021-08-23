@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-28-exhibit-blitzs-pull-back-plinko-pull-back-plinko-large.jpg
   full: /assets/images/exhibit-images/21-28-exhibit-blitzs-pull-back-plinko-pull-back-plinko-full.jpg
 additional-images: 
-website: www.blitzbuilt.com
+website: http:///www.blitzbuilt.com
 instagram: https://www.instagram.com/blitz_built_games/
 maker: 
   name: "Blitz Built"
@@ -30,7 +30,7 @@ categories:
     name: LEGO
 created-jotform: "2021-07-25 18:59:08"
 last-modified-jotform: "2021-08-22 10:52:52"
-last-exported: "2021-08-22 18:43:00"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

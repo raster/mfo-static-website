@@ -16,10 +16,10 @@ additional-images:
     medium: /assets/images/exhibit-images/21-48-exhibit-addl1-k-gentry-art-llc-0e36fa78-296d-40e1-b138-b7f2a3fd45ed-medium.jpeg
     large: /assets/images/exhibit-images/21-48-exhibit-addl1-k-gentry-art-llc-0e36fa78-296d-40e1-b138-b7f2a3fd45ed-large.jpeg
     full: /assets/images/exhibit-images/21-48-exhibit-addl1-k-gentry-art-llc-0e36fa78-296d-40e1-b138-b7f2a3fd45ed-full.jpeg
-website: tkylegentry.com 
+website: http:///tkylegentry.com 
 instagram: https://www.instagram.com/tkgentryart/
 facebook: https://www.facebook.com/tkgentryart/
-youtube: https://m.youtube.com/channel/UCgwB89VLnYrTHzYXtcgTAVw?view_as=subscriber
+youtube: https://www.youtube.com/channel/ucgwb89vlnyrthzyxtcgtavw?view_as=subscriber
 maker: 
   name: "K Gentry Art LLC"
   description: "I make character Art prints, character art books, character art canvases, and original character sketches for sale. "
@@ -31,7 +31,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-04 23:20:12"
 last-modified-jotform: "2021-08-22 10:53:24"
-last-exported: "2021-08-22 18:41:40"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

@@ -37,7 +37,7 @@ additional-images:
     full: /assets/images/exhibit-images/21-69-exhibit-addl3-on-point-massage-img-6942-full.jpg
 website: https://www.onpointmassagefl.com/
 instagram: https://www.instagram.com/on_point_massage/
-facebook: https://www.facebook.com/OnPointMassagefl
+facebook: https://www.facebook.com/onpointmassagefl
 maker: 
   name: "On Point Massage "
   description: "This will be the third year On Point Massage has provided massage at Maker Faire Orlando. Established in 2015 as a mobile massage company we now operate out of our establishment in Winter Park, Florida. We believe that massage should be available to everyone, cost does not determine quality, treatment time is essential, and no two clients are alike. We look forward to meeting all of Orlando&#039;s Makers. "
@@ -47,7 +47,7 @@ categories:
     name: Education
 created-jotform: "2021-08-11 13:31:21"
 last-modified-jotform: "2021-08-21 23:17:06"
-last-exported: "2021-08-22 18:40:48"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

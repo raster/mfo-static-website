@@ -17,9 +17,9 @@ additional-images:
     medium: /assets/images/exhibit-images/21-25-exhibit-addl1-mischief-maille-booth-pic-medium.jpg
     large: /assets/images/exhibit-images/21-25-exhibit-addl1-mischief-maille-booth-pic-large.jpg
     full: /assets/images/exhibit-images/21-25-exhibit-addl1-mischief-maille-booth-pic-full.jpg
-website: https://www.etsy.com/shop/MischiefMaille
+website: https://www.etsy.com/shop/mischiefmaille
 instagram: https://www.instagram.com/mischiefmaille/
-facebook: https://www.facebook.com/MischiefMaille
+facebook: https://www.facebook.com/mischiefmaille
 maker: 
   name: "Mischief Maille"
   description: "We make one of a kind Chain Maille Jewelry, custom fitted for you. "
@@ -29,7 +29,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-07-24 17:35:09"
 last-modified-jotform: "2021-08-22 10:47:10"
-last-exported: "2021-08-22 18:43:26"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

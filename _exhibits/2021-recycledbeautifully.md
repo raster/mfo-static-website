@@ -16,8 +16,8 @@ additional-images:
     medium: /assets/images/exhibit-images/21-43-exhibit-addl1-recycledbeautifully-b243a259-4e3d-4606-b220-4fb6126d5f1d-medium.jpeg
     large: /assets/images/exhibit-images/21-43-exhibit-addl1-recycledbeautifully-b243a259-4e3d-4606-b220-4fb6126d5f1d-large.jpeg
     full: /assets/images/exhibit-images/21-43-exhibit-addl1-recycledbeautifully-b243a259-4e3d-4606-b220-4fb6126d5f1d-full.jpeg
-website: www.instagram.com/recycled_beautifully
-instagram: www.instagram.com/recycled_beautifully
+website: http:///www.instagram.com/recycled_beautifully
+instagram: https://www.instagram.com/recycled_beautifully
 maker: 
   name: "Celina and John Ortiz/ RecycledBeautifully "
   description: "Handmade recycled copper wire wrapped tree of life pendants."
@@ -35,7 +35,7 @@ categories:
     name: Upcycling
 created-jotform: "2021-08-03 20:27:48"
 last-modified-jotform: "2021-08-22 10:53:19"
-last-exported: "2021-08-22 18:41:52"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

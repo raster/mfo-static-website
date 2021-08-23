@@ -12,7 +12,7 @@ image-primary:
   full: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-full.jpg
 additional-images: 
 website: https://3dgloop.com
-twitter: https://twitter.com/3DGloop
+twitter: https://www.twitter.com/3dgloop
 instagram: https://www.instagram.com/3dgloop/
 facebook: https://www.facebook.com/3dgloop
 maker: 
@@ -30,7 +30,7 @@ categories:
     name: Tools
 created-jotform: "2021-08-09 22:06:26"
 last-modified-jotform: "2021-08-21 23:17:47"
-last-exported: "2021-08-22 18:40:52"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

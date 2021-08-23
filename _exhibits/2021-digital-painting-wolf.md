@@ -61,9 +61,9 @@ additional-images:
     medium: /assets/images/exhibit-images/21-22-exhibit-addl10-digital-painting-wolf-sfgdshs-medium.png
     large: /assets/images/exhibit-images/21-22-exhibit-addl10-digital-painting-wolf-sfgdshs-large.png
     full: /assets/images/exhibit-images/21-22-exhibit-addl10-digital-painting-wolf-sfgdshs-full.png
-twitter: https://twitter.com/DpwChez
+twitter: https://www.twitter.com/dpwchez
 instagram: https://www.instagram.com/digitalpaintingwolf/
-youtube: https://www.youtube.com/channel/UCdlRc0S-34TNrnf-djFhEFA
+youtube: https://www.youtube.com/channel/ucdlrc0s-34tnrnf-djfhefa
 maker: 
   name: "Sienna Barr"
   description: "I am a 19 year old digital artist and have been drawing for 5 years.  I started drawing my characters from stories I wrote with nothing but a computer and mouse, and developed a passion for this medium of art.  I have since gotten more professional tools and have still been doing character design, fan art, and have started my own company. "
@@ -77,7 +77,7 @@ categories:
     name: Illustration
 created-jotform: "2021-07-24 16:12:14"
 last-modified-jotform: "2021-08-22 10:47:03"
-last-exported: "2021-08-22 18:44:11"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

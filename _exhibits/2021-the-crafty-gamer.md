@@ -11,10 +11,10 @@ image-primary:
   large: /assets/images/exhibit-images/21-34-exhibit-the-crafty-gamer-banner-large.jpg
   full: /assets/images/exhibit-images/21-34-exhibit-the-crafty-gamer-banner-full.jpg
 additional-images: 
-website: www.thecraftygamer.com
-twitter: www.twitter.com/craftygamershop
-instagram: www.instagram.com/craftygamershop
-facebook: www.facebook.com/craftygamershop
+website: http:///www.thecraftygamer.com
+twitter: https://www.twitter.com/craftygamershop
+instagram: https://www.instagram.com/craftygamershop
+facebook: https://www.facebook.com/craftygamershop
 maker: 
   name: "The Crafty Gamer"
   description: "We create tabletop inspired merchandise that includes candles, room sprays, redd diffusers, d20 shaped soap, laser engraved coasters, keychains and stickers. "
@@ -32,7 +32,7 @@ categories:
     name: Sewing
 created-jotform: "2021-07-28 01:48:58"
 last-modified-jotform: "2021-08-22 10:53:04"
-last-exported: "2021-08-22 18:42:25"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

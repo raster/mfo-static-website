@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-46-exhibit-matthew-sutton-art-img175-large.jpg
   full: /assets/images/exhibit-images/21-46-exhibit-matthew-sutton-art-img175-full.jpg
 additional-images: 
-instagram: www.instagram.com/Sketchbooks 
+instagram: https://www.instagram.com/sketchbooks 
 maker: 
   name: "Matthew Sutton"
   description: "Matthew Sutton is a licensed professional illustrator and comic artist! He has created over 3,000 official pieces of licensed artwork for properties such as: Star Wars, Marvel Comics, DC Comics, Rick & Morty, and many more! 
@@ -29,7 +29,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-04 21:12:53"
 last-modified-jotform: "2021-08-22 10:53:21"
-last-exported: "2021-08-22 18:41:49"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

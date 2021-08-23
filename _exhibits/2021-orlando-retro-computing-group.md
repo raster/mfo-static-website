@@ -26,7 +26,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-2-exhibit-addl3-orlando-retro-computing-group-coco1-medium.jpg
     large: /assets/images/exhibit-images/21-2-exhibit-addl3-orlando-retro-computing-group-coco1-large.jpg
     full: /assets/images/exhibit-images/21-2-exhibit-addl3-orlando-retro-computing-group-coco1-full.jpg
-website: https://www.meetup.com/Orlando-Retro-Computing-Group/
+website: https://www.meetup.com/orlando-retro-computing-group/
 facebook: https://www.facebook.com/groups/435886100672831
 maker: 
   name: "ORCG"
@@ -43,7 +43,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-06 21:54:48"
 last-modified-jotform: "2021-08-22 10:46:47"
-last-exported: "2021-08-22 18:44:39"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

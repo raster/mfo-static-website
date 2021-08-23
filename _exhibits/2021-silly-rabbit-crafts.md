@@ -61,9 +61,9 @@ additional-images:
     medium: /assets/images/exhibit-images/21-6-exhibit-addl10-silly-rabbit-crafts-unnamed-3-medium.jpg
     large: /assets/images/exhibit-images/21-6-exhibit-addl10-silly-rabbit-crafts-unnamed-3-large.jpg
     full: /assets/images/exhibit-images/21-6-exhibit-addl10-silly-rabbit-crafts-unnamed-3-full.jpg
-website: www.sillyrabbitcrafts.com
+website: http:///www.sillyrabbitcrafts.com
 instagram: https://www.instagram.com/sillyrabbit4crafts/
-facebook: https://www.facebook.com/SillyRabbitCrafts
+facebook: https://www.facebook.com/sillyrabbitcrafts
 maker: 
   name: "Silly Rabbit Crafts"
   description: "Picking up her first peg board in 2011, Silly Rabbit Crafts now travels to 18 different states a year, with over 260+ shows under her belt! Silly Rabbit Crafts has melted over 28 million beads turning them into anything from Earrings to art, and even into fish tanks!"
@@ -81,7 +81,7 @@ categories:
     name: Kits
 created-jotform: "2021-07-07 09:35:19"
 last-modified-jotform: "2021-08-22 10:46:49"
-last-exported: "2021-08-22 18:44:37"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

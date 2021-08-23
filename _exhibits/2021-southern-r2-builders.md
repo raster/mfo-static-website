@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-79-exhibit-southern-r2-builders-southern-r2-builders-large.jpg
   full: /assets/images/exhibit-images/21-79-exhibit-southern-r2-builders-southern-r2-builders-full.jpg
 additional-images: 
-website: www.astromech.net
+website: http:///www.astromech.net
 maker: 
   name: "Southern R2 Builders"
   description: "We are builders of droids from the movies, TV shows, and Expanded Universe. "
@@ -29,7 +29,7 @@ categories:
     name: Engineering
 created-jotform: "2021-08-17 19:28:28"
 last-modified-jotform: "2021-08-21 22:00:01"
-last-exported: "2021-08-22 18:40:27"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---

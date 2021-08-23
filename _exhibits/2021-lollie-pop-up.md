@@ -46,8 +46,8 @@ additional-images:
     medium: /assets/images/exhibit-images/21-62-exhibit-addl7-lollie-pop-up-fa745ba1-8f26-464f-8333-40d6bb133fdf-medium.jpeg
     large: /assets/images/exhibit-images/21-62-exhibit-addl7-lollie-pop-up-fa745ba1-8f26-464f-8333-40d6bb133fdf-large.jpeg
     full: /assets/images/exhibit-images/21-62-exhibit-addl7-lollie-pop-up-fa745ba1-8f26-464f-8333-40d6bb133fdf-full.jpeg
-website: https://etsy.me/3kkuBFx
-instagram: https://instagram.com/lolliepopup?igshid=sl2ii7cwiez1
+website: https://etsy.me/3kkubfx
+instagram: https://www.instagram.com/lolliepopup?igshid=sl2ii7cwiez1
 maker: 
   name: "Loretta Kwan"
   description: "Maker of Nerdy Functional Pottery"
@@ -61,7 +61,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-09 13:11:44"
 last-modified-jotform: "2021-08-21 23:17:53"
-last-exported: "2021-08-22 18:41:05"
+last-exported: "2021-08-22 22:26:03"
 sitemap: false
 
 ---
