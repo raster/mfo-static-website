@@ -16,7 +16,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-24-exhibit-addl1-queenscove-creative-the-art-of-l-jason-queen-artexhibit2-medium.jpg
     large: /assets/images/exhibit-images/21-24-exhibit-addl1-queenscove-creative-the-art-of-l-jason-queen-artexhibit2-large.jpg
     full: /assets/images/exhibit-images/21-24-exhibit-addl1-queenscove-creative-the-art-of-l-jason-queen-artexhibit2-full.jpg
-website: http:///www.queenscovecreative.com
+website: http://www.queenscovecreative.com
 instagram: https://www.instagram.com/queenscovecreate/
 facebook: https://www.facebook.com/queenscovecreative
 maker: 
@@ -36,7 +36,7 @@ categories:
     name: Illustration
 created-jotform: "2021-07-24 17:12:30"
 last-modified-jotform: "2021-08-22 10:47:08"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

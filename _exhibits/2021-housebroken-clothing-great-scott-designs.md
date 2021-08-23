@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-36-exhibit-housebroken-clothing-great-scott-designs-booth-photo-large.jpg
   full: /assets/images/exhibit-images/21-36-exhibit-housebroken-clothing-great-scott-designs-booth-photo-full.jpg
 additional-images: 
-website: http:///www.housebrokenclothing.com www.greatscottdesigns.com
+website: http://www.housebrokenclothing.com www.greatscottdesigns.com
 instagram: https://www.instagram.com/greatscottdesigns
 facebook: https://www.facebook.com/greatscottdesigns
 maker: 
@@ -30,7 +30,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-07-29 08:54:46"
 last-modified-jotform: "2021-08-22 10:53:08"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

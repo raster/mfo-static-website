@@ -46,7 +46,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-83-exhibit-addl7-tampa-hackerspace-img-20190206-212945-wpcf-1024x1024-medium.jpg
     large: /assets/images/exhibit-images/21-83-exhibit-addl7-tampa-hackerspace-img-20190206-212945-wpcf-1024x1024-large.jpg
     full: /assets/images/exhibit-images/21-83-exhibit-addl7-tampa-hackerspace-img-20190206-212945-wpcf-1024x1024-full.jpg
-website: http:///www.tampahackerspace.com
+website: http://www.tampahackerspace.com
 twitter: https://www.twitter.com/hacktampa
 facebook: https://www.facebook.com/tampahackerspace
 maker: 
@@ -70,7 +70,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-19 15:26:37"
 last-modified-jotform: "2021-08-21 21:57:36"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

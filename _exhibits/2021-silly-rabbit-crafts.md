@@ -61,7 +61,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-6-exhibit-addl10-silly-rabbit-crafts-unnamed-3-medium.jpg
     large: /assets/images/exhibit-images/21-6-exhibit-addl10-silly-rabbit-crafts-unnamed-3-large.jpg
     full: /assets/images/exhibit-images/21-6-exhibit-addl10-silly-rabbit-crafts-unnamed-3-full.jpg
-website: http:///www.sillyrabbitcrafts.com
+website: http://www.sillyrabbitcrafts.com
 instagram: https://www.instagram.com/sillyrabbit4crafts/
 facebook: https://www.facebook.com/sillyrabbitcrafts
 maker: 
@@ -81,7 +81,7 @@ categories:
     name: Kits
 created-jotform: "2021-07-07 09:35:19"
 last-modified-jotform: "2021-08-22 10:46:49"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

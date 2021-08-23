@@ -16,7 +16,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-7-exhibit-addl1-thats-sew-mcfly-img-5836-medium.jpg
     large: /assets/images/exhibit-images/21-7-exhibit-addl1-thats-sew-mcfly-img-5836-large.jpg
     full: /assets/images/exhibit-images/21-7-exhibit-addl1-thats-sew-mcfly-img-5836-full.jpg
-website: http:///thatssewmcfly.etsy.com
+website: https://thatssewmcfly.etsy.com
 instagram: https://www.instagram.com/thatssewmcfly/
 facebook: https://www.facebook.com/thatssewmcfly
 maker: 
@@ -31,8 +31,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2021-07-07 17:57:16"
-last-modified-jotform: "2021-08-22 10:46:52"
-last-exported: "2021-08-22 22:26:03"
+last-modified-jotform: "2021-08-22 22:32:22"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

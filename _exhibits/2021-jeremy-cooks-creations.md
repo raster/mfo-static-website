@@ -18,7 +18,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-37-exhibit-addl1-jeremy-cooks-creations-gears-crop1-medium.jpg
     large: /assets/images/exhibit-images/21-37-exhibit-addl1-jeremy-cooks-creations-gears-crop1-large.jpg
     full: /assets/images/exhibit-images/21-37-exhibit-addl1-jeremy-cooks-creations-gears-crop1-full.jpg
-website: http:///jeremyscook.com
+website: http://jeremyscook.com
 twitter: https://www.twitter.com/jeremyscook
 youtube: https://www.youtube.com/channel/ucrcbscxhliaauk4h478arrq
 maker: 
@@ -38,7 +38,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-29 09:46:49"
 last-modified-jotform: "2021-08-22 10:53:10"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

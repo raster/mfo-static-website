@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-66-exhibit-art-of-bianca-headshot-large.jpg
   full: /assets/images/exhibit-images/21-66-exhibit-art-of-bianca-headshot-full.jpg
 additional-images: 
-website: http:///biancaart.storenvy.com
+website: http://biancaart.storenvy.com
 instagram: https://www.instagram.com/artofbianca
 facebook: https://www.facebook.com/the-art-of-bianca-roman-stumpff-146457122073350/
 maker: 
@@ -25,7 +25,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-09 23:19:08"
 last-modified-jotform: "2021-08-21 23:17:22"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

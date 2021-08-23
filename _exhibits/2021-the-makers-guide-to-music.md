@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-68-exhibit-the-makers-guide-to-music-2021-22-fb-post-large.png
   full: /assets/images/exhibit-images/21-68-exhibit-the-makers-guide-to-music-2021-22-fb-post-full.png
 additional-images: 
-website: http:///www.centralfloridavocalarts.org
+website: http://www.centralfloridavocalarts.org
 instagram: https://www.instagram.com/cflvocalarts
 facebook: https://www.facebook.com/cflvocalarts
 maker: 
@@ -23,7 +23,7 @@ categories:
     name: Music
 created-jotform: "2021-08-11 10:29:09"
 last-modified-jotform: "2021-08-21 23:17:17"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---

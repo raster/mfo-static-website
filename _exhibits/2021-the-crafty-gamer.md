@@ -11,7 +11,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-34-exhibit-the-crafty-gamer-banner-large.jpg
   full: /assets/images/exhibit-images/21-34-exhibit-the-crafty-gamer-banner-full.jpg
 additional-images: 
-website: http:///www.thecraftygamer.com
+website: http://www.thecraftygamer.com
 twitter: https://www.twitter.com/craftygamershop
 instagram: https://www.instagram.com/craftygamershop
 facebook: https://www.facebook.com/craftygamershop
@@ -32,7 +32,7 @@ categories:
     name: Sewing
 created-jotform: "2021-07-28 01:48:58"
 last-modified-jotform: "2021-08-22 10:53:04"
-last-exported: "2021-08-22 22:26:03"
+last-exported: "2021-08-22 22:39:34"
 sitemap: false
 
 ---
