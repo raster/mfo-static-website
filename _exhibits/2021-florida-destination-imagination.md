@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Florida Destination Imagination"
 slug: florida-destination-imagination
 permalink: /exhibits/florida-destination-imagination/
@@ -7,6 +9,7 @@ description: "Try DI!  "
 description-long: "Task based challenge:  Build a tower with provided materials that can hold a cup of critters.
 Task/performance challenge: Using provided materials, create a critter that can climb, then tell us about your critter.
 In order to reduce congestion around our area, we can provide TRY DI! bags containing the challenge so that overflow can take the challenge away to try later or at home."
+image: /assets/images/exhibit-images/21-32-exhibit-florida-destination-imagination-banner-at-2018-makerfaire-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-32-exhibit-florida-destination-imagination-banner-at-2018-makerfaire-small.jpg
   medium: /assets/images/exhibit-images/21-32-exhibit-florida-destination-imagination-banner-at-2018-makerfaire-medium.jpg
@@ -41,7 +44,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-07-27 14:10:06"
 last-modified-jotform: "2021-08-22 10:53:00"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

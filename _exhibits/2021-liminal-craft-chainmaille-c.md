@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Liminal Craft Chainmaille &c"
 slug: liminal-craft-chainmaille-c
 permalink: /exhibits/liminal-craft-chainmaille-c/
 exhibit-id: 21-29
 description: "Liminal Craft is making chain maille pendants! Check out those and other items."
 description-long: "Liminal Craft makes handmade jewelry, original pins and buttons, art prints, and other things."
+image: /assets/images/exhibit-images/21-29-exhibit-liminal-craft-chainmaille-c-img-20200923-155446013-hdr-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-29-exhibit-liminal-craft-chainmaille-c-img-20200923-155446013-hdr-small.jpg
   medium: /assets/images/exhibit-images/21-29-exhibit-liminal-craft-chainmaille-c-img-20200923-155446013-hdr-medium.jpg
@@ -35,7 +38,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-07-26 12:28:24"
 last-modified-jotform: "2021-08-22 10:52:54"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

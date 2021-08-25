@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Digital Painting Wolf"
 slug: digital-painting-wolf
 permalink: /exhibits/digital-painting-wolf/
 exhibit-id: 21-22
 description: "I create fun, family friendly digital drawings for people of all ages.  "
 description-long: "Have you ever dreamed of becoming your favorite super hero, or being reimagined with features of your favorite animal?  Well, I can make that happen!  Hi, I&#039;m Sienna, and I&#039;m a 19 year old self taught digital artist.  For any donation, I can take a picture of you or your family member and draw you as whatever you want.  All my drawings are clean and family friendly, I have never even thought of drawing anything that could be inappropriate.  Aside from making these creations for people, I will also be sharing my journey with art and try to inspire the children.  I will have free coloring sheets for the kids to color, along with some other free goodies for them to take home.  I will be showing my process of drawing through the many speedpaints I have on my YouTube channel, and with live drawing there at my booth!  I will also, of course, show my drawings.  I will have drawings of my original characters, fan art, original illustrations, and more!  This will be my third time exhibiting at Maker Faire, and every year I have dressed up as one of my characters from the many stories I have written.  This year, I will be dressed as my crazy blue and green haired character, &quot;Highlight!&quot; (I&#039;ll have a picture of her below).  I am so excited to have Maker Faire back, and I hope to see you all there! "
+image: /assets/images/exhibit-images/21-22-exhibit-digital-painting-wolf-43-newcanvas1xdfcgvh-2789-large.png
 image-primary: 
   small: /assets/images/exhibit-images/21-22-exhibit-digital-painting-wolf-43-newcanvas1xdfcgvh-2789-small.png
   medium: /assets/images/exhibit-images/21-22-exhibit-digital-painting-wolf-43-newcanvas1xdfcgvh-2789-medium.png
@@ -77,7 +80,7 @@ categories:
     name: Illustration
 created-jotform: "2021-07-24 16:12:14"
 last-modified-jotform: "2021-08-22 10:47:03"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

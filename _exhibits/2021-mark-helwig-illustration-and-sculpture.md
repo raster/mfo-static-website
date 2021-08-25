@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Mark Helwig Illustration and Sculpture"
 slug: mark-helwig-illustration-and-sculpture
 permalink: /exhibits/mark-helwig-illustration-and-sculpture/
 exhibit-id: 21-42
 description: "I&#039;m and illustrator and sculptor living in the greater Orlando area. "
 description-long: "I&#039;m and illustrator and sculptor living in the greater Orlando area. I specialize in fantasy, whimsy, humor and creativity. My sculptures and paintings have won awards at shows and galleries across the southeast."
+image: /assets/images/exhibit-images/21-42-exhibit-mark-helwig-illustration-and-sculpture-43-safe-image-php-1730-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-42-exhibit-mark-helwig-illustration-and-sculpture-43-safe-image-php-1730-small.jpg
   medium: /assets/images/exhibit-images/21-42-exhibit-mark-helwig-illustration-and-sculpture-43-safe-image-php-1730-medium.jpg
@@ -53,7 +56,7 @@ categories:
     name: Manufacturing
 created-jotform: "2021-08-03 16:43:11"
 last-modified-jotform: "2021-08-22 10:53:15"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

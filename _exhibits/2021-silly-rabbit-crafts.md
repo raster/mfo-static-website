@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Silly Rabbit Crafts"
 slug: silly-rabbit-crafts
 permalink: /exhibits/silly-rabbit-crafts/
 exhibit-id: 21-6
 description: "Come enjoy this 8bit exhibit! There is so much to see, and you can even make your own creation! "
 description-long: "Make sure you stop by this exhibit to see some of the awesome things Lori has made with this beloved childhood craft! She will also have an area where you can make your own Perler creation! Whether it is a cute little Makey or something of your own design, you can let your imagination run free. Don&#039;t have time to make something at Maker Faire? Don&#039;t worry, Lori made kits for you to take home!"
+image: /assets/images/exhibit-images/21-6-exhibit-silly-rabbit-crafts-84752234-2564371720473698-767120999182237696-n-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-6-exhibit-silly-rabbit-crafts-84752234-2564371720473698-767120999182237696-n-small.jpg
   medium: /assets/images/exhibit-images/21-6-exhibit-silly-rabbit-crafts-84752234-2564371720473698-767120999182237696-n-medium.jpg
@@ -81,7 +84,7 @@ categories:
     name: Kits
 created-jotform: "2021-07-07 09:35:19"
 last-modified-jotform: "2021-08-22 10:46:49"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

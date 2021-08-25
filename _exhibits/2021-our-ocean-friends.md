@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Our Ocean Friends"
 slug: our-ocean-friends
 permalink: /exhibits/our-ocean-friends/
@@ -7,6 +9,7 @@ description: "Nantucket Bound:A Young Whale&#039;s Journey to Follow His Dream."
 description-long: "This is a children&#039;s book for 3-7+ year olds, following the journey of a young whale, along with his mother, up the Eastern Atlantic. On this trip, they encounter all sorts of marine life and he learns all the things that a young whale must learn. He longs to be a teacher himself, teaching the world about protecting the oceans and ALL its inhabitants.
 An original song can be downloaded to accompany this book.
 "
+image: /assets/images/exhibit-images/21-91-exhibit-our-ocean-friends-book-cover-title-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-91-exhibit-our-ocean-friends-book-cover-title-small.jpg
   medium: /assets/images/exhibit-images/21-91-exhibit-our-ocean-friends-book-cover-title-medium.jpg
@@ -32,7 +35,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2021-08-23 15:53:19"
 last-modified-jotform: "2021-08-24 22:31:04"
-last-exported: "2021-08-24 22:31:26"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

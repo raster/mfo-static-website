@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Cosplay 3D Printing and You!"
 slug: cosplay-3d-printing-and-you
 permalink: /exhibits/cosplay-3d-printing-and-you/
 exhibit-id: 21-77
 description: "Making 3D printing not so scary for cosplayers! "
 description-long: "Want to learn more about 3D printing pieces for Cosplay? Did you purchase a 3D printed piece, but are confused about how to assemble it, or how to finish it? Hopefully this exhibit will help you in your exciting journey in learning how to optimizing 3D printed pieces for Cosplay!"
+image: /assets/images/exhibit-images/21-77-exhibit-cosplay-3d-printing-and-you-221-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-77-exhibit-cosplay-3d-printing-and-you-221-small.jpg
   medium: /assets/images/exhibit-images/21-77-exhibit-cosplay-3d-printing-and-you-221-medium.jpg
@@ -40,7 +43,7 @@ categories:
     name: Education
 created-jotform: "2021-08-17 00:46:03"
 last-modified-jotform: "2021-08-21 22:00:06"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

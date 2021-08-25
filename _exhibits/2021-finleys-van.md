@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Finley's Van"
 slug: finleys-van
 permalink: /exhibits/finleys-van/
@@ -13,6 +15,7 @@ Parked in a dark garage is a van full of someone’s belongings. A mysterious no
 Unlike a traditional museum experience that teaches biography through a display of data and historical facts, “Finley’s Van” leverages physical interaction and emotion as a way for visitors to learn and connect with someone new.
 
 The experience is a metaphor conveying how powerfully objects can embody someone’s essence, their personal story, and their memories. Installation visitors step away with an intimate relationship with someone new."
+image: /assets/images/exhibit-images/21-35-exhibit-finleys-van-finley-s-van-home-image-large.png
 image-primary: 
   small: /assets/images/exhibit-images/21-35-exhibit-finleys-van-finley-s-van-home-image-small.png
   medium: /assets/images/exhibit-images/21-35-exhibit-finleys-van-finley-s-van-home-image-medium.png
@@ -66,7 +69,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2021-07-28 18:07:03"
 last-modified-jotform: "2021-08-22 10:53:06"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

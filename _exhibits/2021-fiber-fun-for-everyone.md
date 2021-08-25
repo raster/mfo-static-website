@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Fiber Fun for Everyone!"
 slug: fiber-fun-for-everyone
 permalink: /exhibits/fiber-fun-for-everyone/
@@ -7,6 +9,7 @@ description: "Anyone can have fun learning about fiber crafts including spinning
 description-long: "People of all ages have been spinning yarn using many different materials and then using the yarn to make a product for thousands of years.  Yarn can be spun from sheep&#039;s wool, plant fibers such as cotton, and many other “fibers”.  Tools as simple as a hand spindle can be used, while a foot treadled wheel or electric spinner may also be used.  Yarn can be used for knitting, crocheting, weaving (using a wide variety of looms) or other fiber crafts.
 
 Our goal is to demonstrate spinning yarn using various fibers and tools, as well as how the yarn can be used to make a variety of projects.  We will have a loom that people can try weaving on, and a free take-away activity (primarily aimed at children).  Some items on display will incorporate conductive thread to light LEDs or EL wire.  Sparky the Cat has conductive touch spots made using handspun conductive thread to light LEDs and make him say \"meow\"."
+image: /assets/images/exhibit-images/21-74-exhibit-fiber-fun-for-everyone-me-holding-sparky-mf-2019-small-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-74-exhibit-fiber-fun-for-everyone-me-holding-sparky-mf-2019-small-small.jpg
   medium: /assets/images/exhibit-images/21-74-exhibit-fiber-fun-for-everyone-me-holding-sparky-mf-2019-small-medium.jpg
@@ -45,7 +48,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-16 13:37:32"
 last-modified-jotform: "2021-08-21 23:17:04"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

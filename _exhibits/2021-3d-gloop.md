@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "3D Gloop!"
 slug: 3d-gloop
 permalink: /exhibits/3d-gloop/
 exhibit-id: 21-65
 description: "Check out 3D Gloop! adhesives and how they can change the way you 3D print & build!"
 description-long: "Check out 3D Gloop! adhesives and how they can change the way you 3D print & build!"
+image: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-small.jpg
   medium: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-medium.jpg
@@ -30,7 +33,7 @@ categories:
     name: Tools
 created-jotform: "2021-08-09 22:06:26"
 last-modified-jotform: "2021-08-21 23:17:47"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

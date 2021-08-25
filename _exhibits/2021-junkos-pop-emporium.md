@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Junko's Pop Emporium"
 slug: junkos-pop-emporium
 permalink: /exhibits/junkos-pop-emporium/
 exhibit-id: 21-93
 description: "Handmade 3D Origami"
 description-long: "Hand made 3D Origami , Dragon , Pop culture character "
+image: /assets/images/exhibit-images/21-93-exhibit-junkos-pop-emporium-img-0889-2-large.JPG
 image-primary: 
   small: /assets/images/exhibit-images/21-93-exhibit-junkos-pop-emporium-img-0889-2-small.JPG
   medium: /assets/images/exhibit-images/21-93-exhibit-junkos-pop-emporium-img-0889-2-medium.JPG
@@ -64,7 +67,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-24 14:13:15"
 last-modified-jotform: "2021-08-24 22:27:35"
-last-exported: "2021-08-24 22:31:24"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

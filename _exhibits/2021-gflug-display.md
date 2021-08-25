@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "GFLUG Display"
 slug: gflug-display
 permalink: /exhibits/gflug-display/
 exhibit-id: 21-54
 description: "We will be displaying various MOCs created by our members related to the LEGO hobby & fan community."
 description-long: "Members will be bringing various types of MOCs from the LEGO community. These include trains, mosaics, GBC, sculptures, and robots. "
+image: /assets/images/exhibit-images/21-54-exhibit-gflug-display-20171022-163612-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-54-exhibit-gflug-display-20171022-163612-small.jpg
   medium: /assets/images/exhibit-images/21-54-exhibit-gflug-display-20171022-163612-medium.jpg
@@ -29,7 +32,7 @@ categories:
     name: LEGO
 created-jotform: "2021-08-05 15:11:31"
 last-modified-jotform: "2021-08-22 10:53:30"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

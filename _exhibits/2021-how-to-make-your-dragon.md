@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "How to Make Your Dragon"
 slug: how-to-make-your-dragon
 permalink: /exhibits/how-to-make-your-dragon/
 exhibit-id: 21-71
 description: "A 8-ft. talking animatronic dragon, and an explanation of microcontrollers and servos. "
 description-long: "An 8-ft. voice activated talking animatronic dragon that will tell how it is made, from what microcontrollers, servos, linear actuators and other dragon parts are, as the maker converses with his creation."
+image: /assets/images/exhibit-images/21-71-exhibit-how-to-make-your-dragon-sam-0033-large.JPG
 image-primary: 
   small: /assets/images/exhibit-images/21-71-exhibit-how-to-make-your-dragon-sam-0033-small.JPG
   medium: /assets/images/exhibit-images/21-71-exhibit-how-to-make-your-dragon-sam-0033-medium.JPG
@@ -39,7 +42,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-08-12 15:40:36"
 last-modified-jotform: "2021-08-21 23:17:10"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

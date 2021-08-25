@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Jeremy Cook's Creations"
 slug: jeremy-cooks-creations
 permalink: /exhibits/jeremy-cooks-creations/
@@ -7,6 +9,7 @@ description: "Remote controlled ClearCrawler Strandbeest + other creations from 
 description-long: "Jeremy Cook makes a variety of electronic and mechanical creations, including his ClearCrawler and ClearWalker miniature strandbeests, featured in a number of publications.
 
 Jeremy will also be discussing and showing off a number of other things he&#039;s been working on, such as: PCB design and The Creativity Podcast."
+image: /assets/images/exhibit-images/21-37-exhibit-jeremy-cooks-creations-cc-crop1-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-37-exhibit-jeremy-cooks-creations-cc-crop1-small.jpg
   medium: /assets/images/exhibit-images/21-37-exhibit-jeremy-cooks-creations-cc-crop1-medium.jpg
@@ -38,7 +41,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-29 09:46:49"
 last-modified-jotform: "2021-08-22 10:53:10"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Mischief Maille"
 slug: mischief-maille
 permalink: /exhibits/mischief-maille/
@@ -6,6 +8,7 @@ exhibit-id: 21-25
 description: "Beautiful Chain Maille Jewelry for men and woman of all ages. "
 description-long: "Beautiful Chain Maille Jewelry, every piece is one of a kind and fully customizable.
 "
+image: /assets/images/exhibit-images/21-25-exhibit-mischief-maille-43-a-6180-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-25-exhibit-mischief-maille-43-a-6180-small.jpg
   medium: /assets/images/exhibit-images/21-25-exhibit-mischief-maille-43-a-6180-medium.jpg
@@ -29,7 +32,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-07-24 17:35:09"
 last-modified-jotform: "2021-08-22 10:47:10"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

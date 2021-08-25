@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Pruck"
 slug: pruck
 permalink: /exhibits/pruck/
@@ -7,6 +9,7 @@ description: "1953 international truck repowered by toyota prius, with mahogany 
 description-long: "repurposed antique vehicles into modern enjoyable and reliable art cars.
 visitors may climb aboard, touch and feel a blast from the past.
 1953 international truck, 1942 c47 airplane turned into a rat rod, all hybrid electric powered."
+image: /assets/images/exhibit-images/21-51-exhibit-pruck-20200613-210437-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-51-exhibit-pruck-20200613-210437-small.jpg
   medium: /assets/images/exhibit-images/21-51-exhibit-pruck-20200613-210437-medium.jpg
@@ -39,7 +42,7 @@ categories:
     name: Vehicles
 created-jotform: "2021-08-05 08:55:06"
 last-modified-jotform: "2021-08-22 10:53:28"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

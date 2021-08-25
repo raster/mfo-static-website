@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Kiss My Glass"
 slug: kiss-my-glass
 permalink: /exhibits/kiss-my-glass/
 exhibit-id: 21-55
 description: "We let students wire wrap a robot dog or cat ornament and they take it home with them.  "
 description-long: "People will have an opportunity to wire wrap their own robot dog or cat.  in previous years wee have done boy robots, girl robots, and trees.  This year we have a cute variety of dogs and cats to choose from."
+image: /assets/images/exhibit-images/21-55-exhibit-kiss-my-glass-84927250-cb8c-41ea-91bd-69148d424272-large.jpeg
 image-primary: 
   small: /assets/images/exhibit-images/21-55-exhibit-kiss-my-glass-84927250-cb8c-41ea-91bd-69148d424272-small.jpeg
   medium: /assets/images/exhibit-images/21-55-exhibit-kiss-my-glass-84927250-cb8c-41ea-91bd-69148d424272-medium.jpeg
@@ -44,7 +47,7 @@ categories:
     name: Glass
 created-jotform: "2021-08-05 16:02:45"
 last-modified-jotform: "2021-08-22 10:53:32"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

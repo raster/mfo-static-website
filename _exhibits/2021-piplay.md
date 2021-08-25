@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "PiPLAY"
 slug: piplay
 permalink: /exhibits/piplay/
 exhibit-id: 21-15
 description: "PiPLAY is all manner of gaming devices powered by the Raspberry Pi!"
 description-long: "PiPLAY is all manner of gaming devices powered by the Raspberry Pi!  This year we will have our PiPlay Portable, Deskcade, Wallcade, and our DDR Machine powered by the Pi4 and Stepmania!"
+image: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-large.png
 image-primary: 
   small: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-small.png
   medium: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-medium.png
@@ -26,7 +29,7 @@ categories:
     name: Raspberry Pi
 created-jotform: "2021-07-24 10:52:01"
 last-modified-jotform: "2021-08-22 10:46:59"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "NBE Camaro"
 slug: nbe-camaro
 permalink: /exhibits/nbe-camaro/
 exhibit-id: 21-88
 description: "Show Car - 2012 Camaro Convertible - Transformer Themed"
 description-long: "Show Car - 2012 Camaro Convertible - Transformer Themed"
+image: /assets/images/exhibit-images/21-88-exhibit-nbe-camaro-2-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-88-exhibit-nbe-camaro-2-small.jpg
   medium: /assets/images/exhibit-images/21-88-exhibit-nbe-camaro-2-medium.jpg
@@ -61,7 +64,7 @@ categories:
     name: Vehicles
 created-jotform: "2021-08-23 09:46:02"
 last-modified-jotform: "2021-08-23 22:15:17"
-last-exported: "2021-08-23 22:16:06"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

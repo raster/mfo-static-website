@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Physics Anonymous"
 slug: physics-anonymous
 permalink: /exhibits/physics-anonymous/
 exhibit-id: 21-16
 description: "We will be showing of our random YouTube creations including our updated cloud chamber design."
 description-long: "We are working on a few new things for this years exhibit, including our entry into the RoboRuckus Competition. Come check us out."
+image: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-small.jpg
   medium: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-medium.jpg
@@ -36,7 +39,7 @@ categories:
     name: Tools
 created-jotform: "2021-07-24 11:05:26"
 last-modified-jotform: "2021-08-22 10:47:01"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

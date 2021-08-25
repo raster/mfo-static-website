@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "TakeApart"
 slug: takeapart
 permalink: /exhibits/takeapart/
 exhibit-id: 21-70
 description: "Take apart used electronics down to their bare components! Presented by Orlando Science Center!"
 description-long: "Have you ever looked inside a tape deck? Have you ever unwrapped a hard drive? Come learn about different tools and the inner workings of used electronics as you take them down to their bare components! The makers from The Hive: A Makerspace at the Orlando Science Center are here to provide the tools and the know-how to feed your appetite for structured, methodical destruction!"
+image: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-small.jpg
   medium: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-medium.jpg
@@ -39,7 +42,7 @@ categories:
     name: Tools
 created-jotform: "2021-08-12 15:10:53"
 last-modified-jotform: "2021-08-21 23:17:14"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

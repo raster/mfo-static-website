@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "IoT Scavenger Quest"
 slug: iot-scavenger-quest
 permalink: /exhibits/iot-scavenger-quest/
@@ -9,6 +11,7 @@ description-long: "Visiting Maker Faire? Document your travels through Maker Fai
 Are you an exhibitor and would you like to host an IoT Scavenger Quest Station? As an exhibitor all you have to do to host a station is agree is to let us put the station somewhere in your booth accessible to the public  
 
 Also keep an eye out for nodes in other fun locations as well.  We&#039;re hoping that the Scavenger Quest will encourage folks to roam more widely around Maker Faire, and bring them into contact with more exhibitors. "
+image: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-small.jpg
   medium: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-medium.jpg
@@ -33,7 +36,7 @@ categories:
     name: Software
 created-jotform: "2021-07-26 19:45:27"
 last-modified-jotform: "2021-08-22 10:52:58"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

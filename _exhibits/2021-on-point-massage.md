@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "On Point Massage"
 slug: on-point-massage
 permalink: /exhibits/on-point-massage/
@@ -14,6 +16,7 @@ Gift cards are available for purchase.
 
 Book an in-office massage and receive a 10% discount. 
 "
+image: /assets/images/exhibit-images/21-69-exhibit-on-point-massage-untitled-large.png
 image-primary: 
   small: /assets/images/exhibit-images/21-69-exhibit-on-point-massage-untitled-small.png
   medium: /assets/images/exhibit-images/21-69-exhibit-on-point-massage-untitled-medium.png
@@ -47,7 +50,7 @@ categories:
     name: Education
 created-jotform: "2021-08-11 13:31:21"
 last-modified-jotform: "2021-08-21 23:17:06"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

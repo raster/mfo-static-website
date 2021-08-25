@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "K Gentry Art LLC"
 slug: k-gentry-art-llc
 permalink: /exhibits/k-gentry-art-llc/
 exhibit-id: 21-48
 description: "I showcase and produce series of character art prints, canvases, and character art books. "
 description-long: "I produce collectible series of character art prints, canvases, art books, and original character sketches for sale.  One series, Monty! The Unfortunate Octopus is interactive for your wall and highly collectible at shows. "
+image: /assets/images/exhibit-images/21-48-exhibit-k-gentry-art-llc-90533dbd-fac6-4a79-bd10-bbdfb99f630b-large.jpeg
 image-primary: 
   small: /assets/images/exhibit-images/21-48-exhibit-k-gentry-art-llc-90533dbd-fac6-4a79-bd10-bbdfb99f630b-small.jpeg
   medium: /assets/images/exhibit-images/21-48-exhibit-k-gentry-art-llc-90533dbd-fac6-4a79-bd10-bbdfb99f630b-medium.jpeg
@@ -31,7 +34,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-04 23:20:12"
 last-modified-jotform: "2021-08-22 10:53:24"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

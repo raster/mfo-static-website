@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Dalek Builders of Florida"
 slug: dalek-builders-of-florida
 permalink: /exhibits/dalek-builders-of-florida/
 exhibit-id: 21-8
 description: "Fan built Daleks. The builders love to talk about the build process."
 description-long: "Fans of Doctor Who that like to build those lovable villains, the Daleks.  Some are fully motorized and some are bare bones.  Come see us and find out what it takes to build one. Or just come and see what Daleks are all about.  The builders will talk to anyone about any or all of the build process."
+image: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-small.jpg
   medium: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-medium.jpg
@@ -29,7 +32,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-07 18:55:45"
 last-modified-jotform: "2021-08-22 10:46:55"
-last-exported: "2021-08-23 07:53:50"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

@@ -1,10 +1,13 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Gecko Kart"
 slug: gecko-kart
 permalink: /exhibits/gecko-kart/
 exhibit-id: 21-90
 description: "The test bed for Lazy Gecko Kart Developments."
 description-long: "Gecko Kart has traditionally been the stable and steady kart of Team Lazy Gecko. This year, with the newly designed Gen3 Gecko drive, Gecko Kart will be looking to go head to head with Raphael."
+image: /assets/images/exhibit-images/21-90-exhibit-gecko-kart-38197374-1515360545275460-2893009963934810112-n-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-90-exhibit-gecko-kart-38197374-1515360545275460-2893009963934810112-n-small.jpg
   medium: /assets/images/exhibit-images/21-90-exhibit-gecko-kart-38197374-1515360545275460-2893009963934810112-n-medium.jpg
@@ -43,7 +46,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-23 10:08:38"
 last-modified-jotform: "2021-08-23 22:15:49"
-last-exported: "2021-08-23 22:15:58"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---

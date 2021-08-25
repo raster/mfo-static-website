@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "V°trola: Synchronize Your Christmas Lights to Music"
 slug: vdegtrola-synchronize-your-christmas-lights-to-music
 permalink: /exhibits/vdegtrola-synchronize-your-christmas-lights-to-music/
@@ -10,6 +12,7 @@ Unfortunately, those moments have become a little harder to come by these last f
 Light, durable, user-friendly, and tailored just for you, the V°trola box is a music player, adapter, and synchronized light show device packaged into a simple plug-and-play system.
 
 "
+image: /assets/images/exhibit-images/21-18-exhibit-vdegtrola-synchronize-your-christmas-lights-to-music-43-truck-8134-large.png
 image-primary: 
   small: /assets/images/exhibit-images/21-18-exhibit-vdegtrola-synchronize-your-christmas-lights-to-music-43-truck-8134-small.png
   medium: /assets/images/exhibit-images/21-18-exhibit-vdegtrola-synchronize-your-christmas-lights-to-music-43-truck-8134-medium.png
@@ -88,7 +91,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-07-24 12:44:26"
 last-modified-jotform: "2021-08-24 14:15:28"
-last-exported: "2021-08-24 22:31:35"
+last-exported: "2021-08-25 06:47:46"
 sitemap: false
 
 ---

@@ -1,4 +1,6 @@
 ---
+# note: title, decription, image are used for SEO
+
 title: "Rockstar Robotics"
 slug: rockstar-robotics
 permalink: /exhibits/rockstar-robotics/
@@ -7,6 +9,7 @@ description: "Local area FIRST robotics team showcasing our past and present rob
 description-long: "Local FIRST FRC, FTC, FLL team.
 Showcasing Lego Robotics and First Robotics Competition robots.
 "
+image: /assets/images/exhibit-images/21-82-exhibit-rockstar-robotics-43-89607263-207580720592929-6690131338033628024-n-3744-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-82-exhibit-rockstar-robotics-43-89607263-207580720592929-6690131338033628024-n-3744-small.jpg
   medium: /assets/images/exhibit-images/21-82-exhibit-rockstar-robotics-43-89607263-207580720592929-6690131338033628024-n-3744-medium.jpg
@@ -57,7 +60,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-19 09:19:35"
 last-modified-jotform: "2021-08-21 21:57:51"
-last-exported: "2021-08-23 07:53:49"
+last-exported: "2021-08-25 06:47:45"
 sitemap: false
 
 ---
