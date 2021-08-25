@@ -27,11 +27,12 @@ import os.path
 from os import path
 
 eventYear = 2021
+outputAll = False
 
-
-
-#todo: if instagram, twitter, youtube dont have properly formed URLs, fix them...
+#todo: add command line param to force write all exhibits
+#todo: write the exhibit URL back to jotform for easy linking :)
 #todo: create a sanitize function that deals with double quotes, etc.
+#todo: remove withdrawn / cancelled exhibits...
 
 
 #image resizing: https://stackoverflow.com/questions/8631076/what-is-the-fastest-way-to-generate-image-thumbnails-in-python
@@ -222,13 +223,15 @@ def main():
                 break
                 #only read from the first document
 
-          if export:
+          if export or outputAll:
 
             countExport = countExport+1
             print("Exporting: " + fName)
 
             outfile = open(fName, "w")
             outfile.write("---\n")
+            outfile.write("# note: title, decription, image are used for SEO\n")
+            outfile.write("\n")
 
             #p2 outfile.write("title: " + '"' + exhibitName + '"' + "\n")
             outfile.write("title: " + '"' + exhibitName + '"' + "\n")
@@ -237,6 +240,9 @@ def main():
             outfile.write("exhibit-id: " + mfoID + "\n")
             outfile.write("description: " + '"' + descShort + '"' + "\n")
             outfile.write("description-long: " + '"' + descLong + '"' + "\n")
+
+            outfile.write("image: "   + exhibitImage[2][2:] + "\n")
+
 
             outfile.write("image-primary: \n")
             outfile.write("  small: "   + exhibitImage[0][2:] + "\n")
