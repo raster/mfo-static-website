@@ -167,7 +167,7 @@ def main():
           print(mfoID + " " + exhibitName + ": " + str(viz))
 
           descShort       = sub["answers"].get(u'40').get('answer')
-          descShort.replace('"', '\\"')
+          descShort = descShort.replace('"', '\\"')
 
           descLong        = sub["answers"].get(u'41').get('answer')
           descLong = descLong.replace('"', '\\"')
@@ -230,7 +230,7 @@ def main():
 
             outfile = open(fName, "w")
             outfile.write("---\n")
-            outfile.write("# note: title, decription, image are used for SEO\n")
+            outfile.write("# note: title, description, image are used for SEO\n")
             outfile.write("\n")
 
             #p2 outfile.write("title: " + '"' + exhibitName + '"' + "\n")
