@@ -1,11 +1,11 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "3 Dimensional can crusher"
 slug: 3-dimensional-can-crusher
 permalink: /exhibits/3-dimensional-can-crusher/
 exhibit-id: 21-95
-description: "Can crusher that reduces a soda can to a 1 1/4" cube."
+description: "Can crusher that reduces a soda can to a 1 1/4\" cube."
 description-long: "Pneumatic, Arduino controlled 3 dimensional can crusher. Its debut was at the Orlando Megacon 2021 show where it crushed 1,120 can during the event! Come and crush a can yourself."
 image: /assets/images/exhibit-images/21-95-exhibit-3-dimensional-can-crusher-img-20210806-085939058-hdr-large.jpg
 image-primary: 
@@ -32,7 +32,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-25 09:49:37"
 last-modified-jotform: "2021-08-25 21:22:47"
-last-exported: "2021-08-25 21:25:04"
+last-exported: "2021-08-25 22:23:16"
 sitemap: false
 
 ---
