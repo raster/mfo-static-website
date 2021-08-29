@@ -20,6 +20,10 @@
 
   {% seo %}
 
+  {% if jekyll.environment == 'production' %}
+    {% include facebook-pixel.html %}
+  {% endif %}
+
   {% if site.google_analytics and jekyll.environment == 'production' %}
     {% include analytics.html %}
   {% endif %}
