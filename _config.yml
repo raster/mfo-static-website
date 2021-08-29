@@ -7,7 +7,8 @@ plugins:
 
 
 # Google Analytics - https://desiredpersona.com/google-analytics-jekyll/
-google_analytics: UA—29035632-1
+google_analytics: UA-29035632-1
+
 
 #begin seo
 title: Maker Faire Orlando
