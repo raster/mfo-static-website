@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Orlando Retro Computing Group"
 slug: orlando-retro-computing-group
@@ -45,8 +45,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2021-07-06 21:54:48"
-last-modified-jotform: "2021-08-22 10:46:47"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:57:35"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

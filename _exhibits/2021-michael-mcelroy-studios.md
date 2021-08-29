@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Michael McElroy Studios"
 slug: michael-mcelroy-studios
@@ -28,8 +28,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-16 21:41:23"
-last-modified-jotform: "2021-08-21 22:00:03"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:50:59"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

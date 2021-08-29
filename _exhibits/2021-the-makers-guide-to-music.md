@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "The Maker's Guide to Music"
 slug: the-makers-guide-to-music
@@ -25,8 +25,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2021-08-11 10:29:09"
-last-modified-jotform: "2021-08-21 23:17:17"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:51:25"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

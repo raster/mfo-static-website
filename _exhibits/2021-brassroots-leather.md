@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Brassroots Leather"
 slug: brassroots-leather
@@ -33,8 +33,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2021-07-08 13:42:17"
-last-modified-jotform: "2021-08-22 10:46:57"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:47:29"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

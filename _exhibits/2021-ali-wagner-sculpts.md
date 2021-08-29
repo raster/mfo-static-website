@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Ali Wagner Sculpts"
 slug: ali-wagner-sculpts
@@ -49,8 +49,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-24 21:19:41"
-last-modified-jotform: "2021-08-24 22:30:23"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:50:08"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

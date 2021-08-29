@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "RecycledBeautifully"
 slug: recycledbeautifully
@@ -37,8 +37,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2021-08-03 20:27:48"
-last-modified-jotform: "2021-08-22 10:53:19"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 08:00:33"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

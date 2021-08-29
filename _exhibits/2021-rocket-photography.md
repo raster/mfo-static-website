@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Rocket Photography"
 slug: rocket-photography
@@ -69,8 +69,8 @@ categories:
   - slug: space
     name: Space
 created-jotform: "2021-07-24 21:17:42"
-last-modified-jotform: "2021-08-22 10:52:47"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:59:29"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

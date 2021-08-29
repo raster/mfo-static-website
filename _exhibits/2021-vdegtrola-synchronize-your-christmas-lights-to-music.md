@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "V°trola: Synchronize Your Christmas Lights to Music"
 slug: vdegtrola-synchronize-your-christmas-lights-to-music
@@ -90,8 +90,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2021-07-24 12:44:26"
-last-modified-jotform: "2021-08-25 08:37:10"
-last-exported: "2021-08-25 21:25:18"
+last-modified-jotform: "2021-08-29 08:06:28"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

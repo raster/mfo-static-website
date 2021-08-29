@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "K Gentry Art LLC"
 slug: k-gentry-art-llc
@@ -33,8 +33,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-04 23:20:12"
-last-modified-jotform: "2021-08-22 10:53:24"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 08:00:44"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "That's Sew McFly"
 slug: thats-sew-mcfly
@@ -34,8 +34,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2021-07-07 17:57:16"
-last-modified-jotform: "2021-08-22 22:32:22"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:58:08"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

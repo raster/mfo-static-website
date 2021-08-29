@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "B & K Magnificent Miniatures"
 slug: b-k-magnificent-miniatures
@@ -34,8 +34,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2021-08-17 18:54:52"
-last-modified-jotform: "2021-08-21 22:00:08"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:50:19"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

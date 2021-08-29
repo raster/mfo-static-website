@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Four Bit Industries"
 slug: four-bit-industries
@@ -29,8 +29,8 @@ categories:
   - slug: kits
     name: Kits
 created-jotform: "2021-07-24 17:03:11"
-last-modified-jotform: "2021-08-22 10:47:06"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:58:59"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Mark Helwig Illustration and Sculpture"
 slug: mark-helwig-illustration-and-sculpture
@@ -55,8 +55,8 @@ categories:
   - slug: manufacturing
     name: Manufacturing
 created-jotform: "2021-08-03 16:43:11"
-last-modified-jotform: "2021-08-22 10:53:15"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 08:00:21"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

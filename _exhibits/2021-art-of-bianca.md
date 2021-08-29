@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Art of Bianca"
 slug: art-of-bianca
@@ -27,8 +27,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-09 23:19:08"
-last-modified-jotform: "2021-08-21 23:17:22"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:51:34"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

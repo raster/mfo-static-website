@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Tampa Hackerspace"
 slug: tampa-hackerspace
@@ -68,8 +68,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-08-19 15:26:37"
-last-modified-jotform: "2021-08-23 07:58:31"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:51:18"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

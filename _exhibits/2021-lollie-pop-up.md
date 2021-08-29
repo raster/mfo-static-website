@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Lollie Pop Up"
 slug: lollie-pop-up
@@ -63,8 +63,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-09 13:11:44"
-last-modified-jotform: "2021-08-21 23:17:53"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:50:35"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

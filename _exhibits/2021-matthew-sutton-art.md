@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Matthew Sutton Art"
 slug: matthew-sutton-art
@@ -31,8 +31,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-04 21:12:53"
-last-modified-jotform: "2021-08-22 10:53:21"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 08:00:29"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "QueensCove Creative the art of L. Jason Queen"
 slug: queenscove-creative-the-art-of-l-jason-queen
@@ -38,8 +38,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-07-24 17:12:30"
-last-modified-jotform: "2021-08-22 10:47:08"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:47:22"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

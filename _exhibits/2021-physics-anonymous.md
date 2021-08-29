@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Physics Anonymous"
 slug: physics-anonymous
@@ -38,8 +38,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2021-07-24 11:05:26"
-last-modified-jotform: "2021-08-22 10:47:01"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:58:41"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

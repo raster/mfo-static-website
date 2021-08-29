@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Galactic Problems Art"
 slug: galactic-problems-art
@@ -62,8 +62,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-07-26 13:26:08"
-last-modified-jotform: "2021-08-22 10:52:56"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-29 07:59:41"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---

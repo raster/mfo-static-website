@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Junko's Pop Emporium"
 slug: junkos-pop-emporium
@@ -66,8 +66,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-24 14:13:15"
-last-modified-jotform: "2021-08-24 22:27:35"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-29 07:50:55"
+last-exported: "2021-08-29 08:06:44"
 sitemap: false
 
 ---
