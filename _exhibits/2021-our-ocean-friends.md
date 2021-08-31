@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Our Ocean Friends"
 slug: our-ocean-friends
@@ -42,8 +42,8 @@ categories:
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2021-08-23 15:53:19"
-last-modified-jotform: "2021-08-25 21:22:12"
-last-exported: "2021-08-25 21:25:08"
+last-modified-jotform: "2021-08-30 10:34:58"
+last-exported: "2021-08-30 20:15:17"
 sitemap: false
 
 ---

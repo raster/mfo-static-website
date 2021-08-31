@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "ChipScapes"
 slug: chipscapes
@@ -36,8 +36,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2021-07-24 22:15:54"
-last-modified-jotform: "2021-08-22 10:52:50"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-08-30 10:40:42"
+last-exported: "2021-08-30 20:15:33"
 sitemap: false
 
 ---

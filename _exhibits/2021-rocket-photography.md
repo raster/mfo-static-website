@@ -6,7 +6,7 @@ slug: rocket-photography
 permalink: /exhibits/rocket-photography/
 exhibit-id: 21-26
 description: "Come learn about what goes into capturing the rocket photos that you see online."
-description-long: "As a member of the media I get up close and personal to photograph rockets.  I not only photograph launches from only a few miles away I also get to leave cameras at the pad, but for remote cameras its not as simple as just pointing the camera and clicking, these they have to be setup in advance long before the rockets is supposed to launch, from weather proofing to triggering the cameras there is a lot that goes into setting a remote camera."
+description-long: "As a member of the media I get up close and personal to photograph rockets.  I not only photograph launches from only a few miles away I also get to leave cameras at the pad, but for remote cameras its not as simple as just pointing the camera and clicking, these they have to be setup in advance long before the rocket is supposed to launch, from weather proofing to triggering the cameras there is a lot that goes into setting a remote camera."
 image: /assets/images/exhibit-images/21-26-exhibit-rocket-photography-eos-70d-2460-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/21-26-exhibit-rocket-photography-eos-70d-2460-small.jpg
@@ -69,8 +69,8 @@ categories:
   - slug: space
     name: Space
 created-jotform: "2021-07-24 21:17:42"
-last-modified-jotform: "2021-08-29 07:59:29"
-last-exported: "2021-08-29 08:06:44"
+last-modified-jotform: "2021-08-30 20:13:13"
+last-exported: "2021-08-30 20:15:33"
 sitemap: false
 
 ---

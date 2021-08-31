@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Power wheels racing"
 slug: power-wheels-racing
@@ -22,8 +22,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2021-08-25 20:46:06"
-last-modified-jotform: "2021-08-25 21:22:42"
-last-exported: "2021-08-25 21:25:03"
+last-modified-jotform: "2021-08-29 08:18:49"
+last-exported: "2021-08-30 20:15:17"
 sitemap: false
 
 ---

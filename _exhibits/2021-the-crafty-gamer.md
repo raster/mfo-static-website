@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "The Crafty Gamer"
 slug: the-crafty-gamer
@@ -34,8 +34,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2021-07-28 01:48:58"
-last-modified-jotform: "2021-08-22 10:53:04"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-30 10:37:43"
+last-exported: "2021-08-30 20:15:33"
 sitemap: false
 
 ---

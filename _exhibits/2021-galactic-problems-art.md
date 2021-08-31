@@ -52,7 +52,7 @@ additional-images:
 instagram: https://www.instagram.com/galactic_problems_/
 maker: 
   name: "Daniella Krasulski"
-  description: "Hi! I&#039;m a freelance illustrator currently working on an original comic series, and I also design merchandise on the side! My biggest passion right now is my comic, which is about a group of private investigators in space solving mysteries. I want to tell fun stories for a wide age range audience. I&#039;m inspired by animation, scifi, and am a huge Star Wars nerd. Sharing my art with people is always a joy, and I hope to share what knowledge I have with beginners as well! "
+  description: "Hi! I&#039;m a freelance illustrator currently working on an original comic series, and I also design merchandise on the side! "
   image-primary: /assets/images/exhibit-images/21-30-maker-galactic-problems-art-newiconforposting-medium.png
 categories: 
   - slug: art
@@ -62,8 +62,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-07-26 13:26:08"
-last-modified-jotform: "2021-08-29 07:59:41"
-last-exported: "2021-08-29 08:06:44"
+last-modified-jotform: "2021-08-30 20:12:26"
+last-exported: "2021-08-30 20:15:33"
 sitemap: false
 
 ---

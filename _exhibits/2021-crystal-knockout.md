@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Crystal Knockout"
 slug: crystal-knockout
@@ -72,8 +72,8 @@ categories:
   - slug: jewelry
     name: Jewelry
 created-jotform: "2021-07-27 19:23:05"
-last-modified-jotform: "2021-08-22 10:53:02"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-08-30 10:37:24"
+last-exported: "2021-08-30 20:15:33"
 sitemap: false
 
 ---
