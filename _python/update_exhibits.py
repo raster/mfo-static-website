@@ -182,6 +182,7 @@ def main():
           exhibitWebsite  = sub["answers"].get(u'46').get('answer')
           makerName       = sub["answers"].get(u'15').get('answer')
           makerDesc       = sub["answers"].get(u'16').get('answer')
+          makerDesc = makerDesc.replace('"', '\\"')
           makerImage      = processImage(mfoID,slug,"maker",sub["answers"].get(u'18').get('answer')[0])
           makerEmail      = sub["answers"].get(u'19').get('answer')
           makerWebsite    = sub["answers"].get(u'20').get('answer')
