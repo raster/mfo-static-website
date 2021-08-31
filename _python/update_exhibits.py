@@ -40,6 +40,17 @@ outputAll = False
 #NOTE: Image pulls will fail unless you go to jotform settings for the account and
 #       remove the requirement to be logged in to see uploaded items
 
+# get item from jotform answers list
+
+def getAnswer (sub, id):
+  #idStr = str(id).encode("utf-8").decode("utf-8")
+  answer = sub["answers"].get(str(id)).get('answer')
+  #sanitize any quotes in the answer
+  #but don't do it if variable is List or None
+  if isinstance(answer, str):
+    answer = answer.replace('"', '\\"')
+
+  return answer
 
 # save image locally if not exists
 # return local url
@@ -143,8 +154,8 @@ def main():
           #print sub
           #sys.exit()
 
-          exhibitName = sub["answers"].get(u'39').get('answer')
-          mfoID = sub["answers"].get(u'98').get('answer')
+          exhibitName = getAnswer(sub,39)
+          mfoID = getAnswer(sub,98)
 
           if exhibitName is None:
             continue
@@ -153,7 +164,7 @@ def main():
           mfoID = mfoID.strip()
 
           viz = False
-          if sub["answers"].get(u'114').get('answer') is not None:
+          if getAnswer(sub,114) is not None:
             viz = True
 
           else:
@@ -166,30 +177,33 @@ def main():
 
           print(mfoID + " " + exhibitName + ": " + str(viz))
 
-          descShort       = sub["answers"].get(u'40').get('answer')
-          descShort = descShort.replace('"', '\\"')
+          descShort       = getAnswer(sub,40)
+          #descShort = descShort.replace('"', '\\"')
 
-          descLong        = sub["answers"].get(u'41').get('answer')
-          descLong = descLong.replace('"', '\\"')
+          descLong        = getAnswer(sub,41)
+          #descLong = descLong.replace('"', '\\"')
 
-          categories      = sub["answers"].get(u'64').get('answer')
+          categories      = getAnswer(sub,64)
 
-          exhibitImage    = processImage(mfoID,slug,"exhibit",sub["answers"].get(u'43').get('answer')[0])
+          exhibitImage    = processImage(mfoID,slug,"exhibit",getAnswer(sub,43)[0])
 
-          exhibitAddlImages = sub["answers"].get(u'44').get('answer')
+          exhibitAddlImages = getAnswer(sub,44)
 
-          exhibitVideo    = sub["answers"].get(u'45').get('answer')
-          exhibitWebsite  = sub["answers"].get(u'46').get('answer')
-          makerName       = sub["answers"].get(u'15').get('answer')
-          makerDesc       = sub["answers"].get(u'16').get('answer')
-          makerDesc = makerDesc.replace('"', '\\"')
-          makerImage      = processImage(mfoID,slug,"maker",sub["answers"].get(u'18').get('answer')[0])
-          makerEmail      = sub["answers"].get(u'19').get('answer')
-          makerWebsite    = sub["answers"].get(u'20').get('answer')
-          makerTwitter    = sub["answers"].get(u'21').get('answer')
-          makerInstagram  = sub["answers"].get(u'22').get('answer')
-          makerFacebook   = sub["answers"].get(u'23').get('answer')
-          makerYouTube    = sub["answers"].get(u'24').get('answer')
+          exhibitVideo    = getAnswer(sub,45)
+          exhibitWebsite  = getAnswer(sub,46)
+          makerName       = getAnswer(sub,15)
+          makerDesc       = getAnswer(sub,16)
+
+
+          #makerDesc = makerDesc.replace('"', '\\"')
+
+          makerImage      = processImage(mfoID,slug,"maker",getAnswer(sub,18)[0])
+          makerEmail      = getAnswer(sub,19)
+          makerWebsite    = getAnswer(sub,20)
+          makerTwitter    = getAnswer(sub,21)
+          makerInstagram  = getAnswer(sub,22)
+          makerFacebook   = getAnswer(sub,23)
+          makerYouTube    = getAnswer(sub,24)
 
           #create yaml file
 
