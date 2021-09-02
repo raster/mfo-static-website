@@ -19,7 +19,7 @@ instagram: https://www.instagram.com/austinburke_dp/
 youtube: https://www.youtube.com/channel/ucpsltptauzoxxpx5bfwkc5a
 maker: 
   name: "Austin Burke"
-  description: "Hello, My name is Austin Burke and I&#039;m a cinematographer and photographer who after my 2019 Maker fair Orlando Visit dove deep in to my childhood maker background and respired the maker inside myself. During After my 2019 visit and during the 2020 lockdown I spent a ton of time learning all sorts of new skillsets from metalworking, 3d printing, coding, woodworking, pneumatics, stepper motors to build motion control, pneumatic, and other types of rigs for photography and video work (which I have started using on professional level productions) and would love to share what I learn and inspire others like how i learned. Weather it be from showcasing some of my builds (both photo/video related or other forms like building a space suit heavily inspired by the sci fi series "The Expanse" or speaking on any panels I would love to help others interested in the maker community of Orlando!
+  description: "Hello, My name is Austin Burke and I&#039;m a cinematographer and photographer who after my 2019 Maker fair Orlando Visit dove deep in to my childhood maker background and respired the maker inside myself. During After my 2019 visit and during the 2020 lockdown I spent a ton of time learning all sorts of new skillsets from metalworking, 3d printing, coding, woodworking, pneumatics, stepper motors to build motion control, pneumatic, and other types of rigs for photography and video work (which I have started using on professional level productions) and would love to share what I learn and inspire others like how i learned. Weather it be from showcasing some of my builds (both photo/video related or other forms like building a space suit heavily inspired by the sci fi series \"The Expanse\" or speaking on any panels I would love to help others interested in the maker community of Orlando!
 
 I will have a better Exhibit photo if accepted, just wanted to share something I built for now"
   image-primary: /assets/images/exhibit-images/21-106-maker-problem-solving-for-photography-and-filmmaking-104225455-10214254633354558-2156482254433162842-n-medium.jpg
@@ -36,7 +36,7 @@ categories:
     name: Talk
 created-jotform: "2021-08-30 02:46:33"
 last-modified-jotform: "2021-08-30 19:57:36"
-last-exported: "2021-08-30 20:14:52"
+last-exported: "2021-08-31 19:12:05"
 sitemap: false
 
 ---
