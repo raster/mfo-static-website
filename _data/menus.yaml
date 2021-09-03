@@ -10,13 +10,13 @@ topnav:
   - title: Things to See & DO
     subfolderitems:
       - page: Makers & Exhibits
-        url: /makers
+        url: /makers/
       - page: Event Schedule
-        url: /schedule
+        url: /schedule/
       - page: Hands-On Workshops
-        url: /makers?category=workshop
+        url: /makers/?category=workshop
       - page: Power Racing Series
-        url: /power-racing
+        url: /power-racing/
       - page: Robot Ruckus
         url: https://www.robotruckus.org
 #      - page: Nerdy Derby
@@ -24,19 +24,19 @@ topnav:
   - title: Get Involved
     subfolderitems:
       - page: Exhibit at Maker Faire Orlando
-        url: /exhibit-at-maker-faire-orlando
+        url: /exhibit-at-maker-faire-orlando/
       - page: Volunteer
-        url: /volunteer
+        url: /volunteer/
       - page: Become a Sponsor
-        url: /become-a-sponsor
+        url: /become-a-sponsor/
   - title: Attend
     subfolderitems:
       - page: Tickets & Info
-        url: /attend
+        url: /attend/
       - page: Homeschool Educators
-        url: /homeschool
+        url: /homeschool/
       - page: School Educators
-        url: /educators
+        url: /educators/
 #  - title: THINGS TO SEE & DO
 #    subfolderitems:
 #      - page: Makers & Exhibits
@@ -82,7 +82,7 @@ footernav:
       - page: About
         url: /about/
       - page: Privacy Policy
-        url: http://www.themakereffect.org/privacy/
+        url: https://www.themakereffect.org/privacy/
       - page: Maker Login
         url: /maker-login/
       - page: Create Maker Account
@@ -108,7 +108,7 @@ footernav:
       - page: Be a Maker
         url: https://makerfaire.com/be-a-maker/
       - page: Become a Make&#58; Community Member
-        url: https://community.make.co/?utm_source=mfglobal&utm_medium=footer
+        url: https://make.co/
       - page: Make&#58; News & Projects
         url: https://makezine.com/?utm_source=mfglobal&utm_medium=footer
       - page: Maker Shed
@@ -128,5 +128,5 @@ footernav:
         url: https://www.instagram.com/makerfaire/
         icon: fa fa-instagram
       - title: Pinterest
-        url: http://www.pinterest.com/makemagazine/maker-faire/
+        url: https://www.pinterest.com/makemagazine/maker-faire/
         icon: fa fa-pinterest

@@ -3,7 +3,7 @@ title: The Greatest Show (& Tell) on Earth!
 permalink: /
 layout: full-width
 image: /assets/images/slider/welcome-to-maker-faire.jpg  
-
+scrolltop: true
 carousel: true
 carousel-delay: 5000
 carousel-controls: true
@@ -35,6 +35,8 @@ carousel-slides:
 
 {% include makey-border.html %}
 
+{% include featured-makers-grid.html %}
+
 {% include call-for-makers-widget.html %}
 
 {% comment %}
@@ -60,6 +62,7 @@ carousel-slides:
 {% endcomment %}
 
 
+
 <section class="content-panel">
 <div class="container">
 <div class="row">
@@ -71,11 +74,12 @@ carousel-slides:
 <div class="col-sm-2"></div>
 <div class="col-sm-8 text-center">
 <p style="margin: 20px 30px 5px 30px">2020 was a year of unprecedented challenges that affected all facets of life including our maker events and gatherings. The Maker Faire Orlando team was heartbroken that we were not able to gather together for our annual tradition, but that didn't stop the maker spirit which led to a year spent making emergency PPE, hosting small socially-distanced outdoor events, forming a new partnership with Boys & Girls Clubs of Central Florida, and much more.</p>
-<p style="margin: 5px 30px 5px 30px;font-weight: bold;text-align: center"><a href="/2020-Community-Impact">Read more about the impact of Central Florida Makers in 2020 ></a></p>
+<p style="margin: 5px 30px 5px 30px;font-weight: bold;text-align: center"><a href="/2020-Community-Impact/">Read more about the impact of Central Florida Makers in 2020 ></a></p>
 </div>
 </div>
 </div>
 <div class="flag-banner"></div>
 </section>
+
 
 {% include sponsors-carousel.html %}

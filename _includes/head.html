@@ -17,5 +17,14 @@
   <link rel="apple-touch-icon-precomposed" href="{{ 'assets/images/site-branding/cropped-makey_favicon_2-01-180x180.png' | relative_url }}">
   <meta name="msapplication-TileImage" content="{{ 'assets/images/site-branding/cropped-makey_favicon_2-01-270x270.png' | relative_url }}">
   {% include stylesheets.html %}
+
   {% seo %}
+
+  {% if jekyll.environment == 'production' %}
+    {% include facebook-pixel.html %}
+  {% endif %}
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 </head>
