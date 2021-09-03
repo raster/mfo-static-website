@@ -16,6 +16,7 @@ from urllib import request
 from urllib import parse
 from urllib.parse import urlparse
 import time
+import getopt
 
 #from urlparse import urlparse    python2
 
@@ -122,8 +123,11 @@ def urlClean(url):
   site = site._replace(path = sitepath)
   return site.geturl().replace("///", "//")
 
-def main():
+def export(outputAll):
 
+    countSubmissions = 0
+    countVisible = 0
+    countExhibitsRemoved = 0
     countExport = 0
 
     if path.exists('private.yaml'):
@@ -154,6 +158,8 @@ def main():
           #print sub
           #sys.exit()
 
+          countSubmissions = countSubmissions+1
+
           exhibitName = getAnswer(sub,39)
           mfoID = getAnswer(sub,98)
 
@@ -163,17 +169,27 @@ def main():
           exhibitName = exhibitName.strip()
           mfoID = mfoID.strip()
 
+          #slugify and remove apostrophes so they don't turn into dashes
+          #slug = slugify(exhibitName, replacements = [["'", ""]])  python2
+          slug=slugify(exhibitName.replace("'", "")) #python3
+
+          # fName is the full name of the exhibit markdown file
+          # Variable established this early so that if exhibit is no longer
+          #     visible we can confirm the exhibit file is removed
+          fName = "../_exhibits/" + str(eventYear) + "-" +slug + ".md"
+
           viz = False
           if getAnswer(sub,114) is not None:
             viz = True
+            countVisible = countVisible+1
 
           else:
+            if path.exists(fName):
+                print("***" + mfoID + " " + exhibitName + " is no longer visible")
+                os.remove(fName)
+                # print("ALERT: need to remove exhibit file ", fName)
+                countExhibitsRemoved = countExhibitsRemoved+1
             continue
-
-          #slugify and remove apostrophes so they don't turn into dashes
-
-          #slug = slugify(exhibitName, replacements = [["'", ""]])  python2
-          slug=slugify(exhibitName.replace("'", "")) #python3
 
           print(mfoID + " " + exhibitName + ": " + str(viz))
 
@@ -205,10 +221,7 @@ def main():
           makerFacebook   = getAnswer(sub,23)
           makerYouTube    = getAnswer(sub,24)
 
-          #create yaml file
-
-          fName = "../_exhibits/" + str(eventYear) + "-" +slug + ".md"
-
+          # create Exhibit markdown file
 
           #check to see if last export date > last change date, and then we can skip
           #this will reduce the number of github updates
@@ -333,10 +346,47 @@ def main():
             outfile.write("\n---\n")
             outfile.close()
 
-
-
-            #sys.exit()
+    print("Submissions Found: " + str(countSubmissions))
+    print("Submissions Visible: " + str(countVisible))
+    print("Exhibits Removed: " + str(countExhibitsRemoved))
     print("Exported: " + str(countExport))
+
+def main():
+
+    outputAll = False
+
+    # Remove 1st argument from the list of command line arguments
+    argumentList = sys.argv[1:]
+
+    # Options
+    options = "ho:"
+
+    # Long options
+    long_options = ["help", "option"]
+
+    try:
+        # Parsing argument
+        arguments, values = getopt.getopt(argumentList, options, long_options)
+
+        # checking each argument
+        for currentArgument, currentValue in arguments:
+
+            if currentArgument in ("-h", "--help"):
+                print ("usage: python3 update_exhibits.py [-o option]")
+                print ("Options and arguments:")
+                print ("-o rebuild :    Rebuild all exhibits")
+                sys.exit()
+
+            elif currentArgument in ("-o", "--option"):
+                if currentValue == "rebuild":
+                    outputAll = True
+                    print("opttion: outputAll = ", outputAll)
+
+        export(outputAll)
+
+    except getopt.error as err:
+    	# output error, and return with an error code
+    	print (str(err))
 
 
 if __name__ == "__main__":
