@@ -42,7 +42,6 @@ outputAll = False
 #       remove the requirement to be logged in to see uploaded items
 
 # get item from jotform answers list
-
 def getAnswer (sub, id):
   #idStr = str(id).encode("utf-8").decode("utf-8")
   answer = sub["answers"].get(str(id)).get('answer')
@@ -52,6 +51,16 @@ def getAnswer (sub, id):
     answer = answer.replace('"', '\\"')
 
   return answer
+
+def getAnswerByName (aDict, id):
+  answer = aDict.get(id)
+  #sanitize any quotes in the answer
+  #but don't do it if variable is List or None
+  if isinstance(answer, str):
+    answer = answer.replace('"', '\\"')
+
+  return answer
+
 
 # save image locally if not exists
 # return local url
@@ -130,6 +139,8 @@ def export(outputAll):
     countExhibitsRemoved = 0
     countExport = 0
 
+
+
     if path.exists('private.yaml'):
       yamlFile = 'private.yaml'
     else:
@@ -155,13 +166,32 @@ def export(outputAll):
         print(form["id"] + " " + form["title"])
         submissions = jotformAPIClient.get_form_submissions(form["id"], limit = 1000)
         for sub in submissions:
-          #print sub
-          #sys.exit()
+          ans ={}
+          answers = sub["answers"]
 
+          for id, info in answers.items():
+            #print(id + ": " + info["name"])
+            #print("name: " +  info["name"])
+
+            #for key in info:
+            # print(key + ':', info[key])
+
+            #looking only for the items with user responses
+            if "answer" not in info:
+              continue
+
+            #print("answer: " +  info["answer"])
+
+            #add to our simplified dictionary
+
+            if "name" in info:
+              ans[info["name"]] = info["answer"]
+
+          #print (ans)
           countSubmissions = countSubmissions+1
 
-          exhibitName = getAnswer(sub,39)
-          mfoID = getAnswer(sub,98)
+          exhibitName = getAnswerByName (ans, "exhibitName")
+          mfoID = getAnswerByName(ans,"exhibitId")
 
           if exhibitName is None:
             continue
@@ -179,7 +209,7 @@ def export(outputAll):
           fName = "../_exhibits/" + str(eventYear) + "-" +slug + ".md"
 
           viz = False
-          if getAnswer(sub,114) is not None:
+          if getAnswerByName(ans,"visibility") is not None:
             viz = True
             countVisible = countVisible+1
 
@@ -193,33 +223,30 @@ def export(outputAll):
 
           print(mfoID + " " + exhibitName + ": " + str(viz))
 
-          descShort       = getAnswer(sub,40)
+          descShort       = getAnswerByName(ans,"exhibitShort")
           #descShort = descShort.replace('"', '\\"')
 
-          descLong        = getAnswer(sub,41)
+          descLong        = getAnswerByName(ans,"exhibitLong")
           #descLong = descLong.replace('"', '\\"')
 
-          categories      = getAnswer(sub,64)
+          categories      = getAnswerByName(ans,"exhibitCategories")
 
-          exhibitImage    = processImage(mfoID,slug,"exhibit",getAnswer(sub,43)[0])
+          exhibitImage    = processImage(mfoID,slug,"exhibit",getAnswerByName(ans,"exhibitImage")[0])
 
-          exhibitAddlImages = getAnswer(sub,44)
+          exhibitAddlImages = getAnswerByName(ans,"exhibitImage44")
 
-          exhibitVideo    = getAnswer(sub,45)
-          exhibitWebsite  = getAnswer(sub,46)
-          makerName       = getAnswer(sub,15)
-          makerDesc       = getAnswer(sub,16)
+          exhibitVideo    = getAnswerByName(ans,"youtubeVideo")
+          exhibitWebsite  = getAnswerByName(ans,"exhibitWebsite")
+          makerName       = getAnswerByName(ans,"nameOf")
+          makerDesc       = getAnswerByName(ans,"maker")
+          makerImage      = processImage(mfoID,slug,"maker",getAnswerByName(ans,"maker18")[0])
+          makerEmail      = getAnswerByName(ans,"maker19")
+          makerWebsite    = getAnswerByName(ans,"maker20")
+          makerTwitter    = getAnswerByName(ans,"maker21")
+          makerInstagram  = getAnswerByName(ans,"maker22")
+          makerFacebook   = getAnswerByName(ans,"maker23")
+          makerYouTube    = getAnswerByName(ans,"maker24")
 
-
-          #makerDesc = makerDesc.replace('"', '\\"')
-
-          makerImage      = processImage(mfoID,slug,"maker",getAnswer(sub,18)[0])
-          makerEmail      = getAnswer(sub,19)
-          makerWebsite    = getAnswer(sub,20)
-          makerTwitter    = getAnswer(sub,21)
-          makerInstagram  = getAnswer(sub,22)
-          makerFacebook   = getAnswer(sub,23)
-          makerYouTube    = getAnswer(sub,24)
 
           # create Exhibit markdown file
 
