@@ -21,9 +21,8 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 
 ---
 
-## Application Deadline: September 1st, 2021
-
-&nbsp;
+## Exhibit Applications
+Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted. 
 
 ### [Click Here to Apply](https://www.jotform.com/makereffect/cfm2021)
 
