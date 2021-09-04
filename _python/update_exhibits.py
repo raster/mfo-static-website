@@ -27,12 +27,18 @@ import datetime
 import os.path
 from os import path
 
-eventYear = 2021
-outputAll = False
 
-#todo: add command line param to force write all exhibits
+#settings
+eventYear = 2021
+formCFM = "Call For Makers MFO2021"
+formRuckus = "CFM - Ruckus - MFO2021"
+
+
+outputAll = False #this is now set with a command line param, don't change it here
+
+
+
 #todo: write the exhibit URL back to jotform for easy linking :)
-#todo: create a sanitize function that deals with double quotes, etc.
 #todo: remove withdrawn / cancelled exhibits...
 
 
@@ -53,15 +59,17 @@ def getAnswer (sub, id):
   return answer
 
 def getAnswerByName (aDict, id):
-  answer = aDict.get(id)
-  #sanitize any quotes in the answer
-  #but don't do it if variable is List or None
-  if isinstance(answer, str):
-    answer = answer.replace('"', '\\"')
+  try:
+    answer = aDict.get(id)
+    #sanitize any quotes in the answer
+    #but don't do it if variable is List or None
+    if isinstance(answer, str):
+      answer = answer.replace('"', '\\"')
 
-  return answer
-
-
+    return answer
+  except :
+    print ("Error: getAnswerByName - " + id)
+    sys.exit(1)
 # save image locally if not exists
 # return local url
 def processImage(eid, eslug, type, url):
@@ -145,7 +153,7 @@ def export(outputAll):
       yamlFile = 'private.yaml'
     else:
       print("Error: Cannot locate settings file")
-      sys.exit()
+      sys.exit(1)
 
     with open(yamlFile) as settingsFile:
       settings = yaml.load(settingsFile, Loader = yaml.FullLoader)
@@ -160,8 +168,18 @@ def export(outputAll):
 
     for form in forms:
       #print form["title"]
-      if form["title"] == "Call For Makers MFO2021":
 
+
+      if form["title"] == formCFM or form["title"] == formRuckus:
+
+        #we need to know later what we are processing
+        if form["title"] == formCFM:
+          isRuckus = False
+        elif form["title"] == formRuckus:
+          isRuckus = True
+
+        print("-------------------------------------------")
+        print (form["title"])
         #print form
         print(form["id"] + " " + form["title"])
         submissions = jotformAPIClient.get_form_submissions(form["id"], limit = 1000)
@@ -179,6 +197,8 @@ def export(outputAll):
             #looking only for the items with user responses
             if "answer" not in info:
               continue
+
+
 
             #print("answer: " +  info["answer"])
 
@@ -235,17 +255,21 @@ def export(outputAll):
 
           exhibitAddlImages = getAnswerByName(ans,"exhibitImage44")
 
-          exhibitVideo    = getAnswerByName(ans,"youtubeVideo")
+          exhibitVideo    = getAnswerByName(ans,"exhibitYouTube")
           exhibitWebsite  = getAnswerByName(ans,"exhibitWebsite")
-          makerName       = getAnswerByName(ans,"nameOf")
-          makerDesc       = getAnswerByName(ans,"maker")
+          makerName       = getAnswerByName(ans,"makerName")
+          makerDesc       = getAnswerByName(ans,"makerDesc")
+
+          #jotform currently does not let you change the field name of these image fields :(
+          #it looks possible via API, but trying to keep it simple at the moment :)
+
           makerImage      = processImage(mfoID,slug,"maker",getAnswerByName(ans,"maker18")[0])
-          makerEmail      = getAnswerByName(ans,"maker19")
-          makerWebsite    = getAnswerByName(ans,"maker20")
-          makerTwitter    = getAnswerByName(ans,"maker21")
-          makerInstagram  = getAnswerByName(ans,"maker22")
-          makerFacebook   = getAnswerByName(ans,"maker23")
-          makerYouTube    = getAnswerByName(ans,"maker24")
+          makerEmail      = getAnswerByName(ans,"makerEmail")
+          makerWebsite    = getAnswerByName(ans,"makerWebsite")
+          makerTwitter    = getAnswerByName(ans,"makerTwitter")
+          makerInstagram  = getAnswerByName(ans,"makerInstagram")
+          makerFacebook   = getAnswerByName(ans,"makerFacebook")
+          makerYouTube    = getAnswerByName(ans,"makerYouTube")
 
 
           # create Exhibit markdown file
@@ -260,23 +284,28 @@ def export(outputAll):
               #print (yData)
               #parse(yData)
               for data in yData:
-                lastExport = data.get('last-exported')
-                lastMod = sub["updated_at"]
-                #print ('last-exported: ', lastExport)
-                #print ('last-modified: ', lastMod)
+                if "last-exported" not in data:
+                  export = True
 
-                dtExport = time.strptime(lastExport, '%Y-%m-%d %H:%M:%S')
-                dtMod    = time.strptime(lastMod, '%Y-%m-%d %H:%M:%S')
+                else:
+                  lastExport = data.get('last-exported')
 
-                export = dtMod > dtExport
+                  lastMod = sub["updated_at"]
+                  #print ('last-exported: ', lastExport)
+                  #print ('last-modified: ', lastMod)
 
-                #print ('last-exported: ', dtExport)
-                #print ('last-modified: ', dtMod)
+                  dtExport = time.strptime(lastExport, '%Y-%m-%d %H:%M:%S')
+                  dtMod    = time.strptime(lastMod, '%Y-%m-%d %H:%M:%S')
 
-                #print (export)
+                  export = dtMod > dtExport
 
-                break
-                #only read from the first document
+                  #print ('last-exported: ', dtExport)
+                  #print ('last-modified: ', dtMod)
+
+                  #print (export)
+
+                  break
+                  #only read from the first document
 
           if export or outputAll:
 
@@ -356,9 +385,15 @@ def export(outputAll):
             #categories
             outfile.write("categories: \n")
 
-            for category in categories:
+            if isRuckus:
+              category = "Combat Robots"
               outfile.write ("  - slug: " + slugify(category) + "\n")
               outfile.write ("    name: " + category + "\n")
+
+            else:
+              for category in categories:
+                outfile.write ("  - slug: " + slugify(category) + "\n")
+                outfile.write ("    name: " + category + "\n")
 
             #metadata
             outfile.write ("created-jotform: " + '"' + sub["created_at"] + '"' + "\n")
@@ -373,6 +408,7 @@ def export(outputAll):
             outfile.write("\n---\n")
             outfile.close()
 
+    todo: count regular CFM vs Ruckus CFM separately and also give total
     print("Submissions Found: " + str(countSubmissions))
     print("Submissions Visible: " + str(countVisible))
     print("Exhibits Removed: " + str(countExhibitsRemoved))
