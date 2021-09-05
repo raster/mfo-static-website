@@ -55,6 +55,7 @@ scrolltop: true
           <img src="{{exhibit.image-primary.medium}}" style="width:300px; height:auto"></a>
         </div>
         <div class="title-container"><a href="{{exhibit.url}}">{{exhibit.title}}</a></div>
+        <div class="description-container" style="display:none">{{exhibit.description}}</div>
       </div>
 
 
