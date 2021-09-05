@@ -1,0 +1,78 @@
+{% comment %}
+This doesnt really work as intended. Bootstrap carousel doesn't have enough features,
+would likely need to use owl carousel or similar...and not sure it is worth it on an already large page
+{% endcomment %}
+
+
+<div class="full-width">
+  <div id="carousel-area">
+    <div id="mfoCarousel" class="carousel slide" data-ride="carousel" style="overflow:hidden; max-height:600px">
+
+      {% if page.carousel-indicators %}
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        {% for exhibit in site.data.featured-exhibits.makers-carousel %}
+          {% if forloop.first %}
+            <li data-target="#mfoCarousel" data-slide-to="0" class="active"></li>
+          {% else %}
+            <li data-target="#mfoCarousel" data-slide-to="{{forloop.index | minus: 1}}"></li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+      {% endif %}
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+
+        {% for exhibit in site.data.featured-exhibits.makers-carousel %}
+          {%- assign f = site.exhibits | where: "exhibit-id", exhibit.exhibit-id -%}
+          {%- if exhibit.image -%}
+            {%- assign i = exhibit.image -%}
+          {%- else -%}
+            {%- assign i = f[0].image-primary.medium -%}
+          {%- endif -%}
+
+          {%- if exhibit.title -%}
+            {%- assign t = exhibit.title -%}
+          {%- else -%}
+            {%- assign t = f[0].title -%}
+          {%- endif -%}
+
+          {%- if exhibit.description -%}
+            {%- assign d = exhibit.description -%}
+          {%- else -%}
+            {%- assign d = f[0].description -%}
+          {%- endif -%}
+
+          {%- if exhibit.url -%}
+            {%- assign u = exhibit.url -%}
+          {%- else -%}
+            {%- assign u = f[0].url -%}
+          {%- endif -%}
+
+          {% if forloop.first %}
+            <div class="item active" id="{{forloop.index}}">
+          {% else %}
+            <div class="item" id="{{forloop.index}}">
+          {% endif %}
+              <a href="{{ u }}"><img src="{{ i | relative_url }}" alt="{{t}}" style="width:100%;"></a>
+            </div>
+        {% endfor %}
+
+      </div>
+
+      {% if page.carousel-controls %}
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#mfoCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#mfoCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
