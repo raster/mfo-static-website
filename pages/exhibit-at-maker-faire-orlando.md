@@ -22,13 +22,30 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 ---
 
 ## Exhibit Applications
-Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted. 
+Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
 
-### [Click Here to Apply](https://www.jotform.com/makereffect/cfm2021)
+&nbsp;  
+
+**COMBAT ROBOT COMPETITORS:** You will be emailed a special form just for Combat Robots after you register on buildersdb and are accepted into the competition - you do not need to complete this form.
 
 &nbsp;
 
-**COMBAT ROBOT COMPETITORS: You will be emailed a special form just for Combat Robots after you register on buildersdb and are accepted into the competition - you do not need to complete this form.**
+#### What You Will Need to Apply
+
+* Maker / Maker Group Information - Name, Image (logo or pic), website, social media pages, etc.
+* Exhibit Information - Name, description, images, website, social media pages, etc.
+* Exhibit Availability (Ideally Maker Faire exhibits are available all weekend)
+* Exhibit Requirements - Power, water, light levels, sound levels, safety, time needed to setup, etc.
+
+Please create a compelling exhibit application, and choose pictures / descriptions that will be compelling to Maker Faire attendees. For examples of exhibits, you can view our [maker exhibits page](/makers/). You will have the opportunity to edit your exhibit application once submitted, and the Maker Faire Orlando team will contact you if you exhibit application does not contain enough information.
+
+&nbsp;
+
+#### [Click Here to Apply](https://www.jotform.com/makereffect/cfm2021)
+
+
+&nbsp;
+
 
 Exhibits are not approved in the order received, and it will be several weeks before we start the application process. We will contact you via the email provided in the exhibit application if we need more information or when your application has been approved or rejected. We are an all-volunteer team and we appreciate your patience as we process hundreds of applications.
 
