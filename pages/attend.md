@@ -22,7 +22,12 @@ scrolltop: true
 Maker Faire Orlando is a non-profit, community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It’s an event where people show what they are making and share what they are learning. The individuals behind these exhibits are known as “Makers” and they range from tech enthusiasts to crafters to homesteaders to scientists to garage tinkerers. They are of all ages and backgrounds. The aim of Maker Faire is to entertain, inform, connect and grow this community.
 
 ---
+## Win a Professional 3D Printer!
+By purchasing a ticket to Maker Faire Orlando online by November 12th, 2021, you are automatically entered to win a DeltaMaker 3d Printer!*  
 
+![3D Printer giveaway](/assets/images/deltamaker-giveaway.jpg)
+
+---
 ## Maker Faire Orlando 2021
 
 Saturday, November 13th & Sunday, November 14th
@@ -76,3 +81,7 @@ Please see our [Educators page](/educators) for more information.
 
 
 **Questions? Email <tickets@makerfaireorlando.com>**
+
+---
+
+*No Purchase Necessary. Tickets must be purchased by 11/12/2021. To receive a single entry for the DeltaMaker 3D Printer giveaway, mail your contact information (name, email address and phone number) to Maker Faire Orlando 3D Printer Giveaway c/o The Maker Effect Foundation, PO Box 3142, Windermere, FL 34786. Entries must be postmarked no later than 11/12/2021.
