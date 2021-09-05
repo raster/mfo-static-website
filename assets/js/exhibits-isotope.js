@@ -53,6 +53,15 @@ jQuery('.button-group').on( 'click', 'button', function() {
 });
 
 
+// Enable shuffle button
+jQuery(function() {
+  jQuery('#shuffle').click (function() {
+    console.log("Shuffle!");
+    $container.isotope('shuffle')
+  });
+
+});
+
 var fv = jQuery('#category').attr('class');
 if (fv) {
 	console.log("filter category:" + fv);
