@@ -408,7 +408,7 @@ def export(outputAll):
             outfile.write("\n---\n")
             outfile.close()
 
-    todo: count regular CFM vs Ruckus CFM separately and also give total
+    #todo: count regular CFM vs Ruckus CFM separately and also give total
     print("Submissions Found: " + str(countSubmissions))
     print("Submissions Visible: " + str(countVisible))
     print("Exhibits Removed: " + str(countExhibitsRemoved))
