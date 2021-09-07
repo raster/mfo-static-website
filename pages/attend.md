@@ -23,7 +23,7 @@ Maker Faire Orlando is a non-profit, community-organized, family-friendly celebr
 
 ---
 ## Win a Professional 3D Printer!
-By purchasing a ticket to Maker Faire Orlando online by November 12th, 2021, you are automatically entered to win a DeltaMaker 3d Printer!*  
+By purchasing a ticket to Maker Faire Orlando online by November 12th, 2021, you are automatically entered to win a DeltaMaker 3D Printer!*  
 
 ![3D Printer giveaway](/assets/images/deltamaker-giveaway.jpg)
 
