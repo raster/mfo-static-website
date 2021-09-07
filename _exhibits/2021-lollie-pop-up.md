@@ -49,7 +49,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-62-exhibit-addl7-lollie-pop-up-fa745ba1-8f26-464f-8333-40d6bb133fdf-medium.jpeg
     large: /assets/images/exhibit-images/21-62-exhibit-addl7-lollie-pop-up-fa745ba1-8f26-464f-8333-40d6bb133fdf-large.jpeg
     full: /assets/images/exhibit-images/21-62-exhibit-addl7-lollie-pop-up-fa745ba1-8f26-464f-8333-40d6bb133fdf-full.jpeg
-website: https://etsy.me/3kkubfx
+website: https://www.etsy.com/shop/lolliepopup
 instagram: https://www.instagram.com/lolliepopup?igshid=sl2ii7cwiez1
 maker: 
   name: "Loretta Kwan"
@@ -63,8 +63,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-09 13:11:44"
-last-modified-jotform: "2021-08-30 10:36:00"
-last-exported: "2021-08-30 20:15:32"
+last-modified-jotform: "2021-09-06 19:50:44"
+last-exported: "2021-09-06 20:39:44"
 sitemap: false
 
 ---
