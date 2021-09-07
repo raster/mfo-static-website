@@ -15,7 +15,7 @@ sponsors:
     url: https://www.sundanceusa.com
     logo: Sundance-Logo-Final_horz_CMYK.png
     level: 3
-    active: false
+    active: true
   - name: Prusa Reseach
     url: https://www.prusa3d.com/
     logo: prusaresearch.png
@@ -25,12 +25,12 @@ sponsors:
     url: https://www.bocabearings.com/
     logo: boca_bearings_small.png
     level: 3
-    active: false
+    active: true
   - name: TLC Engineering
     url: https://tlc-engineers.com/
     logo: tlc-engineering.jpg
     level: 5
-    active: false
+    active: true
   - name: DeltaMaker 3D Printers
     url: https://www.deltamaker.com
     logo: deltamaker-logo-3d-printers.png
@@ -75,7 +75,7 @@ sponsors:
     url: https://www.skycraftsurplus.com
     logo: skycraft_saucer_logo_wht-line-Maker.png
     level: 5
-    active: false
+    active: true
   - name: Brasfield & Gorrie
     url: https://www.brasfieldgorrie.com/
     logo: Brasfield-Gorrie-Logo-Blue-JPG.jpg
