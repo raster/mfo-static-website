@@ -77,7 +77,7 @@ Please see our [Educators page](/educators) for more information including requi
 **Registered groups from Title I schools receive free admission** to Maker Faire Orlando 2021.
 Please see our [Educators page](/educators) for more information.
 
-**First Responders, Active Military and Veterans receive free admission** to Maker Faire Orlando 2021 with identification.
+**First Responders, Active Military and Veterans receive free admission** to Maker Faire Orlando 2021 with identification. Simply bring your identification to the ticket booth at the event to receive a free ticket per eligible person with identification.
 
 
 **Questions? Email <tickets@makerfaireorlando.com>**
