@@ -5,8 +5,8 @@ title: "Galactic Problems Art"
 slug: galactic-problems-art
 permalink: /exhibits/galactic-problems-art/
 exhibit-id: 21-30
-description: "Illustrator making comics and scifi art!"
-description-long: "Hiya! I&#039;m Daniella, and I&#039;m a digital illustrator. My current passion project is an original comic series called Galactic Problems, and the story revolves around a group of private investigators in space solving mysteries. Outside of personal work, I love making art of the stories that inspire me to create. Star Wars, anime, cartoons, I love it all. I&#039;ll be selling both original and fanart at my table, as well as sharing whatever info about my job I can! "
+description: "Illustrator making fun things!"
+description-long: "Hi! I&#039;m Daniella, and I&#039;m a digital illustrator. I&#039;ll be showing my work and selling some cool merch. ^^"
 image: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-large.png
 image-primary: 
   small: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-small.png
@@ -52,7 +52,7 @@ additional-images:
 instagram: https://www.instagram.com/galactic_problems_/
 maker: 
   name: "Daniella Krasulski"
-  description: "Hi! I&#039;m a freelance illustrator currently working on an original comic series, and I also design merchandise on the side! "
+  description: "Illustrator and huge nerd."
   image-primary: /assets/images/exhibit-images/21-30-maker-galactic-problems-art-newiconforposting-medium.png
 categories: 
   - slug: art
@@ -62,8 +62,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-07-26 13:26:08"
-last-modified-jotform: "2021-09-06 19:52:54"
-last-exported: "2021-09-06 20:39:44"
+last-modified-jotform: "2021-09-13 08:06:04"
+last-exported: "2021-09-13 19:27:19"
 sitemap: false
 
 ---
