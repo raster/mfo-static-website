@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "How to Make Your Dragon"
 slug: how-to-make-your-dragon
@@ -27,7 +27,7 @@ additional-images:
 youtube: https://www.youtube.com/channel/ucxbjkgj-oxxr8n7wniymh7q
 maker: 
   name: "Bill and Marlene Hyde"
-  description: "Retired Dragonriders (hot air balloon pilots) that get a kick out of making things"
+  description: "Retired Dragonriders (hot air balloon pilots) that get a kick out of making things "
   image-primary: /assets/images/exhibit-images/21-71-maker-how-to-make-your-dragon-bloonpilots-medium.jpg
 categories: 
   - slug: arduino
@@ -41,8 +41,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2021-08-12 15:40:36"
-last-modified-jotform: "2021-08-21 23:17:10"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-09-20 13:30:24"
+last-exported: "2021-09-20 15:08:40"
 sitemap: false
 
 ---
