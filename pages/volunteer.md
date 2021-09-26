@@ -1,6 +1,7 @@
 ---
 title: Volunteer at Maker Faire Orlando!
 layout: default
+image: /assets/images/volunteer-solder.jpg
 permalink: /volunteer/
 redirect_from: /volunteers/
 carousel: true
