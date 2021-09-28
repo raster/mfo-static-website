@@ -91,3 +91,8 @@ sponsors:
     logo: Tylted-Art-Logo-300x177.png
     level: 4
     active: true
+  - name: Surrogate.tv
+    url: https://www.surrogate.tv
+    logo: surrogate.png
+    level: 4
+    active: true
