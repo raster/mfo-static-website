@@ -2,19 +2,16 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 21-78 #B&K Magnificent Miniatures
-  - exhibit-id: 21-93 #junko
-    image: /assets/images/exhibit-images/21-93-exhibit-addl6-junkos-pop-emporium-img-7917-medium.JPG
-  - exhibit-id: 21-71 #how to make your dragon
-  - exhibit-id: 21-105 #dragon's horde
-  - exhibit-id: 21-48 #k gentry art
-    title: K Gentry Art
-    description: Character art prints, canvases and character art books
-    image: assets/images/exhibit-images/21-48-exhibit-addl1-k-gentry-art-llc-0e36fa78-296d-40e1-b138-b7f2a3fd45ed-medium.jpeg
-  - exhibit-id: 21-77 #cosplay 3d printing ironman
-  - exhibit-id: 21-2 #retrocomputing
-  - exhibit-id: 21-47 #lazy gt
-    image: assets/images/exhibit-images/21-47-exhibit-addl2-lazy-gt-power-racing-series-2019-07-08-09-51-36-medium.jpg
+  - exhibit-id: 21-127 #Creamated plastic
+  - exhibit-id: 21-134 #deltamaker
+  - exhibit-id: 21-123 #crafty nerd
+  - exhibit-id: 21-39  #dolphinitely
+
+
+#  - exhibit-id: 21-48 #k gentry art
+#    title: K Gentry Art
+#    description: Character art prints, canvases and character art books
+#    image: assets/images/exhibit-images/21-48-exhibit-addl1-k-gentry-art-llc-0e36fa78-296d-40e1-b138-b7f2a3fd45ed-medium.jpeg
 
 makers-carousel:
   - exhibit-id: 21-48 #k gentry art
