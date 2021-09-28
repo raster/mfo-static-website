@@ -229,8 +229,13 @@ def export(outputAll):
           fName = "../_exhibits/" + str(eventYear) + "-" +slug + ".md"
 
           viz = False
-          if getAnswerByName(ans,"visibility") is not None:
-            viz = True
+          vizAns = getAnswerByName(ans,"visibility")
+
+          if vizAns:
+            if 'Show on Website' in vizAns:
+              viz = True
+
+          if viz == True:
             countVisible = countVisible+1
 
           else:
