@@ -1,6 +1,7 @@
 ---
 title: Sponsor Maker Faire Orlando
 permalink: /become-a-sponsor/
+redirect_from: /sponsor/
 layout: default
 image: /assets/images/slider/prusa_sponsor.jpg
 
