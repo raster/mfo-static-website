@@ -70,7 +70,7 @@ sponsors:
     url: https://doradographix.com/
     logo: DoradoLogo3x2.jpg
     level: 5
-    active: false
+    active: true
   - name: Skycraft
     url: https://www.skycraftsurplus.com
     logo: skycraft_saucer_logo_wht-line-Maker.png
