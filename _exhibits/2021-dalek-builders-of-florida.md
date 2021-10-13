@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Dalek Builders of Florida"
 slug: dalek-builders-of-florida
@@ -31,8 +31,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2021-07-07 18:55:45"
-last-modified-jotform: "2021-08-22 10:46:55"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-10-13 07:28:46"
+last-exported: "2021-10-13 07:39:59"
 sitemap: false
 
 ---

@@ -49,7 +49,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21R-66-exhibit-addl7-team-xbot-nyx-top-inside-medium.png
     large: /assets/images/exhibit-images/21R-66-exhibit-addl7-team-xbot-nyx-top-inside-large.png
     full: /assets/images/exhibit-images/21R-66-exhibit-addl7-team-xbot-nyx-top-inside-full.png
-website: https://www.teamxbot.ca/
+website: http://www.teamxbot.ca/
 facebook: https://www.facebook.com/team-xbot-111682530629700/about/?ref=page_internal
 youtube: https://www.youtube.com/channel/ucdaftwy4-atgdfkkxrw8hmg
 maker: 
@@ -60,8 +60,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-22 17:36:25"
-last-modified-jotform: "2021-09-22 20:10:28"
-last-exported: "2021-09-22 20:11:05"
+last-modified-jotform: "2021-10-06 20:12:44"
+last-exported: "2021-10-06 20:18:04"
 sitemap: false
 
 ---
