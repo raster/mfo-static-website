@@ -70,6 +70,7 @@ def getAnswerByName (aDict, id):
   except :
     print ("Error: getAnswerByName - " + id)
     sys.exit(1)
+
 # save image locally if not exists
 # return local url
 def processImage(eid, eslug, type, url):
@@ -91,6 +92,15 @@ def processImage(eid, eslug, type, url):
   if not path.exists(fullFn):
     url = url.replace(" ", "%20")
     print ("Downloading: " + url)
+
+    #from https://www.py4u.net/discuss/12680
+    url = urllib.parse.urlsplit(url)
+    url = list(url)
+    url[2] = urllib.parse.quote(url[2])
+    url = urllib.parse.urlunsplit(url)
+    print(url)
+
+
     resource = urllib.request.urlopen(url)
     output = open(fullFn,"wb")
     output.write(resource.read())
