@@ -5,23 +5,18 @@
 { "attend_link": "https://makers.makerfaireorlando.com/attend",
 "accepteds_count": {{ site.exhibits.size }},
 "accepteds":[
-
 {% for exhibit in site.exhibits limit: page.limit %}
-
     {
-      "id"     : "{{ exhibit.exhibit-id }}",
-      "project_name": "{{ exhibit.title | remove: '"' }}",
-      "description": "{{ exhibit.description-long | remove: '"' }}",
+      "id": "{{ exhibit.exhibit-id }}",
+      "project_name": {{ exhibit.title | smartify | jsonify }},
+      "description": {{ exhibit.description-long | smartify | jsonify }},
       "web_site": "{{ exhibit.website | escape }}",
       "promo_url": "{{ exhibit.url | absolute_url  | escape }}",
-      "project_short_summary": "{{exhibit.description | remove: '"' }}",
-
-
-      {% if exhibit.categories %} "exhibit_category"  : [
+      "project_short_summary": {{exhibit.description | smartify | jsonify }},
+      {% if exhibit.categories %} "exhibit_category":[
         {% for category in exhibit.categories %}
           {% if category.name != nil %}
-            {% if forloop.first %}{% else %},{% endif %}
-            "{{ category.name }}"
+            {% if forloop.first %}{% else %},{% endif %}"{{ category.name }}"
           {% endif %}
         {% endfor %}
         ],
@@ -31,8 +26,8 @@
       "location": "{{exhibit.location}}",
       "photo_link": "{{ exhibit.image | absolute_url }}",
       "maker": {
-                "name": "{{exhibit.maker.name | remove: '"' }}",
-                "description": "{{exhibit.maker.description | remove: '"' }}",
+                "name": {{exhibit.maker.name | smartify | jsonify }},
+                "description": {{exhibit.maker.description | smartify | jsonify }},
                 "photo_link": "{{exhibit.maker.image-primary | escape}}"
               }
     }
