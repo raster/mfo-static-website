@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Florida Destination Imagination"
 slug: florida-destination-imagination
@@ -43,8 +43,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2021-07-27 14:10:06"
-last-modified-jotform: "2021-08-22 10:53:00"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-10-21 09:37:51"
+last-exported: "2021-10-24 07:41:49"
 sitemap: false
 
 ---
