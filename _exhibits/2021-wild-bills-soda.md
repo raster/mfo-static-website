@@ -14,7 +14,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-167-exhibit-wild-bills-soda-img-4727-large.jpg
   full: /assets/images/exhibit-images/21-167-exhibit-wild-bills-soda-img-4727-full.jpg
 additional-images: 
-website: http://drinkwildbills.com
+website: https://www.drinkwildbills.com
 twitter: https://www.twitter.com/wildbillssoda
 instagram: https://www.instagram.com/wildbillssoda/
 facebook: https://www.facebook.com/wildbillssoda
@@ -28,8 +28,8 @@ categories:
   - slug: food
     name: Food
 created-jotform: "2021-10-07 12:14:02"
-last-modified-jotform: "2021-10-09 07:32:50"
-last-exported: "2021-10-11 19:20:40"
+last-modified-jotform: "2021-10-24 08:09:22"
+last-exported: "2021-10-24 08:12:08"
 sitemap: false
 
 ---

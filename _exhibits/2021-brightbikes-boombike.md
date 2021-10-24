@@ -25,7 +25,7 @@ additional-images:
     large: /assets/images/exhibit-images/21-180-exhibit-addl2-brightbikes-boombike-img-3226-large.jpg
     full: /assets/images/exhibit-images/21-180-exhibit-addl2-brightbikes-boombike-img-3226-full.jpg
 website: https://www.makerfx.org
-facebook: https://www.facebook.com/ https:///makerfx
+facebook: https://www.facebook.com/ https:///makerfxspace 
 youtube: https://www.youtube.com/channel/uc2pz8rwecjs8sca02bazerg
 maker: 
   name: "MakerFX Makerspace"
@@ -43,8 +43,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-10-21 07:47:30"
-last-modified-jotform: "2021-10-24 07:39:23"
-last-exported: "2021-10-24 08:03:26"
+last-modified-jotform: "2021-10-24 08:10:50"
+last-exported: "2021-10-24 08:12:08"
 sitemap: false
 
 ---

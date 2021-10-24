@@ -14,8 +14,8 @@ image-primary:
   large: /assets/images/exhibit-images/21-181-exhibit-skullbox-useless-machine-img-20190531-120039867-large.jpg
   full: /assets/images/exhibit-images/21-181-exhibit-skullbox-useless-machine-img-20190531-120039867-full.jpg
 additional-images: 
-website: http://makerfx.org
-facebook: https://www.facebook.com/makerfx
+website: https://www.makerfx.org
+facebook: https://www.facebook.com/makerfxspace 
 youtube: https://www.youtube.com/channel/uc2pz8rwecjs8sca02bazerg
 maker: 
   name: "MakerFX Makerspace"
@@ -33,8 +33,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-10-21 08:07:43"
-last-modified-jotform: "2021-10-21 08:47:35"
-last-exported: "2021-10-24 07:41:43"
+last-modified-jotform: "2021-10-24 08:10:46"
+last-exported: "2021-10-24 08:12:08"
 sitemap: false
 
 ---
