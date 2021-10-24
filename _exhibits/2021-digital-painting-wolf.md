@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Digital Painting Wolf"
 slug: digital-painting-wolf
@@ -79,8 +79,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-07-24 16:12:14"
-last-modified-jotform: "2021-08-22 10:47:03"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-10-24 12:26:46"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

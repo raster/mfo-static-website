@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Switch and Relay Logic Circuits"
 slug: switch-and-relay-logic-circuits
@@ -77,8 +77,8 @@ categories:
   - slug: internet-of-things
     name: Internet of Things
 created-jotform: "2021-08-08 11:37:10"
-last-modified-jotform: "2021-08-22 10:53:36"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:58:54"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "GFLUG Display"
 slug: gflug-display
@@ -31,8 +31,8 @@ categories:
   - slug: lego
     name: LEGO
 created-jotform: "2021-08-05 15:11:31"
-last-modified-jotform: "2021-08-22 10:53:30"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:59:02"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

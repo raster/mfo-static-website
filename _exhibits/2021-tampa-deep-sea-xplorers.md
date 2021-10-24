@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Tampa Deep Sea Xplorers"
 slug: tampa-deep-sea-xplorers
@@ -52,8 +52,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2021-08-03 14:04:25"
-last-modified-jotform: "2021-08-22 10:53:12"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:59:57"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

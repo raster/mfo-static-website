@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "IoT Scavenger Quest"
 slug: iot-scavenger-quest
@@ -35,8 +35,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2021-07-26 19:45:27"
-last-modified-jotform: "2021-08-22 10:52:58"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-10-24 12:00:47"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

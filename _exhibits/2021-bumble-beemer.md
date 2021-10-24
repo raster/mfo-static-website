@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Bumble Beemer"
 slug: bumble-beemer
@@ -24,8 +24,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2021-08-09 17:35:09"
-last-modified-jotform: "2021-08-21 23:17:50"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:52:37"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

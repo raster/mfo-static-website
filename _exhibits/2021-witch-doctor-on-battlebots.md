@@ -24,8 +24,8 @@ categories:
   - slug: battlebot
     name: BattleBot
 created-jotform: "2021-10-03 10:37:04"
-last-modified-jotform: "2021-10-03 10:49:57"
-last-exported: "2021-10-03 10:50:52"
+last-modified-jotform: "2021-10-24 11:39:24"
+last-exported: "2021-10-24 14:26:04"
 sitemap: false
 
 ---

@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Gecko Kart"
 slug: gecko-kart
@@ -45,8 +45,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2021-08-23 10:08:38"
-last-modified-jotform: "2021-08-23 22:15:49"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:48:20"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

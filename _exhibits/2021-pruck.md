@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Pruck"
 slug: pruck
@@ -41,8 +41,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2021-08-05 08:55:06"
-last-modified-jotform: "2021-08-22 10:53:28"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:59:14"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

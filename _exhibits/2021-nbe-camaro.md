@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "NBE Camaro"
 slug: nbe-camaro
@@ -63,8 +63,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2021-08-23 09:46:02"
-last-modified-jotform: "2021-08-23 22:15:17"
-last-exported: "2021-08-25 06:47:45"
+last-modified-jotform: "2021-10-24 11:48:26"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---

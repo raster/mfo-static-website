@@ -1,5 +1,5 @@
 ---
-# note: title, decription, image are used for SEO
+# note: title, description, image are used for SEO
 
 title: "Blitz's Pull-Back Plinko"
 slug: blitzs-pull-back-plinko
@@ -32,8 +32,8 @@ categories:
   - slug: lego
     name: LEGO
 created-jotform: "2021-07-25 18:59:08"
-last-modified-jotform: "2021-08-22 10:52:52"
-last-exported: "2021-08-25 06:47:46"
+last-modified-jotform: "2021-10-24 14:13:51"
+last-exported: "2021-10-24 14:26:05"
 sitemap: false
 
 ---
