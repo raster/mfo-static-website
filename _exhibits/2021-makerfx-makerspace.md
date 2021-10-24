@@ -22,8 +22,7 @@ facebook: https://www.facebook.com/makerfxspace
 youtube: https://www.youtube.com/channel/uc2pz8rwecjs8sca02bazerg
 maker: 
   name: "MakerFX Makerspace"
-  description: "MakerFX is a makerspace located in south Orlando and is the group that produces MakerFaire Orlando!
-Stop by and see the latest creations from MakerFX Makerspace, learn about the community efforts we participated in during the pandemic, and learn more about our makerspace. "
+  description: "MakerFX Makerspace - A community makerspace located in Orlando, FL with the tools, resources and community to help you bring your idea to life!"
   image-primary: /assets/images/exhibit-images/21-120-maker-makerfx-makerspace-slide1-medium.jpg
 categories: 
   - slug: arduino
@@ -37,8 +36,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-09-01 11:20:32"
-last-modified-jotform: "2021-09-05 08:27:52"
-last-exported: "2021-09-05 08:27:54"
+last-modified-jotform: "2021-10-24 08:21:42"
+last-exported: "2021-10-24 08:22:09"
 sitemap: false
 
 ---

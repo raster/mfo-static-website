@@ -17,7 +17,7 @@ additional-images:
 youtube: https://www.youtube.com/user/harryarmst/featured?app=desktop
 maker: 
   name: "Harry Armstrong"
-  description: "Active member of the MakerFX Makerspace. Likes to make many different things."
+  description: "Harry is an active member of the MakerFX Makerspace. Likes to make many different things."
   image-primary: /assets/images/exhibit-images/21-95-maker-3-dimensional-can-crusher-enterprise-at-megacon-medium.jpg
 categories: 
   - slug: arduino
@@ -31,8 +31,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-08-25 09:49:37"
-last-modified-jotform: "2021-09-02 23:57:23"
-last-exported: "2021-09-02 23:57:42"
+last-modified-jotform: "2021-10-24 08:21:58"
+last-exported: "2021-10-24 08:22:09"
 sitemap: false
 
 ---

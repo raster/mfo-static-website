@@ -19,7 +19,7 @@ facebook: https://www.facebook.com/makerfxspace
 youtube: https://www.youtube.com/channel/uc2pz8rwecjs8sca02bazerg
 maker: 
   name: "MakerFX Makerspace"
-  description: "MakerFX Makerspace - The group that produces MakerFaire Orlando!"
+  description: "MakerFX Makerspace - A community makerspace located in Orlando, FL with the tools, resources and community to help you bring your idea to life!"
   image-primary: /assets/images/exhibit-images/21-181-maker-skullbox-useless-machine-download-medium.png
 categories: 
   - slug: 3d-printing
@@ -33,8 +33,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-10-21 08:07:43"
-last-modified-jotform: "2021-10-24 08:10:46"
-last-exported: "2021-10-24 08:12:08"
+last-modified-jotform: "2021-10-24 08:20:54"
+last-exported: "2021-10-24 08:22:09"
 sitemap: false
 
 ---
