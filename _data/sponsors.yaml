@@ -101,3 +101,8 @@ sponsors:
     logo: sora-schools.png
     level: 4
     active: true
+  - name: BetaFPV
+    url: https://www.betafpv.com
+    logo: betafpv.png
+    level: 4
+    active: true
