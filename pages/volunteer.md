@@ -26,7 +26,7 @@ You can register for open volunteer shifts by scrolling to the list of available
 ---
 
 ### More Details
-* **Maker Faire Orlando will comply with all CDC and government guidelines in effect as of the date of the event. At this time it is highly likely that volunteers will be required to wear masks. If you do not wish to wear a mask while volunteering, please do not register for a shift.**
+* **Maker Faire Orlando will comply with all CDC and government guidelines in effect as of the date of the event. It is recommended that volunteers wear masks while indoors or within close contact with others.**
 * Maker Faire Orlando volunteers must be 13 years of age or older.
 * Community service hours are available from The Maker Effect Foundation, a 501(c)(3) public charity.
 * If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at <volunteers@themakereffect.org>
