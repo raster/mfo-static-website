@@ -2,12 +2,11 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 21-127 #Creamated plastic
-  - exhibit-id: 21-134 #deltamaker
-  - exhibit-id: 21-123 #crafty nerd
-  - exhibit-id: 21-39  #dolphinitely
-    image: /assets/images/exhibit-images/21-39-exhibit-addl4-dolphinitely-designs-a09f41a8-1704-4111-82ee-f26d28dcf51d-large.jpeg
-
+  - exhibit-id: 21-180 #boombike
+  - exhibit-id: 21-147 #laser
+  - exhibit-id: 21-144 #void modular - synth
+  - exhibit-id: 21-143  #czartronics
+    
 
 
 #  - exhibit-id: 21-48 #k gentry art
