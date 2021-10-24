@@ -96,3 +96,8 @@ sponsors:
     logo: surrogate.png
     level: 4
     active: true
+  - name: Sora Schools
+    url: https://www.soraschools.com
+    logo: sora-schools.png
+    level: 4
+    active: true
