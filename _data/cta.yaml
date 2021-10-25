@@ -1,7 +1,9 @@
 topnav:
   text: Get Tickets!
-  url: https://makerfaireorlando.eventbrite.com
+  url: https://www.makerfaireorlando.com/attend
 
 footer:
-  text: Subscribe for Info
-  url: http://eepurl.com/bpCB8T
+#  text: Subscribe for Info
+#  url: http://eepurl.com/bpCB8T
+  text: Get Tickets!
+  url: https://www.makerfaireorlando.com/attend
