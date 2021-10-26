@@ -18,6 +18,11 @@ image-primary:
   large: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-large.jpg
   full: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-full.jpg
 additional-images: 
+  - 1:
+    small: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-small.jpg
+    medium: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-medium.jpg
+    large: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-large.jpg
+    full: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-full.jpg
 youtube: https://www.youtube.com/channel/uchs9ih9xj-2upmsvrn-nrma
 maker: 
   name: "Valencia College Embedded Workshop"
@@ -35,8 +40,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2021-07-26 19:45:27"
-last-modified-jotform: "2021-10-24 12:00:47"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-25 20:14:08"
+last-exported: "2021-10-26 07:14:09"
 sitemap: false
 
 ---
