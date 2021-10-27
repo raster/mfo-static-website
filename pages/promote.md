@@ -12,7 +12,8 @@ Tell your fans, friends and family they can see you at Maker Faire Orlando! Just
 
 ### Web Badge
 
-[![](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/MFO2019_Round_logo_V3_w_date.png)](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/07/MFO2019_Round_logo_V3_w_date.png)
+<a href="/assets/images/site-branding/2021/MFO2021_Round_logo_V3_w_date.jpg"><img src="/assets/images/site-branding/2021/MFO2021_Round_logo_V3_w_date.jpg" alt="Maker Faire Orlando 2021 round logo" width="400" /></a>
+
 
 [Email us](mailto:makers@makerfaireorlando.com) if you need a larger or vector version of the image above.
 
@@ -21,7 +22,7 @@ Twitter [@orlmakerfaire](https://twitter.com/makerfaire)
 
 Suggested and Common Maker Faire Hashtags
 
-#MFO2019\
+#MFO2021\
 #MakerFaire
 
 #RobotRuckus\
@@ -43,11 +44,15 @@ Postcards, Flyers & Social Images
 
 Postcards are available at MakerFX Makerspace, FamiLAB, Skycraft, Tampa Hackerspace, Rockler Woodworking and more.  [Email us](mailto:makers@makerfaireorlando.com) if you need a large quantity of postcards for your school, office, group, or location. Postcard images are linked to high-res PDFs.
 
-[![](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/mfo2019_postcard_1-1024x712.png)](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/MFO2019_postcard-front_2.pdf) [![](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/mfo2019_postcard_2-732x1024.png)](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/09/MFO2019_postcard_back_2.pdf)
+<a href="/assets/pdf/2021/2021-mfo-card1.pdf"><img src="/assets/images/site-branding/2021/mfo2021-postcard-side1.jpg" alt="Maker Faire Orlando postcard  - front" width="600" /></a>
+
+<a href="/assets/pdf/2021/2021-mfo-card2.pdf"><img src="/assets/images/site-branding/2021/mfo2021-postcard-side2.jpg" alt="Maker Faire Orlando postcard  - back" width="600"/></a>
+
 
 ### Flyers, Posters & More
 
-[![](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2019/10/mfo_2019_poster-667x1024.png)](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2018/08/MFO_2018_poster.pdf)
+<a href="/assets/pdf/2021/2021-mfo-poster-full.pdf"><img src="/assets/images/site-branding/2021/mfo2021-poster.jpg" alt="Maker Faire Orlando poster" width="600"/></a>
+
 
 Poster image is linked to high-res PDF.
 
@@ -62,10 +67,10 @@ Here you'll find the official Maker Faire Orlando logos to download and use for 
 
 The rules are simple: don't use them in a way that makes people think we've endorsed anyone's products or services, and when you use one on a website, it should link back to makerfaireorlando.com. If you do something neat with them on one of your projects, please let us know.
 
-[![](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2014/07/Orlando_MF_Logo_border-1-300x143.png)](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2014/07/Orlando_MF_Logo_border-1.png)
+[![](/assets/images/site-branding/mfo_one_line_border.png)](assets/images/site-branding/mfo_one_line_border.png)
 
-[![orlando_mf_logo_border](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2014/07/Orlando_MF_Logo_border-1024x193.png)](https://mfocdn-themakereffectfo.netdna-ssl.com/wp-content/uploads/2014/07/Orlando_MF_Logo_border.png)
+[![orlando_mf_logo_border](/assets/images/site-branding/mfo_two_line_border.png)](/assets/images/site-branding/mfo_two_line_border.png)
 
 [Email us](mailto:makers@makerfaireorlando.com) if you need a larger or vector versions of the images above.
 
-Need an even  higher resolution (or vector) Maker Faire Orlando Logo for a project or promotion? Email us at [makers@makerfaireorlando.com](mailto://makers@makerfaireorlando.com "Email us!") -- we'd love to help!
+Need an even higher resolution (or vector) Maker Faire Orlando Logo for a project or promotion? Email us at [makers@makerfaireorlando.com](mailto://makers@makerfaireorlando.com "Email us!") -- we'd love to help!
