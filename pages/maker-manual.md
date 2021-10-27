@@ -16,7 +16,7 @@ THANK YOU for exhibiting at Maker Faire Orlando! This "Maker Manual" covers many
 These details should not change, however we recommend checking this page in the days leading up to the event for any small changes to timing or load-in details that may arise one our team is setting up the event on-site.
 
 
-**If you have a question that isn’t addressed below, please email us at <makers@makerfaireorlando.com> (or for Combat Robot competitors, email the Robot Ruckus crew at <contact@robotruckus.org>)**
+**If you have a question that isn’t addressed below, please email us at <makers@makerfaireorlando.com> (or for Combat Robot competitors, email the Robot Ruckus crew at <contact@robotruckus.org>)** Please include your exhibit or team name in the email as it helps us quickly locate your exhibit.
 
 
 ## Exhibit Spaces
