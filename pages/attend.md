@@ -68,7 +68,7 @@ Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
-**COVID Guidelines** Based on the most recent guidance for Orange County, Fl, face coverings are strongly recommended for all participants while indoors (does not apply to children under 2). We will continue to monitor guidance and update our COVID plan as changes are made.
+**COVID Guidelines** Based on the most recent guidance for Orange County, Fl, face coverings are strongly recommended for all participants while indoors (does not apply to children under 2). We will continue to monitor guidance and update our COVID plan as guidance changes.
 
 **Homeschool educators receive free admission** to Maker Faire Orlando 2021 with identification and documentation.
 Please see our [Homeschool Programs page](/homeschool) for more information including requirements and restrictions.
