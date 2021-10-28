@@ -264,6 +264,14 @@ def export(outputAll):
           descLong        = getAnswerByName(ans,"exhibitLong")
           #descLong = descLong.replace('"', '\\"')
 
+          if isRuckus:
+            spaceNumber = ""
+            exhibitZone = "Robot Ruckus (Spirit Building)"
+          else:
+            spaceNumber = getAnswerByName(ans,"spaceNumber")
+            exhibitZone = getAnswerByName(ans,"exhibitZone")
+            #note, there could be multiple exhibitZones
+
           categories      = getAnswerByName(ans,"exhibitCategories")
 
           exhibitImage    = processImage(mfoID,slug,"exhibit",getAnswerByName(ans,"exhibitImage")[0])
@@ -337,6 +345,13 @@ def export(outputAll):
             outfile.write("slug: " + slug + "\n")
             outfile.write("permalink: /exhibits/" + slug + "/\n")
             outfile.write("exhibit-id: " + mfoID + "\n")
+
+            if exhibitZone is not None:
+              outfile.write("exhibit-zone: " + '"' + exhibitZone + '"' + "\n")
+
+            if spaceNumber is not None:
+              outfile.write("space-number: " + '"' + spaceNumber + '"' + "\n")
+
             outfile.write("description: " + '"' + descShort + '"' + "\n")
             outfile.write("description-long: " + '"' + descLong + '"' + "\n")
 
