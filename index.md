@@ -37,7 +37,9 @@ carousel-slides:
 
 {% include featured-makers-grid.html %}
 
+{% comment %}
 {% include call-for-makers-widget.html %}
+{% endcomment %}
 
 {% comment %}
 
@@ -62,7 +64,7 @@ carousel-slides:
 {% endcomment %}
 
 
-
+{% comment %}
 <section class="content-panel">
 <div class="container">
 <div class="row">
@@ -80,6 +82,6 @@ carousel-slides:
 </div>
 <div class="flag-banner"></div>
 </section>
-
+{% endcomment %}
 
 {% include sponsors-carousel.html %}
