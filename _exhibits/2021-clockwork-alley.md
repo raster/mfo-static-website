@@ -5,6 +5,7 @@ title: "Clockwork Alley"
 slug: clockwork-alley
 permalink: /exhibits/clockwork-alley/
 exhibit-id: 21-44
+exhibit-zone: "Spirit"
 description: "Steampunk inspired jewelry and accessories. "
 description-long: "Jewelry and accessories made from vintage watch parts. We make necklaces, ring, earrings, hair accessories, pill boxes, cufflink&#039;s  and more.."
 image: /assets/images/exhibit-images/21-44-exhibit-clockwork-alley-43-lake-eola-street-photography-030-2-2661-large.jpg
@@ -50,7 +51,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-08-04 11:24:02"
 last-modified-jotform: "2021-10-25 19:42:37"
-last-exported: "2021-10-26 07:14:08"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

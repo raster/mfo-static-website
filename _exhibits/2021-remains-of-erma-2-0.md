@@ -5,6 +5,8 @@ title: "Remains of Erma 2.0"
 slug: remains-of-erma-2-0
 permalink: /exhibits/remains-of-erma-2-0/
 exhibit-id: 21R-54
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Battle Bot  30 lb Sportsman Class"
 description-long: "Battle Bot  30 lb Sportsman Class
 
@@ -25,7 +27,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 18:56:16"
 last-modified-jotform: "2021-10-06 20:13:12"
-last-exported: "2021-10-06 20:18:04"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

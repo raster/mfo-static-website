@@ -5,6 +5,7 @@ title: "Surrogate.tv"
 slug: surrogate-tv
 permalink: /exhibits/surrogate-tv/
 exhibit-id: 21-99
+exhibit-zone: "Robot Ruckus"
 description: "No-code robotics and remote-play platform powering Surrobot - the easiest way to make custom robots."
 description-long: "Surrogate.tv is a no-code robotics platform for makers and creatives where people can hook anything to the internet (RC Cars, Robots, Arcade Cabinets, etc), and control it remotely in near-real-time. Currently, we&#039;re building our first hardware product - Surrobot, which is a robot platform made and designed by makers for makers. Surrobot allows creating advanced robotics projects with teleoperation, image recognition, and all types of robotics elements with no hardware or coding skills needed. Surrobot is made to be easily repaired, modified, and upgraded - freely available STL files, open-source Python SDK, easily replaceable components. Coming to Kickstarter November 2021."
 image: /assets/images/exhibit-images/21-99-exhibit-surrogate-tv-group-689-large.png
@@ -36,7 +37,7 @@ categories:
     name: Raspberry Pi
 created-jotform: "2021-08-27 04:11:48"
 last-modified-jotform: "2021-10-24 11:46:41"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

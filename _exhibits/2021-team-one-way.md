@@ -5,6 +5,8 @@ title: "Team One Way"
 slug: team-one-way
 permalink: /exhibits/team-one-way/
 exhibit-id: 21R-46
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "A combat robot group competing in the 12lb weight class."
 description-long: "Team one way has been competing at Robot Ruckus for many years. We have robots ranging from just 150 grams up to 30 lbs."
 image: /assets/images/exhibit-images/21R-46-exhibit-team-one-way-img-20191206-195422602-large.jpg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-20 22:24:26"
 last-modified-jotform: "2021-10-06 20:13:29"
-last-exported: "2021-10-06 20:18:04"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

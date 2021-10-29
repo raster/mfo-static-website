@@ -5,6 +5,7 @@ title: "Cardinal Drones"
 slug: cardinal-drones
 permalink: /exhibits/cardinal-drones/
 exhibit-id: 21-101
+exhibit-zone: "Opportunity"
 description: "Drones and servo testers demonstrating how to control brushless motors and servos.
 "
 description-long: " This exhibit will show a few drones and servo testers, demonstrating how to control brush less motors and servos. We also have a drone simulation program for people to play with on a laptop and usb drone remote. There are informational posters showing how the internal speed controllers control the brushless motors. We have several additional creations such as the flying baby stroller and a robotic arm."
@@ -41,7 +42,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-27 14:44:01"
 last-modified-jotform: "2021-10-24 11:46:29"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

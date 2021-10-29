@@ -5,6 +5,7 @@ title: "Cool colors"
 slug: cool-colors
 permalink: /exhibits/cool-colors/
 exhibit-id: 21-108
+exhibit-zone: "Outside"
 description: "We will be helping people use color crayons  to create art by melting crayons on a canvas."
 description-long: "This booth is for Boy Scouts to help other learn about making art with crayons, glue and heat. Visitors will get to make their own artwork."
 image: /assets/images/exhibit-images/21-108-exhibit-cool-colors-425c4312-5e12-43ec-ab3b-1cb3088fa895-large.jpeg
@@ -29,7 +30,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-08-30 18:57:40"
 last-modified-jotform: "2021-10-24 11:46:09"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

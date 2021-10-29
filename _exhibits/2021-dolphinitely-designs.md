@@ -5,6 +5,7 @@ title: "Dolphinitely Designs"
 slug: dolphinitely-designs
 permalink: /exhibits/dolphinitely-designs/
 exhibit-id: 21-39
+exhibit-zone: "Opportunity"
 description: "We would like to sell some of our 3D printed night lights, light up lanyards, and light up ears.  "
 description-long: "We would like to have the opportunity to exhibit and sell our illuminated 3D printed items as well as possibly exhibit us making a hand made tufted rug with our tufting gun if possible. "
 image: /assets/images/exhibit-images/21-39-exhibit-dolphinitely-designs-7fc21c30-b1bb-4ed7-9175-d3eecbf0f5ea-large.jpeg
@@ -60,7 +61,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-01 10:40:05"
 last-modified-jotform: "2021-10-25 19:42:59"
-last-exported: "2021-10-26 07:14:08"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

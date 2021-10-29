@@ -5,6 +5,8 @@ title: "Instigator"
 slug: instigator
 permalink: /exhibits/instigator/
 exhibit-id: 21R-67
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Combat robot "
 description-long: "Instigator is the 12lb robot for the university of Florida robotics team "
 image: /assets/images/exhibit-images/21R-67-exhibit-instigator-0d36f41f-d4e2-4691-b61b-1da188eeb365-large.jpeg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-22 20:43:15"
 last-modified-jotform: "2021-10-06 20:17:31"
-last-exported: "2021-10-06 20:18:04"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

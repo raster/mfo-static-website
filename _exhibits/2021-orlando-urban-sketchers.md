@@ -5,6 +5,7 @@ title: "Orlando Urban Sketchers"
 slug: orlando-urban-sketchers
 permalink: /exhibits/orlando-urban-sketchers/
 exhibit-id: 21-166
+exhibit-zone: "Outside"
 description: "An interactive showcase of urban sketching art form & on-location drawing of Orlando Makers stories."
 description-long: "The Orlando urban sketchers group will showcase sketchbooks art and invite the Makers Faire visitors to experience on-hand drawing at our booth. The USk Orlando group members will scout the event grounds to document in sketch reportage stories they observe of the Makers&#039; displays and activities."
 image: /assets/images/exhibit-images/21-166-exhibit-orlando-urban-sketchers-43-reduced-by-50-3589-large.jpg
@@ -36,7 +37,7 @@ categories:
     name: Art
 created-jotform: "2021-10-06 21:43:37"
 last-modified-jotform: "2021-10-24 11:38:46"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

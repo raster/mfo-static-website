@@ -5,6 +5,7 @@ title: "Tokyo Drift"
 slug: tokyo-drift
 permalink: /exhibits/tokyo-drift/
 exhibit-id: 21-177
+exhibit-zone: "Power Racing Track"
 description: "Tokyo Drift is a Power Racing Series Entry."
 description-long: "Tokyo Drift is a Fast and Furious Inspired Power Racing Series entry that showcases recycling EV car batteries, off the shelf parts, and basic fabrication practices to build a fun PRS racer."
 image: /assets/images/exhibit-images/21-177-exhibit-tokyo-drift-43-t-drift-1706-large.png
@@ -25,7 +26,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-10-18 13:26:18"
 last-modified-jotform: "2021-10-24 11:37:27"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

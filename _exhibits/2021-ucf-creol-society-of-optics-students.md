@@ -5,6 +5,8 @@ title: "UCF CREOL Society of Optics Students"
 slug: ucf-creol-society-of-optics-students
 permalink: /exhibits/ucf-creol-society-of-optics-students/
 exhibit-id: 21-113
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SF9"
 description: "UCF&#039;s Society of Optics students seeks to demonstrate a variety of optical phenomena to the public."
 description-long: "CREOL, the College of Optics and Photonics will be presenting a series of demonstrations made in the past year and showing the guests how to tweak everyday objects into displaying interesting optical phenomena. The demonstrations will get you acquainted with the concepts and applications of photonics, from topics as simple as the reflection and refraction of light (Schlieren imaging), to technologies as complicated as optical communication (Laser music player) and non-conventional imaging systems (Hologram, Laser speckle contrast imaging and other \"exotic photography\"). Within our college, we host annual Optics Demonstration Design competitions where we ask photonics-major students to design and build setups that demonstrate the concepts and applications of optics. They have been used on CREOL’s Optics Day, STEM day, MakeFest (Orlando Science Center) and other outreach events. An itemized list includes (tentative) 1. Seeing the heat: a Schlieren imaging device that visualizes the airflow, such as turbulence and the hot air around your palm; 2. Laser music player: free-space optical communication without cables (Eye safe); 3. Soy-sauce optics: self-focusing of beam (a non-linear optics effect that is a hot research topic) in soy sauce and other everyday materials; 4. Michelson interferometer: see the fringes from tiny irregularity (roughness) of a seemingly flat optical surface; 5. Hologram projector: converting a classroom projector into displaying 3D holograms. We will also accompany each setup with a written description and material list so that guests can learn how to build them on their own. These student-made optics demonstrations can be unique and, most likely, complimentary to the existing makers’ projects. We hope to expose the visitors to the area of photonics engineering, and help develop their interest in this highly cross-disciplinary STEM field.
  
@@ -47,8 +49,8 @@ categories:
   - slug: science-fair
     name: Science Fair
 created-jotform: "2021-08-31 12:21:55"
-last-modified-jotform: "2021-10-24 14:06:09"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 16:34:51"
+last-exported: "2021-10-28 19:49:55"
 sitemap: false
 
 ---

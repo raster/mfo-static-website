@@ -5,6 +5,7 @@ title: "Make Your Own Math"
 slug: make-your-own-math
 permalink: /exhibits/make-your-own-math/
 exhibit-id: 21-97
+exhibit-zone: "Opportunity"
 description: "Make Your Own Math! Make and Solve Geometric structures & puzzles!"
 description-long: "Magic square, soma cubes, fractals and polyhedra - try making beautiful geometric structures and solving puzzles with Orlando Math Circle facilitators"
 image: /assets/images/exhibit-images/21-97-exhibit-make-your-own-math-43-screenshot-5-6117-large.png
@@ -91,7 +92,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-26 11:28:01"
 last-modified-jotform: "2021-10-24 11:47:09"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

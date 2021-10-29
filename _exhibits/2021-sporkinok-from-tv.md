@@ -5,6 +5,8 @@ title: "Sporkinok, from TV"
 slug: sporkinok-from-tv
 permalink: /exhibits/sporkinok-from-tv/
 exhibit-id: 21R-14
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Sporkinok from the hit TV show Battlebots!"
 description-long: "Sporkinok will be on display in the Robot Ruckus area of Maker Faire Orlando, and the team behind the bot will be running the combat robot event!
 "
@@ -25,7 +27,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-24 12:09:17"
 last-modified-jotform: "2021-08-25 20:34:01"
-last-exported: "2021-09-04 10:11:09"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

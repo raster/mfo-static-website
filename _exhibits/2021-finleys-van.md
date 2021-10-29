@@ -5,6 +5,7 @@ title: "Finley's Van"
 slug: finleys-van
 permalink: /exhibits/finleys-van/
 exhibit-id: 21-35
+exhibit-zone: "Outside"
 description: "Explore a sci-fi installation of intimate objects tied to Finley&#039;s past, present, and future."
 description-long: "Can physical objects make up who someone truly is? What are those things that teach us about who a person is? Is it possible to create a playful, yet meaningful, sincere space where we can explore someone’s belongings? Finley’s Van pieces together Finley Sullivan through objects.
 
@@ -69,7 +70,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2021-07-28 18:07:03"
 last-modified-jotform: "2021-10-24 12:00:08"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Matthew Sutton Art"
 slug: matthew-sutton-art
 permalink: /exhibits/matthew-sutton-art/
 exhibit-id: 21-46
+exhibit-zone: "Opportunity"
 description: "I will be drawing live sketches as well as have prints for available for purchase."
 description-long: "Lots of illustrations will be on display plus I&#039;ll be drawing something in real-time. All the prints I&#039;ve got will be available for sale and I can always make sketches on the spot."
 image: /assets/images/exhibit-images/21-46-exhibit-matthew-sutton-art-img175-large.jpg
@@ -32,7 +33,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-04 21:12:53"
 last-modified-jotform: "2021-10-24 12:29:01"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

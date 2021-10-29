@@ -5,6 +5,8 @@ title: "Kraken (CE Robots)"
 slug: kraken-ce-robots
 permalink: /exhibits/kraken-ce-robots/
 exhibit-id: 21R-48
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "We&#039;ll be bringing Kraken Battlebot (as seen on tv) along with our small bots"
 description-long: "Kraken Battlebot will be in display. Get up and close to everyone&#039;s favorite sea monster. "
 image: /assets/images/exhibit-images/21R-48-exhibit-kraken-ce-robots-43-img-20210822-204613-3790-large.jpg
@@ -24,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-04 19:10:34"
 last-modified-jotform: "2021-09-08 19:32:07"
-last-exported: "2021-09-08 19:33:25"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Be the Hamster"
 slug: be-the-hamster
 permalink: /exhibits/be-the-hamster/
 exhibit-id: 21-150
+exhibit-zone: "Outside"
 description: "Human powered snow cones via an 8\" tall hamster wheel"
 description-long: "Through the sheer power of kinetic energy, the inquisitive  user grinds ice while running in a 8&#039;tall hamster wheel, uses a hand cranked conveyor system to position their cup along the multiple task locations, and then applies their preferred topping via showerheads to complete the task. Fun for all ages."
 image: /assets/images/exhibit-images/21-150-exhibit-be-the-hamster-art-work-large.jpg
@@ -37,7 +38,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-09-27 20:03:43"
 last-modified-jotform: "2021-10-25 19:50:41"
-last-exported: "2021-10-26 07:14:07"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Colin's Soap-A-Rama"
 slug: colins-soap-a-rama
 permalink: /exhibits/colins-soap-a-rama/
 exhibit-id: 21-170
+exhibit-zone: "Outside"
 description: "Colin&#039;s Soap-A-Rama will feature a handful of Colin&#039;s favorite homemade soaps!"
 description-long: "Colin and his mom handmake each soap in their kitchen using only mommy approved ingredients. Colin will be featuring some of his favorite soaps including roach soap and a brand new Maker Faire feature soap!"
 image: /assets/images/exhibit-images/21-170-exhibit-colins-soap-a-rama-colin-s-soap-a-rama-logos-large.jpeg
@@ -44,7 +45,7 @@ categories:
     name: Handmade
 created-jotform: "2021-10-09 22:07:21"
 last-modified-jotform: "2021-10-24 11:38:37"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

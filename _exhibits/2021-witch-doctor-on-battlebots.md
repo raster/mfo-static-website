@@ -5,6 +5,7 @@ title: "Witch Doctor on BattleBots"
 slug: witch-doctor-on-battlebots
 permalink: /exhibits/witch-doctor-on-battlebots/
 exhibit-id: 21-161
+exhibit-zone: "Robot Ruckus"
 description: "Come meet Witch Doctor, the award-winning competitor on the TV show BattleBots!"
 description-long: "Witch Doctor will be on display, and members of the team will be available to meet and greet. We are excited to debut our special display this event, showcasing battle-damaged parts from past competitors in an immersive setting. B is for BattleBots will be available for purchase, and we will be displaying our new merchandise for the upcoming season of BattleBots (available for purchase on our website)!"
 image: /assets/images/exhibit-images/21-161-exhibit-witch-doctor-on-battlebots-witch-doctor-w-sponsors-sm-large.jpg
@@ -25,7 +26,7 @@ categories:
     name: BattleBot
 created-jotform: "2021-10-03 10:37:04"
 last-modified-jotform: "2021-10-24 11:39:24"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

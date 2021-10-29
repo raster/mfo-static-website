@@ -5,6 +5,7 @@ title: "Knot Square, Inc."
 slug: knot-square-inc
 permalink: /exhibits/knot-square-inc/
 exhibit-id: 21-87
+exhibit-zone: "Opportunity"
 description: "Items created during the show will be from our WoodSmith Shop and Crochette Corner. "
 description-long: "We will be working on a wood lathe during the show as well as demonstrating crochetting techniques. We will be making any number of things on the lathe, such as donut cutters (with recipes available), candle holders and bowls. Crochetting will include small animals and crochetted washcloths. "
 image: /assets/images/exhibit-images/21-87-exhibit-knot-square-inc-43-old-booth-9720-large.jpg
@@ -67,7 +68,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-22 15:25:28"
 last-modified-jotform: "2021-10-24 11:48:28"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

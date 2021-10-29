@@ -5,6 +5,7 @@ title: "AEO Studios Inc."
 slug: aeo-studios-inc
 permalink: /exhibits/aeo-studios-inc/
 exhibit-id: 21-128
+exhibit-zone: "Spirit"
 description: "Theatrical Makeup/SFX Supplies, Custom Cosplay Fabrications, Horror Props, & More!
 "
 description-long: "The AEO Studios Team has been creating \"Everything from Demons to Divas\" for 25+ years for performers and stages around the world.  We specialize in Custom Creations of Cosplay accessories, prosthetics, and makeup ~ as well as Horror Props, Haunted Attraction Designs, SFX for Film and more!  With a retail showroom & Production Center in E Orlando, it is Halloween all year round at AEO."
@@ -86,7 +87,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-09-06 15:10:34"
 last-modified-jotform: "2021-10-25 19:40:51"
-last-exported: "2021-10-26 07:14:07"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

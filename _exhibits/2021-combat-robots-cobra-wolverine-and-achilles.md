@@ -5,6 +5,8 @@ title: "Combat Robots- Cobra, Wolverine and Achilles"
 slug: combat-robots-cobra-wolverine-and-achilles
 permalink: /exhibits/combat-robots-cobra-wolverine-and-achilles/
 exhibit-id: 21R-62
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Robot Rukus"
 description-long: "Combat robots - Robot rukus"
 image: /assets/images/exhibit-images/21R-62-exhibit-combat-robots-cobra-wolverine-and-achilles-c58ddd8f-cbaa-46f1-9342-97299ec65b5c-large.jpeg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-20 14:01:23"
 last-modified-jotform: "2021-09-22 20:14:31"
-last-exported: "2021-09-22 20:16:05"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

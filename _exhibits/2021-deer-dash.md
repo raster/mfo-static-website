@@ -5,6 +5,7 @@ title: "Deer-Dash"
 slug: deer-dash
 permalink: /exhibits/deer-dash/
 exhibit-id: 21-5
+exhibit-zone: "Robot Ruckus"
 description: "Robotic Scarecrow"
 description-long: "GPS waypoint mission controlled robotic coyote decoy for keeping deer out of an area. "
 image: /assets/images/exhibit-images/21-5-exhibit-deer-dash-43-coyote-3863-large.jpg
@@ -37,7 +38,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-07 08:19:41"
 last-modified-jotform: "2021-10-24 12:07:04"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:52"
 sitemap: false
 
 ---

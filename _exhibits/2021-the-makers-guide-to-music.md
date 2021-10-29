@@ -5,6 +5,8 @@ title: "The Maker's Guide to Music"
 slug: the-makers-guide-to-music
 permalink: /exhibits/the-makers-guide-to-music/
 exhibit-id: 21-68
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SC5"
 description: "CFVA use our platform in performing arts to build a better community."
 description-long: "Thought-provoking production and arts education"
 image: /assets/images/exhibit-images/21-68-exhibit-the-makers-guide-to-music-2021-22-fb-post-large.png
@@ -25,8 +27,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2021-08-11 10:29:09"
-last-modified-jotform: "2021-10-24 14:13:38"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 05:48:48"
+last-exported: "2021-10-28 05:49:59"
 sitemap: false
 
 ---

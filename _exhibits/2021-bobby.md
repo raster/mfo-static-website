@@ -5,6 +5,8 @@ title: "Bobby"
 slug: bobby
 permalink: /exhibits/bobby/
 exhibit-id: 21R-63
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "​"
 description-long: "​"
 image: /assets/images/exhibit-images/21R-63-exhibit-bobby-bobby-norwalk-july-2021-large.JPG
@@ -23,8 +25,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-20 19:43:20"
-last-modified-jotform: "2021-09-22 20:13:16"
-last-exported: "2021-09-22 20:13:23"
+last-modified-jotform: "2021-09-22 20:13:23"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

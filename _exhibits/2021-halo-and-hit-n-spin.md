@@ -5,6 +5,8 @@ title: "Halo and Hit 'N Spin"
 slug: halo-and-hit-n-spin
 permalink: /exhibits/halo-and-hit-n-spin/
 exhibit-id: 21R-28
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Halo, a 3lb meltybrain spinner, and Hit &#039;N Spin, a 1lb asymmetric bar meltybrain spinner."
 description-long: "Halo, our original combat robot, is a meltybrain spinner, which means it can move about while spinning in place thanks to custom control electronics and firmware. It&#039;s intentionally hollow to ensure we deliver the biggest hits. Back for its fourth event, it&#039;s been redesigned from the ground up for improved survivability and control.
 
@@ -37,7 +39,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-31 22:47:45"
 last-modified-jotform: "2021-08-25 20:21:16"
-last-exported: "2021-09-04 10:10:31"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

@@ -5,6 +5,8 @@ title: "Void Modular"
 slug: void-modular
 permalink: /exhibits/void-modular/
 exhibit-id: 21-144
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SH1"
 description: "Void Modular makes synthesizers and loud noises.  "
 description-long: "Void Modular makes analog eurorack synthesizers.  Wires, lights, and loud startling noises."
 image: /assets/images/exhibit-images/21-144-exhibit-void-modular-20171022-091403-large.jpg
@@ -31,8 +33,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2021-09-26 16:09:21"
-last-modified-jotform: "2021-10-24 10:58:30"
-last-exported: "2021-10-24 14:26:04"
+last-modified-jotform: "2021-10-28 05:49:23"
+last-exported: "2021-10-28 05:49:58"
 sitemap: false
 
 ---

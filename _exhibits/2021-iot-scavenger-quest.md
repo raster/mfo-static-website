@@ -5,6 +5,7 @@ title: "IoT Scavenger Quest"
 slug: iot-scavenger-quest
 permalink: /exhibits/iot-scavenger-quest/
 exhibit-id: 21-31
+exhibit-zone: "Opportunity"
 description: "Document your visit by scanning an RFID card on the IoT nodes. Win swag and get a certificate map."
 description-long: "Visiting Maker Faire? Document your travels through Maker Faire by scanning your RFID card on the IoT node at each participating exhibit. Track your progress and compete to visit more exhibits than your friends in a set period of time. Win swag and get a certificate mapping your participation
 
@@ -41,7 +42,7 @@ categories:
     name: Software
 created-jotform: "2021-07-26 19:45:27"
 last-modified-jotform: "2021-10-25 20:14:08"
-last-exported: "2021-10-26 07:14:09"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

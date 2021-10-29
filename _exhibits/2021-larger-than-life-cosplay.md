@@ -5,6 +5,7 @@ title: "Larger than Life Cosplay"
 slug: larger-than-life-cosplay
 permalink: /exhibits/larger-than-life-cosplay/
 exhibit-id: 21-133
+exhibit-zone: "Spirit"
 description: "Explore the making of HUGE costumes!"
 description-long: "Larger than life cosplays! Dive into the work of massive costume making, the framework, the stilts, the paint, and more! How to transport, how to reduce weight, all the how to&#039;s involved in making a massive costume."
 image: /assets/images/exhibit-images/21-133-exhibit-larger-than-life-cosplay-screenshot-20210909-222243-instagram-large.jpg
@@ -36,8 +37,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2021-09-09 23:51:30"
-last-modified-jotform: "2021-10-24 11:41:57"
-last-exported: "2021-10-24 14:26:04"
+last-modified-jotform: "2021-10-28 13:15:40"
+last-exported: "2021-10-28 19:49:54"
 sitemap: false
 
 ---

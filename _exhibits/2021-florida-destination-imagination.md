@@ -5,6 +5,7 @@ title: "Florida Destination Imagination"
 slug: florida-destination-imagination
 permalink: /exhibits/florida-destination-imagination/
 exhibit-id: 21-32
+exhibit-zone: "Opportunity"
 description: "Try DI!  "
 description-long: "Task based challenge:  Build a tower with provided materials that can hold a cup of critters.
 Task/performance challenge: Using provided materials, create a critter that can climb, then tell us about your critter.
@@ -44,7 +45,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-07-27 14:10:06"
 last-modified-jotform: "2021-10-24 12:00:42"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

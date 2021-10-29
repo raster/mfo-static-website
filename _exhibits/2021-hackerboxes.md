@@ -5,6 +5,7 @@ title: "HackerBoxes"
 slug: hackerboxes
 permalink: /exhibits/hackerboxes/
 exhibit-id: 21-92
+exhibit-zone: "Opportunity"
 description: "Demonstration of Electronic Projects, Computer Security, Audio-Visual Entertainment, and more. "
 description-long: "HackerBoxes produces educational electronic kits and projects that entertain, educate, and inspire.  Projects include workshops, monthly subscription kits, after school programs, computer security tools, audio-visual entertainment, and more. "
 image: /assets/images/exhibit-images/21-92-exhibit-hackerboxes-43-rainbow-flower-logo-557-large.png
@@ -60,7 +61,7 @@ categories:
     name: Manufacturing
 created-jotform: "2021-08-23 23:02:17"
 last-modified-jotform: "2021-10-24 11:48:10"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

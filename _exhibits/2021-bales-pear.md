@@ -5,6 +5,8 @@ title: "Bales Pear"
 slug: bales-pear
 permalink: /exhibits/bales-pear/
 exhibit-id: 21R-19
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "250 pound fighting robot"
 description-long: "Pneumatic Spear"
 image: /assets/images/exhibit-images/21R-19-exhibit-bales-pear-99e23070-5c22-4ed9-8a80-d709786c5e02-large.jpeg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-25 20:16:24"
 last-modified-jotform: "2021-08-25 20:32:16"
-last-exported: "2021-09-04 10:10:57"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "DeltaMaker 3D Printers"
 slug: deltamaker-3d-printers
 permalink: /exhibits/deltamaker-3d-printers/
 exhibit-id: 21-134
+exhibit-zone: "Spirit"
 description: "Join us for an exciting preview some cool projects straight from the DeltaMaker 3D printer R&D Lab!"
 description-long: "DeltaMaker, an Orlando-based 3D printer manufacturer, will be demonstrating our professionally-crafted desktop 3D printer, and previewing some cool projects straight from our R&D Lab!  These projects highlight the benefits of the Delta Motion System when utilized in 3D printers and other digital fabrication machines. "
 image: /assets/images/exhibit-images/21-134-exhibit-deltamaker-3d-printers-dsc-0034-large.jpeg
@@ -42,7 +43,7 @@ categories:
     name: Raspberry Pi
 created-jotform: "2021-09-15 18:40:48"
 last-modified-jotform: "2021-10-24 12:32:01"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

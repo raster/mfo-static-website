@@ -5,6 +5,8 @@ title: "501st Legion"
 slug: 501st-legion
 permalink: /exhibits/501st-legion/
 exhibit-id: 21-164
+exhibit-zone: "Spirit"
+space-number: "SH27, SH28, SH29"
 description: "Makaze Squad of the 501st Legion will be in attendance to help attendees learn all about costuming. "
 description-long: "While a growing number of people are experiencing a reawakening of their Star Wars fandom, new generations are seeking ways to celebrate their passion for George Lucas&#039;s modern mythology. The 501st Legion brings these fans together, reinforcing the enduring longevity of the Star Wars saga."
 image: /assets/images/exhibit-images/21-164-exhibit-501st-legion-250px-501st-legion-logo-large.jpg
@@ -31,8 +33,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2021-10-06 18:03:04"
-last-modified-jotform: "2021-10-24 11:38:52"
-last-exported: "2021-10-24 14:26:04"
+last-modified-jotform: "2021-10-28 17:03:24"
+last-exported: "2021-10-28 19:49:54"
 sitemap: false
 
 ---

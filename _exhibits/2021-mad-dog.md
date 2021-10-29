@@ -5,6 +5,8 @@ title: "Mad Dog"
 slug: mad-dog
 permalink: /exhibits/mad-dog/
 exhibit-id: 21R-36
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Mad Dog is a 250lb robot designed to fight using its \"swerve\" drivetrain and pneumatic flipper!"
 description-long: "Mad Dog drives around using a \"swerve drive\". These drive modules work by allowing us to rotate the wheel AND rotate the orientation of the wheel at the same time (think about a powered shopping cart wheel). With multiple of these modules in tandem, we can strafe around the competition without sacrificing any drive power!
 
@@ -42,7 +44,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-08 19:58:14"
 last-modified-jotform: "2021-08-25 20:16:22"
-last-exported: "2021-09-04 10:10:08"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

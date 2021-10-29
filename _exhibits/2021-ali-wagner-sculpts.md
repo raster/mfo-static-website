@@ -5,6 +5,7 @@ title: "Ali Wagner Sculpts"
 slug: ali-wagner-sculpts
 permalink: /exhibits/ali-wagner-sculpts/
 exhibit-id: 21-94
+exhibit-zone: "Opportunity"
 description: "Small sculptures from everyone&#039;s favorite fandoms!"
 description-long: "I&#039;m a sculptor who is known for making small sculptures from everyone&#039;s favorite fandoms. All my work is hand sculpted, then are molded and cast in plastic resin, and then hand painted. They&#039;re perfect for bringing a little joy to the little spaces in your home that could use some fun and color. I love having the chance to share my sculptures with people who are interested in how it&#039;s all made!"
 image: /assets/images/exhibit-images/21-94-exhibit-ali-wagner-sculpts-39162765-2130916267149767-4411838407005700096-n-large.jpg
@@ -50,7 +51,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-24 21:19:41"
 last-modified-jotform: "2021-10-24 12:25:59"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

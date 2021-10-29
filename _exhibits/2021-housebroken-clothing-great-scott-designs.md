@@ -5,6 +5,7 @@ title: "HouseBroken Clothing/ Great Scott Designs"
 slug: housebroken-clothing-great-scott-designs
 permalink: /exhibits/housebroken-clothing-great-scott-designs/
 exhibit-id: 21-36
+exhibit-zone: "Opportunity"
 description: "A collection of artwork by Scott Marino."
 description-long: "Original art hand printed on top quality clothing. Original art carved on wood. Tiki flower planters and more!"
 image: /assets/images/exhibit-images/21-36-exhibit-housebroken-clothing-great-scott-designs-booth-photo-large.jpg
@@ -32,8 +33,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-07-29 08:54:46"
-last-modified-jotform: "2021-10-24 12:28:52"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 12:59:17"
+last-exported: "2021-10-28 13:03:34"
 sitemap: false
 
 ---

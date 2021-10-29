@@ -5,6 +5,7 @@ title: "Lollie Pop Up"
 slug: lollie-pop-up
 permalink: /exhibits/lollie-pop-up/
 exhibit-id: 21-62
+exhibit-zone: "Outside"
 description: "Maker of Nerdy Functional Pottery"
 description-long: "I make trinket dishes, spoon rests, planters, cheese boards, spoons, tiny figurines, and dice towers."
 image: /assets/images/exhibit-images/21-62-exhibit-lollie-pop-up-051b96c0-88ea-477c-8a45-212929475c04-large.jpeg
@@ -64,7 +65,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-09 13:11:44"
 last-modified-jotform: "2021-10-24 14:13:44"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Cremated Plastic"
 slug: cremated-plastic
 permalink: /exhibits/cremated-plastic/
 exhibit-id: 21-127
+exhibit-zone: "Opportunity"
 description: "Creating pop culture/theme park inspired miniature scaled models. "
 description-long: "Creating pop culture miniature scaled models from all things pop culture! Based on sets from movies,TV, and theme park attractions. Each peice is handcrafted to capture the exact details shown from the source material. "
 image: /assets/images/exhibit-images/21-127-exhibit-cremated-plastic-inbound2961696073626976833-large.png
@@ -65,7 +66,7 @@ categories:
     name: Props
 created-jotform: "2021-09-05 16:11:54"
 last-modified-jotform: "2021-10-24 11:42:49"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -17,6 +17,7 @@ from urllib import parse
 from urllib.parse import urlparse
 import time
 import getopt
+import csv
 
 #from urlparse import urlparse    python2
 
@@ -46,6 +47,17 @@ outputAll = False #this is now set with a command line param, don't change it he
 
 #NOTE: Image pulls will fail unless you go to jotform settings for the account and
 #       remove the requirement to be logged in to see uploaded items
+
+#output csv file from list
+def writeCSVFile (fn, data):
+  with open(fn, mode='w') as csvFile:
+    csvWriter = csv.writer(csvFile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL)
+
+    for row in data:
+      csvWriter.writerow(row)
+
+  csvFile.close()
+
 
 # get item from jotform answers list
 def getAnswer (sub, id):
@@ -157,7 +169,7 @@ def export(outputAll):
     countExhibitsRemoved = 0
     countExport = 0
 
-
+    spaceplanList = []
 
     if path.exists('private.yaml'):
       yamlFile = 'private.yaml'
@@ -294,6 +306,21 @@ def export(outputAll):
           makerFacebook   = getAnswerByName(ans,"makerFacebook")
           makerYouTube    = getAnswerByName(ans,"makerYouTube")
 
+          #split the spaceNumber field
+          #for each spaceNumber
+          #append to the list the data needed
+
+          if spaceNumber is not None and spaceNumber != "":
+            snList = spaceNumber.split(",")
+            for sn in snList:
+              #todo: get fee details to append in the sEID field
+              sn = sn.strip().upper()
+              sEID = sn + "\\" + "\\" + exhibitName + "\\" + "\\"  + mfoID
+              sEX = sn + "\\" + "\\" + exhibitName
+              sEM = sn + "\\" + "\\" + exhibitName + "\\" + "\\" + makerName
+              sE = exhibitName
+              sList = [sn, sEID, sEX, sEM, sE]
+              spaceplanList.append(sList)
 
           # create Exhibit markdown file
 
@@ -437,6 +464,31 @@ def export(outputAll):
 
             outfile.write("\n---\n")
             outfile.close()
+
+    #output our illustrator space plan file
+    #print (spaceplanList)
+
+    csvrowC = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+    csvrowS = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+    csvrowO = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+
+    for spc in spaceplanList:
+      for row in range (0,5):
+        #split by building
+        if spc[0][0] == "C":
+          csvrowC[row].append(spc[row])
+        elif spc[0][0] == "S":
+          csvrowS[row].append(spc[row])
+        elif spc[0][0] == "O":
+          csvrowO[row].append(spc[row])
+
+    writeCSVFile("curiosity.csv", csvrowC);
+    writeCSVFile("spirit.csv", csvrowS);
+    writeCSVFile("opportunity.csv", csvrowO);
+
+
+
+
 
     #todo: count regular CFM vs Ruckus CFM separately and also give total
     print("Submissions Found: " + str(countSubmissions))

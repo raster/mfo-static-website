@@ -5,6 +5,8 @@ title: "Team Push Bot"
 slug: team-push-bot
 permalink: /exhibits/team-push-bot/
 exhibit-id: 21R-33
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Combat Robot Event"
 description-long: "Competing in 1lb and 3lb combat events."
 image: /assets/images/exhibit-images/21R-33-exhibit-team-push-bot-steam-roller-large.jpg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-03 23:45:47"
 last-modified-jotform: "2021-08-25 20:18:07"
-last-exported: "2021-09-04 10:10:15"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

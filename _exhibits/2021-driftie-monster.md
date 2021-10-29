@@ -5,6 +5,7 @@ title: "Driftie Monster"
 slug: driftie-monster
 permalink: /exhibits/driftie-monster/
 exhibit-id: 21-178
+exhibit-zone: "Power Racing Track"
 description: "The famed Power Racer, covered in blue fur with the biggest googly eyes available that day!"
 description-long: "Driftie Monster is a Power Wheels Race car, covered in blue fur, with the biggest googly eyes we could get, look out for this machine to eat the competition!"
 image: /assets/images/exhibit-images/21-178-exhibit-driftie-monster-d2-large.jpg
@@ -29,7 +30,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-10-20 20:31:11"
 last-modified-jotform: "2021-10-24 11:37:25"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

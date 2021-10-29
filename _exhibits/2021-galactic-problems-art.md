@@ -5,6 +5,7 @@ title: "Galactic Problems Art"
 slug: galactic-problems-art
 permalink: /exhibits/galactic-problems-art/
 exhibit-id: 21-30
+exhibit-zone: "Opportunity"
 description: "Illustrator making fun things!"
 description-long: "Hi! I&#039;m Daniella, and I&#039;m a digital illustrator. I&#039;ll be showing my work and selling some cool merch. ^^"
 image: /assets/images/exhibit-images/21-30-exhibit-galactic-problems-art-43-newiconforposting-8221-large.png
@@ -63,7 +64,7 @@ categories:
     name: Illustration
 created-jotform: "2021-07-26 13:26:08"
 last-modified-jotform: "2021-10-24 12:26:58"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -5,6 +5,8 @@ title: "NC State Combat Robotics"
 slug: nc-state-combat-robotics
 permalink: /exhibits/nc-state-combat-robotics/
 exhibit-id: 21R-45
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Check out the robot built by NC State students, built with makerspace materials."
 description-long: "Our robot is one was constructed with the collective brainpower of NC State&#039;s battlebots club. Using tools such as 3D printers and CNC machines, we were able to design and produce a fun, competitive robot."
 image: /assets/images/exhibit-images/21R-45-exhibit-nc-state-combat-robotics-43-battlebotslogo-9307-large.png
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-20 19:42:32"
 last-modified-jotform: "2021-08-25 20:08:53"
-last-exported: "2021-09-04 10:07:43"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Sparkle Shorty"
 slug: sparkle-shorty
 permalink: /exhibits/sparkle-shorty/
 exhibit-id: 21-76
+exhibit-zone: "Opportunity"
 description: "Backpacks and other sewn goods for all your favorite Fandoms!"
 description-long: "I use my sewing and crafting skills to make backpacks themed to different Fandoms. From Marvel, to Anime, to Star Wars and many more. "
 image: /assets/images/exhibit-images/21-76-exhibit-sparkle-shorty-361b0f56-f9a5-4c76-ae55-f520ce164485-large.jpeg
@@ -34,7 +35,7 @@ categories:
     name: Sewing
 created-jotform: "2021-08-16 22:08:34"
 last-modified-jotform: "2021-10-24 12:26:23"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

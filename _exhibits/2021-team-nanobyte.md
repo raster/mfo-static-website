@@ -5,6 +5,8 @@ title: "Team Nanobyte"
 slug: team-nanobyte
 permalink: /exhibits/team-nanobyte/
 exhibit-id: 21R-32
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Combat Robot Team"
 description-long: "We are a family that enjoys robot combat."
 image: /assets/images/exhibit-images/21R-32-exhibit-team-nanobyte-43-team-nanobyte-logo-771-large.jpg
@@ -33,7 +35,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-03 11:51:54"
 last-modified-jotform: "2021-08-25 20:18:36"
-last-exported: "2021-09-04 10:10:18"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

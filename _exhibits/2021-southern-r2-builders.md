@@ -5,6 +5,8 @@ title: "Southern R2 Builders"
 slug: southern-r2-builders
 permalink: /exhibits/southern-r2-builders/
 exhibit-id: 21-79
+exhibit-zone: "Spirit"
+space-number: "SI36, SI35, SJ35, SJ36"
 description: "We build R2D2&#039;s and other droids. "
 description-long: "We are a community of builders of R2D2&#039;s and other droids from the major Sci-Fi franchises. "
 image: /assets/images/exhibit-images/21-79-exhibit-southern-r2-builders-southern-r2-builders-large.jpg
@@ -31,8 +33,8 @@ categories:
   - slug: engineering
     name: Engineering
 created-jotform: "2021-08-17 19:28:28"
-last-modified-jotform: "2021-10-24 11:51:15"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 16:46:33"
+last-exported: "2021-10-28 19:49:55"
 sitemap: false
 
 ---

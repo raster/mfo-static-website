@@ -5,6 +5,7 @@ title: "B & K Magnificent Miniatures"
 slug: b-k-magnificent-miniatures
 permalink: /exhibits/b-k-magnificent-miniatures/
 exhibit-id: 21-78
+exhibit-zone: "Opportunity"
 description: "Printed and painted miniature -- terrain Dungeons & Dragons Star Wars"
 description-long: "will show printers used to make miniatures and how to prime and paint them sell both painted and unpainted miniatures"
 image: /assets/images/exhibit-images/21-78-exhibit-b-k-magnificent-miniatures-074-large.JPG
@@ -35,7 +36,7 @@ categories:
     name: Gaming
 created-jotform: "2021-08-17 18:54:52"
 last-modified-jotform: "2021-10-24 11:51:20"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

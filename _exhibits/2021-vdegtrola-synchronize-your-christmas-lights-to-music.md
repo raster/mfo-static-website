@@ -5,6 +5,7 @@ title: "V°trola: Synchronize Your Christmas Lights to Music"
 slug: vdegtrola-synchronize-your-christmas-lights-to-music
 permalink: /exhibits/vdegtrola-synchronize-your-christmas-lights-to-music/
 exhibit-id: 21-18
+exhibit-zone: "Opportunity"
 description: "Synchronize Your Christmas Lights to Music.Enjoy beautiful animated light shows timed to your music."
 description-long: "There’s a lot that goes into making the Christmas season special. From stressful shopping trips and cross-country travel to hours of cooking and the million little tasks in between – what makes it all worth it is those moments when you can sit back, bask in the holiday spirit, and reflect on the year gone by and your hopes for the next one.
 
@@ -91,7 +92,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-07-24 12:44:26"
 last-modified-jotform: "2021-10-24 12:01:33"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

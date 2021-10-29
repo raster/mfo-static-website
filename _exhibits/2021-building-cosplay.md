@@ -5,6 +5,7 @@ title: "Building Cosplay"
 slug: building-cosplay
 permalink: /exhibits/building-cosplay/
 exhibit-id: 21-163
+exhibit-zone: "Spirit"
 description: "Using a variety of techniques to create Cosplay Designs."
 description-long: "Not all cosplay is sewn!   Learn different techniques such as prop building, puppetry and needlefelting that you can incorporate in to your next costume."
 image: /assets/images/exhibit-images/21-163-exhibit-building-cosplay-tyrsypn-large.jpg
@@ -42,7 +43,7 @@ categories:
     name: Puppets
 created-jotform: "2021-10-04 13:32:11"
 last-modified-jotform: "2021-10-24 11:38:56"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

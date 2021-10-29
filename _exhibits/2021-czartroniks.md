@@ -5,6 +5,8 @@ title: "Czartroniks"
 slug: czartroniks
 permalink: /exhibits/czartroniks/
 exhibit-id: 21-143
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SF1"
 description: "Collages, video artwork and musical instruments"
 description-long: "We create a collage of audiovisual experiences that blur the lines and explores the relationships between man and machine"
 image: /assets/images/exhibit-images/21-143-exhibit-czartroniks-tdmovieout-536-large.png
@@ -30,8 +32,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2021-09-26 15:40:02"
-last-modified-jotform: "2021-10-24 10:58:32"
-last-exported: "2021-10-24 14:26:04"
+last-modified-jotform: "2021-10-28 05:49:15"
+last-exported: "2021-10-28 05:49:58"
 sitemap: false
 
 ---

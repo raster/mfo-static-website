@@ -5,6 +5,7 @@ title: "Alkemie & Artistry"
 slug: alkemie-artistry
 permalink: /exhibits/alkemie-artistry/
 exhibit-id: 21-45
+exhibit-zone: "Spirit"
 description: "Artwork Lanterns"
 description-long: "Artwork created by claywork and resin, and paint, inside of a lantern and lit with led lights."
 image: /assets/images/exhibit-images/21-45-exhibit-alkemie-artistry-c526d3d8-5bee-40f6-91ae-383ccf85ad89-large.jpeg
@@ -24,7 +25,7 @@ categories:
     name: Art
 created-jotform: "2021-08-04 20:11:26"
 last-modified-jotform: "2021-10-25 19:42:46"
-last-exported: "2021-10-26 07:14:08"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

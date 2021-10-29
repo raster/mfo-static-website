@@ -5,6 +5,8 @@ title: "Makers Hollow"
 slug: makers-hollow
 permalink: /exhibits/makers-hollow/
 exhibit-id: 21-125
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SJ4, SJ5"
 description: "Makers Hollow creations"
 description-long: "Makers Hollow creations"
 image: /assets/images/exhibit-images/21-125-exhibit-makers-hollow-zoetrope-video-banner-01-large.jpg
@@ -32,8 +34,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2021-09-02 07:35:30"
-last-modified-jotform: "2021-10-24 10:59:06"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 16:17:36"
+last-exported: "2021-10-28 19:49:54"
 sitemap: false
 
 ---

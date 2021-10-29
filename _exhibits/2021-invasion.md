@@ -5,6 +5,8 @@ title: "Invasion!"
 slug: invasion
 permalink: /exhibits/invasion/
 exhibit-id: 21R-42
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Intergalactic invaders have landed, and they are coming to Florida! "
 description-long: "Invasion! is a multibot team dedicated to 1950&#039;s sci-fi horror. It is created to attack opponents from all angles, with 0 weakness. "
 image: /assets/images/exhibit-images/21R-42-exhibit-invasion-43-so-phalanxrobotics-logo-9535-large.jpg
@@ -27,7 +29,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-17 16:22:22"
 last-modified-jotform: "2021-08-25 20:11:17"
-last-exported: "2021-09-04 10:07:53"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

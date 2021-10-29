@@ -5,6 +5,7 @@ title: "Four Bit Industries"
 slug: four-bit-industries
 permalink: /exhibits/four-bit-industries/
 exhibit-id: 21-23
+exhibit-zone: "Opportunity"
 description: "Four Bit Industries makes electronics kits great for individuals or maker spaces."
 description-long: "Four Bit Industries makes electronics kits great for teaching soldering skills. Our step-by-step instructions are great for individuals, and we offer volume pricing for maker spaces. Come see our kits and interact with them."
 image: /assets/images/exhibit-images/21-23-exhibit-four-bit-industries-dsc04634bw-large.png
@@ -30,7 +31,7 @@ categories:
     name: Kits
 created-jotform: "2021-07-24 17:03:11"
 last-modified-jotform: "2021-10-24 12:01:27"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

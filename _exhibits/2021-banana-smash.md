@@ -5,6 +5,8 @@ title: "Banana Smash"
 slug: banana-smash
 permalink: /exhibits/banana-smash/
 exhibit-id: 21R-34
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "30lb Sportsman Lifter"
 description-long: "A 30lb robot in the sportsman class. Has a lifting arm to flip/lift robots and 4 AR500 wedglets."
 image: /assets/images/exhibit-images/21R-34-exhibit-banana-smash-43-20210808-131158-6551-large.jpg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-08 16:18:00"
 last-modified-jotform: "2021-08-25 20:17:37"
-last-exported: "2021-09-04 10:10:12"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

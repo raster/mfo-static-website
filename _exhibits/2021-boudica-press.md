@@ -5,6 +5,7 @@ title: "BOUDICA PRESS"
 slug: boudica-press
 permalink: /exhibits/boudica-press/
 exhibit-id: 21-118
+exhibit-zone: "Opportunity"
 description: "Live printing of relief and silkscreen processes will happen where visitors can experience printing."
 description-long: "Our display will consist of two eight foot tables. On one table we will have examples of relief prints and the necessary equipment for visitors to make their own relief print to take with them. This will be one of our make and take  offers for the public. They will see and touch ink rollers and carved blocks. Participants will print a carved linoleum block onto paper. On the second table we will have examples of silkscreen prints and the equipment to have visitors make their own silkscreen print to take home with them. This is the second area we will have where visitors will be able to make a silkscreen print in paper and take it home with them.
 In addition to the hands on printing areas we will have previously printed images for sale to visitors as well as buttons, stickers, and shirts for sale. All of the items for sale have been hand printed by members of BOUDICA PRESS."
@@ -58,7 +59,7 @@ categories:
     name: Screen Printing
 created-jotform: "2021-08-31 21:21:56"
 last-modified-jotform: "2021-10-24 11:45:15"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

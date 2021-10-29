@@ -5,6 +5,8 @@ title: "Phantom BotX"
 slug: phantom-botx
 permalink: /exhibits/phantom-botx/
 exhibit-id: 21R-44
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Phantom BotX is a combat robot/Battlebot team!"
 description-long: "Phantom BotX is a combat robot/Battlebot team who works to build and fight the most competitive combat robots using innovative technology and building styles."
 image: /assets/images/exhibit-images/21R-44-exhibit-phantom-botx-phantombotxblackborder-large.png
@@ -24,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-20 16:37:05"
 last-modified-jotform: "2021-08-25 20:09:24"
-last-exported: "2021-09-04 10:07:45"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

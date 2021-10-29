@@ -5,6 +5,8 @@ title: "DropSaw and Goodie Bag"
 slug: dropsaw-and-goodie-bag
 permalink: /exhibits/dropsaw-and-goodie-bag/
 exhibit-id: 21R-52
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "DropSaw and Goodie Bag are 3lb combat robots "
 description-long: "Gator Battlebots is bringing multiple robots including DropSaw and Goodie Bag"
 image: /assets/images/exhibit-images/21R-52-exhibit-dropsaw-and-goodie-bag-fa9b59ca-7bc0-4c16-a57c-867d066e50cf-large.jpeg
@@ -30,8 +32,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-19 18:25:31"
-last-modified-jotform: "2021-09-22 20:22:33"
-last-exported: "2021-09-22 20:22:56"
+last-modified-jotform: "2021-09-22 20:22:40"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

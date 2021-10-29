@@ -5,6 +5,7 @@ title: "Raphael"
 slug: raphael
 permalink: /exhibits/raphael/
 exhibit-id: 21-89
+exhibit-zone: "Power Racing Track"
 description: "Raphael, the meanest of the turtles and fastest of the Power Wheels Racers!"
 description-long: "Raphael has been rebuilt, retuned and updated year after year to continue competing at the top of the power wheels racers. This year he is sporting a Gen3 Gecko Drive!"
 image: /assets/images/exhibit-images/21-89-exhibit-raphael-60641180-1828815657263279-8779443714629042176-n-large.jpg
@@ -41,7 +42,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-23 09:58:37"
 last-modified-jotform: "2021-10-24 11:48:23"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

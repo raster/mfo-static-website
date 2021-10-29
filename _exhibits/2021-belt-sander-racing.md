@@ -5,6 +5,7 @@ title: "Belt Sander Racing"
 slug: belt-sander-racing
 permalink: /exhibits/belt-sander-racing/
 exhibit-id: 21-148
+exhibit-zone: "Outside"
 description: "Have you ever wanted to race belt sanders? "
 description-long: "Have you ever wanted to race belt sanders? Come to this exhibit and see if you can beat your opponent as the belt sanders take off down the track."
 image: /assets/images/exhibit-images/21-148-exhibit-belt-sander-racing-belt-sander-racing-large.jpg
@@ -31,7 +32,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-09-27 16:09:38"
 last-modified-jotform: "2021-10-24 11:40:49"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Wild Bill's Soda"
 slug: wild-bills-soda
 permalink: /exhibits/wild-bills-soda/
 exhibit-id: 21-167
+exhibit-zone: "Outside"
 description: "Wild Bill’s offers non-alcoholic craft beverages and mugs at fairs, festivals & conventions"
 description-long: "Wild Bill’s is a premium, non-alcoholic craft beverage company. For over 20 years, Wild Bill’s has traveled the country with their Wild West themed pop-up retail activations, serving over one million customers at fairs, festivals and conventions. Today, Wild Bill’s unique and nostalgic flavors can be purchased directly from DrinkWildBills.com, Amazon, local retailers, and at hundreds of events annually. As a veteran-owned and operated business, Wild Bill’s is focused on helping our nation’s heroes make the transition from the military into successful civilian careers by supporting veteran non-profit organizations, providing discounted franchise fees and creating meaningful employment opportunities. "
 image: /assets/images/exhibit-images/21-167-exhibit-wild-bills-soda-img-4727-large.jpg
@@ -29,7 +30,7 @@ categories:
     name: Food
 created-jotform: "2021-10-07 12:14:02"
 last-modified-jotform: "2021-10-24 11:38:43"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

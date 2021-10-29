@@ -5,6 +5,8 @@ title: "Claw Viper"
 slug: claw-viper
 permalink: /exhibits/claw-viper/
 exhibit-id: 21R-31
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "250lb fighting robot, as seen on Battlebots."
 description-long: "We&#039;re here to compete at Robot Ruckus and show makers you don&#039;t have to be a professional in mechanical or electrical engineering to build a cool robot!"
 image: /assets/images/exhibit-images/21R-31-exhibit-claw-viper-lifted-head-render-large.png
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-01 17:57:48"
 last-modified-jotform: "2021-08-25 20:19:22"
-last-exported: "2021-09-04 10:10:20"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

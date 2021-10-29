@@ -5,6 +5,8 @@ title: "The Next Level Pc Quadro: a wall-mounted Pc with integrated video-projec
 slug: the-next-level-pc-quadro-a-wall-mounted-pc-with-integrated-video-projector
 permalink: /exhibits/the-next-level-pc-quadro-a-wall-mounted-pc-with-integrated-video-projector/
 exhibit-id: 21-114
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SJ6"
 description: "A revolution in the computer-design field:  \"The Next Level Pc Quadro\".
 Art + Design + Wireless tech"
 description-long: "The Next Level Pc Quadro is a home or office computer model with a unique and revolutionary design, which blends abstract art with the latest generation technology. It is hung like a picture and projects the image onto the opposite wall via an integrated video projector.
@@ -66,8 +68,8 @@ categories:
   - slug: sustainability
     name: Sustainability
 created-jotform: "2021-08-31 17:28:22"
-last-modified-jotform: "2021-10-24 10:59:08"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 16:18:23"
+last-exported: "2021-10-28 19:49:54"
 sitemap: false
 
 ---

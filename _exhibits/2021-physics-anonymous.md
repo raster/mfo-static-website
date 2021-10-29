@@ -4,42 +4,31 @@
 title: "Physics Anonymous"
 slug: physics-anonymous
 permalink: /exhibits/physics-anonymous/
-exhibit-id: 21-16
-description: "We will be showing of our random YouTube creations including our updated cloud chamber design."
-description-long: "We are working on a few new things for this years exhibit, including our entry into the RoboRuckus Competition. Come check us out."
-image: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-large.jpg
+exhibit-id: 21R-15
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
+description: "This robot will wipe the floor, seriously it will clean house. we&#039;re just bringing a roomba."
+description-long: "Ok, not a Roomba, but a Doomba! This death Roomba is designed to take a chip off your shoulder, or several thousand."
+image: /assets/images/exhibit-images/21R-15-exhibit-physics-anonymous-doomba-large.PNG
 image-primary: 
-  small: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-small.jpg
-  medium: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-medium.jpg
-  large: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-large.jpg
-  full: /assets/images/exhibit-images/21-16-exhibit-physics-anonymous-img-20191110-130420-full.jpg
+  small: /assets/images/exhibit-images/21R-15-exhibit-physics-anonymous-doomba-small.PNG
+  medium: /assets/images/exhibit-images/21R-15-exhibit-physics-anonymous-doomba-medium.PNG
+  large: /assets/images/exhibit-images/21R-15-exhibit-physics-anonymous-doomba-large.PNG
+  full: /assets/images/exhibit-images/21R-15-exhibit-physics-anonymous-doomba-full.PNG
 additional-images: 
-  - 1:
-    small: /assets/images/exhibit-images/21-16-exhibit-addl1-physics-anonymous-img-20191110-161413-small.jpg
-    medium: /assets/images/exhibit-images/21-16-exhibit-addl1-physics-anonymous-img-20191110-161413-medium.jpg
-    large: /assets/images/exhibit-images/21-16-exhibit-addl1-physics-anonymous-img-20191110-161413-large.jpg
-    full: /assets/images/exhibit-images/21-16-exhibit-addl1-physics-anonymous-img-20191110-161413-full.jpg
 website: https://physanon.com/
 instagram: https://www.instagram.com/physicsanonymous/
 youtube: https://www.youtube.com/physicsanonymous
 maker: 
   name: "Physics Anonymous"
-  description: "Rag tag team of two random building youtubers. "
-  image-primary: /assets/images/exhibit-images/21-16-maker-physics-anonymous-screenshot-20180322-162059-01-medium.png
+  description: "YouTubers turned robot destroyers (our own?)"
+  image-primary: /assets/images/exhibit-images/21R-15-maker-physics-anonymous-screenshot-20180322-162059-01-medium.png
 categories: 
-  - slug: cnc
-    name: CNC
   - slug: combat-robots
     name: Combat Robots
-  - slug: photography
-    name: Photography
-  - slug: science-fair
-    name: Science Fair
-  - slug: tools
-    name: Tools
-created-jotform: "2021-07-24 11:05:26"
-last-modified-jotform: "2021-10-24 12:06:43"
-last-exported: "2021-10-24 14:26:05"
+created-jotform: "2021-07-24 12:58:07"
+last-modified-jotform: "2021-08-25 20:42:07"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

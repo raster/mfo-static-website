@@ -5,6 +5,8 @@ title: "BrightBikes BoomBike"
 slug: brightbikes-boombike
 permalink: /exhibits/brightbikes-boombike/
 exhibit-id: 21-180
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SC1, SC2, SD1, SD2"
 description: "A giant retro boombox that is a bicycle!"
 description-long: "We took a standard bicycle, modified it, and mounted a giant, functional 80&#039;s style boombox to the front. The BoomBike features a 900 watt sound system, and more than 16,000 LEDS! "
 image: /assets/images/exhibit-images/21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large.png
@@ -43,8 +45,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-10-21 07:47:30"
-last-modified-jotform: "2021-10-24 10:58:40"
-last-exported: "2021-10-24 14:26:04"
+last-modified-jotform: "2021-10-28 05:50:53"
+last-exported: "2021-10-28 05:51:10"
 sitemap: false
 
 ---

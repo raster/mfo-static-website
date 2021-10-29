@@ -5,6 +5,8 @@ title: "Goldrush"
 slug: goldrush
 permalink: /exhibits/goldrush/
 exhibit-id: 21R-55
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Goldrush is an antweight combat robot."
 description-long: "Goldrush is an antweight combat robot."
 image: /assets/images/exhibit-images/21R-55-exhibit-goldrush-43-14584-5943-large.jpg
@@ -22,8 +24,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-19 19:02:43"
-last-modified-jotform: "2021-09-22 20:19:41"
-last-exported: "2021-09-22 20:19:49"
+last-modified-jotform: "2021-09-22 20:19:47"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

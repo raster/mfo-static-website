@@ -5,6 +5,7 @@ title: "Tampa Deep Sea Xplorers"
 slug: tampa-deep-sea-xplorers
 permalink: /exhibits/tampa-deep-sea-xplorers/
 exhibit-id: 21-41
+exhibit-zone: "Opportunity"
 description: "Tampa Deep Sea Xplorers LLC (TDSX) is a manufacturer of Unmanned Underwater Vehicles (UUV). "
 description-long: "TDSX&#039;s flagship product is named the Barracuda, which is a small man-portable autonomous underwater vehicle (AUV) which can easily reach depths up to 500 meters. At 16 Kg (35 lbs), the Barracuda is light enough to be hand launched from a small vessel or from the shoreline. Although the vehicle has a small footprint, it is strong enough to withstand the pressures encountered at depth. The Barracuda was designed to allow the rapid collection of sub-sea data to support researchers, explorers, and individuals, as well as the objectives of the GEBCO Seabed 2030 Initiative."
 image: /assets/images/exhibit-images/21-41-exhibit-tampa-deep-sea-xplorers-xprize-team-photo-cropped-large.jpg
@@ -53,7 +54,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-03 14:04:25"
 last-modified-jotform: "2021-10-24 11:59:57"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

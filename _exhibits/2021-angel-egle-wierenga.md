@@ -5,6 +5,7 @@ title: "Angel Egle Wierenga"
 slug: angel-egle-wierenga
 permalink: /exhibits/angel-egle-wierenga/
 exhibit-id: 21-81
+exhibit-zone: "Opportunity"
 description: "Pop Cat Artwork and Products"
 description-long: " My name is Angel Egle Wierenga. I&#039;m a full-time artist with a burning passion for what I do.
 I&#039;ve painted everything and on every type of media, and with this, I&#039;ve discovered the colorful mix of what people enjoy and what has made them fall in love: beautiful animals, specifically cats doing and being that which you can recognize and love.
@@ -51,7 +52,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-08-18 21:15:37"
 last-modified-jotform: "2021-10-24 12:26:16"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

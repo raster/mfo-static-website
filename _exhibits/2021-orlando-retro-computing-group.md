@@ -5,6 +5,7 @@ title: "Orlando Retro Computing Group"
 slug: orlando-retro-computing-group
 permalink: /exhibits/orlando-retro-computing-group/
 exhibit-id: 21-2
+exhibit-zone: "Opportunity"
 description: "Cool retro computers"
 description-long: "Wonder what the start of personal computing was like?  This is where you find out."
 image: /assets/images/exhibit-images/21-2-exhibit-orlando-retro-computing-group-trs80-iii-large.jpg
@@ -46,7 +47,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-06 21:54:48"
 last-modified-jotform: "2021-10-24 12:07:01"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:52"
 sitemap: false
 
 ---

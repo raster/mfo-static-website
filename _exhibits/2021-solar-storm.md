@@ -5,6 +5,8 @@ title: "Solar Storm"
 slug: solar-storm
 permalink: /exhibits/solar-storm/
 exhibit-id: 21R-40
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "3lb Combat Robot"
 description-long: "This robot is designed to maximize the energy transfer between its opponents and the horizontally spinning bar mounted underneath the chassis."
 image: /assets/images/exhibit-images/21R-40-exhibit-solar-storm-brigh-full-bot-large.png
@@ -28,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-14 20:44:43"
 last-modified-jotform: "2021-08-25 20:12:59"
-last-exported: "2021-09-04 10:07:56"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

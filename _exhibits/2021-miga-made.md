@@ -5,6 +5,8 @@ title: "Miga Made"
 slug: miga-made
 permalink: /exhibits/miga-made/
 exhibit-id: 21-145
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SC6, SC7"
 description: "Get a behind-the-scenes look at how a Miga Made music video was created. "
 description-long: "Join Evan and Christie as they present a behind-the-scenes look at how Miga Made&#039;s Recyc City music video was made. You&#039;ll see models, props, lighting techniques, robots, and more! "
 image: /assets/images/exhibit-images/21-145-exhibit-miga-made-miga-made-large.png
@@ -34,8 +36,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2021-09-26 16:16:00"
-last-modified-jotform: "2021-10-24 10:58:20"
-last-exported: "2021-10-24 14:26:04"
+last-modified-jotform: "2021-10-28 05:50:30"
+last-exported: "2021-10-28 05:51:10"
 sitemap: false
 
 ---

@@ -5,6 +5,8 @@ title: "The Dragon's Horde"
 slug: the-dragons-horde
 permalink: /exhibits/the-dragons-horde/
 exhibit-id: 21-105
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SH9"
 description: "Handmade fantasy sculptures mainly consisting of dragons."
 description-long: "A small central Florida artist that specializes in handmade fantasy sculptures mainly consisting of dragons. Everything is sculpted by hand, molded in silicone, cast and hand painted. "
 image: /assets/images/exhibit-images/21-105-exhibit-the-dragons-horde-4-large.jpg
@@ -60,8 +62,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-29 21:33:52"
-last-modified-jotform: "2021-10-24 10:59:47"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 16:35:03"
+last-exported: "2021-10-28 19:49:55"
 sitemap: false
 
 ---

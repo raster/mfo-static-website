@@ -5,6 +5,7 @@ title: "Team HyperShock"
 slug: team-hypershock
 permalink: /exhibits/team-hypershock/
 exhibit-id: 21-169
+exhibit-zone: "Robot Ruckus"
 description: "Team HyperShock from Discovery&#039;s BattleBots, a 250lb combat robot."
 description-long: "HyperShock, a Miami, FL based team, is one of only 6
 Bots to be in all seasons of BattleBots since the reboot in
@@ -38,7 +39,7 @@ categories:
     name: Robotics
 created-jotform: "2021-10-08 15:00:48"
 last-modified-jotform: "2021-10-24 11:38:40"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

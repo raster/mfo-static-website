@@ -5,6 +5,8 @@ title: "SkullBox useless machine"
 slug: skullbox-useless-machine
 permalink: /exhibits/skullbox-useless-machine/
 exhibit-id: 21-181
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SH4"
 description: "A more complicated version of a typical useless machine!"
 description-long: "A useless machine with a skull type theme."
 image: /assets/images/exhibit-images/21-181-exhibit-skullbox-useless-machine-img-20190531-120039867-large.jpg
@@ -33,8 +35,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-10-21 08:07:43"
-last-modified-jotform: "2021-10-26 17:42:31"
-last-exported: "2021-10-26 17:59:51"
+last-modified-jotform: "2021-10-28 16:32:55"
+last-exported: "2021-10-28 19:49:54"
 sitemap: false
 
 ---

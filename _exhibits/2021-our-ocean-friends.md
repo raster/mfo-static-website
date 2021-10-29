@@ -5,6 +5,7 @@ title: "Our Ocean Friends"
 slug: our-ocean-friends
 permalink: /exhibits/our-ocean-friends/
 exhibit-id: 21-91
+exhibit-zone: "Opportunity"
 description: "Nantucket Bound: A Young Whale&#039;s Journey to Follow His Dream"
 description-long: "This is a children&#039;s book for 3-7+ year olds, following the journey of a young whale, along with his mother, up the Eastern Atlantic. On this trip, they encounter all sorts of marine life and he learns all the things that a young whale must learn. He longs to be a teacher himself, teaching the world about protecting the oceans and ALL its inhabitants.
 
@@ -43,7 +44,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2021-08-23 15:53:19"
 last-modified-jotform: "2021-10-24 11:48:17"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "The Monster Cafe"
 slug: the-monster-cafe
 permalink: /exhibits/the-monster-cafe/
 exhibit-id: 21-137
+exhibit-zone: "Opportunity"
 description: "Tiny whimsical monsters of all sizes live here.  Come and visit us."
 description-long: "Our tiny monsters range in all sizes and are open for adoption.  From the tiny Tiggywillows to the bigger Bogglets, we have gathered a wide assortment of colorful friends whose deepest wish is to meet you.  
 
@@ -39,7 +40,7 @@ categories:
     name: Sewing
 created-jotform: "2021-09-17 11:55:28"
 last-modified-jotform: "2021-10-24 12:23:44"
-last-exported: "2021-10-24 14:26:04"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

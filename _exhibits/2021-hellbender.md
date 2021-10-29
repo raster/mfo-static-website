@@ -5,6 +5,8 @@ title: "Hellbender"
 slug: hellbender
 permalink: /exhibits/hellbender/
 exhibit-id: 21R-35
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "Hellbender is a 12 pound hobbyweight combat robot.  "
 description-long: "Hellbender is a 12 pound hobbyweight combat robot.  Its primary weapon is a 4 inch vertical steel drum spinning over 8000 rpm."
 image: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-large.jpg
@@ -23,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-08 17:14:59"
 last-modified-jotform: "2021-08-25 20:17:06"
-last-exported: "2021-09-04 10:10:10"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

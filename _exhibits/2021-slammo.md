@@ -5,6 +5,8 @@ title: "Slammo!"
 slug: slammo
 permalink: /exhibits/slammo/
 exhibit-id: 21R-60
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: ""
 description: "the suplex robot "
 description-long: "a 4 wheel drive all steel robot, with about 15KW of drive power and a single action system to drive its grab lift system. "
 image: /assets/images/exhibit-images/21R-60-exhibit-slammo-pxl-20210822-000920248-mp-large.jpg
@@ -28,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-20 09:01:44"
 last-modified-jotform: "2021-09-22 20:15:58"
-last-exported: "2021-09-22 20:16:07"
+last-exported: "2021-10-28 05:44:49"
 sitemap: false
 
 ---

@@ -5,6 +5,8 @@ title: "Chainable RGB Light Bars"
 slug: chainable-rgb-light-bars
 permalink: /exhibits/chainable-rgb-light-bars/
 exhibit-id: 21-116
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SC8"
 description: "RGB strips driven in a unique way to create mind-blowing decorative lighting fixtures."
 description-long: "Tiny things can do really big things when they work together. These RGB bars are being driven buy a uniquely designed driver board that allows chainable, easy to manage constructions. A few assemblies will be presented to demonstrate the applications of these driver boards."
 image: /assets/images/exhibit-images/21-116-exhibit-chainable-rgb-light-bars-thumbnail-large.png
@@ -32,8 +34,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2021-08-31 17:59:19"
-last-modified-jotform: "2021-10-24 10:59:18"
-last-exported: "2021-10-24 14:26:05"
+last-modified-jotform: "2021-10-28 05:49:27"
+last-exported: "2021-10-28 05:49:58"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Power wheels racing"
 slug: power-wheels-racing
 permalink: /exhibits/power-wheels-racing/
 exhibit-id: 21-96
+exhibit-zone: "Power Racing Track"
 description: "Power wheels racing"
 description-long: "Power wheels racing "
 image: /assets/images/exhibit-images/21-96-exhibit-power-wheels-racing-43-20210728-154207-9902-large.jpg
@@ -23,7 +24,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-25 20:46:06"
 last-modified-jotform: "2021-10-24 11:47:13"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---

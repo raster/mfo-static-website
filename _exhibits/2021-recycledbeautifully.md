@@ -5,6 +5,7 @@ title: "RecycledBeautifully"
 slug: recycledbeautifully
 permalink: /exhibits/recycledbeautifully/
 exhibit-id: 21-43
+exhibit-zone: "Opportunity"
 description: "Handmade recycled copper wire wrapped Tree of Life pendants"
 description-long: "Recycled Beautifully creates elegant jewelry that starts as garbage. Celina Ortiz and her husband find discarded television sets and deconstruct them, removing the copper and aluminum wire in the process. With this valuable material in hand, they wrap the material around stone pendants in a tree-like design. The wire spans the width of the teardrop and oval forms, framing them with delicate branches that electrifyingly extend and wrap around the stone."
 image: /assets/images/exhibit-images/21-43-exhibit-recycledbeautifully-f87be30c-6435-4694-918e-6929301105e2-large.jpeg
@@ -38,7 +39,7 @@ categories:
     name: Upcycling
 created-jotform: "2021-08-03 20:27:48"
 last-modified-jotform: "2021-10-24 12:27:38"
-last-exported: "2021-10-24 14:26:05"
+last-exported: "2021-10-28 05:44:51"
 sitemap: false
 
 ---
