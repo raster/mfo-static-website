@@ -51,9 +51,11 @@ outputAll = False #this is now set with a command line param, don't change it he
 
 #get youtube embed from watch url using oembed API
 def getYouTubeEmbed (url):
-  reqURL = "https://www.youtube.com/oembed?url=" + url + "&format=json"
+  reqURL = "https://www.youtube.com/oembed?url=" + url + "&format=json&maxwidth=1024&maxheight=1024"
   response = requests.get(reqURL)
   print (response.text)
+  if (response.text=="Not Found"):
+    return None
   rjson = response.json()
   print (rjson["html"])
   return rjson["html"]
@@ -427,7 +429,7 @@ def export(outputAll):
               outfile.write("video: " + '"' + exhibitVideo + '"' + "\n")
 
               if exhibitVideoEmbed is not None:
-                outfile.write("video-embed: " + '"' + urllib.parse.quote(exhibitVideoEmbed) + '"' + "\n")
+                outfile.write("video-embed: " + "'" + exhibitVideoEmbed + "'" + "\n")
 
 
             #maker info
