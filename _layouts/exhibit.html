@@ -35,14 +35,14 @@
 
     </div>
 
-    {%comment%}
-    {% if page.video %}
+
+    {% if page.video-embed %}
     <section class="exhibitVideo" style="margin-top:30px; margin-bottom:30px">
-        <iframe width="420" height="315" src="{{page.video}}" frameborder="0" allowfullscreen></iframe>
+        {{page.video-embed}}
     </section>
     {% endif %}
-    {%endcomment%}
-    
+
+
       <section class="exhibitPhotos" style="margin-top:30px; margin-bottom:30px">
 					<div id="exhibitPhotoCarousel" class="carousel slide" data-ride="carousel">
             {%- assign numImages = page.additional-images | size -%}
