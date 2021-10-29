@@ -14,23 +14,22 @@ image-primary:
   medium: /assets/images/exhibit-images/21-167-exhibit-wild-bills-soda-img-4727-medium.jpg
   large: /assets/images/exhibit-images/21-167-exhibit-wild-bills-soda-img-4727-large.jpg
   full: /assets/images/exhibit-images/21-167-exhibit-wild-bills-soda-img-4727-full.jpg
-additional-images: 
-website: https://www.drinkwildbills.com
-twitter: https://www.twitter.com/wildbillssoda
-instagram: https://www.instagram.com/wildbillssoda/
-facebook: https://www.facebook.com/wildbillssoda
 maker: 
   name: "Wild Bill's Soda"
   description: "Wild Bill’s is a premium, non-alcoholic craft beverage company. For over 20 years, Wild Bill’s has traveled the country with their Wild West themed pop-up retail activations, serving over one million customers at fairs, festivals and conventions. 
 
 As a veteran-owned and operated business, Wild Bill’s is focused on helping our nation’s heroes make the transition from the military into successful civilian careers by supporting veteran non-profit organizations, providing discounted franchise fees and creating meaningful employment opportunities. "
   image-primary: /assets/images/exhibit-images/21-167-maker-wild-bills-soda-wb-hero-k-e89ef5ec-e1f1-4ed5-9648-294f7663552e-180x-medium.png
+  website: https://www.drinkwildbills.com
+  twitter: https://www.twitter.com/wildbillssoda
+  instagram: https://www.instagram.com/wildbillssoda/
+  facebook: https://www.facebook.com/wildbillssoda
 categories: 
   - slug: food
     name: Food
 created-jotform: "2021-10-07 12:14:02"
 last-modified-jotform: "2021-10-24 11:38:43"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

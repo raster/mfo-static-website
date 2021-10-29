@@ -65,13 +65,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-100-exhibit-addl10-tinkering-turtle-crafts-screenshot-20210903-193502-facebook-medium.jpg
     large: /assets/images/exhibit-images/21-100-exhibit-addl10-tinkering-turtle-crafts-screenshot-20210903-193502-facebook-large.jpg
     full: /assets/images/exhibit-images/21-100-exhibit-addl10-tinkering-turtle-crafts-screenshot-20210903-193502-facebook-full.jpg
-website: https://www.facebook.com/tinkeringturtlecrafts
-instagram: https://www.instagram.com/tinkeringturtlecrafts/
-facebook: https://www.facebook.com/tinkeringturtlecrafts
 maker: 
   name: "Tinkering Turtle Crafts"
   description: "Crafter of various mediums. Epoxy resin art, paper art, crochet, a little of everything.  "
   image-primary: /assets/images/exhibit-images/21-100-maker-tinkering-turtle-crafts-tinkering-turtle-crafts-medium.jpg
+  website: https://www.facebook.com/tinkeringturtlecrafts
+  instagram: https://www.instagram.com/tinkeringturtlecrafts/
+  facebook: https://www.facebook.com/tinkeringturtlecrafts
 categories: 
   - slug: art
     name: Art
@@ -85,7 +85,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-27 12:10:40"
 last-modified-jotform: "2021-10-24 12:25:53"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

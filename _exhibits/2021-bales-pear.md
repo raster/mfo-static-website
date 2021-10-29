@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-19-exhibit-bales-pear-99e23070-5c22-4ed9-8a80-d709786c5e02-medium.jpeg
   large: /assets/images/exhibit-images/21R-19-exhibit-bales-pear-99e23070-5c22-4ed9-8a80-d709786c5e02-large.jpeg
   full: /assets/images/exhibit-images/21R-19-exhibit-bales-pear-99e23070-5c22-4ed9-8a80-d709786c5e02-full.jpeg
-additional-images: 
 maker: 
   name: "Forge and Farm Combat Robotics "
   description: "Team Forge &Farm"
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-25 20:16:24"
 last-modified-jotform: "2021-08-25 20:32:16"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:50"
 sitemap: false
 
 ---

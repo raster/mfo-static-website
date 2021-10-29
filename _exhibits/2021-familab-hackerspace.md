@@ -14,17 +14,16 @@ image-primary:
   medium: /assets/images/exhibit-images/21-171-exhibit-familab-hackerspace-familab-exhibit-image-medium.png
   large: /assets/images/exhibit-images/21-171-exhibit-familab-hackerspace-familab-exhibit-image-large.png
   full: /assets/images/exhibit-images/21-171-exhibit-familab-hackerspace-familab-exhibit-image-full.png
-additional-images: 
-website: https://familab.org/
-twitter: https://www.twitter.com/
-facebook: https://www.facebook.com/familab
-youtube: https://www.youtube.com/c/familaborg
 maker: 
   name: "FamiLAB"
   description: "FamiLAB is Central Florida’s provider of space, tools, and community for creative technical learning and projects. If you are looking for a great place to meet like-minded people, learn, collaborate on projects, and have access to great tools, FamiLAB is the place for you!
 
 FamiLAB’s mission is to be a community that fosters learning and creativity through hands-on projects, collaboration, and the sharing of skills & tools to improve ourselves and enrich the world around us."
   image-primary: /assets/images/exhibit-images/21-171-maker-familab-hackerspace-familogo1c-medium.png
+  website: https://familab.org/
+  twitter: https://www.twitter.com/
+  facebook: https://www.facebook.com/familab
+  youtube: https://www.youtube.com/c/familaborg
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -38,7 +37,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-10-12 21:24:35"
 last-modified-jotform: "2021-10-24 12:32:17"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

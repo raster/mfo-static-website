@@ -70,15 +70,18 @@ additional-images:
     medium: /assets/images/exhibit-images/21-18-exhibit-addl10-vdegtrola-synchronize-your-christmas-lights-to-music-1-01-medium.jpg
     large: /assets/images/exhibit-images/21-18-exhibit-addl10-vdegtrola-synchronize-your-christmas-lights-to-music-1-01-large.jpg
     full: /assets/images/exhibit-images/21-18-exhibit-addl10-vdegtrola-synchronize-your-christmas-lights-to-music-1-01-full.jpg
-website: http://www.threedmation.com
-twitter: https://www.twitter.com/threedmation
-instagram: https://www.instagram.com/threedmation/
-facebook: https://www.facebook.com/threedmation-108194434824724
-youtube: https://www.youtube.com/channel/ucvvjdyg1yunvgs6mckdjyqw
+website: "threedmation.com"
+video: "https://youtu.be/vvtbgg_iZg8"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "ThreeDMation"
   description: "Split between the U.S. and Colombia, we are a small, passionate team of designers, engineers, and creatives making devices that enhance the human experience and leave room for more heartfelt moments in our lives. We each have a wealth of experience in our respective fields that we are each contributing to make our ideas  a total success."
   image-primary: /assets/images/exhibit-images/21-18-maker-vdegtrola-synchronize-your-christmas-lights-to-music-1618396732018-favicon-concept-02-pngfile-medium.png
+  website: http://www.threedmation.com
+  twitter: https://www.twitter.com/threedmation
+  instagram: https://www.instagram.com/threedmation/
+  facebook: https://www.facebook.com/threedmation-108194434824724
+  youtube: https://www.youtube.com/channel/ucvvjdyg1yunvgs6mckdjyqw
 categories: 
   - slug: electronics
     name: Electronics
@@ -92,7 +95,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-07-24 12:44:26"
 last-modified-jotform: "2021-10-24 12:01:33"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

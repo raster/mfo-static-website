@@ -22,13 +22,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-137-exhibit-addl1-the-monster-cafe-oddlings-medium.jpeg
     large: /assets/images/exhibit-images/21-137-exhibit-addl1-the-monster-cafe-oddlings-large.jpeg
     full: /assets/images/exhibit-images/21-137-exhibit-addl1-the-monster-cafe-oddlings-full.jpeg
-website: http://www.themonstercafe.etsy.com
-instagram: https://www.instagram.com/themonstercafe
-facebook: https://www.facebook.com/mytinymonsters
 maker: 
   name: "Justine and Melissa"
   description: "Two sisters and one goal... create unusual, whimsical and fantastic monsters.  With this in mind and encouraged from family and friends The Monster Cafe was born on Etsy in 2009.  Since then we have attended conventions of all types through Central Florida and Atlanta, Georgia. Our work has been featured in a gallery or two and we have joined a wonderful family of artisans, crafters and hobbyists."
   image-primary: /assets/images/exhibit-images/21-137-maker-the-monster-cafe-47466680-2193903713973940-675319509204074496-n-medium.jpg
+  website: http://www.themonstercafe.etsy.com
+  instagram: https://www.instagram.com/themonstercafe
+  facebook: https://www.facebook.com/mytinymonsters
 categories: 
   - slug: craft
     name: Craft
@@ -40,7 +40,7 @@ categories:
     name: Sewing
 created-jotform: "2021-09-17 11:55:28"
 last-modified-jotform: "2021-10-24 12:23:44"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

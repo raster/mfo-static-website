@@ -21,19 +21,22 @@ additional-images:
     medium: /assets/images/exhibit-images/21R-52-exhibit-addl1-dropsaw-and-goodie-bag-dd4bf234-c6b6-4106-a025-15ee649ec80e-medium.jpeg
     large: /assets/images/exhibit-images/21R-52-exhibit-addl1-dropsaw-and-goodie-bag-dd4bf234-c6b6-4106-a025-15ee649ec80e-large.jpeg
     full: /assets/images/exhibit-images/21R-52-exhibit-addl1-dropsaw-and-goodie-bag-dd4bf234-c6b6-4106-a025-15ee649ec80e-full.jpeg
-website: https://instagram.com/gator_battlebots?utm_medium=copy_link
-instagram: https://www.instagram.com/gator_battlebots?utm_medium=copy_link
-youtube: https://www.youtube.com/c/jacksopotnick
+website: "https://youtu.be/nQe2MnRk1S4"
+video: "https://youtu.be/1-KP_WUBiAk"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/1-KP_WUBiAk%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Gator Battlebots "
   description: "University of Florida Combat Robotics Team "
   image-primary: /assets/images/exhibit-images/21R-52-maker-dropsaw-and-goodie-bag-6c91b726-9a66-499d-a612-778f5d281881-medium.png
+  website: https://instagram.com/gator_battlebots?utm_medium=copy_link
+  instagram: https://www.instagram.com/gator_battlebots?utm_medium=copy_link
+  youtube: https://www.youtube.com/c/jacksopotnick
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-19 18:25:31"
 last-modified-jotform: "2021-09-22 20:22:40"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

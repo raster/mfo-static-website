@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-31-exhibit-claw-viper-lifted-head-render-medium.png
   large: /assets/images/exhibit-images/21R-31-exhibit-claw-viper-lifted-head-render-large.png
   full: /assets/images/exhibit-images/21R-31-exhibit-claw-viper-lifted-head-render-full.png
-additional-images: 
 maker: 
   name: "Team Bad Ideas"
   description: "We&#039;re a group of robot builders spread out across the US that came together in 2020 to build Claw Viper for Battlebots. We&#039;re all software industry people, and so revel in being completely out of our depth building robots."
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-01 17:57:48"
 last-modified-jotform: "2021-08-25 20:19:22"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

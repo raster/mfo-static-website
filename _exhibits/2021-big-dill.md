@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-50-exhibit-big-dill-bigdill03-medium.png
   large: /assets/images/exhibit-images/21R-50-exhibit-big-dill-bigdill03-large.png
   full: /assets/images/exhibit-images/21R-50-exhibit-big-dill-bigdill03-full.png
-additional-images: 
 maker: 
   name: "Team Food Fight"
   description: "Team Food Fight has been competing and building for the TV series Battlebtos for the past 4 seasons."
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-15 15:07:32"
 last-modified-jotform: "2021-09-22 20:23:45"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

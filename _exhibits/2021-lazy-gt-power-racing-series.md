@@ -35,6 +35,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-47-exhibit-addl4-lazy-gt-power-racing-series-2019-09-13-16-09-29-1-medium.jpg
     large: /assets/images/exhibit-images/21-47-exhibit-addl4-lazy-gt-power-racing-series-2019-09-13-16-09-29-1-large.jpg
     full: /assets/images/exhibit-images/21-47-exhibit-addl4-lazy-gt-power-racing-series-2019-09-13-16-09-29-1-full.jpg
+website: "teamlazygecko.com"
 maker: 
   name: "Scott Duhaime"
   description: "Engineer and maker of cool stuff"
@@ -48,7 +49,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-04 22:14:20"
 last-modified-jotform: "2021-10-24 11:59:24"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

@@ -20,18 +20,18 @@ additional-images:
     medium: /assets/images/exhibit-images/21-159-exhibit-addl1-spraypaintgio-9975d357-6da5-49a4-97c5-12cc9504aac4-medium.jpeg
     large: /assets/images/exhibit-images/21-159-exhibit-addl1-spraypaintgio-9975d357-6da5-49a4-97c5-12cc9504aac4-large.jpeg
     full: /assets/images/exhibit-images/21-159-exhibit-addl1-spraypaintgio-9975d357-6da5-49a4-97c5-12cc9504aac4-full.jpeg
-twitter: https://www.twitter.com/spraypaintgio 
-instagram: https://www.instagram.com/spraypaintgio 
 maker: 
   name: "Giovanny "
   description: "Spray paint art "
   image-primary: /assets/images/exhibit-images/21-159-maker-spraypaintgio-067bce64-6248-43e3-8e26-a22f417fa676-medium.jpeg
+  twitter: https://www.twitter.com/spraypaintgio 
+  instagram: https://www.instagram.com/spraypaintgio 
 categories: 
   - slug: art
     name: Art
 created-jotform: "2021-10-01 00:21:24"
 last-modified-jotform: "2021-10-24 12:23:33"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

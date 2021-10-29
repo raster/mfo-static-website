@@ -17,16 +17,15 @@ image-primary:
   medium: /assets/images/exhibit-images/21-173-exhibit-drone-zone-43-pxl-20211014-011949091-3-9502-medium.jpg
   large: /assets/images/exhibit-images/21-173-exhibit-drone-zone-43-pxl-20211014-011949091-3-9502-large.jpg
   full: /assets/images/exhibit-images/21-173-exhibit-drone-zone-43-pxl-20211014-011949091-3-9502-full.jpg
-additional-images: 
-website: http://www.makerfaireorlando.org
-twitter: https://www.twitter.com/orlmakerfaire
-instagram: https://www.instagram.com/makerfaireorlando/
-facebook: https://www.facebook.com/makerfaireorlando/
-youtube: https://www.youtube.com/c/makerfaireorlando
 maker: 
   name: "Drone Zone Experience"
   description: "Maker Faire is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. From engineers to artists to scientists to crafters, Maker Faire is a venue for these “makers” to show hobbies, experiments, projects."
   image-primary: /assets/images/exhibit-images/21-173-maker-drone-zone-mfo-two-line-border-medium.png
+  website: http://www.makerfaireorlando.org
+  twitter: https://www.twitter.com/orlmakerfaire
+  instagram: https://www.instagram.com/makerfaireorlando/
+  facebook: https://www.facebook.com/makerfaireorlando/
+  youtube: https://www.youtube.com/c/makerfaireorlando
 categories: 
   - slug: drones
     name: Drones
@@ -40,7 +39,7 @@ categories:
     name: Virtual Reality
 created-jotform: "2021-10-13 21:34:28"
 last-modified-jotform: "2021-10-24 14:04:52"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

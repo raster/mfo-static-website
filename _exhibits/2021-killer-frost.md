@@ -15,21 +15,20 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-70-exhibit-killer-frost-img-20210729-221438137-1-medium.jpg
   large: /assets/images/exhibit-images/21R-70-exhibit-killer-frost-img-20210729-221438137-1-large.jpg
   full: /assets/images/exhibit-images/21R-70-exhibit-killer-frost-img-20210729-221438137-1-full.jpg
-additional-images: 
-twitter: https://www.twitter.com/shiverrobots
-instagram: https://www.instagram.com/teamshiverrobots/
-facebook: https://www.facebook.com/team-shiver-robots-263133842251436
-youtube: https://www.youtube.com/channel/uc6tg548hvpgivxaprz7ld4q
 maker: 
   name: "Team Shiver Robots"
   description: "Team Shiver Robots is learning combat robotics one motor at a time. "
   image-primary: /assets/images/exhibit-images/21R-70-maker-killer-frost-team-shiver-medium.jpg
+  twitter: https://www.twitter.com/shiverrobots
+  instagram: https://www.instagram.com/teamshiverrobots/
+  facebook: https://www.facebook.com/team-shiver-robots-263133842251436
+  youtube: https://www.youtube.com/channel/uc6tg548hvpgivxaprz7ld4q
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-27 00:32:46"
 last-modified-jotform: "2021-10-06 20:15:29"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

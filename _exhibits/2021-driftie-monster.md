@@ -20,17 +20,17 @@ additional-images:
     medium: /assets/images/exhibit-images/21-178-exhibit-addl1-driftie-monster-driftie-medium.jpg
     large: /assets/images/exhibit-images/21-178-exhibit-addl1-driftie-monster-driftie-large.jpg
     full: /assets/images/exhibit-images/21-178-exhibit-addl1-driftie-monster-driftie-full.jpg
-website: http://www.makerfx.org
 maker: 
   name: "MakerFX Racing - Never Start Racing Team"
   description: "Power wheels racing at its finest!  Look out for our blue furry creation tearing up the track!"
   image-primary: /assets/images/exhibit-images/21-178-maker-driftie-monster-makerfx-logo-hex-medium.png
+  website: http://www.makerfx.org
 categories: 
   - slug: power-racing
     name: Power Racing
 created-jotform: "2021-10-20 20:31:11"
 last-modified-jotform: "2021-10-24 11:37:25"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

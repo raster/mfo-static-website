@@ -17,8 +17,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-30-exhibit-panzer-jagers-43-20210801-174541-5121-medium.jpg
   large: /assets/images/exhibit-images/21R-30-exhibit-panzer-jagers-43-20210801-174541-5121-large.jpg
   full: /assets/images/exhibit-images/21R-30-exhibit-panzer-jagers-43-20210801-174541-5121-full.jpg
-additional-images: 
-youtube: https://www.youtube.com/channel/ucsrqrgnkeonwqxalir8t3wg
 maker: 
   name: "Aydar Rakhmatullin"
   description: "Robot Ruckus
@@ -26,12 +24,13 @@ Team Panzer Jagers
 Bot1: Pesticide
 Bot2: Stalker Combatant"
   image-primary: /assets/images/exhibit-images/21R-30-maker-panzer-jagers-20210801-174541-medium.jpg
+  youtube: https://www.youtube.com/channel/ucsrqrgnkeonwqxalir8t3wg
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-08-01 17:49:49"
 last-modified-jotform: "2021-08-25 20:19:52"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-58-exhibit-insomnia-insomnia-8-1-21-medium.PNG
   large: /assets/images/exhibit-images/21R-58-exhibit-insomnia-insomnia-8-1-21-large.PNG
   full: /assets/images/exhibit-images/21R-58-exhibit-insomnia-insomnia-8-1-21-full.PNG
-additional-images: 
 maker: 
   name: "Russell Williams"
   description: "Member of Purple Fore Robotics at Florida Polytechnic University"
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 20:53:30"
 last-modified-jotform: "2021-09-22 20:17:54"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

@@ -53,12 +53,15 @@ additional-images:
     medium: /assets/images/exhibit-images/21-35-exhibit-addl6-finleys-van-finley6-medium.png
     large: /assets/images/exhibit-images/21-35-exhibit-addl6-finleys-van-finley6-large.png
     full: /assets/images/exhibit-images/21-35-exhibit-addl6-finleys-van-finley6-full.png
-website: https://haydecarey.cargo.site/
-instagram: https://www.instagram.com/haydencarey_/
+website: "https://itp.nyu.edu/lowres/thesisarchive2021/?hayden-carey"
+video: "https://vimeo.com/manage/videos/578649874"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Hayden Carey"
   description: "I&#039;m a budding creative producer, and designer who has found a passion for experiential storytelling and themed entertainment projects– all enhanced by technology. I’m motivated by a desire to craft meaningful and memorable experiences for others through technology and stories."
   image-primary: /assets/images/exhibit-images/21-35-maker-finleys-van-img-0883-medium.jpeg
+  website: https://haydecarey.cargo.site/
+  instagram: https://www.instagram.com/haydencarey_/
 categories: 
   - slug: arduino
     name: Arduino
@@ -70,7 +73,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2021-07-28 18:07:03"
 last-modified-jotform: "2021-10-24 12:00:08"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

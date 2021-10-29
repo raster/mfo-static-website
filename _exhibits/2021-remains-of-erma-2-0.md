@@ -17,7 +17,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-54-exhibit-remains-of-erma-2-0-remains-of-erma-2-0-medium.jpg
   large: /assets/images/exhibit-images/21R-54-exhibit-remains-of-erma-2-0-remains-of-erma-2-0-large.jpg
   full: /assets/images/exhibit-images/21R-54-exhibit-remains-of-erma-2-0-remains-of-erma-2-0-full.jpg
-additional-images: 
 maker: 
   name: "Humphries and Associates"
   description: "Battle bot makers"
@@ -27,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 18:56:16"
 last-modified-jotform: "2021-10-06 20:13:12"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

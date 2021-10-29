@@ -24,19 +24,19 @@ additional-images:
     medium: /assets/images/exhibit-images/21R-39-exhibit-addl1-insubordination-and-defiance-unknown2-medium.png
     large: /assets/images/exhibit-images/21R-39-exhibit-addl1-insubordination-and-defiance-unknown2-large.png
     full: /assets/images/exhibit-images/21R-39-exhibit-addl1-insubordination-and-defiance-unknown2-full.png
-website: http://purplefire.org
-instagram: https://www.instagram.com/purplefirerobotics/?hl=en
-youtube: https://www.youtube.com/channel/uckvyg6lbscvzvdjtk0-ax2g
 maker: 
   name: "Purple Fire Robotics"
   description: "Purple Fire Robotics aims to provide opportunities for Florida Polytechnic University&#039;s students to excel, innovate, and learn robotics while providing an environment to thrive in mechanics, electronics, and computer science. There are 7 sections within the Purple Fire Robotics Club: Combat, VEX U, Research & Development, Outreach, Fundraising, Events, and 250 Pound."
   image-primary: /assets/images/exhibit-images/21R-39-maker-insubordination-and-defiance-pf-logo-white-01-medium.png
+  website: http://purplefire.org
+  instagram: https://www.instagram.com/purplefirerobotics/?hl=en
+  youtube: https://www.youtube.com/channel/uckvyg6lbscvzvdjtk0-ax2g
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-08-14 20:29:10"
 last-modified-jotform: "2021-08-25 20:14:08"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

@@ -20,11 +20,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-136-exhibit-addl1-duinokit-inspire-and-invent-laura-with-duinokit-medium.JPG
     large: /assets/images/exhibit-images/21-136-exhibit-addl1-duinokit-inspire-and-invent-laura-with-duinokit-large.JPG
     full: /assets/images/exhibit-images/21-136-exhibit-addl1-duinokit-inspire-and-invent-laura-with-duinokit-full.JPG
-website: http://duinokit.com/store/
+website: "www.DuinoKit.com"
+video: "https://www.youtube.com/watch?v=uLotJ7h7oZE"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "DuinoKit"
   description: "DuinoKit manufacturers Arduino-based learning kits to teach about coding and electronics."
   image-primary: /assets/images/exhibit-images/21-136-maker-duinokit-inspire-and-invent-logo-original-inspire-and-invent-educator-medium.png
+  website: http://duinokit.com/store/
 categories: 
   - slug: arduino
     name: Arduino
@@ -38,7 +41,7 @@ categories:
     name: Makerspace
 created-jotform: "2021-09-17 08:38:27"
 last-modified-jotform: "2021-10-25 19:51:37"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

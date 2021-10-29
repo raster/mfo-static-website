@@ -15,21 +15,20 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-42-exhibit-invasion-43-so-phalanxrobotics-logo-9535-medium.jpg
   large: /assets/images/exhibit-images/21R-42-exhibit-invasion-43-so-phalanxrobotics-logo-9535-large.jpg
   full: /assets/images/exhibit-images/21R-42-exhibit-invasion-43-so-phalanxrobotics-logo-9535-full.jpg
-additional-images: 
-twitter: https://www.twitter.com/phalanxrobotics
-instagram: https://www.instagram.com/phalanxrobotics/
-facebook: https://www.facebook.com/phalanxrobotics/?modal=admin_todo_tour
-youtube: https://www.youtube.com/channel/ucuvjltje6r_jtpqpuwuef1q
 maker: 
   name: "Phalanx Robotics"
   description: "Combat robotics, all the way from Ohio! Centralized out of the University of Akron, we are a combat robotics team comprised mostly of students/alumni. "
   image-primary: /assets/images/exhibit-images/21R-42-maker-invasion-so-phalanxrobotics-logo-medium.jpg
+  twitter: https://www.twitter.com/phalanxrobotics
+  instagram: https://www.instagram.com/phalanxrobotics/
+  facebook: https://www.facebook.com/phalanxrobotics/?modal=admin_todo_tour
+  youtube: https://www.youtube.com/channel/ucuvjltje6r_jtpqpuwuef1q
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-08-17 16:22:22"
 last-modified-jotform: "2021-08-25 20:11:17"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

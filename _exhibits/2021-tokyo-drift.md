@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-177-exhibit-tokyo-drift-43-t-drift-1706-medium.png
   large: /assets/images/exhibit-images/21-177-exhibit-tokyo-drift-43-t-drift-1706-large.png
   full: /assets/images/exhibit-images/21-177-exhibit-tokyo-drift-43-t-drift-1706-full.png
-additional-images: 
 maker: 
   name: "Craig Byrne / Lazy Gecko"
   description: "Tokyo Drift / Power Racing Series entry"
@@ -26,7 +25,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-10-18 13:26:18"
 last-modified-jotform: "2021-10-24 11:37:27"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

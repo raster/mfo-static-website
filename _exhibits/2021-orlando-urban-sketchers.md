@@ -20,10 +20,6 @@ additional-images:
     medium: /assets/images/exhibit-images/21-166-exhibit-addl1-orlando-urban-sketchers-reduced-by-75-medium.jpg
     large: /assets/images/exhibit-images/21-166-exhibit-addl1-orlando-urban-sketchers-reduced-by-75-large.jpg
     full: /assets/images/exhibit-images/21-166-exhibit-addl1-orlando-urban-sketchers-reduced-by-75-full.jpg
-website: http:// http://uskorlando.blogspot.com/
-instagram: https://www.instagram.com/urbansketchersorlando/
-facebook: https://www.facebook.com/groups/uskorlando
-youtube: https://www.youtube.com/channel/ucakqvbocajsjfnnmeo2t0-w
 maker: 
   name: "Orlando Urban Sketchers"
   description: "Urban Sketchers is a nonprofit organization dedicated to raising the artistic, storytelling, and educational value of location drawing, promoting its practice, and connecting people around the world who draw on location where they live and travel. We aim to show the world, one drawing at a time.
@@ -32,12 +28,16 @@ Since its inception in 2016, the Orlando Urban Sketchers Chapter serves the Cent
 
 We document Orlando&#039;s and Central Florida community life via Sketch-Reportage art form and share our stories with the world, One Drawing at a Time.     "
   image-primary: /assets/images/exhibit-images/21-166-maker-orlando-urban-sketchers-reduced-by-50-medium.jpg
+  website: http:// http://uskorlando.blogspot.com/
+  instagram: https://www.instagram.com/urbansketchersorlando/
+  facebook: https://www.facebook.com/groups/uskorlando
+  youtube: https://www.youtube.com/channel/ucakqvbocajsjfnnmeo2t0-w
 categories: 
   - slug: art
     name: Art
 created-jotform: "2021-10-06 21:43:37"
 last-modified-jotform: "2021-10-24 11:38:46"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

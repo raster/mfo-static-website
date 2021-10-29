@@ -50,13 +50,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-83-exhibit-addl7-tampa-hackerspace-img-20190206-212945-wpcf-1024x1024-medium.jpg
     large: /assets/images/exhibit-images/21-83-exhibit-addl7-tampa-hackerspace-img-20190206-212945-wpcf-1024x1024-large.jpg
     full: /assets/images/exhibit-images/21-83-exhibit-addl7-tampa-hackerspace-img-20190206-212945-wpcf-1024x1024-full.jpg
-website: http://www.tampahackerspace.com
-twitter: https://www.twitter.com/hacktampa
-facebook: https://www.facebook.com/tampahackerspace
+website: "https://tampahackerspace.com/"
 maker: 
   name: "Tampa Hackerspace"
   description: "Tampa Hackerspace is a non-profit, member-run makerspace in Tampa, Florida. Some of the projects our members work on: aquaponics, FIRST robotics, Arduino, Raspberry Pi, Internet of Things (IoT), electronics, ham / amateur radio, wearable electronics, home automation, microcontrollers, quadcopters, drones, 3D printing, art, etc. We are working on offering a wide range of classes from Minecraft to sewing to LED lighting to Linux to lockpicking to movie making and photography. Whether your interest is technology like hardware or electronic devices, software, or artistic like art, design, film, or music, we&#039;re here to help you with your projects. Our workshop currently has several 3D printers, a plastic former, a laser cutter, several CNC routers, welding, sewing machines, vinyl cutters, a heat press, kilns, machine tools including a CNC mill, vertical mill and metal lathes and one of the best equipped woodshops you&#039;ll ever see! We also have a first-rate electronics bench."
   image-primary: /assets/images/exhibit-images/21-83-maker-tampa-hackerspace-18-tampa-hackerspace-2048-transparent-border-1024x1024-4049-medium.png
+  website: http://www.tampahackerspace.com
+  twitter: https://www.twitter.com/hacktampa
+  facebook: https://www.facebook.com/tampahackerspace
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -70,7 +71,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-19 15:26:37"
 last-modified-jotform: "2021-10-27 20:28:17"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

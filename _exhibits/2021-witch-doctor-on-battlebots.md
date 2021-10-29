@@ -14,19 +14,19 @@ image-primary:
   medium: /assets/images/exhibit-images/21-161-exhibit-witch-doctor-on-battlebots-witch-doctor-w-sponsors-sm-medium.jpg
   large: /assets/images/exhibit-images/21-161-exhibit-witch-doctor-on-battlebots-witch-doctor-w-sponsors-sm-large.jpg
   full: /assets/images/exhibit-images/21-161-exhibit-witch-doctor-on-battlebots-witch-doctor-w-sponsors-sm-full.jpg
-additional-images: 
-website: http://www.teamwitchdoctor.com
-youtube: https://www.youtube.com/witchdoctor
+website: "www.teamwitchdoctor.com"
 maker: 
   name: "Team Witch Doctor"
   description: "Witch Doctor is an award-winning competitor on the TV show BattleBots. It weighs 250 pounds, and battles with its dual skull-shaped disks spinning at over 200 miles per hour! Witch Doctor has been a BattleBots World Championship Finalist, BattleBots Bounty Hunter Champion, and BattleBots All-Stars Champion. Team Witch Doctor is a fan-favorite known for competing in their custom-made skeleton jackets and top hats. The South Florida team is an avid advocate of robotics education through combat robotics, and their Witch Doctor Junior educational program includes free YouTube video lessons to help new builders get started. You can learn more at www.teamwitchdoctor.com."
   image-primary: /assets/images/exhibit-images/21-161-maker-witch-doctor-on-battlebots-1-witch-doctor-team-2020-medium.jpg
+  website: http://www.teamwitchdoctor.com
+  youtube: https://www.youtube.com/witchdoctor
 categories: 
   - slug: battlebot
     name: BattleBot
 created-jotform: "2021-10-03 10:37:04"
 last-modified-jotform: "2021-10-24 11:39:24"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

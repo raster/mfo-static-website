@@ -14,14 +14,14 @@ image-primary:
   medium: /assets/images/exhibit-images/21-132-exhibit-tylted-art-img-8873-medium.jpg
   large: /assets/images/exhibit-images/21-132-exhibit-tylted-art-img-8873-large.jpg
   full: /assets/images/exhibit-images/21-132-exhibit-tylted-art-img-8873-full.jpg
-additional-images: 
-website: http://www.tyltedart.com
-instagram: https://www.instagram.com/tyltedart
-facebook: https://www.facebook.com/tyltedart
+website: "www.tyltedart.com"
 maker: 
   name: "Curtis Epperson / Tylted Art"
   description: "My artwork is made up entirely of words that describe each piece of art... I take the words that describe the art, and use those words to create the art!"
   image-primary: /assets/images/exhibit-images/21-132-maker-tylted-art-tylted-art-logo-black-and-white-medium.png
+  website: http://www.tyltedart.com
+  instagram: https://www.instagram.com/tyltedart
+  facebook: https://www.facebook.com/tyltedart
 categories: 
   - slug: art
     name: Art
@@ -29,7 +29,7 @@ categories:
     name: Education
 created-jotform: "2021-09-08 13:46:46"
 last-modified-jotform: "2021-10-24 12:24:15"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

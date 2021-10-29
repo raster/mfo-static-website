@@ -20,13 +20,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-72-exhibit-addl1-cottonswirl-artwork-inbound1826521683776095611-medium.jpg
     large: /assets/images/exhibit-images/21-72-exhibit-addl1-cottonswirl-artwork-inbound1826521683776095611-large.jpg
     full: /assets/images/exhibit-images/21-72-exhibit-addl1-cottonswirl-artwork-inbound1826521683776095611-full.jpg
-website: http://cottonswirl1.threadless.com
-instagram: https://www.instagram.com/p/cipdprgagra/
 maker: 
   name: "Sarah Mae Hubbard "
   description: "Cottonswirl Artwork 
 We did the event about 2 years ago now. Covid canceled all of our events last year. "
   image-primary: /assets/images/exhibit-images/21-72-maker-cottonswirl-artwork-inbound7669752927635406663-medium.jpg
+  website: http://cottonswirl1.threadless.com
+  instagram: https://www.instagram.com/p/cipdprgagra/
 categories: 
   - slug: art
     name: Art
@@ -36,7 +36,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-08-14 21:33:34"
 last-modified-jotform: "2021-10-24 12:29:15"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

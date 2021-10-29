@@ -15,18 +15,17 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-48-exhibit-kraken-ce-robots-43-img-20210822-204613-3790-medium.jpg
   large: /assets/images/exhibit-images/21R-48-exhibit-kraken-ce-robots-43-img-20210822-204613-3790-large.jpg
   full: /assets/images/exhibit-images/21R-48-exhibit-kraken-ce-robots-43-img-20210822-204613-3790-full.jpg
-additional-images: 
-website: http://cerobots.com
 maker: 
   name: "CE Robots (Kraken and Co)"
   description: "CE Robots is proud to be bringing our 250 pound BattleBot Kraken along with our small 1 pound combat robots"
   image-primary: /assets/images/exhibit-images/21R-48-maker-kraken-ce-robots-img-20210822-204613-medium.jpg
+  website: http://cerobots.com
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-04 19:10:34"
 last-modified-jotform: "2021-09-08 19:32:07"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

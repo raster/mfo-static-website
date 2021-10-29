@@ -30,14 +30,15 @@ additional-images:
     medium: /assets/images/exhibit-images/21-44-exhibit-addl3-clockwork-alley-84513856-3459823657421353-5066130516537769984-o-medium.jpg
     large: /assets/images/exhibit-images/21-44-exhibit-addl3-clockwork-alley-84513856-3459823657421353-5066130516537769984-o-large.jpg
     full: /assets/images/exhibit-images/21-44-exhibit-addl3-clockwork-alley-84513856-3459823657421353-5066130516537769984-o-full.jpg
-website: https://www.etsy.com/shop/clockworkalley
-instagram: https://www.instagram.com/clockworkalley
-facebook: https://www.facebook.com/clockwork-alley
-youtube: https://www.youtube.com/channel/ucdb2in_yrkwimgxejpmoknw
+website: "https://www.etsy.com/shop/ClockworkAlley"
 maker: 
   name: "Lorry volkens"
   description: "Steapunk inspired jewelry and accessories. I make most of my jewelry from vintage watch parts."
   image-primary: /assets/images/exhibit-images/21-44-maker-clockwork-alley-lake-eola-street-photography-030-2-medium.jpg
+  website: https://www.etsy.com/shop/clockworkalley
+  instagram: https://www.instagram.com/clockworkalley
+  facebook: https://www.facebook.com/clockwork-alley
+  youtube: https://www.youtube.com/channel/ucdb2in_yrkwimgxejpmoknw
 categories: 
   - slug: art
     name: Art
@@ -51,7 +52,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-08-04 11:24:02"
 last-modified-jotform: "2021-10-25 19:42:37"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

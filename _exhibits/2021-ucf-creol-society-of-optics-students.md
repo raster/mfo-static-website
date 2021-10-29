@@ -33,14 +33,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-113-exhibit-addl3-ucf-creol-society-of-optics-students-sosschlirenopticsdemonstration-min-medium.JPG
     large: /assets/images/exhibit-images/21-113-exhibit-addl3-ucf-creol-society-of-optics-students-sosschlirenopticsdemonstration-min-large.JPG
     full: /assets/images/exhibit-images/21-113-exhibit-addl3-ucf-creol-society-of-optics-students-sosschlirenopticsdemonstration-min-full.JPG
-website: https://creol.ucf.edu/people/student-organizations/sos/
-twitter: https://www.twitter.com/sos_creol
-instagram: https://www.instagram.com/sos.creol/
-facebook: https://www.facebook.com/sos.creol
 maker: 
   name: "Society of Optics Students"
   description: "The Society of Optics Students is an undergraduate organization at UCF that seeks to enhance academic excellence, peer mentoring, leadership, and entrepreneurship through the discipline of optics and photonics."
   image-primary: /assets/images/exhibit-images/21-113-maker-ucf-creol-society-of-optics-students-sos-logo-white-medium.png
+  website: https://creol.ucf.edu/people/student-organizations/sos/
+  twitter: https://www.twitter.com/sos_creol
+  instagram: https://www.instagram.com/sos.creol/
+  facebook: https://www.facebook.com/sos.creol
 categories: 
   - slug: education
     name: Education
@@ -50,7 +50,7 @@ categories:
     name: Science Fair
 created-jotform: "2021-08-31 12:21:55"
 last-modified-jotform: "2021-10-28 16:34:51"
-last-exported: "2021-10-28 19:49:55"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

@@ -14,14 +14,13 @@ image-primary:
   medium: /assets/images/exhibit-images/21-66-exhibit-art-of-bianca-headshot-medium.jpg
   large: /assets/images/exhibit-images/21-66-exhibit-art-of-bianca-headshot-large.jpg
   full: /assets/images/exhibit-images/21-66-exhibit-art-of-bianca-headshot-full.jpg
-additional-images: 
-website: http://biancaart.storenvy.com
-instagram: https://www.instagram.com/artofbianca
-facebook: https://www.facebook.com/the-art-of-bianca-roman-stumpff-146457122073350/
 maker: 
   name: "Bianca Roman-Stumpff"
   description: "acrylic painter of nonsense"
   image-primary: /assets/images/exhibit-images/21-66-maker-art-of-bianca-headshot-2-medium.jpg
+  website: http://biancaart.storenvy.com
+  instagram: https://www.instagram.com/artofbianca
+  facebook: https://www.facebook.com/the-art-of-bianca-roman-stumpff-146457122073350/
 categories: 
   - slug: art
     name: Art
@@ -29,7 +28,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-09 23:19:08"
 last-modified-jotform: "2021-10-27 12:54:17"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

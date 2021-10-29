@@ -14,13 +14,12 @@ image-primary:
   medium: /assets/images/exhibit-images/21-75-exhibit-michael-mcelroy-studios-238685726-10160292107056320-1310676102989804670-n-medium.jpg
   large: /assets/images/exhibit-images/21-75-exhibit-michael-mcelroy-studios-238685726-10160292107056320-1310676102989804670-n-large.jpg
   full: /assets/images/exhibit-images/21-75-exhibit-michael-mcelroy-studios-238685726-10160292107056320-1310676102989804670-n-full.jpg
-additional-images: 
-website: http://mcelroystudios.com
-facebook: https://www.facebook.com/michael.mcelroystudios
 maker: 
   name: "Michael McElroy"
   description: "fan art in shadowbox frames"
   image-primary: /assets/images/exhibit-images/21-75-maker-michael-mcelroy-studios-mcelroystudios-facebook-copy-medium.JPG
+  website: http://mcelroystudios.com
+  facebook: https://www.facebook.com/michael.mcelroystudios
 categories: 
   - slug: art
     name: Art
@@ -30,7 +29,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-16 21:41:23"
 last-modified-jotform: "2021-10-24 12:26:27"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

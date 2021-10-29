@@ -42,12 +42,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-82-exhibit-addl5-rockstar-robotics-screenshot-20210821-135836-chrome-medium.jpg
     large: /assets/images/exhibit-images/21-82-exhibit-addl5-rockstar-robotics-screenshot-20210821-135836-chrome-large.jpg
     full: /assets/images/exhibit-images/21-82-exhibit-addl5-rockstar-robotics-screenshot-20210821-135836-chrome-full.jpg
-website: https://rockstarrobotics.wixsite.com/rockstarrobot
 maker: 
   name: "Rockstar Robotics"
   description: "Central Florida Robotics team working out of the Pinehills Boys and Girls Club.
 "
   image-primary: /assets/images/exhibit-images/21-82-maker-rockstar-robotics-screenshot-20210821-135448-chrome-medium.jpg
+  website: https://rockstarrobotics.wixsite.com/rockstarrobot
 categories: 
   - slug: electronics
     name: Electronics
@@ -61,7 +61,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-19 09:19:35"
 last-modified-jotform: "2021-10-24 11:51:08"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

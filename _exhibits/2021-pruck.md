@@ -22,14 +22,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-51-exhibit-addl1-pruck-20210223-170630-medium.jpg
     large: /assets/images/exhibit-images/21-51-exhibit-addl1-pruck-20210223-170630-large.jpg
     full: /assets/images/exhibit-images/21-51-exhibit-addl1-pruck-20210223-170630-full.jpg
-website: https://daytonahybrids.com/1953-international-rat-rod-pruck/
-facebook: https://www.facebook.com/steve.woodruff.925
-youtube: https://www.youtube.com/watch?v=aMwvB7TjgKQ
 maker: 
   name: "AutoBeYours"
   description: "Hybrid rat rod.
 art cars built from hybrid electric vehicles"
   image-primary: /assets/images/exhibit-images/21-51-maker-pruck-20191031-092134-medium.jpg
+  website: https://daytonahybrids.com/1953-international-rat-rod-pruck/
+  facebook: https://www.facebook.com/steve.woodruff.925
+  youtube: https://www.youtube.com/watch?v=aMwvB7TjgKQ
 categories: 
   - slug: electric-vehicles
     name: Electric Vehicles
@@ -43,7 +43,7 @@ categories:
     name: Vehicles
 created-jotform: "2021-08-05 08:55:06"
 last-modified-jotform: "2021-10-24 11:59:14"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

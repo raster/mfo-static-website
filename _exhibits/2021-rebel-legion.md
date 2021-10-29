@@ -15,12 +15,11 @@ image-primary:
   medium: /assets/images/exhibit-images/21-165-exhibit-rebel-legion-43-rebel-legion-logo-6356-medium.png
   large: /assets/images/exhibit-images/21-165-exhibit-rebel-legion-43-rebel-legion-logo-6356-large.png
   full: /assets/images/exhibit-images/21-165-exhibit-rebel-legion-43-rebel-legion-logo-6356-full.png
-additional-images: 
-website: https://rebellegion.com/
 maker: 
   name: "Rebel Legion"
   description: "The Rebel Legion is an international Star Wars costuming organization created by, of and for people interested in creating costumes from the Star Wars mythos. Research, create, build and improve your costumes in a place where costumers with similar passions share skills, tips and ideas. Jedi, Rebel Pilots, Troopers, Princesses and even Wookiees…. we’ve got them all….and we’re always looking for more."
   image-primary: /assets/images/exhibit-images/21-165-maker-rebel-legion-rebel-legion-logo-medium.png
+  website: https://rebellegion.com/
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -34,7 +33,7 @@ categories:
     name: Props
 created-jotform: "2021-10-06 18:09:19"
 last-modified-jotform: "2021-10-28 17:03:46"
-last-exported: "2021-10-28 19:49:54"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

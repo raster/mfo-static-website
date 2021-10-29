@@ -25,12 +25,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-77-exhibit-addl2-cosplay-3d-printing-and-you-img-20210715-204547916-medium.jpg
     large: /assets/images/exhibit-images/21-77-exhibit-addl2-cosplay-3d-printing-and-you-img-20210715-204547916-large.jpg
     full: /assets/images/exhibit-images/21-77-exhibit-addl2-cosplay-3d-printing-and-you-img-20210715-204547916-full.jpg
-instagram: https://www.instagram.com/kangabox
-facebook: https://www.facebook.com/kangabox
 maker: 
   name: "Kangabox"
   description: "Kangabox Productions provides 3D printing solutions for Cosplay, arts, and more! "
   image-primary: /assets/images/exhibit-images/21-77-maker-cosplay-3d-printing-and-you-aimimg-1-medium.jpg
+  instagram: https://www.instagram.com/kangabox
+  facebook: https://www.facebook.com/kangabox
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -44,7 +44,7 @@ categories:
     name: Education
 created-jotform: "2021-08-17 00:46:03"
 last-modified-jotform: "2021-10-24 14:07:11"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

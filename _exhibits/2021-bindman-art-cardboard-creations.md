@@ -30,12 +30,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-156-exhibit-addl3-bindman-art-cardboard-creations-20210929-181905-medium.jpg
     large: /assets/images/exhibit-images/21-156-exhibit-addl3-bindman-art-cardboard-creations-20210929-181905-large.jpg
     full: /assets/images/exhibit-images/21-156-exhibit-addl3-bindman-art-cardboard-creations-20210929-181905-full.jpg
-instagram: https://www.instagram.com/bindmanart 
-facebook: https://www.facebook.com/bindmanart 
+website: "https://www.instagram.com/bindmanart "
 maker: 
   name: "Bindman Art "
   description: "Bindman is an Orlando artist who creates 3D art out of recycled cardboard "
   image-primary: /assets/images/exhibit-images/21-156-maker-bindman-art-cardboard-creations-fb-img-1632953073925-medium.jpg
+  instagram: https://www.instagram.com/bindmanart 
+  facebook: https://www.facebook.com/bindmanart 
 categories: 
   - slug: art
     name: Art
@@ -49,7 +50,7 @@ categories:
     name: Upcycling
 created-jotform: "2021-09-29 18:22:36"
 last-modified-jotform: "2021-10-25 19:50:22"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

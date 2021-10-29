@@ -20,16 +20,16 @@ image-primary:
   medium: /assets/images/exhibit-images/21-169-exhibit-team-hypershock-43-hypershockpic1-1836-medium.jpg
   large: /assets/images/exhibit-images/21-169-exhibit-team-hypershock-43-hypershockpic1-1836-large.jpg
   full: /assets/images/exhibit-images/21-169-exhibit-team-hypershock-43-hypershockpic1-1836-full.jpg
-additional-images: 
-website: https://hypershock.tv/
-twitter: https://www.twitter.com/hypershocktv
-instagram: https://www.instagram.com/hypershocktv/
-facebook: https://www.facebook.com/hypershocktv/
-youtube: https://www.youtube.com/channel/ucup8mcbi4frgtqcfuk0fcfg
+website: "https://hypershock.tv/"
 maker: 
   name: "Team HyperShock"
   description: "Team HyperShock from Discovery Channel&#039;s BattleBots. We&#039;re a 250lb combat robot."
   image-primary: /assets/images/exhibit-images/21-169-maker-team-hypershock-hypershockpic1-medium.jpg
+  website: https://hypershock.tv/
+  twitter: https://www.twitter.com/hypershocktv
+  instagram: https://www.instagram.com/hypershocktv/
+  facebook: https://www.facebook.com/hypershocktv/
+  youtube: https://www.youtube.com/channel/ucup8mcbi4frgtqcfuk0fcfg
 categories: 
   - slug: battlebot
     name: BattleBot
@@ -39,7 +39,7 @@ categories:
     name: Robotics
 created-jotform: "2021-10-08 15:00:48"
 last-modified-jotform: "2021-10-24 11:38:40"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

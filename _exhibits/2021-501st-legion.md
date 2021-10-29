@@ -15,12 +15,11 @@ image-primary:
   medium: /assets/images/exhibit-images/21-164-exhibit-501st-legion-250px-501st-legion-logo-medium.jpg
   large: /assets/images/exhibit-images/21-164-exhibit-501st-legion-250px-501st-legion-logo-large.jpg
   full: /assets/images/exhibit-images/21-164-exhibit-501st-legion-250px-501st-legion-logo-full.jpg
-additional-images: 
-website: https://www.501st.com
 maker: 
   name: "501st Legion"
   description: "The Legion is an all-volunteer organization formed for the express purpose of bringing together costume enthusiasts under a collective identity within which to operate. The Legion seeks to promote interest in Star Wars through the building and wearing of quality costumes, and to facilitate the use of these costumes for Star Wars-related events as well as contributions to the local community through costumed charity and volunteer work."
   image-primary: /assets/images/exhibit-images/21-164-maker-501st-legion-logobanner1-medium.png
+  website: https://www.501st.com
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -34,7 +33,7 @@ categories:
     name: Props
 created-jotform: "2021-10-06 18:03:04"
 last-modified-jotform: "2021-10-28 17:03:24"
-last-exported: "2021-10-28 19:49:54"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

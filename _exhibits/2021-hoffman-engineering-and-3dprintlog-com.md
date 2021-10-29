@@ -35,15 +35,17 @@ additional-images:
     medium: /assets/images/exhibit-images/21-98-exhibit-addl4-hoffman-engineering-and-3dprintlog-com-vlcsnap-2021-07-17-14h38m42s054-medium.png
     large: /assets/images/exhibit-images/21-98-exhibit-addl4-hoffman-engineering-and-3dprintlog-com-vlcsnap-2021-07-17-14h38m42s054-large.png
     full: /assets/images/exhibit-images/21-98-exhibit-addl4-hoffman-engineering-and-3dprintlog-com-vlcsnap-2021-07-17-14h38m42s054-full.png
-website: https://www.hoffman.engineering/
-instagram: https://www.instagram.com/hoffmanengineering/
-facebook: https://www.facebook.com/hoffman3dprinting/
-youtube: https://www.youtube.com/user/hoffmanengineering
+video: "https://www.youtube.com/HoffmanEngineering"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Christopher Hoffman"
   description: "Christopher Hoffman is a Mechanical Engineer turned Software Developer, Youtuber, and 3D Printing enthusiast located in Tampa, Florida. After graduating with a Bachelor’s of Science in Mechanical Engineering from the University of Florida in 2014, he has dedicated himself to the fields of 3D printing, 3D scanning, and Computer Aided Design. Chris enjoys sharing his passion for Making with the Youtube community, running a Youtube channel called Hoffman Engineering. There he showcases his own projects ranging from 3D printed, animatronic Pokemon to the latest in open-source CAD software. While waiting on his 3D prints to finish or his videos to render, Chris can be found at the Tampa Hackerspace, where he regularly gives demos of the successes and failures of his personal projects. He enjoys teaching classes on 3D modeling at the hackerspace, inviting the community to learn from his mistakes. Chris can be found on Youtube as Hoffman Engineering, or on twitter @TheChrisHoffman
 "
   image-primary: /assets/images/exhibit-images/21-98-maker-hoffman-engineering-and-3dprintlog-com-img-20190727-104045-1-medium.jpg
+  website: https://www.hoffman.engineering/
+  instagram: https://www.instagram.com/hoffmanengineering/
+  facebook: https://www.facebook.com/hoffman3dprinting/
+  youtube: https://www.youtube.com/user/hoffmanengineering
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -57,7 +59,7 @@ categories:
     name: Software
 created-jotform: "2021-08-26 19:53:25"
 last-modified-jotform: "2021-10-24 11:47:03"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

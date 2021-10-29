@@ -14,12 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-medium.jpg
   large: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-large.jpg
   full: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-full.jpg
-additional-images: 
-website: http://www.osc.org
-twitter: https://www.twitter.com/orlandoscience
-instagram: https://www.instagram.com/orlandosciencecenter/?hl=en
-facebook: https://www.facebook.com/orlandosciencecenter/
-youtube: https://www.youtube.com/user/orlandosciencecenter
 maker: 
   name: "Orlando Science Center"
   description: "Orlando Science Center is Central Florida’s award-winning, hands-on science museum. For more than 60 years, our exhibits and programming have brought science to life for not just residents of Central Florida, but also visitors from around the world. 
@@ -30,6 +24,11 @@ Many of the best designs come from collaboration. The Hive is a space that culti
 
 With four floors of interactive exhibit halls, labs and workshops, theaters, an observatory, and experiences that change with the seasons, there is always something exciting for our 670,000 annual visitors to see and do at Orlando Science Center. "
   image-primary: /assets/images/exhibit-images/21-70-maker-takeapart-osc-horizontallogo-purple-300x137-medium.png
+  website: http://www.osc.org
+  twitter: https://www.twitter.com/orlandoscience
+  instagram: https://www.instagram.com/orlandosciencecenter/?hl=en
+  facebook: https://www.facebook.com/orlandosciencecenter/
+  youtube: https://www.youtube.com/user/orlandosciencecenter
 categories: 
   - slug: electronics
     name: Electronics
@@ -43,7 +42,7 @@ categories:
     name: Tools
 created-jotform: "2021-08-12 15:10:53"
 last-modified-jotform: "2021-10-24 14:07:17"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

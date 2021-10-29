@@ -14,12 +14,11 @@ image-primary:
   medium: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-medium.jpg
   large: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-large.jpg
   full: /assets/images/exhibit-images/21-8-exhibit-dalek-builders-of-florida-dalek1-full.jpg
-additional-images: 
-facebook: https://www.facebook.com/fldaleks
 maker: 
   name: "Dalek Builders of Florida"
   description: "Fans who love to build Daleks for fun.  We love to talk to bring our Daleks out and talk to anyone about the build process."
   image-primary: /assets/images/exhibit-images/21-8-maker-dalek-builders-of-florida-dalek-builders-v3-01-medium.jpg
+  facebook: https://www.facebook.com/fldaleks
 categories: 
   - slug: cosplay
     name: Cosplay
@@ -33,7 +32,7 @@ categories:
     name: Robotics
 created-jotform: "2021-07-07 18:55:45"
 last-modified-jotform: "2021-10-28 20:22:18"
-last-exported: "2021-10-28 21:42:04"
+last-exported: "2021-10-29 07:58:56"
 sitemap: false
 
 ---

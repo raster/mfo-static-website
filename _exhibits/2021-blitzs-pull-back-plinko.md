@@ -14,13 +14,12 @@ image-primary:
   medium: /assets/images/exhibit-images/21-28-exhibit-blitzs-pull-back-plinko-pull-back-plinko-medium.jpg
   large: /assets/images/exhibit-images/21-28-exhibit-blitzs-pull-back-plinko-pull-back-plinko-large.jpg
   full: /assets/images/exhibit-images/21-28-exhibit-blitzs-pull-back-plinko-pull-back-plinko-full.jpg
-additional-images: 
-website: http://www.blitzbuilt.com
-instagram: https://www.instagram.com/blitz_built_games/
 maker: 
   name: "Blitz Built"
   description: "We will be opening a Lego bricks-based store in the Fort Lauderdale area soon and we will be offering Technology, Engineering, and Arts events throughout the year. "
   image-primary: /assets/images/exhibit-images/21-28-maker-blitzs-pull-back-plinko-logo-medium.png
+  website: http://www.blitzbuilt.com
+  instagram: https://www.instagram.com/blitz_built_games/
 categories: 
   - slug: arcade
     name: Arcade
@@ -34,7 +33,7 @@ categories:
     name: LEGO
 created-jotform: "2021-07-25 18:59:08"
 last-modified-jotform: "2021-10-24 14:13:51"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

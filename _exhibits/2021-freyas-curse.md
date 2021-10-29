@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-24-exhibit-freyas-curse-43-freya-s-curse-1877-medium.jpg
   large: /assets/images/exhibit-images/21R-24-exhibit-freyas-curse-43-freya-s-curse-1877-large.jpg
   full: /assets/images/exhibit-images/21R-24-exhibit-freyas-curse-43-freya-s-curse-1877-full.jpg
-additional-images: 
 maker: 
   name: "Infinite Evolution Robotics"
   description: "Family robot team"
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-28 22:31:49"
 last-modified-jotform: "2021-08-25 20:25:07"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:50"
 sitemap: false
 
 ---

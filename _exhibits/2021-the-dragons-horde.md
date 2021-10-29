@@ -46,14 +46,15 @@ additional-images:
     medium: /assets/images/exhibit-images/21-105-exhibit-addl6-the-dragons-horde-mkersfair-medium.jpg
     large: /assets/images/exhibit-images/21-105-exhibit-addl6-the-dragons-horde-mkersfair-large.jpg
     full: /assets/images/exhibit-images/21-105-exhibit-addl6-the-dragons-horde-mkersfair-full.jpg
-website: http://Snookdragon.com
-instagram: https://www.instagram.com/snookdragon/
-facebook: https://www.facebook.com/snookdragon
-youtube: https://www.youtube.com/channel/ucf8ujivqyispfkwmuul3ufw
+website: "Snookdragon.com"
 maker: 
   name: "Cid Snook"
   description: "Handmade fantasy sculptures."
   image-primary: /assets/images/exhibit-images/21-105-maker-the-dragons-horde-cardsmf3-medium.jpg
+  website: http://Snookdragon.com
+  instagram: https://www.instagram.com/snookdragon/
+  facebook: https://www.facebook.com/snookdragon
+  youtube: https://www.youtube.com/channel/ucf8ujivqyispfkwmuul3ufw
 categories: 
   - slug: art
     name: Art
@@ -63,7 +64,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-29 21:33:52"
 last-modified-jotform: "2021-10-28 16:35:03"
-last-exported: "2021-10-28 19:49:55"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

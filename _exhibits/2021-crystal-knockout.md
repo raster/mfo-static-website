@@ -60,11 +60,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-33-exhibit-addl9-crystal-knockout-photo-mar-28-9-23-22-am-medium.jpg
     large: /assets/images/exhibit-images/21-33-exhibit-addl9-crystal-knockout-photo-mar-28-9-23-22-am-large.jpg
     full: /assets/images/exhibit-images/21-33-exhibit-addl9-crystal-knockout-photo-mar-28-9-23-22-am-full.jpg
-instagram: https://www.instagram.com/candyknockout
+website: "www.crystalknockout.com"
 maker: 
   name: "Candace Greggs-Gardner"
   description: "Candace was born-and-raised in Orlando and is a graduate of William R. Boone High School and the University of Central Florida. She&#039;s a trained vocalist, an amateur computer techie, a caffeine addict, a kitty wrangler, and happily married to a fellow Orlando native. She began her career in creativity in 2013 when she opened a small business making crystallized goods, including cell phone cases, wedding cake toppers, and apparel. Soon after, her love of color drew her to start dabbling in nail polish and other cosmetics and Crystal Knockout was born. "
   image-primary: /assets/images/exhibit-images/21-33-maker-crystal-knockout-photo-nov-11-10-30-03-amsq-medium.jpg
+  instagram: https://www.instagram.com/candyknockout
 categories: 
   - slug: craft
     name: Craft
@@ -74,7 +75,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-07-27 19:23:05"
 last-modified-jotform: "2021-10-24 12:27:02"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

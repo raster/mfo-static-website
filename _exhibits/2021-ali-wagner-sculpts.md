@@ -35,13 +35,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-94-exhibit-addl4-ali-wagner-sculpts-70b3f8117d36ef5eba15950cfb7506b1-medium.jpg
     large: /assets/images/exhibit-images/21-94-exhibit-addl4-ali-wagner-sculpts-70b3f8117d36ef5eba15950cfb7506b1-large.jpg
     full: /assets/images/exhibit-images/21-94-exhibit-addl4-ali-wagner-sculpts-70b3f8117d36ef5eba15950cfb7506b1-full.jpg
-website: https://www.facebook.com/bafa59/
-instagram: https://www.instagram.com/bafa59/
-facebook: https://www.facebook.com/bafa59/
 maker: 
   name: "Ali Wagner"
   description: "I&#039;m a sculptor who is known for making small sculptures from everyone&#039;s favorite fandoms. All my work is hand sculpted, then are molded and cast in plastic resin, and then hand painted. They&#039;re perfect for bringing a little joy to the little spaces in your home that could use some fun and color. I love having the chance to share my sculptures with people who are interested in how it&#039;s all made!"
   image-primary: /assets/images/exhibit-images/21-94-maker-ali-wagner-sculpts-44846077-2172485049659555-3873548257422475264-o-medium.jpg
+  website: https://www.facebook.com/bafa59/
+  instagram: https://www.instagram.com/bafa59/
+  facebook: https://www.facebook.com/bafa59/
 categories: 
   - slug: art
     name: Art
@@ -51,7 +51,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-24 21:19:41"
 last-modified-jotform: "2021-10-24 12:25:59"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

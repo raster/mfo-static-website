@@ -20,11 +20,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-133-exhibit-addl1-larger-than-life-cosplay-15493657-10157854627625696-44952644482996312-o-medium.jpg
     large: /assets/images/exhibit-images/21-133-exhibit-addl1-larger-than-life-cosplay-15493657-10157854627625696-44952644482996312-o-large.jpg
     full: /assets/images/exhibit-images/21-133-exhibit-addl1-larger-than-life-cosplay-15493657-10157854627625696-44952644482996312-o-full.jpg
-instagram: https://www.instagram.com/bassclef_cosplay/
+website: "https://www.instagram.com/bassclef_cosplay/"
 maker: 
   name: "Caitlin Gonzalez "
   description: "20 yr old cosplayer specializing in larger then life costumes."
   image-primary: /assets/images/exhibit-images/21-133-maker-larger-than-life-cosplay-screenshot-20180215-232743-medium.jpg
+  instagram: https://www.instagram.com/bassclef_cosplay/
 categories: 
   - slug: cosplay
     name: Cosplay
@@ -38,7 +39,7 @@ categories:
     name: Upcycling
 created-jotform: "2021-09-09 23:51:30"
 last-modified-jotform: "2021-10-28 13:15:40"
-last-exported: "2021-10-28 19:49:54"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

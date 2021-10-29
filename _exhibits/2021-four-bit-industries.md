@@ -14,14 +14,14 @@ image-primary:
   medium: /assets/images/exhibit-images/21-23-exhibit-four-bit-industries-dsc04634bw-medium.png
   large: /assets/images/exhibit-images/21-23-exhibit-four-bit-industries-dsc04634bw-large.png
   full: /assets/images/exhibit-images/21-23-exhibit-four-bit-industries-dsc04634bw-full.png
-additional-images: 
-website: https://fourbitindustries.com/
-twitter: https://www.twitter.com/fourbitind
-facebook: https://www.facebook.com/fourbitindustries
+website: "https://fourbitindustries.com/"
 maker: 
   name: "Four Bit Industries"
   description: "We make electronics kits for educational and hobbyist use."
   image-primary: /assets/images/exhibit-images/21-23-maker-four-bit-industries-logobwcom-medium.png
+  website: https://fourbitindustries.com/
+  twitter: https://www.twitter.com/fourbitind
+  facebook: https://www.facebook.com/fourbitindustries
 categories: 
   - slug: education
     name: Education
@@ -31,7 +31,7 @@ categories:
     name: Kits
 created-jotform: "2021-07-24 17:03:11"
 last-modified-jotform: "2021-10-24 12:01:27"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

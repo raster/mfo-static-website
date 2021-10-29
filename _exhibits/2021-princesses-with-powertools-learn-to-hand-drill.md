@@ -20,15 +20,18 @@ additional-images:
     medium: /assets/images/exhibit-images/21-112-exhibit-addl1-princesses-with-powertools-learn-to-hand-drill-img-4926-medium.jpg
     large: /assets/images/exhibit-images/21-112-exhibit-addl1-princesses-with-powertools-learn-to-hand-drill-img-4926-large.jpg
     full: /assets/images/exhibit-images/21-112-exhibit-addl1-princesses-with-powertools-learn-to-hand-drill-img-4926-full.jpg
-website: https://www.reinventedmagazine.com/
-twitter: https://www.twitter.com/reinventedmag
-instagram: https://www.instagram.com/reinventedmagazine/
-facebook: https://www.facebook.com/reinventedmagazine/
-youtube: https://www.youtube.com/c/beautyandthebolt/featured
+website: "https://www.reinventedmagazine.com/#"
+video: "https://www.youtube.com/c/BeautyandtheBolt/featured"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Reinvented Inc."
   description: "Reinvented Inc. is a 501(c)(3) nonprofit organization whose mission is to reinvent the general perception of women in STEM fields while inspiring interest in STEM for young women worldwide. We aspire to break barriers and aid the movement to get more girls involved in STEM, first through the creation of our print magazine (Reinvented Magazine), and now through our new in-person program, Princesses with Power Tools."
   image-primary: /assets/images/exhibit-images/21-112-maker-princesses-with-powertools-learn-to-hand-drill-snip-medium.PNG
+  website: https://www.reinventedmagazine.com/
+  twitter: https://www.twitter.com/reinventedmag
+  instagram: https://www.instagram.com/reinventedmagazine/
+  facebook: https://www.facebook.com/reinventedmagazine/
+  youtube: https://www.youtube.com/c/beautyandthebolt/featured
 categories: 
   - slug: education
     name: Education
@@ -42,7 +45,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-31 09:54:42"
 last-modified-jotform: "2021-10-24 11:45:41"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

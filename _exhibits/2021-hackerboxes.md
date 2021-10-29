@@ -40,14 +40,17 @@ additional-images:
     medium: /assets/images/exhibit-images/21-92-exhibit-addl5-hackerboxes-conference-badge-add-ons-medium.jpg
     large: /assets/images/exhibit-images/21-92-exhibit-addl5-hackerboxes-conference-badge-add-ons-large.jpg
     full: /assets/images/exhibit-images/21-92-exhibit-addl5-hackerboxes-conference-badge-add-ons-full.jpg
-website: https://hackerboxes.com/
-twitter: https://www.twitter.com/hackerboxes
-facebook: https://www.facebook.com/hackerboxes/
-youtube: https://www.youtube.com/channel/uc8jx9crrtfvwu5m99c55pma
+website: "https://hackerboxes.com/"
+video: "https://youtu.be/QmQACA7Miv8"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "HackerBoxes"
   description: "HackerBoxes produces educational electronic kits and projects that entertain, educate, and inspire.  Projects include workshops, monthly subscription kits, after school programs, computer security tools, audio-visual entertainment, and more. "
   image-primary: /assets/images/exhibit-images/21-92-maker-hackerboxes-rainbow-flower-logo-medium.png
+  website: https://hackerboxes.com/
+  twitter: https://www.twitter.com/hackerboxes
+  facebook: https://www.facebook.com/hackerboxes/
+  youtube: https://www.youtube.com/channel/uc8jx9crrtfvwu5m99c55pma
 categories: 
   - slug: arduino
     name: Arduino
@@ -61,7 +64,7 @@ categories:
     name: Manufacturing
 created-jotform: "2021-08-23 23:02:17"
 last-modified-jotform: "2021-10-24 11:48:10"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

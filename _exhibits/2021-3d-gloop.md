@@ -14,15 +14,15 @@ image-primary:
   medium: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-medium.jpg
   large: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-large.jpg
   full: /assets/images/exhibit-images/21-65-exhibit-3d-gloop-pxl-20210625-190443015-full.jpg
-additional-images: 
-website: https://3dgloop.com
-twitter: https://www.twitter.com/3dgloop
-instagram: https://www.instagram.com/3dgloop/
-facebook: https://www.facebook.com/3dgloop
+website: "https://3dgloop.com"
 maker: 
   name: "Andrew Mayhall"
   description: "3D Gloop! creates specialty adhesives and coatings geared specifically for hobbyist 3D printing enthusiasts Gloop! is a uniquely formulated adhesive compound to help end warping on ABS,PLA, & PETG prints, it can be used to glue 3D prints together stronger than any other glue on the market, and lastly, it can even be used to smooth out the layer lines in 3D prints. "
   image-primary: /assets/images/exhibit-images/21-65-maker-3d-gloop-3d-gloop-color-logo-transparent-medium.png
+  website: https://3dgloop.com
+  twitter: https://www.twitter.com/3dgloop
+  instagram: https://www.instagram.com/3dgloop/
+  facebook: https://www.facebook.com/3dgloop
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -34,7 +34,7 @@ categories:
     name: Tools
 created-jotform: "2021-08-09 22:06:26"
 last-modified-jotform: "2021-10-25 20:00:02"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

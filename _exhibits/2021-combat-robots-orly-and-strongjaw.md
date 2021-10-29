@@ -21,19 +21,19 @@ additional-images:
     medium: /assets/images/exhibit-images/21R-17-exhibit-addl1-combat-robots-orly-and-strongjaw-44-teamd20-logo-white-345-medium.png
     large: /assets/images/exhibit-images/21R-17-exhibit-addl1-combat-robots-orly-and-strongjaw-44-teamd20-logo-white-345-large.png
     full: /assets/images/exhibit-images/21R-17-exhibit-addl1-combat-robots-orly-and-strongjaw-44-teamd20-logo-white-345-full.png
-instagram: https://www.instagram.com/teamd20bots/
-facebook: https://www.facebook.com/teamd20
-youtube: https://www.youtube.com/channel/ucur8xvssy_n4akikckgzyha
 maker: 
   name: "Team d20"
   description: "We build combat robots. There will be a 250 pound, and 30 pound sportsman class bots at this event. "
   image-primary: /assets/images/exhibit-images/21R-17-maker-combat-robots-orly-and-strongjaw-teamd20-logo-white-medium.png
+  instagram: https://www.instagram.com/teamd20bots/
+  facebook: https://www.facebook.com/teamd20
+  youtube: https://www.youtube.com/channel/ucur8xvssy_n4akikckgzyha
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-07-24 18:55:20"
 last-modified-jotform: "2021-09-08 19:33:08"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:50"
 sitemap: false
 
 ---

@@ -30,11 +30,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-151-exhibit-addl3-pendulum-driven-art-as-unique-as-the-individual-img-20201007-113434-03-medium.jpg
     large: /assets/images/exhibit-images/21-151-exhibit-addl3-pendulum-driven-art-as-unique-as-the-individual-img-20201007-113434-03-large.jpg
     full: /assets/images/exhibit-images/21-151-exhibit-addl3-pendulum-driven-art-as-unique-as-the-individual-img-20201007-113434-03-full.jpg
-website: http://bethehamster.com
+website: "Bethehamster.com"
+video: "https://youtu.be/RbLj_Oj39Xw"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Joe Donoughe"
   description: "Aiming to get kids involved in arts and creativity."
   image-primary: /assets/images/exhibit-images/21-151-maker-pendulum-driven-art-as-unique-as-the-individual-hamster-logo-with-contact-info-medium.jpg
+  website: http://bethehamster.com
 categories: 
   - slug: art
     name: Art
@@ -48,7 +51,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-09-27 20:28:00"
 last-modified-jotform: "2021-10-24 11:40:34"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

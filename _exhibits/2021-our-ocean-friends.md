@@ -28,13 +28,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-91-exhibit-addl2-our-ocean-friends-oof-whale-song-writer-sle-1024x1024-medium.png
     large: /assets/images/exhibit-images/21-91-exhibit-addl2-our-ocean-friends-oof-whale-song-writer-sle-1024x1024-large.png
     full: /assets/images/exhibit-images/21-91-exhibit-addl2-our-ocean-friends-oof-whale-song-writer-sle-1024x1024-full.png
-website: http://ouroceanfriends.com (launched soon)
+website: "OurOceanFriends.com"
 maker: 
   name: "Stephen Estabrooks"
   description: "I am a retired marine Biologist settled in Ormond Beach, now writing stories for children and helping to spark their interest and concerns over the plight of our oceans.
 
 The instructional designer, consulting with me on this first book, Ludwika Goodson, also will be at the exhibit. We are partners in OurOceanFriends.com."
   image-primary: /assets/images/exhibit-images/21-91-maker-our-ocean-friends-cover-medium.png
+  website: http://ouroceanfriends.com (launched soon)
 categories: 
   - slug: education
     name: Education
@@ -43,8 +44,8 @@ categories:
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2021-08-23 15:53:19"
-last-modified-jotform: "2021-10-24 11:48:17"
-last-exported: "2021-10-28 05:44:51"
+last-modified-jotform: "2021-10-28 21:51:38"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

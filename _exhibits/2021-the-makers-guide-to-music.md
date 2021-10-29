@@ -15,20 +15,19 @@ image-primary:
   medium: /assets/images/exhibit-images/21-68-exhibit-the-makers-guide-to-music-2021-22-fb-post-medium.png
   large: /assets/images/exhibit-images/21-68-exhibit-the-makers-guide-to-music-2021-22-fb-post-large.png
   full: /assets/images/exhibit-images/21-68-exhibit-the-makers-guide-to-music-2021-22-fb-post-full.png
-additional-images: 
-website: http://www.centralfloridavocalarts.org
-instagram: https://www.instagram.com/cflvocalarts
-facebook: https://www.facebook.com/cflvocalarts
 maker: 
   name: "Central Florida Vocal Arts"
   description: "Central Florida Vocal Arts, along with sister company Opera del Sol are using our platform in the performing arts to build a better Central Florida community through education, performance and appreciation.  A non-profit music advocacy organization, we are dedicated to re-imagining to future of vocal arts.  We provide the highest quality training to artists of all ages, while also offering performance opportunities to emerging and professional artists. We use the arts to create tangible social good in our community."
   image-primary: /assets/images/exhibit-images/21-68-maker-the-makers-guide-to-music-cfva-color-transparent-medium.png
+  website: http://www.centralfloridavocalarts.org
+  instagram: https://www.instagram.com/cflvocalarts
+  facebook: https://www.facebook.com/cflvocalarts
 categories: 
   - slug: music
     name: Music
 created-jotform: "2021-08-11 10:29:09"
 last-modified-jotform: "2021-10-28 05:48:48"
-last-exported: "2021-10-28 05:49:59"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

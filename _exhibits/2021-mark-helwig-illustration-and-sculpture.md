@@ -40,12 +40,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-42-exhibit-addl5-mark-helwig-illustration-and-sculpture-painting-one-medium.jpg
     large: /assets/images/exhibit-images/21-42-exhibit-addl5-mark-helwig-illustration-and-sculpture-painting-one-large.jpg
     full: /assets/images/exhibit-images/21-42-exhibit-addl5-mark-helwig-illustration-and-sculpture-painting-one-full.jpg
-website: https://markhelwigartist.crevado.com/
-facebook: https://www.facebook.com/markhelwigart
+website: "https://markhelwigartist.crevado.com/"
 maker: 
   name: "Mark A. Helwig Illustration and Sculpture"
   description: "Sculpture and painter. I&#039;ve been there the last couple of times and did a sculpting demo."
   image-primary: /assets/images/exhibit-images/21-42-maker-mark-helwig-illustration-and-sculpture-safe-image-php-medium.jpg
+  website: https://markhelwigartist.crevado.com/
+  facebook: https://www.facebook.com/markhelwigart
 categories: 
   - slug: art
     name: Art
@@ -57,7 +58,7 @@ categories:
     name: Manufacturing
 created-jotform: "2021-08-03 16:43:11"
 last-modified-jotform: "2021-10-24 12:27:43"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

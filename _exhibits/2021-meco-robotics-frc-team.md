@@ -14,19 +14,18 @@ image-primary:
   medium: /assets/images/exhibit-images/21-49-exhibit-meco-robotics-frc-team-43-meco-color-scaled-745-medium.jpg
   large: /assets/images/exhibit-images/21-49-exhibit-meco-robotics-frc-team-43-meco-color-scaled-745-large.jpg
   full: /assets/images/exhibit-images/21-49-exhibit-meco-robotics-frc-team-43-meco-color-scaled-745-full.jpg
-additional-images: 
-website: http://mecorobotics.org/
-facebook: https://www.facebook.com/meco-robotics-frc-team-8324-113115473570995/
 maker: 
   name: "MECO Robotics "
   description: "FIRST Robotics Team"
   image-primary: /assets/images/exhibit-images/21-49-maker-meco-robotics-frc-team-meco-color-scaled-medium.jpg
+  website: http://mecorobotics.org/
+  facebook: https://www.facebook.com/meco-robotics-frc-team-8324-113115473570995/
 categories: 
   - slug: first-robotics
     name: FIRST Robotics
 created-jotform: "2021-08-05 06:50:12"
 last-modified-jotform: "2021-10-24 11:59:17"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

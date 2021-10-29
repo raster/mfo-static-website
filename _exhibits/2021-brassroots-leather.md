@@ -14,16 +14,16 @@ image-primary:
   medium: /assets/images/exhibit-images/21-9-exhibit-brassroots-leather-43-26225928989-928dd84777-k-8701-medium.jpg
   large: /assets/images/exhibit-images/21-9-exhibit-brassroots-leather-43-26225928989-928dd84777-k-8701-large.jpg
   full: /assets/images/exhibit-images/21-9-exhibit-brassroots-leather-43-26225928989-928dd84777-k-8701-full.jpg
-additional-images: 
-website: http://www.brassrootsleather.com
-twitter: https://www.twitter.com/brassroots_lthr
-instagram: https://www.instagram.com/brassroots_leather
-facebook: https://www.facebook.com/brassrootsleatherllc
-youtube: https://www.youtube.com/c/brassroostleather
+website: "www.brassrootsleather.com"
 maker: 
   name: "Brassroots Leather"
   description: "Steampunk Inspired Leather Crafts, and more. Creating Leather Items with steampunk flair, 3D printed designs, and props for other Cosplayers. "
   image-primary: /assets/images/exhibit-images/21-9-maker-brassroots-leather-26225928989-928dd84777-k-medium.jpg
+  website: http://www.brassrootsleather.com
+  twitter: https://www.twitter.com/brassroots_lthr
+  instagram: https://www.instagram.com/brassroots_leather
+  facebook: https://www.facebook.com/brassrootsleatherllc
+  youtube: https://www.youtube.com/c/brassroostleather
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -35,7 +35,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-07-08 13:42:17"
 last-modified-jotform: "2021-10-24 12:07:24"
-last-exported: "2021-10-28 05:44:52"
+last-exported: "2021-10-29 07:58:56"
 sitemap: false
 
 ---

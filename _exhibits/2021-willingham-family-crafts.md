@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-73-exhibit-willingham-family-crafts-43-20210815-164712-7947-medium.jpg
   large: /assets/images/exhibit-images/21-73-exhibit-willingham-family-crafts-43-20210815-164712-7947-large.jpg
   full: /assets/images/exhibit-images/21-73-exhibit-willingham-family-crafts-43-20210815-164712-7947-full.jpg
-additional-images: 
 maker: 
   name: "The Willingham Family"
   description: "We would like to sell wooden crafts. The whole family wants to turn pens to sell at maker faire. It would be nice if we could also demonstrate on a small wood lathe. We will also sell laser cut earrings. They will be pre-cut, pre-finished, just waiting for hook hardware which we will help the customer attach. Other items may include, wooden book marks that we&#039;ll have things for customers to decorate with. "
@@ -28,7 +27,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-15 17:44:00"
 last-modified-jotform: "2021-10-24 11:51:46"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

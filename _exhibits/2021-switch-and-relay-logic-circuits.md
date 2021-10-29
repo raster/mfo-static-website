@@ -60,12 +60,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-60-exhibit-addl9-switch-and-relay-logic-circuits-river-crossing-puzzles-3-1024x768-medium.png
     large: /assets/images/exhibit-images/21-60-exhibit-addl9-switch-and-relay-logic-circuits-river-crossing-puzzles-3-1024x768-large.png
     full: /assets/images/exhibit-images/21-60-exhibit-addl9-switch-and-relay-logic-circuits-river-crossing-puzzles-3-1024x768-full.png
-website: http://knickknackatory.com/?p=24
-twitter: https://www.twitter.com/relaypuzzle
+website: "http://knickknackatory.com/?p=24"
 maker: 
   name: "Stephen Emery"
   description: "An electronics engineer with an interest in old-school switching logic."
   image-primary: /assets/images/exhibit-images/21-60-maker-switch-and-relay-logic-circuits-profile-pic-small-225x300-medium.jpg
+  website: http://knickknackatory.com/?p=24
+  twitter: https://www.twitter.com/relaypuzzle
 categories: 
   - slug: arcade
     name: Arcade
@@ -79,7 +80,7 @@ categories:
     name: Internet of Things
 created-jotform: "2021-08-08 11:37:10"
 last-modified-jotform: "2021-10-24 11:58:54"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-33-exhibit-team-push-bot-steam-roller-medium.jpg
   large: /assets/images/exhibit-images/21R-33-exhibit-team-push-bot-steam-roller-large.jpg
   full: /assets/images/exhibit-images/21R-33-exhibit-team-push-bot-steam-roller-full.jpg
-additional-images: 
 maker: 
   name: "Ian Navales"
   description: "I&#039;m a 16 year old maker that started building combat robots about 3 years ago after attending a Maker faire. I also enjoy building racing drones but combat robotics is my favorite."
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-03 23:45:47"
 last-modified-jotform: "2021-08-25 20:18:07"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

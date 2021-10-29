@@ -14,8 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-46-exhibit-matthew-sutton-art-img175-medium.jpg
   large: /assets/images/exhibit-images/21-46-exhibit-matthew-sutton-art-img175-large.jpg
   full: /assets/images/exhibit-images/21-46-exhibit-matthew-sutton-art-img175-full.jpg
-additional-images: 
-instagram: https://www.instagram.com/sketchbooks 
 maker: 
   name: "Matthew Sutton"
   description: "Matthew Sutton is a licensed professional illustrator and comic artist! He has created over 3,000 official pieces of licensed artwork for properties such as: Star Wars, Marvel Comics, DC Comics, Rick & Morty, and many more! 
@@ -24,6 +22,7 @@ Matthew enjoys helping people especially kids learn the basics of drawing in ord
 
 I&#039;ve had the pleasure of exhibiting with Maker Faire for the past few years and I&#039;m very much looking forward to it again this year if I&#039;m allowed. Thanks so much for your time! "
   image-primary: /assets/images/exhibit-images/21-46-maker-matthew-sutton-art-20181021-183942-medium.jpg
+  instagram: https://www.instagram.com/sketchbooks 
 categories: 
   - slug: art
     name: Art
@@ -33,7 +32,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-04 21:12:53"
 last-modified-jotform: "2021-10-24 12:29:01"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

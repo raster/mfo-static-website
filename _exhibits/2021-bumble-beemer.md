@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-63-exhibit-bumble-beemer-alex-orlando-medium.jpg
   large: /assets/images/exhibit-images/21-63-exhibit-bumble-beemer-alex-orlando-large.jpg
   full: /assets/images/exhibit-images/21-63-exhibit-bumble-beemer-alex-orlando-full.jpg
-additional-images: 
 maker: 
   name: "Team Lazy Gecko"
   description: "We are a group of makers who have been building entries for the Power Racing Series for a few years."
@@ -26,7 +25,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-09 17:35:09"
 last-modified-jotform: "2021-10-24 11:52:37"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

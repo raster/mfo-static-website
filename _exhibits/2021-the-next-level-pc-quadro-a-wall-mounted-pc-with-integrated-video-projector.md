@@ -49,13 +49,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-114-exhibit-addl6-the-next-level-pc-quadro-a-wall-mounted-pc-with-integrated-video-projector-photo5927074703095215585-medium.jpg
     large: /assets/images/exhibit-images/21-114-exhibit-addl6-the-next-level-pc-quadro-a-wall-mounted-pc-with-integrated-video-projector-photo5927074703095215585-large.jpg
     full: /assets/images/exhibit-images/21-114-exhibit-addl6-the-next-level-pc-quadro-a-wall-mounted-pc-with-integrated-video-projector-photo5927074703095215585-full.jpg
-website: https://paciniartechnology.wixsite.com/nextlevelpc
-instagram: https://www.instagram.com/artechnology_by_stefanopacini/
-youtube: https://www.youtube.com/user/paciniartechnology/about
 maker: 
   name: "Stefano Pacini"
   description: "Individual , aged 42 yrs old,  from Italy (born in Italy and actually living in Italy); university degree  in Law  in 2004 ;  Male;  technology fan and retro-computing collector; designer:   computer design"
   image-primary: /assets/images/exhibit-images/21-114-maker-the-next-level-pc-quadro-a-wall-mounted-pc-with-integrated-video-projector-600x600-medium.jpg
+  website: https://paciniartechnology.wixsite.com/nextlevelpc
+  instagram: https://www.instagram.com/artechnology_by_stefanopacini/
+  youtube: https://www.youtube.com/user/paciniartechnology/about
 categories: 
   - slug: art
     name: Art
@@ -69,7 +69,7 @@ categories:
     name: Sustainability
 created-jotform: "2021-08-31 17:28:22"
 last-modified-jotform: "2021-10-28 16:18:23"
-last-exported: "2021-10-28 19:49:54"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

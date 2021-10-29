@@ -20,14 +20,15 @@ additional-images:
     medium: /assets/images/exhibit-images/21-160-exhibit-addl1-dorado-graphix-wide-format-techology-38002305211-70ca08b833-o-medium.jpg
     large: /assets/images/exhibit-images/21-160-exhibit-addl1-dorado-graphix-wide-format-techology-38002305211-70ca08b833-o-large.jpg
     full: /assets/images/exhibit-images/21-160-exhibit-addl1-dorado-graphix-wide-format-techology-38002305211-70ca08b833-o-full.jpg
-website: http://www.doradographix.com
-facebook: https://www.facebook.com/doradographix
-youtube: https://www.youtube.com/channel/ucblk6ub5aq-fhutxkl2bzvq
+website: "www.doradographix.com"
 maker: 
   name: "Dortado Graphix"
   description: "We show wide format printing technology as a tool for Makers to create their finished products and present their ideas.
 "
   image-primary: /assets/images/exhibit-images/21-160-maker-dorado-graphix-wide-format-techology-24150577618-f74ff1a3b3-o-medium.jpg
+  website: http://www.doradographix.com
+  facebook: https://www.facebook.com/doradographix
+  youtube: https://www.youtube.com/channel/ucblk6ub5aq-fhutxkl2bzvq
 categories: 
   - slug: cnc
     name: CNC
@@ -41,7 +42,7 @@ categories:
     name: Tools
 created-jotform: "2021-10-02 13:23:34"
 last-modified-jotform: "2021-10-24 11:39:38"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

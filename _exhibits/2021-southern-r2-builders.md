@@ -15,12 +15,12 @@ image-primary:
   medium: /assets/images/exhibit-images/21-79-exhibit-southern-r2-builders-southern-r2-builders-medium.jpg
   large: /assets/images/exhibit-images/21-79-exhibit-southern-r2-builders-southern-r2-builders-large.jpg
   full: /assets/images/exhibit-images/21-79-exhibit-southern-r2-builders-southern-r2-builders-full.jpg
-additional-images: 
-website: http://www.astromech.net
+website: "www.astromech.net"
 maker: 
   name: "Southern R2 Builders"
   description: "We are builders of droids from the movies, TV shows, and Expanded Universe. "
   image-primary: /assets/images/exhibit-images/21-79-maker-southern-r2-builders-r2-club-logo-medium.png
+  website: http://www.astromech.net
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -34,7 +34,7 @@ categories:
     name: Engineering
 created-jotform: "2021-08-17 19:28:28"
 last-modified-jotform: "2021-10-28 16:46:33"
-last-exported: "2021-10-28 19:49:55"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

@@ -24,11 +24,11 @@ additional-images:
     medium: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-medium.jpg
     large: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-large.jpg
     full: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-full.jpg
-youtube: https://www.youtube.com/channel/uchs9ih9xj-2upmsvrn-nrma
 maker: 
   name: "Valencia College Embedded Workshop"
   description: "Faculty, students, and community members working and learning together about electronics, software and IoT/embedded microprocessor systems and applications."
   image-primary: /assets/images/exhibit-images/21-31-maker-iot-scavenger-quest-vc-primary-web-medium.jpg
+  youtube: https://www.youtube.com/channel/uchs9ih9xj-2upmsvrn-nrma
 categories: 
   - slug: arduino
     name: Arduino
@@ -42,7 +42,7 @@ categories:
     name: Software
 created-jotform: "2021-07-26 19:45:27"
 last-modified-jotform: "2021-10-25 20:14:08"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

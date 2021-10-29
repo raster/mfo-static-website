@@ -50,14 +50,17 @@ additional-images:
     medium: /assets/images/exhibit-images/21-53-exhibit-addl7-a-skewed-view-3d-table-2-medium.png
     large: /assets/images/exhibit-images/21-53-exhibit-addl7-a-skewed-view-3d-table-2-large.png
     full: /assets/images/exhibit-images/21-53-exhibit-addl7-a-skewed-view-3d-table-2-full.png
-website: http://askewedview3d.com
-twitter: https://www.twitter.com/asv3d
-instagram: https://www.instagram.com/a_skewed_view_3d
-youtube: https://www.youtube.com/askewedview3d
+website: "askewedview3d.com"
+video: "youtube.com/askewedview3d"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "A Skewed View 3D"
   description: "Family owned 3D business. We specialize in Props, Prototyping, Archviz, 3d Architectural designs, models, renders &amp; prints. We love helping others bring their ideas to life and/or helping them visualize their dream homes with our design, drafting &amp; 3d services. "
   image-primary: /assets/images/exhibit-images/21-53-maker-a-skewed-view-3d-logo-final-medium.png
+  website: http://askewedview3d.com
+  twitter: https://www.twitter.com/asv3d
+  instagram: https://www.instagram.com/a_skewed_view_3d
+  youtube: https://www.youtube.com/askewedview3d
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -65,7 +68,7 @@ categories:
     name: Props
 created-jotform: "2021-08-05 12:26:52"
 last-modified-jotform: "2021-10-24 11:59:07"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

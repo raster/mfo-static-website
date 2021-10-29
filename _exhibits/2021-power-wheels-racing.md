@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-96-exhibit-power-wheels-racing-43-20210728-154207-9902-medium.jpg
   large: /assets/images/exhibit-images/21-96-exhibit-power-wheels-racing-43-20210728-154207-9902-large.jpg
   full: /assets/images/exhibit-images/21-96-exhibit-power-wheels-racing-43-20210728-154207-9902-full.jpg
-additional-images: 
 maker: 
   name: "Jenna Rogers"
   description: "Power wheels racing "
@@ -24,7 +23,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-25 20:46:06"
 last-modified-jotform: "2021-10-24 11:47:13"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

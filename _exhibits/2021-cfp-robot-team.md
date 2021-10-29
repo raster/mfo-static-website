@@ -15,18 +15,17 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-49-exhibit-cfp-robot-team-43-cfp-5722-medium.png
   large: /assets/images/exhibit-images/21R-49-exhibit-cfp-robot-team-43-cfp-5722-large.png
   full: /assets/images/exhibit-images/21R-49-exhibit-cfp-robot-team-43-cfp-5722-full.png
-additional-images: 
-website: https://cfprep.org/
 maker: 
   name: "MICHAEL THOMBS/Central Florida Prep"
   description: "Robot Team at Central Florida Prep "
   image-primary: /assets/images/exhibit-images/21R-49-maker-cfp-robot-team-cfp-medium.png
+  website: https://cfprep.org/
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-11 15:00:12"
 last-modified-jotform: "2021-09-22 20:25:02"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

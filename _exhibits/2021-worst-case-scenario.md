@@ -17,7 +17,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-59-exhibit-worst-case-scenario-wcs-medium.JPG
   large: /assets/images/exhibit-images/21R-59-exhibit-worst-case-scenario-wcs-large.JPG
   full: /assets/images/exhibit-images/21R-59-exhibit-worst-case-scenario-wcs-full.JPG
-additional-images: 
 maker: 
   name: "Alex Grant / A.G. Robotics "
   description: " A.G. Robotics has been competing in combat robot tournaments since 2002, from age 11. "
@@ -27,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 21:46:17"
 last-modified-jotform: "2021-09-22 20:16:48"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

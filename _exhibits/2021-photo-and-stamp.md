@@ -65,11 +65,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-85-exhibit-addl10-photo-and-stamp-violin-front-peacock-feathers-medium.jpg
     large: /assets/images/exhibit-images/21-85-exhibit-addl10-photo-and-stamp-violin-front-peacock-feathers-large.jpg
     full: /assets/images/exhibit-images/21-85-exhibit-addl10-photo-and-stamp-violin-front-peacock-feathers-full.jpg
-website: http://www.photoandstamp.com
+website: "www.photoandstamp.com"
 maker: 
   name: "Laura Mollé"
   description: "Laura Mollé Photography does mixed media art combining photography, postage stamps, guitar picks, pins and any objects of art.  Included in the mixed media creations are guitar pick jewelry, musical instrument art, photo cards and enlargements."
   image-primary: /assets/images/exhibit-images/21-85-maker-photo-and-stamp-lm-photoandstamp-logo-medium.jpg
+  website: http://www.photoandstamp.com
 categories: 
   - slug: art
     name: Art
@@ -83,7 +84,7 @@ categories:
     name: Photography
 created-jotform: "2021-08-20 12:37:51"
 last-modified-jotform: "2021-10-25 19:58:18"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

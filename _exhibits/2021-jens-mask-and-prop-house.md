@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-102-exhibit-jens-mask-and-prop-house-photo-1630163362065-medium.png
   large: /assets/images/exhibit-images/21-102-exhibit-jens-mask-and-prop-house-photo-1630163362065-large.png
   full: /assets/images/exhibit-images/21-102-exhibit-jens-mask-and-prop-house-photo-1630163362065-full.png
-additional-images: 
 maker: 
   name: "Jennifer Brandt"
   description: "I sculpt, mold, and cast latex masks, and prosthetics. I am also restoring a few pieces in my personal collection.
@@ -33,7 +32,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-08-28 11:20:13"
 last-modified-jotform: "2021-10-24 11:46:26"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

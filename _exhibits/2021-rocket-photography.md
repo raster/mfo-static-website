@@ -55,15 +55,16 @@ additional-images:
     medium: /assets/images/exhibit-images/21-26-exhibit-addl8-rocket-photography-eos-70d-9999-146-medium.jpg
     large: /assets/images/exhibit-images/21-26-exhibit-addl8-rocket-photography-eos-70d-9999-146-large.jpg
     full: /assets/images/exhibit-images/21-26-exhibit-addl8-rocket-photography-eos-70d-9999-146-full.jpg
-website: https://www.kylemphoto.com/
-twitter: https://www.twitter.com/kyle_m_photo
-instagram: https://www.instagram.com/kyle_m_photo_/
-facebook: https://www.facebook.com/kylemphoto
-youtube: https://www.youtube.com/c/kylemphoto
+website: "https://www.kylemphoto.com/"
 maker: 
   name: "Kyle Montgomery"
   description: "I am a rocket photographer, as a member of the media I get to set cameras at rocket pad and photograph launches from the press site.  I also photograph the recovery of space hardware, like boosters returns to Port Canaveral."
   image-primary: /assets/images/exhibit-images/21-26-maker-rocket-photography-dybacoxo-medium.jpg
+  website: https://www.kylemphoto.com/
+  twitter: https://www.twitter.com/kyle_m_photo
+  instagram: https://www.instagram.com/kyle_m_photo_/
+  facebook: https://www.facebook.com/kylemphoto
+  youtube: https://www.youtube.com/c/kylemphoto
 categories: 
   - slug: photography
     name: Photography
@@ -71,7 +72,7 @@ categories:
     name: Space
 created-jotform: "2021-07-24 21:17:42"
 last-modified-jotform: "2021-10-24 12:01:17"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

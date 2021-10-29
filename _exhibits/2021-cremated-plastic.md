@@ -45,14 +45,15 @@ additional-images:
     medium: /assets/images/exhibit-images/21-127-exhibit-addl6-cremated-plastic-inbound8519339380386490493-medium.jpg
     large: /assets/images/exhibit-images/21-127-exhibit-addl6-cremated-plastic-inbound8519339380386490493-large.jpg
     full: /assets/images/exhibit-images/21-127-exhibit-addl6-cremated-plastic-inbound8519339380386490493-full.jpg
-website: http://crematedplastic.com
-twitter: https://www.twitter.com/crematedplastic
-instagram: https://www.instagram.com/cremated_plastic
-facebook: https://www.facebook.com/cremated_plastic
+website: "Crematedplastic.com"
 maker: 
   name: "Cremated Plastic"
   description: "Detailed pop culture/ theme park miniatures, scaled models. "
   image-primary: /assets/images/exhibit-images/21-127-maker-cremated-plastic-inbound5433685929947744633-medium.png
+  website: http://crematedplastic.com
+  twitter: https://www.twitter.com/crematedplastic
+  instagram: https://www.instagram.com/cremated_plastic
+  facebook: https://www.facebook.com/cremated_plastic
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -66,7 +67,7 @@ categories:
     name: Props
 created-jotform: "2021-09-05 16:11:54"
 last-modified-jotform: "2021-10-24 11:42:49"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

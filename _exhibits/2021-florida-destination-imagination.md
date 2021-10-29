@@ -27,15 +27,16 @@ additional-images:
     medium: /assets/images/exhibit-images/21-32-exhibit-addl2-florida-destination-imagination-tall-tower-2018-medium.jpg
     large: /assets/images/exhibit-images/21-32-exhibit-addl2-florida-destination-imagination-tall-tower-2018-large.jpg
     full: /assets/images/exhibit-images/21-32-exhibit-addl2-florida-destination-imagination-tall-tower-2018-full.jpg
-website: https://www.floridadi.org/
-twitter: https://www.twitter.com/diffle_difl
-instagram: https://www.instagram.com/di_florida/
-facebook: https://www.facebook.com/floridadi
-youtube: https://www.youtube.com/channel/uchnr2go14xtgtlisgjkchjg/featured
+website: "https://www.floridadi.org/"
 maker: 
   name: "Florida Destination Imagination"
   description: "FLDI provides the opportunity for student empowered learning while they explore STEM/STEAM concepts in a hands-on environment. Students own all decisions, creations, and results.  We provide a space for creative problem solving so that participants learn how to think, not what to think.  Our competitions are friendly and designed to motivate teams to reach for the stars, while also rooting for each other. This is all within a framework of global diversity as we encourage and celebrate differences in each other, and differences in ideas."
   image-primary: /assets/images/exhibit-images/21-32-maker-florida-destination-imagination-florida-logo-horizontal-rgb-01-medium.jpg
+  website: https://www.floridadi.org/
+  twitter: https://www.twitter.com/diffle_difl
+  instagram: https://www.instagram.com/di_florida/
+  facebook: https://www.facebook.com/floridadi
+  youtube: https://www.youtube.com/channel/uchnr2go14xtgtlisgjkchjg/featured
 categories: 
   - slug: education
     name: Education
@@ -45,7 +46,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-07-27 14:10:06"
 last-modified-jotform: "2021-10-24 12:00:42"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

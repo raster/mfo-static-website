@@ -36,18 +36,18 @@ additional-images:
     medium: /assets/images/exhibit-images/21R-27-exhibit-addl3-combat-robots-df685570-e1de-4229-962e-0a267740d33b-medium.jpeg
     large: /assets/images/exhibit-images/21R-27-exhibit-addl3-combat-robots-df685570-e1de-4229-962e-0a267740d33b-large.jpeg
     full: /assets/images/exhibit-images/21R-27-exhibit-addl3-combat-robots-df685570-e1de-4229-962e-0a267740d33b-full.jpeg
-facebook: https://www.facebook.com/pages/category/amateur-sports-team/team-get-wrecked-robotics-105882177660734/posts/
-youtube: https://www.youtube.com/channel/uc_anzpzvnrwkburruysorpg
 maker: 
   name: "Team Get Rekt Robotics."
   description: "We&#039;re a combat robotics team based in Georgia who have been building unique and dangerous bots in the insect class for the past 3 years."
   image-primary: /assets/images/exhibit-images/21R-27-maker-combat-robots-fa1d428d-c5c4-4bce-b0ac-8e6e8f027b44-medium.jpeg
+  facebook: https://www.facebook.com/pages/category/amateur-sports-team/team-get-wrecked-robotics-105882177660734/posts/
+  youtube: https://www.youtube.com/channel/uc_anzpzvnrwkburruysorpg
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-07-31 11:16:46"
 last-modified-jotform: "2021-08-25 20:22:32"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:50"
 sitemap: false
 
 ---

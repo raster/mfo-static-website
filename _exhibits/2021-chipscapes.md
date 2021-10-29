@@ -20,11 +20,11 @@ additional-images:
     medium: /assets/images/exhibit-images/21-27-exhibit-addl1-chipscapes-img-6638-medium.jpeg
     large: /assets/images/exhibit-images/21-27-exhibit-addl1-chipscapes-img-6638-large.jpeg
     full: /assets/images/exhibit-images/21-27-exhibit-addl1-chipscapes-img-6638-full.jpeg
-website: https://www.ChipScapes.com
 maker: 
   name: "ChipScapes"
   description: "ChipScapes has an educational mission to promote the history of computing technology. ChipScapes uses antique technology to produce art, education, and entertainment. ChipScape artworks have been collected by patrons and museums from around the world."
   image-primary: /assets/images/exhibit-images/21-27-maker-chipscapes-chipscapes-logo-new-medium.jpg
+  website: https://www.ChipScapes.com
 categories: 
   - slug: art
     name: Art
@@ -38,7 +38,7 @@ categories:
     name: Upcycling
 created-jotform: "2021-07-24 22:15:54"
 last-modified-jotform: "2021-10-28 16:42:03"
-last-exported: "2021-10-28 19:49:56"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

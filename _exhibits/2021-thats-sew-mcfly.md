@@ -20,13 +20,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-7-exhibit-addl1-thats-sew-mcfly-img-5836-medium.jpg
     large: /assets/images/exhibit-images/21-7-exhibit-addl1-thats-sew-mcfly-img-5836-large.jpg
     full: /assets/images/exhibit-images/21-7-exhibit-addl1-thats-sew-mcfly-img-5836-full.jpg
-website: https://thatssewmcfly.etsy.com
-instagram: https://www.instagram.com/thatssewmcfly/
-facebook: https://www.facebook.com/thatssewmcfly
+website: "thatssewmcfly.etsy.com"
 maker: 
   name: "Joe and Megan Gravelle"
   description: "Joe and Megan have been creating comfort with character since 2016, when Joe turned Megan&#039;s love of fabric (okay, fine, fabric addiction) into a small business selling bowl cozies, coasters, hot/cold packs, and more! The two live happily in Central Florida with their cats and dogs and are active in both the maker community and their local 501st legion. "
   image-primary: /assets/images/exhibit-images/21-7-maker-thats-sew-mcfly-megan-logo-vectored-medium.png
+  website: https://thatssewmcfly.etsy.com
+  instagram: https://www.instagram.com/thatssewmcfly/
+  facebook: https://www.facebook.com/thatssewmcfly
 categories: 
   - slug: fabric-arts
     name: Fabric Arts
@@ -36,7 +37,7 @@ categories:
     name: Sewing
 created-jotform: "2021-07-07 17:57:16"
 last-modified-jotform: "2021-10-24 14:14:05"
-last-exported: "2021-10-28 05:44:52"
+last-exported: "2021-10-29 07:58:56"
 sitemap: false
 
 ---

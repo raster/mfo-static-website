@@ -20,11 +20,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-150-exhibit-addl1-be-the-hamster-red-framed-hamster-wheel-medium.jpg
     large: /assets/images/exhibit-images/21-150-exhibit-addl1-be-the-hamster-red-framed-hamster-wheel-large.jpg
     full: /assets/images/exhibit-images/21-150-exhibit-addl1-be-the-hamster-red-framed-hamster-wheel-full.jpg
-website: http://bethehamster.com
+website: "Bethehamster.com"
+video: "https://youtu.be/PEmrX2fz7cM"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Joe Donoughe"
   description: "I aim to get kids interested in STEM events through the use of creative hands-on Rube Goldberg like equipment. One of my favorites is the Human Powered Hamster Wheel that makes snow cones"
   image-primary: /assets/images/exhibit-images/21-150-maker-be-the-hamster-hamster-logo-with-contact-info-medium.jpg
+  website: http://bethehamster.com
 categories: 
   - slug: food
     name: Food
@@ -38,7 +41,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-09-27 20:03:43"
 last-modified-jotform: "2021-10-25 19:50:41"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

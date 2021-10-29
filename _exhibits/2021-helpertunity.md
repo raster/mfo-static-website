@@ -22,12 +22,13 @@ additional-images:
     medium: /assets/images/exhibit-images/21-40-exhibit-addl1-helpertunity-helpertunity-logo-medium.png
     large: /assets/images/exhibit-images/21-40-exhibit-addl1-helpertunity-helpertunity-logo-large.png
     full: /assets/images/exhibit-images/21-40-exhibit-addl1-helpertunity-helpertunity-logo-full.png
-website: https://live-helpertunity2030.pantheonsite.io/
-facebook: https://www.facebook.com/helpertunity/
+website: "https://live-helpertunity2030.pantheonsite.io/"
 maker: 
   name: "Helpertunity"
   description: "Helpertunity is an all-volunteer 990N-sized 501(c)(3) charity, founded in 2010, that empowers elderly, disabled, and itinerant makers, their caregivers, and their community by providing activity resources and training for participants&#039; purposeful voluntainment.  Helpertunity volunteers visit nursing homes and other facilities to provide crafts classes and packs kits for patients&#039; independent/in-room activity.  With our year 2020-2030 focus on eco-beneficial arts, technology, and vintage carnival-style gameplay; Helpertunity has been researching, advocating, and prototyping for greater adaptive technology and play-space access for all ages and abilities."
   image-primary: /assets/images/exhibit-images/21-40-maker-helpertunity-helpertunity-fundraiser-booth-at-fl-family-cafe-disability-services-expo-event-medium.jpg
+  website: https://live-helpertunity2030.pantheonsite.io/
+  facebook: https://www.facebook.com/helpertunity/
 categories: 
   - slug: fiber-arts
     name: Fiber Arts
@@ -41,7 +42,7 @@ categories:
     name: Upcycling
 created-jotform: "2021-08-01 13:12:45"
 last-modified-jotform: "2021-10-24 11:59:59"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

@@ -30,12 +30,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-17-exhibit-addl3-anakhets-armoury-scalemaille-mask-medium.jpg
     large: /assets/images/exhibit-images/21-17-exhibit-addl3-anakhets-armoury-scalemaille-mask-large.jpg
     full: /assets/images/exhibit-images/21-17-exhibit-addl3-anakhets-armoury-scalemaille-mask-full.jpg
-website: http://anakhets-armoury.com 
-facebook: https://www.facebook.com/anakhets.armoury
 maker: 
   name: "Anakhet's Armoury "
   description: "The Armoury makes everything from jewelry to full replica rivet maille."
   image-primary: /assets/images/exhibit-images/21-17-maker-anakhets-armoury-inbound4356495360062285081-medium.jpg
+  website: http://anakhets-armoury.com 
+  facebook: https://www.facebook.com/anakhets.armoury
 categories: 
   - slug: cosplay
     name: Cosplay
@@ -49,7 +49,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-07-24 11:40:41"
 last-modified-jotform: "2021-10-28 21:39:03"
-last-exported: "2021-10-28 21:42:04"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

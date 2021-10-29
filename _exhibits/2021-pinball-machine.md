@@ -14,17 +14,16 @@ image-primary:
   medium: /assets/images/exhibit-images/21-183-exhibit-pinball-machine-pinball-medium.jpg
   large: /assets/images/exhibit-images/21-183-exhibit-pinball-machine-pinball-large.jpg
   full: /assets/images/exhibit-images/21-183-exhibit-pinball-machine-pinball-full.jpg
-additional-images: 
-website: http://www.bocabearings.com
-instagram: https://www.instagram.com/bocabearings/?hl=en
-facebook: https://www.facebook.com/bocabearings/
-youtube: https://www.youtube.com/c/bocabearings
 maker: 
   name: "Boca Bearings "
   description: "Boca Bearing Company, headquartered in Boynton Beach, FL, is one of the most trusted names in ceramic bearing and lubrication technology. The reduction of rolling resistance and conservation of energy has been the company&#039;s hallmark since 1987. Boca Bearing Company is a one-stop-shop for everything from prototyping to production.
 
  "
   image-primary: /assets/images/exhibit-images/21-183-maker-pinball-machine-bocabearings-swish-logo-flat-medium.png
+  website: http://www.bocabearings.com
+  instagram: https://www.instagram.com/bocabearings/?hl=en
+  facebook: https://www.facebook.com/bocabearings/
+  youtube: https://www.youtube.com/c/bocabearings
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -38,7 +37,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-10-22 10:38:58"
 last-modified-jotform: "2021-10-24 11:37:16"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-22-exhibit-nichirin-f238e852-06de-480f-bdd1-61582c034d57-medium.jpeg
   large: /assets/images/exhibit-images/21R-22-exhibit-nichirin-f238e852-06de-480f-bdd1-61582c034d57-large.jpeg
   full: /assets/images/exhibit-images/21R-22-exhibit-nichirin-f238e852-06de-480f-bdd1-61582c034d57-full.jpeg
-additional-images: 
 maker: 
   name: "Doom Squad "
   description: "Father & son (and sometimes Mom) Team"
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-26 22:50:03"
 last-modified-jotform: "2021-08-25 20:29:44"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:50"
 sitemap: false
 
 ---

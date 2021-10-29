@@ -62,12 +62,15 @@ additional-images:
     medium: /assets/images/exhibit-images/21-126-exhibit-addl9-inventors-council-of-central-florida-pat-5769724-catapult-medium.gif
     large: /assets/images/exhibit-images/21-126-exhibit-addl9-inventors-council-of-central-florida-pat-5769724-catapult-large.gif
     full: /assets/images/exhibit-images/21-126-exhibit-addl9-inventors-council-of-central-florida-pat-5769724-catapult-full.gif
-website: https://www.inventcf.com/
-facebook: https://www.facebook.com/inventcf1
+website: "https://www.inventcf.com/maker-faire-2018.php"
+video: "https://www.youtube.com/watch?v=6nDOBntTQaM&t=13s"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Inventors Council of Central Florida"
   description: "ICCF is here to foster innovation and product development through (a) Educating inventors &amp; entrepreneurs on the full slate of skills and subject areas necessary for creating successful and profitable products; and (b) assisting inventors in evaluation of the viability their inventions."
   image-primary: /assets/images/exhibit-images/21-126-maker-inventors-council-of-central-florida-iccf-logo-2021-color-medium.png
+  website: https://www.inventcf.com/
+  facebook: https://www.facebook.com/inventcf1
 categories: 
   - slug: education
     name: Education
@@ -81,7 +84,7 @@ categories:
     name: Tools
 created-jotform: "2021-09-04 18:27:21"
 last-modified-jotform: "2021-10-27 08:55:24"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

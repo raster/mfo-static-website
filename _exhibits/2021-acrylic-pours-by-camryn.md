@@ -50,11 +50,11 @@ additional-images:
     medium: /assets/images/exhibit-images/21-110-exhibit-addl7-acrylic-pours-by-camryn-20210830-204452-medium.jpg
     large: /assets/images/exhibit-images/21-110-exhibit-addl7-acrylic-pours-by-camryn-20210830-204452-large.jpg
     full: /assets/images/exhibit-images/21-110-exhibit-addl7-acrylic-pours-by-camryn-20210830-204452-full.jpg
-instagram: https://www.instagram.com/camryn_crafts
 maker: 
   name: "Camryn Corbett "
   description: "I am a 17 year old high school student and I great art, mainly acrylic pours, in my free time."
   image-primary: /assets/images/exhibit-images/21-110-maker-acrylic-pours-by-camryn-img-20210830-151242-medium.jpg
+  instagram: https://www.instagram.com/camryn_crafts
 categories: 
   - slug: art
     name: Art
@@ -64,7 +64,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-30 21:13:02"
 last-modified-jotform: "2021-10-24 12:24:38"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

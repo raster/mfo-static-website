@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-184-exhibit-how-to-slingshot-32828620-4658-4826-9a04-4c4439a02b16-medium.png
   large: /assets/images/exhibit-images/21-184-exhibit-how-to-slingshot-32828620-4658-4826-9a04-4c4439a02b16-large.png
   full: /assets/images/exhibit-images/21-184-exhibit-how-to-slingshot-32828620-4658-4826-9a04-4c4439a02b16-full.png
-additional-images: 
 maker: 
   name: "Brandon Bronson"
   description: "Retired Paramedic, now full time dad and hobby maker/DIY enthusiast. "
@@ -32,7 +31,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-10-24 15:16:10"
 last-modified-jotform: "2021-10-24 15:33:22"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

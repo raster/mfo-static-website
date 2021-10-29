@@ -65,13 +65,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-131-exhibit-addl10-ionox-media-trifecta-medium.jpg
     large: /assets/images/exhibit-images/21-131-exhibit-addl10-ionox-media-trifecta-large.jpg
     full: /assets/images/exhibit-images/21-131-exhibit-addl10-ionox-media-trifecta-full.jpg
-website: http://www.ionoxmedia.com
-instagram: https://www.instagram.com/ionoxmedia/
-facebook: https://www.facebook.com/ionoxmedia/
+website: "www.ionoxmedia.com"
 maker: 
   name: "IONOX Media"
   description: "I create laser cut and etched wooden decor and artwork."
   image-primary: /assets/images/exhibit-images/21-131-maker-ionox-media-213f0a87-0d51-45a4-858d-cbfc4e387b00-medium.jpeg
+  website: http://www.ionoxmedia.com
+  instagram: https://www.instagram.com/ionoxmedia/
+  facebook: https://www.facebook.com/ionoxmedia/
 categories: 
   - slug: art
     name: Art
@@ -81,7 +82,7 @@ categories:
     name: Laser Cutting & Engraving
 created-jotform: "2021-09-06 22:53:54"
 last-modified-jotform: "2021-10-25 19:52:18"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

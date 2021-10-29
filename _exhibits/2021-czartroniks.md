@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-143-exhibit-czartroniks-tdmovieout-536-medium.png
   large: /assets/images/exhibit-images/21-143-exhibit-czartroniks-tdmovieout-536-large.png
   full: /assets/images/exhibit-images/21-143-exhibit-czartroniks-tdmovieout-536-full.png
-additional-images: 
 maker: 
   name: "Ron Czarnik"
   description: "Collages and musical instruments"
@@ -33,7 +32,7 @@ categories:
     name: Music
 created-jotform: "2021-09-26 15:40:02"
 last-modified-jotform: "2021-10-28 05:49:15"
-last-exported: "2021-10-28 05:49:58"
+last-exported: "2021-10-29 07:59:53"
 sitemap: false
 
 ---

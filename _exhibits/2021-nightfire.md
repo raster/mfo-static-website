@@ -14,12 +14,12 @@ image-primary:
   medium: /assets/images/exhibit-images/21-61-exhibit-nightfire-20150814-175332-medium.jpg
   large: /assets/images/exhibit-images/21-61-exhibit-nightfire-20150814-175332-large.jpg
   full: /assets/images/exhibit-images/21-61-exhibit-nightfire-20150814-175332-full.jpg
-additional-images: 
-website: http://www,vakits.com
+website: "www.vakits.com"
 maker: 
   name: "Agustin Acosta Jr."
   description: "We are a family-owned business in central Fl that makes Hobby kits and Crafts."
   image-primary: /assets/images/exhibit-images/21-61-maker-nightfire-img-4231-medium.JPG
+  website: http://www,vakits.com
 categories: 
   - slug: craft
     name: Craft
@@ -33,7 +33,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-08-09 10:02:16"
 last-modified-jotform: "2021-10-24 11:52:43"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

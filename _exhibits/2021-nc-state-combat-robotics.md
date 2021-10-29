@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-45-exhibit-nc-state-combat-robotics-43-battlebotslogo-9307-medium.png
   large: /assets/images/exhibit-images/21R-45-exhibit-nc-state-combat-robotics-43-battlebotslogo-9307-large.png
   full: /assets/images/exhibit-images/21R-45-exhibit-nc-state-combat-robotics-43-battlebotslogo-9307-full.png
-additional-images: 
 maker: 
   name: "Battlebots at NC State"
   description: "We&#039;re a team from NC State that makes Battlebots; both to learn about robotic design principles as well as to see them fight!"
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-20 19:42:32"
 last-modified-jotform: "2021-08-25 20:08:53"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-56-exhibit-team-junk-yard-dog-43-20210919-192546-9173-medium.jpg
   large: /assets/images/exhibit-images/21R-56-exhibit-team-junk-yard-dog-43-20210919-192546-9173-large.jpg
   full: /assets/images/exhibit-images/21R-56-exhibit-team-junk-yard-dog-43-20210919-192546-9173-full.jpg
-additional-images: 
 maker: 
   name: "Team Junk Yard Dog!"
   description: "Combat robot drivers and mechanics "
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 19:28:25"
 last-modified-jotform: "2021-09-22 20:19:09"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 08:02:11"
 sitemap: false
 
 ---

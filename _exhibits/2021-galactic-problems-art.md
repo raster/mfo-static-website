@@ -50,11 +50,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-medium.png
     large: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-large.png
     full: /assets/images/exhibit-images/21-30-exhibit-addl7-galactic-problems-art-spacegirlfinalsmallerver-full.png
-instagram: https://www.instagram.com/galactic_problems_/
+website: "https://www.instagram.com/galactic_problems_/"
 maker: 
   name: "Daniella Krasulski"
   description: "Illustrator and huge nerd."
   image-primary: /assets/images/exhibit-images/21-30-maker-galactic-problems-art-newiconforposting-medium.png
+  instagram: https://www.instagram.com/galactic_problems_/
 categories: 
   - slug: art
     name: Art
@@ -64,7 +65,7 @@ categories:
     name: Illustration
 created-jotform: "2021-07-26 13:26:08"
 last-modified-jotform: "2021-10-24 12:26:58"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

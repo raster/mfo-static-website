@@ -41,11 +41,11 @@ additional-images:
     medium: /assets/images/exhibit-images/21-118-exhibit-addl5-boudica-press-boudica-table5-medium.png
     large: /assets/images/exhibit-images/21-118-exhibit-addl5-boudica-press-boudica-table5-large.png
     full: /assets/images/exhibit-images/21-118-exhibit-addl5-boudica-press-boudica-table5-full.png
-website: http://BOUDICAPRESS.COM
 maker: 
   name: "BOUDICA PRESS"
   description: "Boudica Press is a printmaking organization. Our goal is to share the art of different printmaking processes with as many people as possible. Through educational events we empower people by teaching them new ways of making. "
   image-primary: /assets/images/exhibit-images/21-118-maker-boudica-press-logo-4inch-boudica-medium.png
+  website: http://BOUDICAPRESS.COM
 categories: 
   - slug: art
     name: Art
@@ -59,7 +59,7 @@ categories:
     name: Screen Printing
 created-jotform: "2021-08-31 21:21:56"
 last-modified-jotform: "2021-10-24 11:45:15"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

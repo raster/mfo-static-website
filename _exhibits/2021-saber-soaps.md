@@ -35,12 +35,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-129-exhibit-addl4-saber-soaps-156695653-136194128310788-1187794457660805942-n-medium.jpg
     large: /assets/images/exhibit-images/21-129-exhibit-addl4-saber-soaps-156695653-136194128310788-1187794457660805942-n-large.jpg
     full: /assets/images/exhibit-images/21-129-exhibit-addl4-saber-soaps-156695653-136194128310788-1187794457660805942-n-full.jpg
-website: https://www.etsy.com/shop/sabersoaps
-instagram: https://www.instagram.com/sabersoaps/
 maker: 
   name: "Saber Soaps"
   description: "artisan soaps and skincare "
   image-primary: /assets/images/exhibit-images/21-129-maker-saber-soaps-sabersoapsbanner-medium.jpg
+  website: https://www.etsy.com/shop/sabersoaps
+  instagram: https://www.instagram.com/sabersoaps/
 categories: 
   - slug: art
     name: Art
@@ -50,7 +50,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-09-06 15:11:33"
 last-modified-jotform: "2021-10-24 12:24:30"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

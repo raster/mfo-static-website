@@ -50,11 +50,11 @@ additional-images:
     medium: /assets/images/exhibit-images/21-87-exhibit-addl7-knot-square-inc-20191110-114920-medium.jpg
     large: /assets/images/exhibit-images/21-87-exhibit-addl7-knot-square-inc-20191110-114920-large.jpg
     full: /assets/images/exhibit-images/21-87-exhibit-addl7-knot-square-inc-20191110-114920-full.jpg
-website: http://www.knotsquare.com
 maker: 
   name: "Steven A. Miller"
   description: "We provide hand made items from our WoodSmith Shop and Crochette Corner that are fantastic gifts and unique home items. We also can make items to order. We will be demonstrating items we make on the lathe and by hand crochetting. "
   image-primary: /assets/images/exhibit-images/21-87-maker-knot-square-inc-old-booth-medium.jpg
+  website: http://www.knotsquare.com
 categories: 
   - slug: art
     name: Art
@@ -68,7 +68,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-22 15:25:28"
 last-modified-jotform: "2021-10-24 11:48:28"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

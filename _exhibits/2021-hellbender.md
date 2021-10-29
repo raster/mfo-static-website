@@ -15,7 +15,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-medium.jpg
   large: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-large.jpg
   full: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-full.jpg
-additional-images: 
 maker: 
   name: "Team Hellbender"
   description: "Team Hellbender was founded in 2021 by Ross Hutto. So far all we have accomplished is burning up speed controllers and 3d printing things that don&#039;t work. "
@@ -25,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-08 17:14:59"
 last-modified-jotform: "2021-08-25 20:17:06"
-last-exported: "2021-10-28 05:44:49"
+last-exported: "2021-10-29 07:59:49"
 sitemap: false
 
 ---

@@ -14,18 +14,17 @@ image-primary:
   medium: /assets/images/exhibit-images/21-45-exhibit-alkemie-artistry-c526d3d8-5bee-40f6-91ae-383ccf85ad89-medium.jpeg
   large: /assets/images/exhibit-images/21-45-exhibit-alkemie-artistry-c526d3d8-5bee-40f6-91ae-383ccf85ad89-large.jpeg
   full: /assets/images/exhibit-images/21-45-exhibit-alkemie-artistry-c526d3d8-5bee-40f6-91ae-383ccf85ad89-full.jpeg
-additional-images: 
-website: http://www.alkemieandartistry.com
 maker: 
   name: "Alkemie & Artistry"
   description: "Artist that creates artworks in lanterns."
   image-primary: /assets/images/exhibit-images/21-45-maker-alkemie-artistry-f91236df-aad8-45a6-b41a-698cfe70f617-medium.jpeg
+  website: http://www.alkemieandartistry.com
 categories: 
   - slug: art
     name: Art
 created-jotform: "2021-08-04 20:11:26"
 last-modified-jotform: "2021-10-25 19:42:46"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

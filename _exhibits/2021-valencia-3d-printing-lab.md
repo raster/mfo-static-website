@@ -14,7 +14,6 @@ image-primary:
   medium: /assets/images/exhibit-images/21-152-exhibit-valencia-3d-printing-lab-z-valencia-maker-faire-2019-medium.jpg
   large: /assets/images/exhibit-images/21-152-exhibit-valencia-3d-printing-lab-z-valencia-maker-faire-2019-large.jpg
   full: /assets/images/exhibit-images/21-152-exhibit-valencia-3d-printing-lab-z-valencia-maker-faire-2019-full.jpg
-additional-images: 
 maker: 
   name: "Valencia College 3D Lab"
   description: "Student completing the Technical Certificate in Rapid Prototyping showcase their projects printed on a variety of 3D printers in our West Campus lab."
@@ -26,7 +25,7 @@ categories:
     name: Education
 created-jotform: "2021-09-28 10:38:41"
 last-modified-jotform: "2021-10-28 12:50:33"
-last-exported: "2021-10-28 12:53:15"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

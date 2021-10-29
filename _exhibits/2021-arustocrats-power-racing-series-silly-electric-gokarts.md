@@ -14,13 +14,12 @@ image-primary:
   medium: /assets/images/exhibit-images/21-130-exhibit-arustocrats-power-racing-series-silly-electric-gokarts-12065989-435774133279759-704828850021955115-n-medium.jpg
   large: /assets/images/exhibit-images/21-130-exhibit-arustocrats-power-racing-series-silly-electric-gokarts-12065989-435774133279759-704828850021955115-n-large.jpg
   full: /assets/images/exhibit-images/21-130-exhibit-arustocrats-power-racing-series-silly-electric-gokarts-12065989-435774133279759-704828850021955115-n-full.jpg
-additional-images: 
-website: https://www.facebook.com/thearustocrats
-facebook: https://www.facebook.com/thearustocrats
 maker: 
   name: "aRUSTocrats"
   description: "band of makers/tinkerers/engineers who build silly electric gokarts for the Power Racing Series! We&#039;ve competed across the country from NYC>PIT>Detroit>Orlando! "
   image-primary: /assets/images/exhibit-images/21-130-maker-arustocrats-power-racing-series-silly-electric-gokarts-img-0723-medium.JPG
+  website: https://www.facebook.com/thearustocrats
+  facebook: https://www.facebook.com/thearustocrats
 categories: 
   - slug: electric-vehicles
     name: Electric Vehicles
@@ -28,7 +27,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-09-06 19:53:15"
 last-modified-jotform: "2021-10-24 11:42:10"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

@@ -75,18 +75,19 @@ additional-images:
     medium: /assets/images/exhibit-images/21-146-exhibit-addl10-barrel-of-kong-arcades-image000005-medium.jpg
     large: /assets/images/exhibit-images/21-146-exhibit-addl10-barrel-of-kong-arcades-image000005-large.jpg
     full: /assets/images/exhibit-images/21-146-exhibit-addl10-barrel-of-kong-arcades-image000005-full.jpg
-website: http://www.barrelofkong.com 
+website: "http://www.barrelofkong.com"
 maker: 
   name: "Barrel of Kong Arcades"
   description: "I build vintage arcade machines from repurposed whisky and wine barrels.
 These games include 60 classic arcade games"
   image-primary: /assets/images/exhibit-images/21-146-maker-barrel-of-kong-arcades-logo-bok-medium.png
+  website: http://www.barrelofkong.com 
 categories: 
   - slug: arcade
     name: Arcade
 created-jotform: "2021-09-26 20:22:14"
 last-modified-jotform: "2021-10-25 19:51:12"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

@@ -21,12 +21,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-138-exhibit-addl1-mandalorian-mercs-batuulogo2-medium.jpg
     large: /assets/images/exhibit-images/21-138-exhibit-addl1-mandalorian-mercs-batuulogo2-large.jpg
     full: /assets/images/exhibit-images/21-138-exhibit-addl1-mandalorian-mercs-batuulogo2-full.jpg
-website: http://www.MandalorianMercs.org
-twitter: https://www.twitter.com/mandomercs
 maker: 
   name: "Mandalorian Mercs"
   description: "Lucasfilm approved charity organization that focuses on creating screen quality mandalorian costumes for event appearances and fund raising "
   image-primary: /assets/images/exhibit-images/21-138-maker-mandalorian-mercs-b145a930-bb53-4d11-ab6c-390ca119edb8-medium.png
+  website: http://www.MandalorianMercs.org
+  twitter: https://www.twitter.com/mandomercs
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -40,7 +40,7 @@ categories:
     name: Sewing
 created-jotform: "2021-09-18 19:13:19"
 last-modified-jotform: "2021-10-28 17:07:28"
-last-exported: "2021-10-28 19:49:54"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

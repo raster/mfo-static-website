@@ -19,13 +19,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-115-exhibit-addl1-resin-works-by-ankita-seascape-medium.jpg
     large: /assets/images/exhibit-images/21-115-exhibit-addl1-resin-works-by-ankita-seascape-large.jpg
     full: /assets/images/exhibit-images/21-115-exhibit-addl1-resin-works-by-ankita-seascape-full.jpg
-website: http://www.ankitanagaraju.com
-instagram: https://www.instagram.com/ankitanagaraju_art
-facebook: https://www.facebook.com/ankitanagaraju(art)
+website: "www.ankitanagaraju.com"
 maker: 
   name: "Ankita Nagaraju Art"
   description: "I like to make stuff from everything I can get my hands on. In this exhibit, I will be showcasing some of my Resin and  Laser Art."
   image-primary: /assets/images/exhibit-images/21-115-maker-resin-works-by-ankita-logo-4-medium.png
+  website: http://www.ankitanagaraju.com
+  instagram: https://www.instagram.com/ankitanagaraju_art
+  facebook: https://www.facebook.com/ankitanagaraju(art)
 categories: 
   - slug: art
     name: Art
@@ -39,7 +40,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-08-31 17:54:46"
 last-modified-jotform: "2021-10-27 12:57:58"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

@@ -35,12 +35,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-109-exhibit-addl4-florida-odyssey-of-the-mind-27851cae-7a45-4092-af58-b6e01066a5e1-medium.jpeg
     large: /assets/images/exhibit-images/21-109-exhibit-addl4-florida-odyssey-of-the-mind-27851cae-7a45-4092-af58-b6e01066a5e1-large.jpeg
     full: /assets/images/exhibit-images/21-109-exhibit-addl4-florida-odyssey-of-the-mind-27851cae-7a45-4092-af58-b6e01066a5e1-full.jpeg
-website: http://www.odysseyofthemind.com
-facebook: https://www.facebook.com/floridaodysseyofthemind
 maker: 
   name: "Florida Odyssey of the Mind "
   description: "Odyssey of the mind is a creative thinking and problem-solving competitive organization for children ages kindergarten through college. Teams of 5-7 students creatively write an 8 minute skit including making all sets props and costumes. Some of the problems require that a vehicle be made, some a technical element and some a structural engineering requirement. "
   image-primary: /assets/images/exhibit-images/21-109-maker-florida-odyssey-of-the-mind-0095fa43-4cbe-4e94-a168-2cc4bb260bc0-medium.jpeg
+  website: http://www.odysseyofthemind.com
+  facebook: https://www.facebook.com/floridaodysseyofthemind
 categories: 
   - slug: art
     name: Art
@@ -54,7 +54,7 @@ categories:
     name: Makerspace
 created-jotform: "2021-08-30 19:47:11"
 last-modified-jotform: "2021-10-24 14:06:33"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

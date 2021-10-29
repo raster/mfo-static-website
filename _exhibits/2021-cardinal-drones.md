@@ -26,13 +26,16 @@ additional-images:
     medium: /assets/images/exhibit-images/21-101-exhibit-addl2-cardinal-drones-img-5400-medium.jpg
     large: /assets/images/exhibit-images/21-101-exhibit-addl2-cardinal-drones-img-5400-large.jpg
     full: /assets/images/exhibit-images/21-101-exhibit-addl2-cardinal-drones-img-5400-full.jpg
-website: http://www.cardinaldrones.com
-facebook: https://www.facebook.com/cardinaldrones/
-youtube: https://www.youtube.com/channel/ucgyvc98glpkoj8zbbnm7-iw
+website: "www.cardinaldrones.com"
+video: "https://www.youtube.com/watch?v=_IneAYeb_tM"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Cardinal Drones "
   description: "Cardinal Drones is a drone operation out of West Palm Beach FL. it started as a hobbiest meetup lab and grew into a repair and modification office where we hack drones to do things they werent designed to do. We make just about anything. Drones that cut mangos off trees, lift bicycles, stollers, and fully automatic delivery drones for water ballooning and delivering beers to your friends (within the limits of the law).  Many of our experiments run on open source arduino and raspberry pi software. We have been at the Palm Beach and Orlando maker faire multiple times.  "
   image-primary: /assets/images/exhibit-images/21-101-maker-cardinal-drones-capture-medium.PNG
+  website: http://www.cardinaldrones.com
+  facebook: https://www.facebook.com/cardinaldrones/
+  youtube: https://www.youtube.com/channel/ucgyvc98glpkoj8zbbnm7-iw
 categories: 
   - slug: drones
     name: Drones
@@ -42,7 +45,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-27 14:44:01"
 last-modified-jotform: "2021-10-24 11:46:29"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:53"
 sitemap: false
 
 ---

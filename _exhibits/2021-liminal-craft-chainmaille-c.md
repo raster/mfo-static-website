@@ -20,12 +20,12 @@ additional-images:
     medium: /assets/images/exhibit-images/21-29-exhibit-addl1-liminal-craft-chainmaille-c-img-20210508-082915569-medium.jpg
     large: /assets/images/exhibit-images/21-29-exhibit-addl1-liminal-craft-chainmaille-c-img-20210508-082915569-large.jpg
     full: /assets/images/exhibit-images/21-29-exhibit-addl1-liminal-craft-chainmaille-c-img-20210508-082915569-full.jpg
-website: https://www.etsy.com/shop/0liminalcraft0
-instagram: https://www.instagram.com/liminal_craft/
 maker: 
   name: "Liminal Craft"
   description: "Liminal Craft makes handmade jewelry, original buttons and pins, and other art and fandom items."
   image-primary: /assets/images/exhibit-images/21-29-maker-liminal-craft-chainmaille-c-isla-280x280-36492524-b89wj2cb-medium.jpg
+  website: https://www.etsy.com/shop/0liminalcraft0
+  instagram: https://www.instagram.com/liminal_craft/
 categories: 
   - slug: art
     name: Art
@@ -39,7 +39,7 @@ categories:
     name: Jewelry
 created-jotform: "2021-07-26 12:28:24"
 last-modified-jotform: "2021-10-24 12:00:54"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:55"
 sitemap: false
 
 ---

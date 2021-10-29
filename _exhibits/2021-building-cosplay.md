@@ -25,11 +25,11 @@ additional-images:
     medium: /assets/images/exhibit-images/21-163-exhibit-addl2-building-cosplay-img-4064-medium.JPG
     large: /assets/images/exhibit-images/21-163-exhibit-addl2-building-cosplay-img-4064-large.JPG
     full: /assets/images/exhibit-images/21-163-exhibit-addl2-building-cosplay-img-4064-full.JPG
-website: https://www.allisonchasemakeup.com
 maker: 
   name: "Allison Chase"
   description: "I make props and puppetry into cosplay"
   image-primary: /assets/images/exhibit-images/21-163-maker-building-cosplay-40449657-679352139108559-2839698746797719552-o-medium.jpg
+  website: https://www.allisonchasemakeup.com
 categories: 
   - slug: cosplay
     name: Cosplay
@@ -43,7 +43,7 @@ categories:
     name: Puppets
 created-jotform: "2021-10-04 13:32:11"
 last-modified-jotform: "2021-10-24 11:38:56"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:59:52"
 sitemap: false
 
 ---

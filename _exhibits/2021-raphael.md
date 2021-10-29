@@ -25,12 +25,14 @@ additional-images:
     medium: /assets/images/exhibit-images/21-89-exhibit-addl2-raphael-enlarged-version-1-medium.png
     large: /assets/images/exhibit-images/21-89-exhibit-addl2-raphael-enlarged-version-1-large.png
     full: /assets/images/exhibit-images/21-89-exhibit-addl2-raphael-enlarged-version-1-full.png
-website: https://teamlazygecko.com/
-facebook: https://www.facebook.com/teamlazygecko
+video: "https://youtu.be/esp2lIg9OR8"
+video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Jason Weihman"
   description: "Design, Fabricate, Build."
   image-primary: /assets/images/exhibit-images/21-89-maker-raphael-received-1302237263164083-medium.jpeg
+  website: https://teamlazygecko.com/
+  facebook: https://www.facebook.com/teamlazygecko
 categories: 
   - slug: electric-vehicles
     name: Electric Vehicles
@@ -42,7 +44,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-23 09:58:37"
 last-modified-jotform: "2021-10-24 11:48:23"
-last-exported: "2021-10-28 05:44:51"
+last-exported: "2021-10-29 07:58:54"
 sitemap: false
 
 ---

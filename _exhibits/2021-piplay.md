@@ -14,13 +14,13 @@ image-primary:
   medium: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-medium.png
   large: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-large.png
   full: /assets/images/exhibit-images/21-15-exhibit-piplay-43-piplay-logo-1-9138-full.png
-additional-images: 
-website: http://piplay.org
-twitter: https://www.twitter.com/ssilver2k2
+website: "http://piplay.org"
 maker: 
   name: "Shea Silverman / PiPlay"
   description: "Making all sorts of gaming devices with the Raspberry Pi!  This year&#039;s is a DDR machine powered by the Raspberry Pi 4!"
   image-primary: /assets/images/exhibit-images/21-15-maker-piplay-piplay-logo-1-medium.png
+  website: http://piplay.org
+  twitter: https://www.twitter.com/ssilver2k2
 categories: 
   - slug: arcade
     name: Arcade
@@ -30,7 +30,7 @@ categories:
     name: Raspberry Pi
 created-jotform: "2021-07-24 10:52:01"
 last-modified-jotform: "2021-10-24 12:06:38"
-last-exported: "2021-10-28 05:44:52"
+last-exported: "2021-10-29 07:58:56"
 sitemap: false
 
 ---
