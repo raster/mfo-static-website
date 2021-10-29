@@ -19,6 +19,11 @@
       <img class="img-responsive entry-image" src="{{page.image-primary.large}}" alt="{{page.name}}">
       <p class="lead">{{page.description-long | newline_to_br}}</p>
 
+      {% if page.website %}
+      <p><a href="{{page.website}}" class="btn btn-info" target="_blank">Learn More</a></p>
+      {% endif %}
+
+
       <div class="entry-categories" style="margin-bottom: 10px">
         <b>Categories: </b>
         {%- for category in page.categories -%}
@@ -27,33 +32,17 @@
         <a href="/makers/?category={{-category.slug-}}">{{- category.name -}}</a>
         {%- endif -%}{%- endfor -%}
       </div>
-      <div class="row exhibit-social-row">
-        {% if page.website %}
-         <div class="col-md-2 pull-left"><a href="{{page.website}}" class="btn btn-info" target="_blank">Project Website</a></div>
-        {% endif %}
-           <div class="col-md-5">
-             <ul class="list-inline">
-               {% if page.email %}
-                   <li><a href="mailto:{{page.email}}" target="_blank" <i="" class="fa fa-2x fa-envelope" aria-hidden="true"></a></li>
-               {% endif %}
-               {% if page.twitter %}
-                <li><a href="{{page.twitter}}" target="_blank" <i="" class="fa fa-2x fa-twitter" aria-hidden="true"></a></li>
-               {% endif %}
-               {% if page.instagram %}
-               <li><a href="{{page.instagram}}" target="_blank" <i="" class="fa fa-2x fa-instagram" aria-hidden="true"></a></li>
-               {% endif %}
-               {% if page.facebook %}
-                <li><a href="{{page.facebook}}" target="_blank" <i="" class="fa fa-2x fa-facebook" aria-hidden="true"></a></li>
-               {% endif %}
-               {% if page.youtube %}
-                <li><a href="{{page.youtube}}" target="_blank" <i="" class="fa fa-2x fa-youtube" aria-hidden="true"></a></li>
-               {% endif %}
-            </ul>
-          </div>
-        </div>
-      </div>
 
+    </div>
 
+    {%comment%}
+    {% if page.video %}
+    <section class="exhibitVideo" style="margin-top:30px; margin-bottom:30px">
+        <iframe width="420" height="315" src="{{page.video}}" frameborder="0" allowfullscreen></iframe>
+    </section>
+    {% endif %}
+    {%endcomment%}
+    
       <section class="exhibitPhotos" style="margin-top:30px; margin-bottom:30px">
 					<div id="exhibitPhotoCarousel" class="carousel slide" data-ride="carousel">
             {%- assign numImages = page.additional-images | size -%}
@@ -103,6 +92,30 @@
         <div class="col-md-7">
           <h3>{{page.maker.name}}</h3>
               {{page.maker.description}}
+              <div class="row exhibit-social-row">
+                {% if page.maker.website %}
+                 <div class="col-md-4 pull-left"><a href="{{page.maker.website}}" class="btn btn-info" target="_blank">Learn More</a></div>
+                {% endif %}
+                   <div class="col-md-5">
+                     <ul class="list-inline">
+                       {% if page.maker.twitter %}
+                        <li><a href="{{page.maker.twitter}}" target="_blank" <i="" class="fa fa-2x fa-twitter" aria-hidden="true"></a></li>
+                       {% endif %}
+                       {% if page.maker.instagram %}
+                       <li><a href="{{page.maker.instagram}}" target="_blank" <i="" class="fa fa-2x fa-instagram" aria-hidden="true"></a></li>
+                       {% endif %}
+                       {% if page.maker.facebook %}
+                        <li><a href="{{page.maker.facebook}}" target="_blank" <i="" class="fa fa-2x fa-facebook" aria-hidden="true"></a></li>
+                       {% endif %}
+                       {% if page.maker.youtube %}
+                        <li><a href="{{page.maker.youtube}}" target="_blank" <i="" class="fa fa-2x fa-youtube" aria-hidden="true"></a></li>
+                       {% endif %}
+                    </ul>
+                  </div>
+                </div>
+
+
+
         </div>
       </div>
 
