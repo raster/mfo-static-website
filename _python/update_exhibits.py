@@ -18,6 +18,7 @@ from urllib.parse import urlparse
 import time
 import getopt
 import csv
+import requests
 
 #from urlparse import urlparse    python2
 
@@ -47,6 +48,15 @@ outputAll = False #this is now set with a command line param, don't change it he
 
 #NOTE: Image pulls will fail unless you go to jotform settings for the account and
 #       remove the requirement to be logged in to see uploaded items
+
+#get youtube embed from watch url using oembed API
+def getYouTubeEmbed (url):
+  reqURL = "https://www.youtube.com/oembed?url=" + url + "&format=json"
+  response = requests.get(reqURL)
+  print (response.text)
+  rjson = response.json()
+  print (rjson["html"])
+  return rjson["html"]
 
 #output csv file from list
 def writeCSVFile (fn, data):
@@ -291,6 +301,10 @@ def export(outputAll):
           exhibitAddlImages = getAnswerByName(ans,"exhibitImage44")
 
           exhibitVideo    = getAnswerByName(ans,"exhibitYouTube")
+
+          if exhibitVideo is not None:
+            exhibitVideoEmbed = getYouTubeEmbed(exhibitVideo)
+
           exhibitWebsite  = getAnswerByName(ans,"exhibitWebsite")
           makerName       = getAnswerByName(ans,"makerName")
           makerDesc       = getAnswerByName(ans,"makerDesc")
@@ -391,7 +405,8 @@ def export(outputAll):
             outfile.write("  large: "   + exhibitImage[2][2:] + "\n")
             outfile.write("  full: "    + exhibitImage[3][2:] + "\n")
 
-            outfile.write("additional-images: \n")
+            if len(exhibitAddlImages) > 0:
+              outfile.write("additional-images: \n")
 
             i=1
             for addlImage in exhibitAddlImages:
@@ -405,13 +420,28 @@ def export(outputAll):
               outfile.write("    full: "    + image[3][2:] + "\n")
               i = i+1
 
+            if exhibitWebsite is not None:
+              outfile.write("website: " + '"' + exhibitWebsite + '"' + "\n")
+
+            if exhibitVideo is not None:
+              outfile.write("video: " + '"' + exhibitVideo + '"' + "\n")
+
+              if exhibitVideoEmbed is not None:
+                outfile.write("video-embed: " + '"' + urllib.parse.quote(exhibitVideoEmbed) + '"' + "\n")
+
+
+            #maker info
+            outfile.write("maker: \n")
+            outfile.write ("  name: " + '"' + makerName + '"' + "\n")
+            outfile.write ("  description: " + '"' + makerDesc + '"' + "\n")
+            outfile.write ("  image-primary: " + makerImage[1][2:] + "\n")
 
             #Let's stop listing email on the site, too easy to scrape...
             #if makerEmail is not None: outfile.write("email: " + makerEmail + "\n")
             if makerWebsite is not None:
-              outfile.write("website: " + urlClean(makerWebsite) + "\n")
+              outfile.write("  website: " + urlClean(makerWebsite) + "\n")
             if makerTwitter is not None:
-              outfile.write("twitter: " + socialURLClean(makerTwitter, "twitter") + "\n")
+              outfile.write("  twitter: " + socialURLClean(makerTwitter, "twitter") + "\n")
             if makerInstagram is not None:
               #insta = urlparse(makerInstagram)
               #insta = insta._replace(scheme = "https")
@@ -423,21 +453,15 @@ def export(outputAll):
               #instapath = instapath.replace("www.","")
               #instapath = instapath.replace("www","")
               #insta = insta._replace(path = instapath)
-              #outfile.write("instagram: " + insta.geturl() + "\n")
-              outfile.write("instagram: " + socialURLClean(makerInstagram, "instagram") + "\n")
+              #outfile.write("  instagram: " + insta.geturl() + "\n")
+              outfile.write("  instagram: " + socialURLClean(makerInstagram, "instagram") + "\n")
 
             if makerFacebook is not None:
-              outfile.write("facebook: " + socialURLClean(makerFacebook, "facebook") + "\n")
+              outfile.write("  facebook: " + socialURLClean(makerFacebook, "facebook") + "\n")
 
             if makerYouTube is not None:
-              outfile.write("youtube: " + socialURLClean(makerYouTube, "youtube") + "\n")
+              outfile.write("  youtube: " + socialURLClean(makerYouTube, "youtube") + "\n")
 
-
-            #maker info
-            outfile.write("maker: \n")
-            outfile.write ("  name: " + '"' + makerName + '"' + "\n")
-            outfile.write ("  description: " + '"' + makerDesc + '"' + "\n")
-            outfile.write ("  image-primary: " + makerImage[1][2:] + "\n")
 
             #categories
             outfile.write("categories: \n")
