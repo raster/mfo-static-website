@@ -73,7 +73,6 @@ additional-images:
     large: /assets/images/exhibit-images/21-158-exhibit-addl10-from-consumption-to-creation-3d-modeling-for-young-learners-captura-de-tela-2021-09-30-as-14-57-57-large.png
     full: /assets/images/exhibit-images/21-158-exhibit-addl10-from-consumption-to-creation-3d-modeling-for-young-learners-captura-de-tela-2021-09-30-as-14-57-57-full.png
 video: "https://drive.google.com/file/d/1OBb14q_hftr1dFx_ZH8luAkFfcWVpPIK/view?usp=sharing"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Avidus Makerspace"
   description: "We are Ivna Trevas and Naya Damasceno, a team of Maker educators from Avidus School, a K-5 bilingual school in Brazil, who love to share maker practices with other makers."
@@ -92,7 +91,7 @@ categories:
     name: Sustainability
 created-jotform: "2021-09-30 14:26:59"
 last-modified-jotform: "2021-10-24 11:39:51"
-last-exported: "2021-10-29 07:59:52"
+last-exported: "2021-10-29 16:45:45"
 sitemap: false
 
 ---

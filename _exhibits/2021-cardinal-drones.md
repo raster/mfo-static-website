@@ -28,7 +28,7 @@ additional-images:
     full: /assets/images/exhibit-images/21-101-exhibit-addl2-cardinal-drones-img-5400-full.jpg
 website: "www.cardinaldrones.com"
 video: "https://www.youtube.com/watch?v=_IneAYeb_tM"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/_IneAYeb_tM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Cardinal Drones "
   description: "Cardinal Drones is a drone operation out of West Palm Beach FL. it started as a hobbiest meetup lab and grew into a repair and modification office where we hack drones to do things they werent designed to do. We make just about anything. Drones that cut mangos off trees, lift bicycles, stollers, and fully automatic delivery drones for water ballooning and delivering beers to your friends (within the limits of the law).  Many of our experiments run on open source arduino and raspberry pi software. We have been at the Palm Beach and Orlando maker faire multiple times.  "
@@ -45,7 +45,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-27 14:44:01"
 last-modified-jotform: "2021-10-24 11:46:29"
-last-exported: "2021-10-29 07:58:53"
+last-exported: "2021-10-29 16:45:47"
 sitemap: false
 
 ---

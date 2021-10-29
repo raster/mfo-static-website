@@ -16,7 +16,7 @@ image-primary:
   full: /assets/images/exhibit-images/21-99-exhibit-surrogate-tv-group-689-full.png
 website: "https://www.surrogate.tv/"
 video: "https://www.youtube.com/watch?v=rGk8dC8lvN8"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/rGk8dC8lvN8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Surrogate.tv"
   description: "Surrogate.tv is a no-code robotics platform for makers and creatives where people can hook anything to the internet (RC Cars, Robots, Arcade Cabinets, etc), and control it remotely in near-real-time. Currently, we&#039;re preparing to launch our first hardware product - Surrobot, which is a robot platform made and designed by makers for makers. Surrobot allows creating advanced robotics projects with teleoperation, image recognition, and all types of robotics elements with no hardware or coding skills needed. Surrobot is made to be easily repaired, modified, and upgraded - freely available STL files, open-source Python SDK, easily replaceable components. Coming to Kickstarter November 2021."
@@ -39,7 +39,7 @@ categories:
     name: Raspberry Pi
 created-jotform: "2021-08-27 04:11:48"
 last-modified-jotform: "2021-10-24 11:46:41"
-last-exported: "2021-10-29 07:58:53"
+last-exported: "2021-10-29 16:45:47"
 sitemap: false
 
 ---

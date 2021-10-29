@@ -68,7 +68,6 @@ additional-images:
     full: /assets/images/exhibit-images/21-128-exhibit-addl10-aeo-studios-inc-pair-full.jpg
 website: "https://www.aeostudios.com"
 video: "https://youtube.com/aeostudios"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "AEO Studios"
   description: "Alan Ostrander & the AEO Studios Team are Maker Faire veterens that have been making custom props/sfx/cosplay/makeup items for 25+ years.  We fabricate Halloween/Horror props, and all types of theatrical props & pieces.  We are also the distributors for all the major Theatrical Makeup/SFX Manufacturers."
@@ -90,7 +89,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-09-06 15:10:34"
 last-modified-jotform: "2021-10-25 19:40:51"
-last-exported: "2021-10-29 07:58:53"
+last-exported: "2021-10-29 16:45:46"
 sitemap: false
 
 ---

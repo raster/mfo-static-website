@@ -22,7 +22,6 @@ additional-images:
     full: /assets/images/exhibit-images/21-48-exhibit-addl1-k-gentry-art-llc-0e36fa78-296d-40e1-b138-b7f2a3fd45ed-full.jpeg
 website: "https://tkylegentry.com/"
 video: "https://m.youtube.com/channel/UCgwB89VLnYrTHzYXtcgTAVw?view_as=subscriber"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "K Gentry Art LLC"
   description: "I make character Art prints, character art books, character art canvases, and original character sketches for sale. "
@@ -38,7 +37,7 @@ categories:
     name: Illustration
 created-jotform: "2021-08-04 23:20:12"
 last-modified-jotform: "2021-10-24 12:29:04"
-last-exported: "2021-10-29 07:58:55"
+last-exported: "2021-10-29 16:45:49"
 sitemap: false
 
 ---

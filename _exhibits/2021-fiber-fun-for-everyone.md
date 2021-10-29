@@ -38,7 +38,7 @@ additional-images:
     large: /assets/images/exhibit-images/21-74-exhibit-addl4-fiber-fun-for-everyone-nano-with-fiber-and-pedal-small-large.jpg
     full: /assets/images/exhibit-images/21-74-exhibit-addl4-fiber-fun-for-everyone-nano-with-fiber-and-pedal-small-full.jpg
 video: "https://youtu.be/HZCzAEB6uCg"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/HZCzAEB6uCg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Drunken Monkey Spinners/Weavers of Orlando"
   description: "Members of the Drunken Monkey Spinners and the Weavers of Orlando have been exhibiting at the Orlando Maker Faire for several years.  Both are non-profit organizations committed to providing information about the fiber arts and opportunities for members of the community to learn about the fiber arts."
@@ -56,7 +56,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-16 13:37:32"
 last-modified-jotform: "2021-10-24 11:51:42"
-last-exported: "2021-10-29 07:58:54"
+last-exported: "2021-10-29 16:45:48"
 sitemap: false
 
 ---

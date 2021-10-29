@@ -16,7 +16,7 @@ image-primary:
   large: /assets/images/exhibit-images/21-116-exhibit-chainable-rgb-light-bars-thumbnail-large.png
   full: /assets/images/exhibit-images/21-116-exhibit-chainable-rgb-light-bars-thumbnail-full.png
 video: "https://youtu.be/QDieJtqR_og"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="768" src="https://www.youtube.com/embed/QDieJtqR_og?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Z Freaky Industries"
   description: "Prototype developer specializing in unique solutions to unique applications, especially with embedded addressable LED array drivers."
@@ -36,7 +36,7 @@ categories:
     name: Special Effects
 created-jotform: "2021-08-31 17:59:19"
 last-modified-jotform: "2021-10-28 05:49:27"
-last-exported: "2021-10-29 07:58:53"
+last-exported: "2021-10-29 16:45:47"
 sitemap: false
 
 ---

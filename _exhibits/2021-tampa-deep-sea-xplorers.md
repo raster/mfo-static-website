@@ -37,7 +37,6 @@ additional-images:
     full: /assets/images/exhibit-images/21-41-exhibit-addl4-tampa-deep-sea-xplorers-pr-terry-launching-full.jpg
 website: "tampadeepsea.com"
 video: "https://www.youtube.com/channel/UC3TLu5EGsUFm2PJDnmtMchw/videos"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Tampa Deep Sea Xplorers"
   description: "Tampa Deep Sea Xplorers is a maker of Underwater Autonomous Vehicles (AUVs). We also have made a Remote Operated Vehicle (ROV) to be able to video the AUV. All are parts are commercial off the shelf or designed and created with Fusion 360 and either FDM or MDLP 3D printers. 
@@ -57,7 +56,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-03 14:04:25"
 last-modified-jotform: "2021-10-24 11:59:57"
-last-exported: "2021-10-29 07:58:55"
+last-exported: "2021-10-29 16:45:49"
 sitemap: false
 
 ---

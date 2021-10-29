@@ -57,7 +57,6 @@ additional-images:
     full: /assets/images/exhibit-images/21-139-exhibit-addl8-maker-experience-in-korea-youtube-full.PNG
 website: "https://sunwoo99999.blogspot.com/"
 video: "https://www.youtube.com/channel/UC8NgekiLZ_hAJxFOSAKrW-g/videos"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Seonwoo"
   description: "My name is Seonwoo Kang, young maker who has maker movement and fair experience from 6 years old in South Korea. I participated in the first maker fair in 2014 with my work with my parents. Currently I&#039;m 14 years old and a 9th grade student. I lived in Seoul, South Korea and I enjoy making something such as Toy, Game by using Design tools, 3D printer, soldering, Arduino, App inventor coding etc. When I make something, I used 3D printer, layer cut machine, CAD tools like Autocad, Tinkercad, 123D and Arduino. Also, I like to create contents by using Photoshop, Clip studio, Final cut."
@@ -75,7 +74,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2021-09-20 09:35:32"
 last-modified-jotform: "2021-10-24 12:32:29"
-last-exported: "2021-10-29 07:58:53"
+last-exported: "2021-10-29 16:45:46"
 sitemap: false
 
 ---

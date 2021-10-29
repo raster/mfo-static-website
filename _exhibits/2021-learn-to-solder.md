@@ -41,7 +41,7 @@ additional-images:
     large: /assets/images/exhibit-images/21-142-exhibit-addl5-learn-to-solder-49141865432-e419626070-c-large.jpg
     full: /assets/images/exhibit-images/21-142-exhibit-addl5-learn-to-solder-49141865432-e419626070-c-full.jpg
 video: "https://www.youtube.com/watch?v=OWsf38tM2L4"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/OWsf38tM2L4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "MakerFaire Orlando"
   description: "MakerFaire Orlando sponsored exhibit"
@@ -53,7 +53,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-09-22 12:50:57"
 last-modified-jotform: "2021-10-24 08:11:27"
-last-exported: "2021-10-29 07:58:52"
+last-exported: "2021-10-29 16:45:46"
 sitemap: false
 
 ---

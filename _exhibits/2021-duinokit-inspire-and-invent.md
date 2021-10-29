@@ -22,7 +22,7 @@ additional-images:
     full: /assets/images/exhibit-images/21-136-exhibit-addl1-duinokit-inspire-and-invent-laura-with-duinokit-full.JPG
 website: "www.DuinoKit.com"
 video: "https://www.youtube.com/watch?v=uLotJ7h7oZE"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/uLotJ7h7oZE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "DuinoKit"
   description: "DuinoKit manufacturers Arduino-based learning kits to teach about coding and electronics."
@@ -41,7 +41,7 @@ categories:
     name: Makerspace
 created-jotform: "2021-09-17 08:38:27"
 last-modified-jotform: "2021-10-25 19:51:37"
-last-exported: "2021-10-29 07:58:53"
+last-exported: "2021-10-29 16:45:46"
 sitemap: false
 
 ---

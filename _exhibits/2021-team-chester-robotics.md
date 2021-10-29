@@ -23,7 +23,7 @@ additional-images:
     full: /assets/images/exhibit-images/21R-37-exhibit-addl1-team-chester-robotics-pulsar-iii-2020-jan-13-01-48-09am-000-customizedview17644097559-png-full.png
 website: "https://www.facebook.com/people/Team-Chester-Robotics/100057387882447/?sk=photos"
 video: "https://www.youtube.com/watch?v=5Gq9PyH2qzs&ab_channel=AlekFecteau"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/5Gq9PyH2qzs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Alek Fecteau"
   description: "I am a 17 year old high school student who builds combat robots as a hobby"
@@ -35,7 +35,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-09 13:57:50"
 last-modified-jotform: "2021-08-25 20:15:38"
-last-exported: "2021-10-29 07:59:49"
+last-exported: "2021-10-29 16:45:42"
 sitemap: false
 
 ---

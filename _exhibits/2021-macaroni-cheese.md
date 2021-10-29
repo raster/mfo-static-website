@@ -61,7 +61,7 @@ additional-images:
     full: /assets/images/exhibit-images/21R-53-exhibit-addl8-macaroni-cheese-20191103-211924-full.jpg
 website: "https://www.facebook.com/getrektrobotics"
 video: "https://www.youtube.com/watch?v=bnFT-XfLNQc"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/bnFT-XfLNQc%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/bnFT-XfLNQc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Get Rekt Robotics"
   description: "Heavyweight Sportsman Combat Robot
@@ -74,7 +74,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 18:36:47"
 last-modified-jotform: "2021-09-22 20:21:45"
-last-exported: "2021-10-29 08:02:11"
+last-exported: "2021-10-29 16:45:41"
 sitemap: false
 
 ---

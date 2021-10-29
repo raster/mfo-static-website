@@ -42,7 +42,6 @@ additional-images:
     full: /assets/images/exhibit-images/21-39-exhibit-addl5-dolphinitely-designs-b030a897-1508-4257-8483-3d2af29602d5-full.jpeg
 website: "Dolphinitelydesigns.com"
 video: "https://vm.tiktok.com/ZMd3JSMXw/"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Dolphinitely Designs"
   description: "We make and sell illuminated 3D printed items like night lights, light up ears, and light up lanyards. We also make handmade tufted rugs and would be interested in possibly making a rug at the event if there&#039;s outlets/electricity to set up. "
@@ -64,7 +63,7 @@ categories:
     name: Handmade
 created-jotform: "2021-08-01 10:40:05"
 last-modified-jotform: "2021-10-25 19:42:59"
-last-exported: "2021-10-29 07:58:55"
+last-exported: "2021-10-29 16:45:49"
 sitemap: false
 
 ---

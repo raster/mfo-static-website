@@ -44,7 +44,7 @@ additional-images:
     large: /assets/images/exhibit-images/21R-43-exhibit-addl5-team-technocide-krawl-large.jpg
     full: /assets/images/exhibit-images/21R-43-exhibit-addl5-team-technocide-krawl-full.jpg
 video: "https://youtu.be/3lZqEOy38EE"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/3lZqEOy38EE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "Technocide"
   description: "Maker of insect-weight combat robots.  More sparks and flying parts equals fun!  "
@@ -55,7 +55,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-18 20:42:33"
 last-modified-jotform: "2021-10-13 19:02:18"
-last-exported: "2021-10-29 07:59:49"
+last-exported: "2021-10-29 16:45:42"
 sitemap: false
 
 ---

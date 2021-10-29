@@ -16,7 +16,6 @@ image-primary:
   large: /assets/images/exhibit-images/21R-44-exhibit-phantom-botx-phantombotxblackborder-large.png
   full: /assets/images/exhibit-images/21R-44-exhibit-phantom-botx-phantombotxblackborder-full.png
 video: "https://www.youtube.com/channel/UCgO0GEN4iXCauXte8O-5n2w"
-video-embed: "%3Ciframe%20width%3D%22200%22%20height%3D%22113%22%20src%3D%22https%3A//www.youtube.com/embed/gBrmnB5aOSI%3Ffeature%3Doembed%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E"
 maker: 
   name: "Phantom BotX"
   description: "Phantom BotX is a combat robot/Battlebot team who&#039;s goal is to always improve, in order to build and compete with the most competitive and effective combat robots possible! "
@@ -27,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-20 16:37:05"
 last-modified-jotform: "2021-08-25 20:09:24"
-last-exported: "2021-10-29 07:59:49"
+last-exported: "2021-10-29 16:45:42"
 sitemap: false
 
 ---
