@@ -37,6 +37,8 @@ carousel-slides:
 
 {% include featured-makers-grid.html %}
 
+{% include explore-meet-makers.html %}
+
 {% comment %}
 {% include call-for-makers-widget.html %}
 {% endcomment %}
