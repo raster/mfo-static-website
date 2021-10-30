@@ -6,6 +6,7 @@ slug: anakhets-armoury
 permalink: /exhibits/anakhets-armoury/
 exhibit-id: 21-17
 exhibit-zone: "Opportunity"
+space-number: "OE6"
 description: "From jewelry to full historical rivet maile I make it all. Demos of historical maile all weekend."
 description-long: "Anakhet started making chainmaille as a child and now sells it around Florida. She started learning the historical methods later in life and is working on a full head piece called a coif. Stop by see how this ancient art was done. "
 image: /assets/images/exhibit-images/21-17-exhibit-anakhets-armoury-inbound3091820683592658182-large.jpg
@@ -48,8 +49,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2021-07-24 11:40:41"
-last-modified-jotform: "2021-10-28 21:39:03"
-last-exported: "2021-10-29 19:54:21"
+last-modified-jotform: "2021-10-29 23:18:04"
+last-exported: "2021-10-30 12:13:24"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Tantrum and Blip from Battlebots!"
 slug: tantrum-and-blip-from-battlebots
 permalink: /exhibits/tantrum-and-blip-from-battlebots/
 exhibit-id: 21-188
+exhibit-zone: "Robot Ruckus"
 description: "Take an up close look at Team Seems Reasonables Season 6 entries, Tantrum, and the brand new Blip!"
 description-long: "Tantrum and Blip both competed on Season 6 of Battlebots, the team of friends that forms Seems Reasonable brought 2 competitors this year. Blip is a launcher powered by a brand new flywheel and twisted cord technology, and Tantrum is a durable punching spinner."
 image: /assets/images/exhibit-images/21-188-exhibit-tantrum-and-blip-from-battlebots-tantrum-and-blip-large.jpg
@@ -35,8 +36,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2021-10-27 12:53:46"
-last-modified-jotform: "2021-10-29 19:25:15"
-last-exported: "2021-10-29 19:54:08"
+last-modified-jotform: "2021-10-30 10:45:57"
+last-exported: "2021-10-30 12:13:16"
 sitemap: false
 
 ---

@@ -6,6 +6,7 @@ slug: tylted-art
 permalink: /exhibits/tylted-art/
 exhibit-id: 21-132
 exhibit-zone: "Opportunity"
+space-number: "OG22"
 description: "Original contemporary art made entirely of the words that describe the art."
 description-long: "My art is made entirely of words that describe each art piece. I carefully research each art piece, finding the perfect words and phrase to describe the art, and then strategically place these words to create the art. "
 image: /assets/images/exhibit-images/21-132-exhibit-tylted-art-img-8873-large.jpg
@@ -28,8 +29,8 @@ categories:
   - slug: education
     name: Education
 created-jotform: "2021-09-08 13:46:46"
-last-modified-jotform: "2021-10-24 12:24:15"
-last-exported: "2021-10-29 19:54:11"
+last-modified-jotform: "2021-10-30 12:09:45"
+last-exported: "2021-10-30 12:13:19"
 sitemap: false
 
 ---

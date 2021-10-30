@@ -6,6 +6,7 @@ slug: from-consumption-to-creation-3d-modeling-for-young-learners
 permalink: /exhibits/from-consumption-to-creation-3d-modeling-for-young-learners/
 exhibit-id: 21-158
 exhibit-zone: "Opportunity"
+space-number: "OD9"
 description: "In this exhibit we are going to share ways of teaching kids about 3D modeling in a hands-on approach"
 description-long: "We are going to share an approach to help young children get started on 3D modeling. This approach has been presented at the ISTE Live Conference 2021 during the Maker Playgrounds strand dedicated to best practices for the future of maker education.
 Structure:
@@ -90,8 +91,8 @@ categories:
   - slug: sustainability
     name: Sustainability
 created-jotform: "2021-09-30 14:26:59"
-last-modified-jotform: "2021-10-24 11:39:51"
-last-exported: "2021-10-29 19:54:09"
+last-modified-jotform: "2021-10-30 12:12:18"
+last-exported: "2021-10-30 12:13:18"
 sitemap: false
 
 ---

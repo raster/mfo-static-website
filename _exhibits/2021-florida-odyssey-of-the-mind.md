@@ -6,6 +6,7 @@ slug: florida-odyssey-of-the-mind
 permalink: /exhibits/florida-odyssey-of-the-mind/
 exhibit-id: 21-109
 exhibit-zone: "Opportunity"
+space-number: "OE9, OE10"
 description: "We will have several large scale games such as marble runs, maze games, and pin ball to play. "
 description-long: "We would like to encourage creativity in our kids and adults through membership and hands on activities through the odyssey of the mind program. "
 image: /assets/images/exhibit-images/21-109-exhibit-florida-odyssey-of-the-mind-29b5e7c4-4216-4b18-b1f6-3ec7fc875632-large.jpeg
@@ -53,8 +54,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-08-30 19:47:11"
-last-modified-jotform: "2021-10-24 14:06:33"
-last-exported: "2021-10-29 19:54:12"
+last-modified-jotform: "2021-10-30 12:05:34"
+last-exported: "2021-10-30 12:13:20"
 sitemap: false
 
 ---

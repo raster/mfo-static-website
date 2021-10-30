@@ -5,6 +5,7 @@ title: "Natural Log"
 slug: natural-log
 permalink: /exhibits/natural-log/
 exhibit-id: 21-186
+exhibit-zone: "Power Racing Track"
 description: "Wood-bodied Power Racing Series kart"
 description-long: "This is my homemade electric go kart. The body is all wood, no metal frame underneath. It&#039;s won some races. This revision is even waterproofed, so it won&#039;t fall apart if it rains like the last one!"
 image: /assets/images/exhibit-images/21-186-exhibit-natural-log-smaller-large.jpg
@@ -33,8 +34,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2021-10-25 19:16:24"
-last-modified-jotform: "2021-10-29 19:26:43"
-last-exported: "2021-10-29 19:54:08"
+last-modified-jotform: "2021-10-30 10:46:50"
+last-exported: "2021-10-30 12:13:17"
 sitemap: false
 
 ---

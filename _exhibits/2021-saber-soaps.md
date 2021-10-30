@@ -6,6 +6,7 @@ slug: saber-soaps
 permalink: /exhibits/saber-soaps/
 exhibit-id: 21-129
 exhibit-zone: "Opportunity"
+space-number: "OD6"
 description: "artisan soap and skincare products and a small selection of earrings"
 description-long: "artisan soap and skincare products and a small selection of earrings. All items are vegan, eco friendy, and handmade. "
 image: /assets/images/exhibit-images/21-129-exhibit-saber-soaps-241313272-235611031688887-2433100772995911016-n-large.jpg
@@ -49,8 +50,8 @@ categories:
   - slug: jewelry
     name: Jewelry
 created-jotform: "2021-09-06 15:11:33"
-last-modified-jotform: "2021-10-24 12:24:30"
-last-exported: "2021-10-29 19:54:11"
+last-modified-jotform: "2021-10-29 23:19:17"
+last-exported: "2021-10-30 12:13:19"
 sitemap: false
 
 ---

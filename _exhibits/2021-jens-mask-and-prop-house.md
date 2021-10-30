@@ -6,6 +6,7 @@ slug: jens-mask-and-prop-house
 permalink: /exhibits/jens-mask-and-prop-house/
 exhibit-id: 21-102
 exhibit-zone: "Spirit"
+space-number: "SC31"
 description: "I will display, and sell some original masks, and props, as well have the original molds on hand. "
 description-long: "I will be displaying, and selling several original masks, prosthetics, handmade costume accessories, and props, along with a few pieces from personal collection (not for sale) which include the original molds, and images of the original preloaded sculpts.  I will be actively building original props for sale on-site.  "
 image: /assets/images/exhibit-images/21-102-exhibit-jens-mask-and-prop-house-photo-1630163362065-large.png
@@ -31,8 +32,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2021-08-28 11:20:13"
-last-modified-jotform: "2021-10-24 11:46:26"
-last-exported: "2021-10-29 19:54:12"
+last-modified-jotform: "2021-10-29 22:33:59"
+last-exported: "2021-10-30 12:13:20"
 sitemap: false
 
 ---

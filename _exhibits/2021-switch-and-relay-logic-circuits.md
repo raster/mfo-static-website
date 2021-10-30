@@ -6,6 +6,7 @@ slug: switch-and-relay-logic-circuits
 permalink: /exhibits/switch-and-relay-logic-circuits/
 exhibit-id: 21-60
 exhibit-zone: "Opportunity"
+space-number: "OE7"
 description: "A hands-on demonstration of binary logic circuits using only switches and relays."
 description-long: "A hands-on demonstration of binary logic circuits using only switches and relays. Circuits available for attendees to play with include a reconfigurable logic gate, a four-bit adder, a four-bit counter, river-crossing puzzles, and Ring the Bell, an IoT arcade machine based on the Chinese Ring Puzzle. Ring the Bell now has four levels of difficulty: players will be able to solve it by turning on four, five, six, or seven lights."
 image: /assets/images/exhibit-images/21-60-exhibit-switch-and-relay-logic-circuits-img-8483-large.JPG
@@ -79,8 +80,8 @@ categories:
   - slug: internet-of-things
     name: Internet of Things
 created-jotform: "2021-08-08 11:37:10"
-last-modified-jotform: "2021-10-24 11:58:54"
-last-exported: "2021-10-29 19:54:20"
+last-modified-jotform: "2021-10-29 23:07:24"
+last-exported: "2021-10-30 12:13:22"
 sitemap: false
 
 ---

@@ -5,6 +5,8 @@ title: "Fulament"
 slug: fulament
 permalink: /exhibits/fulament/
 exhibit-id: 21-67
+exhibit-zone: "Opportunity"
+space-number: "OC12, OC13"
 description: "For Enthusiasts, By Enthusiasts. Fulament is a NYC based 3D printing company "
 description-long: "For Enthusiasts, By Enthusiasts. Fulament is a NYC based 3D printing company specializing in build plates and printing materials for 3D printers. "
 image: /assets/images/exhibit-images/21-67-exhibit-fulament-igred-large.png
@@ -28,8 +30,8 @@ categories:
   - slug: 3d-printing
     name: 3D Printing
 created-jotform: "2021-08-10 19:08:01"
-last-modified-jotform: "2021-10-29 19:43:17"
-last-exported: "2021-10-29 19:54:20"
+last-modified-jotform: "2021-10-30 11:43:26"
+last-exported: "2021-10-30 12:13:22"
 sitemap: false
 
 ---

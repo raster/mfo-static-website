@@ -6,7 +6,7 @@ slug: rebel-legion
 permalink: /exhibits/rebel-legion/
 exhibit-id: 21-165
 exhibit-zone: "Spirit"
-space-number: "SI27, SI28, SI29"
+space-number: "SI27, SI28, SI29, SI30"
 description: "The Rebel Legion will be displaying fan made costumes and techniques for building your own!"
 description-long: "The Rebel Legion is an international Star Wars costuming organization created by, of and for people interested in creating costumes from the Star Wars mythos. Research, create, build and improve your costumes in a place where costumers with similar passions share skills, tips and ideas. Jedi, Rebel Pilots, Troopers, Princesses and even Wookiees…. we’ve got them all….and we’re always looking for more."
 image: /assets/images/exhibit-images/21-165-exhibit-rebel-legion-43-rebel-legion-logo-6356-large.png
@@ -32,8 +32,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2021-10-06 18:09:19"
-last-modified-jotform: "2021-10-28 17:03:46"
-last-exported: "2021-10-29 19:54:09"
+last-modified-jotform: "2021-10-29 22:18:43"
+last-exported: "2021-10-30 12:13:18"
 sitemap: false
 
 ---

@@ -5,7 +5,8 @@ title: "Silly Rabbit Crafts"
 slug: silly-rabbit-crafts
 permalink: /exhibits/silly-rabbit-crafts/
 exhibit-id: 21-6
-exhibit-zone: "Curiosity"
+exhibit-zone: "Spirit"
+space-number: "SE32, SF32"
 description: "Come enjoy this 8bit exhibit! There is so much to see, and you can even make your own creation! "
 description-long: "Make sure you stop by this exhibit to see some of the awesome things Lori has made with this beloved childhood craft! She will also have an area where you can make your own Perler creation! Whether it is a cute little Makey or something of your own design, you can let your imagination run free. Don&#039;t have time to make something at Maker Faire? Don&#039;t worry, Lori made kits for you to take home!"
 image: /assets/images/exhibit-images/21-6-exhibit-silly-rabbit-crafts-84752234-2564371720473698-767120999182237696-n-large.jpg
@@ -85,8 +86,8 @@ categories:
   - slug: kits
     name: Kits
 created-jotform: "2021-07-07 09:35:19"
-last-modified-jotform: "2021-10-27 12:54:25"
-last-exported: "2021-10-29 19:54:21"
+last-modified-jotform: "2021-10-29 22:56:55"
+last-exported: "2021-10-30 12:13:24"
 sitemap: false
 
 ---

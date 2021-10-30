@@ -5,6 +5,8 @@ title: "ProjectionProjects"
 slug: projectionprojects
 permalink: /exhibits/projectionprojects/
 exhibit-id: 21-190
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SJ1, SJ2, SI1, SI2"
 description: "A structure that is covered in projection mapping."
 description-long: "Music will be used to create projected images on two pieces of scaffolding covered with miscellaneous shapes."
 image: /assets/images/exhibit-images/21-190-exhibit-projectionprojects-5d289462-a649-48c8-bee3-e28335ce0e28-large.jpeg
@@ -28,8 +30,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2021-10-29 19:04:47"
-last-modified-jotform: "2021-10-29 19:24:15"
-last-exported: "2021-10-29 19:54:08"
+last-modified-jotform: "2021-10-30 11:16:05"
+last-exported: "2021-10-30 12:13:16"
 sitemap: false
 
 ---

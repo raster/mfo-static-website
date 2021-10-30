@@ -6,6 +6,7 @@ slug: thats-sew-mcfly
 permalink: /exhibits/thats-sew-mcfly/
 exhibit-id: 21-7
 exhibit-zone: "Spirit"
+space-number: "SF27"
 description: "That&#039;s Sew McFly creates comfort with character, featuring bowl cozies, hot/cold packs, and more!"
 description-long: "Handcrafted, high quality, unique, eco-friendly, and reusable items include coaster sets, microwave safe bowl cozies, hot/cold packs, eye masks, and reusable cotton face squares. Choose from dozens of styles in fun and fandom fabrics! A portion of all proceeds goes towards charity every month."
 image: /assets/images/exhibit-images/21-7-exhibit-thats-sew-mcfly-realpicformakerfaire-large.jpeg
@@ -36,8 +37,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2021-07-07 17:57:16"
-last-modified-jotform: "2021-10-24 14:14:05"
-last-exported: "2021-10-29 19:54:21"
+last-modified-jotform: "2021-10-29 22:29:12"
+last-exported: "2021-10-30 12:13:24"
 sitemap: false
 
 ---

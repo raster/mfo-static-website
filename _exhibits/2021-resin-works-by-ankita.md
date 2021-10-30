@@ -5,6 +5,7 @@ title: "Resin Works by Ankita"
 slug: resin-works-by-ankita
 permalink: /exhibits/resin-works-by-ankita/
 exhibit-id: 21-115
+exhibit-zone: "Opportunity"
 description: "I will be displaying some of my seascape and geode works along with some laser creations."
 description-long: "I will be displaying some of my seascape and geode works along with some laser creations."
 image: /assets/images/exhibit-images/21-115-exhibit-resin-works-by-ankita-quartz-large.JPG
@@ -39,8 +40,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-08-31 17:54:46"
-last-modified-jotform: "2021-10-27 12:57:58"
-last-exported: "2021-10-29 19:54:12"
+last-modified-jotform: "2021-10-30 10:48:34"
+last-exported: "2021-10-30 12:13:20"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: mandalorian-mercs
 permalink: /exhibits/mandalorian-mercs/
 exhibit-id: 21-138
 exhibit-zone: "Spirit"
-space-number: "SJ27, SJ28, SJ29"
+space-number: "SJ27, SJ28, SJ29, SJ30"
 description: "Batuu Clan; the Central Florida Chapter of the Mandalorian Mercs Costume Club"
 description-long: "LFL affiliate charity organization focusing on screen quality Mandalorian costumes from the Star Wars universe"
 image: /assets/images/exhibit-images/21-138-exhibit-mandalorian-mercs-be5336cc-85ed-46db-afb3-7726f76c5f8b-large.png
@@ -39,8 +39,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2021-09-18 19:13:19"
-last-modified-jotform: "2021-10-28 17:07:28"
-last-exported: "2021-10-29 19:54:10"
+last-modified-jotform: "2021-10-29 22:18:09"
+last-exported: "2021-10-30 12:13:19"
 sitemap: false
 
 ---

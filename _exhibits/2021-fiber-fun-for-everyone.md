@@ -6,6 +6,7 @@ slug: fiber-fun-for-everyone
 permalink: /exhibits/fiber-fun-for-everyone/
 exhibit-id: 21-74
 exhibit-zone: "Opportunity"
+space-number: "OG19"
 description: "Anyone can have fun learning about fiber crafts including spinning yarn and then using the yarn."
 description-long: "People of all ages have been spinning yarn using many different materials and then using the yarn to make a product for thousands of years.  Yarn can be spun from sheep&#039;s wool, plant fibers such as cotton, and many other “fibers”.  Tools as simple as a hand spindle can be used, while a foot treadled wheel or electric spinner may also be used.  Yarn can be used for knitting, crocheting, weaving (using a wide variety of looms) or other fiber crafts.
 
@@ -55,8 +56,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-16 13:37:32"
-last-modified-jotform: "2021-10-24 11:51:42"
-last-exported: "2021-10-29 19:54:14"
+last-modified-jotform: "2021-10-29 23:21:12"
+last-exported: "2021-10-30 12:13:22"
 sitemap: false
 
 ---

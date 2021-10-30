@@ -6,6 +6,7 @@ slug: helpertunity
 permalink: /exhibits/helpertunity/
 exhibit-id: 21-40
 exhibit-zone: "Opportunity"
+space-number: "OE29"
 description: "Play &amp; Win with Helpertunity! - a local charity that empowers elderly, disabled, &amp; itinerant Makers!"
 description-long: "Helpertunity is an all-volunteer 990N-sized 501(c)(3) charity, founded in 2010, that empowers elderly, disabled, and itinerant makers, their caregivers, and their community. The small charity collects and provides upcycled activity resources, craft supplies, and maker-training for its participants&#039; creative and purposeful voluntainment.  Helpertunity&#039;s community-volunteers visit nursing homes and other facilities to provide crafts classes, adaptive games, and holiday festivities, and also packs kits for patients&#039; independent/in-room activity.  With our year 2020-2030 focus on eco-beneficial arts, technology, and vintage carnival-style gameplay; Helpertunity has been researching, advocating, and prototyping ways for greater adaptive technology and play-space access for all ages and abilities. 
 
@@ -41,8 +42,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2021-08-01 13:12:45"
-last-modified-jotform: "2021-10-24 11:59:59"
-last-exported: "2021-10-29 19:54:20"
+last-modified-jotform: "2021-10-29 23:33:17"
+last-exported: "2021-10-30 12:13:23"
 sitemap: false
 
 ---

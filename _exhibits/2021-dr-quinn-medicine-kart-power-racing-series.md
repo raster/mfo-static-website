@@ -5,6 +5,7 @@ title: "Dr. Quinn Medicine Kart- Power Racing Series"
 slug: dr-quinn-medicine-kart-power-racing-series
 permalink: /exhibits/dr-quinn-medicine-kart-power-racing-series/
 exhibit-id: 21-189
+exhibit-zone: "Power Racing Track"
 description: "Power Racing entry, Team Lazy Gecko"
 description-long: "Fresh off an event win in New Jersey, Dr. Quinn continues her campaign for the season championship. In its second season of competing in the Power Racing Series, Dr. Quinn is a 48v electric pony. Member of Team Lazy Gecko."
 image: /assets/images/exhibit-images/21-189-exhibit-dr-quinn-medicine-kart-power-racing-series-43-2019-07-28-12-41-01-2-6706-large.jpg
@@ -85,8 +86,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2021-10-29 13:45:38"
-last-modified-jotform: "2021-10-29 19:27:15"
-last-exported: "2021-10-29 19:54:08"
+last-modified-jotform: "2021-10-30 10:45:44"
+last-exported: "2021-10-30 12:13:16"
 sitemap: false
 
 ---

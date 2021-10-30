@@ -6,6 +6,7 @@ slug: inventors-council-of-central-florida
 permalink: /exhibits/inventors-council-of-central-florida/
 exhibit-id: 21-126
 exhibit-zone: "Opportunity"
+space-number: "OA7, OA8, OA,9"
 description: "Learn how to take the leap from a tinkerer to an inventor.  Get one of 15 Makey Robot molds."
 description-long: "After 47 years we have learned a thing or two about inventing.  We are here to help you make a few less mistakes than we have.  Come and see what we have been developing and learn how easy and difficult inventing can be.
 
@@ -83,8 +84,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2021-09-04 18:27:21"
-last-modified-jotform: "2021-10-29 19:33:02"
-last-exported: "2021-10-29 19:54:11"
+last-modified-jotform: "2021-10-30 11:54:23"
+last-exported: "2021-10-30 12:13:20"
 sitemap: false
 
 ---
