@@ -6,6 +6,7 @@ slug: photo-and-stamp
 permalink: /exhibits/photo-and-stamp/
 exhibit-id: 21-85
 exhibit-zone: "Opportunity"
+space-number: "OA21"
 description: "Photo and Stamp is mixed media creations using original photography, guitar picks, postage, jewelry."
 description-long: "The Photo and Stamp exhibit focuses on the artist&#039;s ability to capture the beauty in everyday life through mixed media compositions. Each unique piece ranges from matted 3-D photo cards and wall art, to functional artwork, such as musical instrument art, guitar pick necklaces, coasters, bookmarks, guitar keychains, birdhouses and much more. "
 image: /assets/images/exhibit-images/21-85-exhibit-photo-and-stamp-guitar-montage-with-picks-large.jpg
@@ -83,8 +84,8 @@ categories:
   - slug: photography
     name: Photography
 created-jotform: "2021-08-20 12:37:51"
-last-modified-jotform: "2021-10-25 19:58:18"
-last-exported: "2021-10-29 19:54:13"
+last-modified-jotform: "2021-10-30 12:49:12"
+last-exported: "2021-10-30 14:44:19"
 sitemap: false
 
 ---

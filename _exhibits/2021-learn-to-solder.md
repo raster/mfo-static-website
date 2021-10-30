@@ -6,7 +6,7 @@ slug: learn-to-solder
 permalink: /exhibits/learn-to-solder/
 exhibit-id: 21-142
 exhibit-zone: "Opportunity"
-space-number: "OA26, OA27, OA28, OA29, OB26, OB27, OB28, OB29, OC28, OC29"
+space-number: "OA26, OA27, OA28, OA29, OB27, OB28, OB29, OC28, OC29"
 description: "Learn to solder by creating your own commemorative LED pin!"
 description-long: "At this exhibit, you can learn to solder by soldering your own commemorative 2021 MakerFaire Orlando LED pin.
 Note: There is an additional charge for this activity. Part of the proceeds from this activity will benefit the FIRST Robotics club that is running the exhibit. "
@@ -54,8 +54,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2021-09-22 12:50:57"
-last-modified-jotform: "2021-10-30 11:10:01"
-last-exported: "2021-10-30 12:13:19"
+last-modified-jotform: "2021-10-30 13:42:05"
+last-exported: "2021-10-30 14:44:14"
 sitemap: false
 
 ---

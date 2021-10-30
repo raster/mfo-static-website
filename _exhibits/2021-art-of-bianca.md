@@ -6,6 +6,7 @@ slug: art-of-bianca
 permalink: /exhibits/art-of-bianca/
 exhibit-id: 21-66
 exhibit-zone: "Opportunity"
+space-number: "OG15"
 description: "Live painting of nonsense"
 description-long: "Artist doing art stuff.  Come watch paint dry"
 image: /assets/images/exhibit-images/21-66-exhibit-art-of-bianca-headshot-large.jpg
@@ -27,8 +28,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-09 23:19:08"
-last-modified-jotform: "2021-10-27 12:54:17"
-last-exported: "2021-10-29 19:54:20"
+last-modified-jotform: "2021-10-30 12:35:16"
+last-exported: "2021-10-30 14:44:20"
 sitemap: false
 
 ---

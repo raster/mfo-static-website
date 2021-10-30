@@ -6,6 +6,7 @@ slug: blitzs-pull-back-plinko
 permalink: /exhibits/blitzs-pull-back-plinko/
 exhibit-id: 21-28
 exhibit-zone: "Opportunity"
+space-number: "OD21"
 description: "Attendees will race through obstacles using pull-back cars built from Lego parts."
 description-long: "This is an interactive exhibit where attendees will build and engineer their own pull-back racing vehicles and obstacle courses using Lego parts and baseplates. They will shoot their racers through the obstacles on a 30 x 60 inch race course to achieve points. "
 image: /assets/images/exhibit-images/21-28-exhibit-blitzs-pull-back-plinko-pull-back-plinko-large.jpg
@@ -32,8 +33,8 @@ categories:
   - slug: lego
     name: LEGO
 created-jotform: "2021-07-25 18:59:08"
-last-modified-jotform: "2021-10-24 14:13:51"
-last-exported: "2021-10-29 19:54:21"
+last-modified-jotform: "2021-10-30 14:26:09"
+last-exported: "2021-10-30 14:44:21"
 sitemap: false
 
 ---

@@ -6,6 +6,7 @@ slug: willingham-family-crafts
 permalink: /exhibits/willingham-family-crafts/
 exhibit-id: 21-73
 exhibit-zone: "Opportunity"
+space-number: "OD4"
 description: "Laser cut earrings, and lathe turned pens. "
 description-long: "Laser cut wooden earrings are pre-cut, pre-finished, they&#039;re just waiting for you to install the hook hardware. Pens are turned by the entire family."
 image: /assets/images/exhibit-images/21-73-exhibit-willingham-family-crafts-43-20210815-164712-7947-large.jpg
@@ -26,8 +27,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-08-15 17:44:00"
-last-modified-jotform: "2021-10-24 11:51:46"
-last-exported: "2021-10-29 19:54:14"
+last-modified-jotform: "2021-10-30 14:39:18"
+last-exported: "2021-10-30 14:44:20"
 sitemap: false
 
 ---

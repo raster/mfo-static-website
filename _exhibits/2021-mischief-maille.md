@@ -6,7 +6,7 @@ slug: mischief-maille
 permalink: /exhibits/mischief-maille/
 exhibit-id: 21-25
 exhibit-zone: "Spirit"
-space-number: "SC36"
+space-number: "SE36"
 description: "Beautiful Chain Maille Jewelry for men and woman of all ages. "
 description-long: "Beautiful Chain Maille Jewelry, every piece is one of a kind and fully customizable.
 "
@@ -34,8 +34,8 @@ categories:
   - slug: jewelry
     name: Jewelry
 created-jotform: "2021-07-24 17:35:09"
-last-modified-jotform: "2021-10-29 22:33:50"
-last-exported: "2021-10-30 12:13:23"
+last-modified-jotform: "2021-10-30 13:47:59"
+last-exported: "2021-10-30 14:44:21"
 sitemap: false
 
 ---

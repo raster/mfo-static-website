@@ -6,6 +6,7 @@ slug: ionox-media
 permalink: /exhibits/ionox-media/
 exhibit-id: 21-131
 exhibit-zone: "Opportunity"
+space-number: "OA4"
 description: "IONOX Media offers a movie and pop culture inspired collection of hand made art and decorum. "
 description-long: "IONOX Media is a collection of works ranging throughout wood cut art, published literature, and resin made decorum.  Using skills learned through the Maker Space location in Orlando, we have turned what once was a pass time hobby, into a full time art business.  Innovation meets art as we experiment with mixed media decor."
 image: /assets/images/exhibit-images/21-131-exhibit-ionox-media-109154012-130315072076101-8366153197413782969-n-large.jpg
@@ -81,8 +82,8 @@ categories:
   - slug: laser-cutting-engraving
     name: Laser Cutting & Engraving
 created-jotform: "2021-09-06 22:53:54"
-last-modified-jotform: "2021-10-25 19:52:18"
-last-exported: "2021-10-29 19:54:11"
+last-modified-jotform: "2021-10-30 12:46:20"
+last-exported: "2021-10-30 14:44:15"
 sitemap: false
 
 ---

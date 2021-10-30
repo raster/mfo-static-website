@@ -6,6 +6,7 @@ slug: hoffman-engineering-and-3dprintlog-com
 permalink: /exhibits/hoffman-engineering-and-3dprintlog-com/
 exhibit-id: 21-98
 exhibit-zone: "Opportunity"
+space-number: "OC4"
 description: "Youtuber featuring 3D Printing and CAD, and developer of 3DPrintLog.com"
 description-long: "Hoffman Engineering is a youtube channel dedicated to 3D Printing, 3D Scanning, and Computer Aided Design. We also develop 3DPrintLog.com, a free website for makers to track their 3D prints and filament usage. With everything from cosplay props, animatronic pokemon, custom bobble heads, we share both our successes, and more importantly failures, with our community for other to learn from!"
 image: /assets/images/exhibit-images/21-98-exhibit-hoffman-engineering-and-3dprintlog-com-hoffmanengineeringtable-large.png
@@ -57,8 +58,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2021-08-26 19:53:25"
-last-modified-jotform: "2021-10-24 11:47:03"
-last-exported: "2021-10-29 19:54:12"
+last-modified-jotform: "2021-10-30 14:43:15"
+last-exported: "2021-10-30 14:44:18"
 sitemap: false
 
 ---

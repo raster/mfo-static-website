@@ -6,6 +6,7 @@ slug: maker-experience-in-korea
 permalink: /exhibits/maker-experience-in-korea/
 exhibit-id: 21-139
 exhibit-zone: "Opportunity"
+space-number: "OD10"
 description: "Maker culture, experience, connection and sharing in Korea with books, videos and souvenirs"
 description-long: "This exhibition introduces 3D printed souvenirs along with books and videos that summarize my activities at the Maker Faire every year in Korea since 2014. Through this, I think that you will be able to better understand the Korean maker culture and help to communicate with global makers. Korean maker videos and activities are translated into English. I plan to give maker souvenirs and materials made with 3D printing. These resources include an introduction to Korean maker culture and makerspaces, as well as DIY methods for more than 10 works that I have exhibited and worked with my family."
 image: /assets/images/exhibit-images/21-139-exhibit-maker-experience-in-korea-img-2889-large.JPG
@@ -73,8 +74,8 @@ categories:
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2021-09-20 09:35:32"
-last-modified-jotform: "2021-10-24 12:32:29"
-last-exported: "2021-10-29 19:54:10"
+last-modified-jotform: "2021-10-30 12:28:39"
+last-exported: "2021-10-30 14:44:15"
 sitemap: false
 
 ---

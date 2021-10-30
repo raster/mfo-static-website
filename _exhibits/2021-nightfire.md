@@ -6,6 +6,7 @@ slug: nightfire
 permalink: /exhibits/nightfire/
 exhibit-id: 21-61
 exhibit-zone: "Opportunity"
+space-number: "OA7"
 description: "Makers of hobby kits and crafts, 3D printing, resin molding."
 description-long: "We provide the necessary parts to make your own electronic hobby kits. We also provide 3D printing supplies and resin jewelry parts."
 image: /assets/images/exhibit-images/21-61-exhibit-nightfire-20150814-175332-large.jpg
@@ -32,8 +33,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2021-08-09 10:02:16"
-last-modified-jotform: "2021-10-24 11:52:43"
-last-exported: "2021-10-29 19:54:20"
+last-modified-jotform: "2021-10-30 14:22:50"
+last-exported: "2021-10-30 14:44:20"
 sitemap: false
 
 ---
