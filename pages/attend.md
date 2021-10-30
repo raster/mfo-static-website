@@ -81,6 +81,9 @@ Please see our [Educators page](/educators) for more information.
 
 **First Responders, Active Military and Veterans receive free admission** to Maker Faire Orlando 2021 with identification. Simply bring your identification to the ticket booth at the event to receive a free ticket per eligible person with identification.
 
+**Anti-Harassment Policy** Maker Faire Orlando has a zero-tolerance policy for harassment of any kind. Please see our [Anti-Harassment Policy](/anti-harassment) for more information.
+
+---
 
 **Questions? Email <tickets@makerfaireorlando.com>**
 
