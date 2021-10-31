@@ -6,7 +6,7 @@ slug: tampa-hackerspace
 permalink: /exhibits/tampa-hackerspace/
 exhibit-id: 21-83
 exhibit-zone: "Opportunity"
-space-number: "OE3"
+space-number: "OD3"
 description: "Tampa Hackerspace members&#039; projects and creations"
 description-long: "Tampa Hackerspace is the longest running Hackerspace/Makerspace in the Greater Tampa Bay Area. We have a vast array of tools including but not limited to: 3D Printers, Laser Cutters, 4x8 Shopbot, Machine Shop, Wood Shop and more, so please come check out our booth and talk to our members! We provide equipment, classes, and mentoring for many types of projects. Some of the projects our members work on: aquaponics, robotics, Arduino, Raspberry Pi, Internet of Things (IoT), electronics, ham / amateur radio, wearable electronics, home automation, microcontrollers, quadcopters, satellites, metal machining, Bitcoin and other alternate exchanges, computer security, photography, sewing, remote controlled aircraft, LED lighting, cosplay, steampunk, video and arcade gaming, 3D printing, art, etc."
 image: /assets/images/exhibit-images/21-83-exhibit-tampa-hackerspace-tampa-hackerspace-2048-transparent-border-1024x1024-large.png
@@ -71,8 +71,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-08-19 15:26:37"
-last-modified-jotform: "2021-10-30 14:42:58"
-last-exported: "2021-10-30 14:44:19"
+last-modified-jotform: "2021-10-30 14:46:00"
+last-exported: "2021-10-30 22:54:35"
 sitemap: false
 
 ---

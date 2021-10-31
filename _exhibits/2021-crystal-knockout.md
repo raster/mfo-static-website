@@ -6,6 +6,7 @@ slug: crystal-knockout
 permalink: /exhibits/crystal-knockout/
 exhibit-id: 21-33
 exhibit-zone: "Opportunity"
+space-number: "OC22"
 description: "Crystal Knockout specializes in small-batch, handmade, vegan nail polish in a variety of finishes."
 description-long: "Crystal Knockout specializes in small-batch, handmade, vegan nail polish in a variety of colors and finishes. One of our most popular creations is thermochromic nail polish that changes colors with temperature! We&#039;ve also begun making magnetic nail polish that can be manipulated with a neodymium magnet to create ripples and stripes. In addition to nail polish, we offer a selection of jewelry and resin creations that are created with the same pigments and glitters we use in our polish, as well as some hand and nail care items."
 image: /assets/images/exhibit-images/21-33-exhibit-crystal-knockout-img-6574a-large.jpg
@@ -74,8 +75,8 @@ categories:
   - slug: jewelry
     name: Jewelry
 created-jotform: "2021-07-27 19:23:05"
-last-modified-jotform: "2021-10-29 23:33:26"
-last-exported: "2021-10-30 12:13:23"
+last-modified-jotform: "2021-10-30 22:40:02"
+last-exported: "2021-10-30 22:54:36"
 sitemap: false
 
 ---

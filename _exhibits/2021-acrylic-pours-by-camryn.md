@@ -6,6 +6,7 @@ slug: acrylic-pours-by-camryn
 permalink: /exhibits/acrylic-pours-by-camryn/
 exhibit-id: 21-110
 exhibit-zone: "Opportunity"
+space-number: "OG9"
 description: "This exhibit includes fluid art paintings in a variety of colors and styles."
 description-long: "This exhibit includes several fluid art paintings in different sizes, styles, and colors. Additionally, some if the paintings are covered in resin or have add-ons attached."
 image: /assets/images/exhibit-images/21-110-exhibit-acrylic-pours-by-camryn-20210830-203845-large.jpg
@@ -63,8 +64,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-30 21:13:02"
-last-modified-jotform: "2021-10-24 12:24:38"
-last-exported: "2021-10-29 19:54:12"
+last-modified-jotform: "2021-10-30 15:07:47"
+last-exported: "2021-10-30 22:54:33"
 sitemap: false
 
 ---

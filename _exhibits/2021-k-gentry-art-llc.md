@@ -6,6 +6,7 @@ slug: k-gentry-art-llc
 permalink: /exhibits/k-gentry-art-llc/
 exhibit-id: 21-48
 exhibit-zone: "Opportunity"
+space-number: "OE22"
 description: "I showcase and produce series of character art prints, canvases, and character art books. "
 description-long: "I produce collectible series of character art prints, canvases, art books, and original character sketches for sale.  One series, Monty! The Unfortunate Octopus is interactive for your wall and highly collectible at shows. "
 image: /assets/images/exhibit-images/21-48-exhibit-k-gentry-art-llc-90533dbd-fac6-4a79-bd10-bbdfb99f630b-large.jpeg
@@ -36,8 +37,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-08-04 23:20:12"
-last-modified-jotform: "2021-10-24 12:29:04"
-last-exported: "2021-10-29 19:54:20"
+last-modified-jotform: "2021-10-30 15:15:04"
+last-exported: "2021-10-30 22:54:36"
 sitemap: false
 
 ---

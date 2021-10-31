@@ -6,6 +6,7 @@ slug: ornaments-of-the-world
 permalink: /exhibits/ornaments-of-the-world/
 exhibit-id: 21-119
 exhibit-zone: "Opportunity"
+space-number: "OG4"
 description: "Flags of the world in ornament form."
 description-long: "Miss Business means business. She wanted to make a product for everyone. She did not want anyone to be left out. So she learned about all the countries of the world and made a product for each. Miss Business loves meeting new people. Where are you from?"
 image: /assets/images/exhibit-images/21-119-exhibit-ornaments-of-the-world-exhibit-photo5-large.jpg
@@ -42,8 +43,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-31 22:16:04"
-last-modified-jotform: "2021-10-25 19:53:48"
-last-exported: "2021-10-29 19:54:11"
+last-modified-jotform: "2021-10-30 15:07:23"
+last-exported: "2021-10-30 22:54:33"
 sitemap: false
 
 ---

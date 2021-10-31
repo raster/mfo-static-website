@@ -6,6 +6,7 @@ slug: bindman-art-cardboard-creations
 permalink: /exhibits/bindman-art-cardboard-creations/
 exhibit-id: 21-156
 exhibit-zone: "Opportunity"
+space-number: "OC21"
 description: "3D art pieces and sculptures made out of recycled cardboard "
 description-long: "Bindman creates vignettes using cardboard and canvas, making 3D pieces that pop off their bases. Common themes are carnivals, funhouses, robots, and various fan art "
 image: /assets/images/exhibit-images/21-156-exhibit-bindman-art-cardboard-creations-20210929-181144-large.jpg
@@ -49,8 +50,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2021-09-29 18:22:36"
-last-modified-jotform: "2021-10-30 14:41:42"
-last-exported: "2021-10-30 14:44:13"
+last-modified-jotform: "2021-10-30 22:39:47"
+last-exported: "2021-10-30 22:54:31"
 sitemap: false
 
 ---

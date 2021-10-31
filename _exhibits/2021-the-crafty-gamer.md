@@ -6,6 +6,7 @@ slug: the-crafty-gamer
 permalink: /exhibits/the-crafty-gamer/
 exhibit-id: 21-34
 exhibit-zone: "Opportunity"
+space-number: "OG7"
 description: "A group of adventurers who decided to go on a journey to create tabletop inspired merchandise."
 description-long: "We hand pour soy candles, wax melts, reed diffusers and room sprays that are meant to enhance immersion while enjoying tabletop games such as Dungeons & Dragons. Our group also creates laser engraved coasters and key chains, dice bags, d20 soaps and stickers."
 image: /assets/images/exhibit-images/21-34-exhibit-the-crafty-gamer-banner-large.jpg
@@ -35,8 +36,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2021-07-28 01:48:58"
-last-modified-jotform: "2021-10-24 12:28:46"
-last-exported: "2021-10-29 19:54:21"
+last-modified-jotform: "2021-10-30 15:10:42"
+last-exported: "2021-10-30 22:54:36"
 sitemap: false
 
 ---
