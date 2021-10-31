@@ -6,7 +6,7 @@ slug: b-k-magnificent-miniatures
 permalink: /exhibits/b-k-magnificent-miniatures/
 exhibit-id: 21-78
 exhibit-zone: "Spirit"
-space-number: "SE32"
+space-number: "SG32"
 description: "Printed and painted miniature -- terrain Dungeons & Dragons Star Wars"
 description-long: "will show printers used to make miniatures and how to prime and paint them sell both painted and unpainted miniatures"
 image: /assets/images/exhibit-images/21-78-exhibit-b-k-magnificent-miniatures-074-large.JPG
@@ -36,8 +36,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2021-08-17 18:54:52"
-last-modified-jotform: "2021-10-30 19:18:30"
-last-exported: "2021-10-30 22:54:35"
+last-modified-jotform: "2021-10-30 22:57:57"
+last-exported: "2021-10-31 09:08:33"
 sitemap: false
 
 ---

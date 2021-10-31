@@ -57,7 +57,7 @@ def getYouTubeEmbed (url):
   if (response.text=="Not Found"):
     return None
   rjson = response.json()
-  print (rjson["html"])
+  #print (rjson["html"])
   return rjson["html"]
 
 #output csv file from list
@@ -304,9 +304,6 @@ def export(outputAll):
 
           exhibitVideo    = getAnswerByName(ans,"exhibitYouTube")
 
-          if exhibitVideo is not None:
-            exhibitVideoEmbed = getYouTubeEmbed(exhibitVideo)
-
           exhibitWebsite  = getAnswerByName(ans,"exhibitWebsite")
           makerName       = getAnswerByName(ans,"makerName")
           makerDesc       = getAnswerByName(ans,"makerDesc")
@@ -331,7 +328,10 @@ def export(outputAll):
             for sn in snList:
               #todo: get fee details to append in the sEID field
               sn = sn.strip().upper()
-              sEID = sn + "\\" + "\\" + exhibitName + "\\" + "\\"  + mfoID
+              if (exhibitName != makerName):
+                sEID = sn + " : " + mfoID + "\\" + "\\" + exhibitName[0:20] + "\\" + "\\" + makerName[0:20]
+              else:
+                sEID = sn + " : " + mfoID + "\\" + "\\" + exhibitName[0:40]
               sEX = sn + "\\" + "\\" + exhibitName
               sEM = sn + "\\" + "\\" + exhibitName + "\\" + "\\" + makerName
               sE = exhibitName
@@ -377,6 +377,10 @@ def export(outputAll):
 
             countExport = countExport+1
             print("Exporting: " + fName)
+
+            #get YouTube embed but only if we are updating the file!
+            if exhibitVideo is not None:
+              exhibitVideoEmbed = getYouTubeEmbed(exhibitVideo)
 
             outfile = open(fName, "w")
             outfile.write("---\n")
@@ -498,6 +502,10 @@ def export(outputAll):
     csvrowS = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
     csvrowO = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
 
+    unow = datetime.datetime.now()
+    updated = unow.strftime("%Y-%m-%d-%-H:%M:%S")
+    updatedList = ["updated", updated, updated, updated, updated]
+
     for spc in spaceplanList:
       for row in range (0,5):
         #split by building
@@ -507,6 +515,12 @@ def export(outputAll):
           csvrowS[row].append(spc[row])
         elif spc[0][0] == "O":
           csvrowO[row].append(spc[row])
+
+    #add update time to end
+    for urow in range (0,5):
+      csvrowC[urow].append(updatedList[urow])
+      csvrowS[urow].append(updatedList[urow])
+      csvrowO[urow].append(updatedList[urow])
 
     writeCSVFile("curiosity.csv", csvrowC);
     writeCSVFile("spirit.csv", csvrowS);
