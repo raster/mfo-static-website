@@ -6,7 +6,7 @@ slug: a-skewed-view-3d
 permalink: /exhibits/a-skewed-view-3d/
 exhibit-id: 21-53
 exhibit-zone: "Opportunity"
-space-number: "OA11"
+space-number: "OA12"
 description: "We will be showing off some of our latest 3d fanart designs we have modeled &amp; 3d printed. "
 description-long: "We will be bringing several of our original fan art designs based on video games, movies, etc that my sons and I enjoy together. We will be bringing a 3d printed house we have textured and finished. We will be bringing a digital picture frame or two to run pics of 3d renders we have done. We will also be bringing our tablet to showcase some full 3d architecture video presentations we have done recently. We will be discussing all of the mentioned above with any and all visitors to OMF. We are stoked to be back at OMF and look forward to seeing everyone there. God bless"
 image: /assets/images/exhibit-images/21-53-exhibit-a-skewed-view-3d-img-20210822-114534-large.jpg
@@ -67,8 +67,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2021-08-05 12:26:52"
-last-modified-jotform: "2021-10-30 12:36:41"
-last-exported: "2021-10-31 09:08:34"
+last-modified-jotform: "2021-11-01 22:04:00"
+last-exported: "2021-11-02 08:09:34"
 sitemap: false
 
 ---

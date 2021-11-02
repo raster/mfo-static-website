@@ -6,7 +6,7 @@ slug: takeapart
 permalink: /exhibits/takeapart/
 exhibit-id: 21-70
 exhibit-zone: "Curiosity"
-space-number: "CA6, CA5, CA4, CB5, CB4, CA3, CB3"
+space-number: "CA6, CA5, CA4, CB5, CB4, CA3, CB3, CB6"
 description: "Take apart used electronics down to their bare components! Presented by Orlando Science Center!"
 description-long: "Have you ever looked inside a tape deck? Have you ever unwrapped a hard drive? Come learn about different tools and the inner workings of used electronics as you take them down to their bare components! The makers from The Hive: A Makerspace at the Orlando Science Center are here to provide the tools and the know-how to feed your appetite for structured, methodical destruction!"
 image: /assets/images/exhibit-images/21-70-exhibit-takeapart-maker-268-1024x684-1024x684-large.jpg
@@ -42,8 +42,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2021-08-12 15:10:53"
-last-modified-jotform: "2021-10-30 23:27:14"
-last-exported: "2021-10-31 09:08:34"
+last-modified-jotform: "2021-11-01 19:14:34"
+last-exported: "2021-11-02 08:09:34"
 sitemap: false
 
 ---

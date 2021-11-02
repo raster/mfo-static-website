@@ -6,7 +6,7 @@ slug: tinkering-turtle-crafts
 permalink: /exhibits/tinkering-turtle-crafts/
 exhibit-id: 21-100
 exhibit-zone: "Opportunity"
-space-number: "OA6"
+space-number: "OA8"
 description: "Display of various crafts including handmade paper flower shadow boxes, resin pieces, cups."
 description-long: "Various crafted items including but not limited to paper shadow boxes, resin pieces, keychains, pens, magnets, rhinestone work, crochet and cups."
 image: /assets/images/exhibit-images/21-100-exhibit-tinkering-turtle-crafts-43-tinkering-turtle-crafts-8166-large.jpg
@@ -85,8 +85,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2021-08-27 12:10:40"
-last-modified-jotform: "2021-10-31 10:48:17"
-last-exported: "2021-10-31 12:03:08"
+last-modified-jotform: "2021-11-01 22:03:11"
+last-exported: "2021-11-02 08:09:33"
 sitemap: false
 
 ---

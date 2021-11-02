@@ -6,7 +6,7 @@ slug: queenscove-creative-the-art-of-l-jason-queen
 permalink: /exhibits/queenscove-creative-the-art-of-l-jason-queen/
 exhibit-id: 21-24
 exhibit-zone: "Opportunity"
-space-number: "OG5"
+space-number: "OD21"
 description: "My exhibit includes original traditionally painted art, cards, prints, books, and leather creations."
 description-long: "QueensCove Creative exhibits original traditional painted art, art prints, books, and leather creations. I display originally created art that has been commissioned or included in the numerous art books in which I have been published. If available I have officially licensed Topps sketch cards for sale that I have created for the Topps company. These for the most part are licensed by Lucasfilm for Star Wars but I&#039;ve also created for Nickelodeon and the Teenage Mutant Ninja Turtle Franchise as well as Netflix&#039;s Stranger Things franchise. My leathercraft displays my love of history and film lore. Most recently I am creating a fully wearable and functional Rider of Rohan armor set inspired by the Lord of the Rings films. "
 image: /assets/images/exhibit-images/21-24-exhibit-queenscove-creative-the-art-of-l-jason-queen-artsetup-large.jpg
@@ -41,8 +41,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-07-24 17:12:30"
-last-modified-jotform: "2021-10-30 15:17:17"
-last-exported: "2021-10-31 09:08:35"
+last-modified-jotform: "2021-11-01 22:02:02"
+last-exported: "2021-11-02 08:09:34"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: cosplay-3d-printing-and-you
 permalink: /exhibits/cosplay-3d-printing-and-you/
 exhibit-id: 21-77
 exhibit-zone: "Spirit"
-space-number: "SE27"
+space-number: "SE28"
 description: "Making 3D printing not so scary for cosplayers! "
 description-long: "Want to learn more about 3D printing pieces for Cosplay? Did you purchase a 3D printed piece, but are confused about how to assemble it, or how to finish it? Hopefully this exhibit will help you in your exciting journey in learning how to optimizing 3D printed pieces for Cosplay!"
 image: /assets/images/exhibit-images/21-77-exhibit-cosplay-3d-printing-and-you-221-large.jpg
@@ -44,8 +44,8 @@ categories:
   - slug: education
     name: Education
 created-jotform: "2021-08-17 00:46:03"
-last-modified-jotform: "2021-10-29 22:28:51"
-last-exported: "2021-10-31 09:08:33"
+last-modified-jotform: "2021-11-01 21:54:12"
+last-exported: "2021-11-02 08:09:34"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: duinokit-inspire-and-invent
 permalink: /exhibits/duinokit-inspire-and-invent/
 exhibit-id: 21-136
 exhibit-zone: "Opportunity"
-space-number: "OA3"
+space-number: "OA7"
 description: "Kits to learn about Arduino based microprocessors, coding and electronics."
 description-long: "DuinoKit started as a KickStarter project and now hosting several new learning kits and a new online classroom is coming soon."
 image: /assets/images/exhibit-images/21-136-exhibit-duinokit-inspire-and-invent-avatar-kit-large.jpg
@@ -41,8 +41,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2021-09-17 08:38:27"
-last-modified-jotform: "2021-10-30 12:46:44"
-last-exported: "2021-10-31 09:08:30"
+last-modified-jotform: "2021-11-01 21:58:41"
+last-exported: "2021-11-02 08:09:33"
 sitemap: false
 
 ---

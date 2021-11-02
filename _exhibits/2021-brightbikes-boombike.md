@@ -27,8 +27,8 @@ additional-images:
     large: /assets/images/exhibit-images/21-180-exhibit-addl2-brightbikes-boombike-img-3226-large.jpg
     full: /assets/images/exhibit-images/21-180-exhibit-addl2-brightbikes-boombike-img-3226-full.jpg
 website: "https://www.brightbikes.org/boombike"
-video: "https://www.youtube.com/watch?v=bVJBNmhk4Js"
-video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/bVJBNmhk4Js?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+video: "https://www.youtube.com/watch?v=z4a22uanFdU"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/z4a22uanFdU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 maker: 
   name: "MakerFX Makerspace"
   description: "MakerFX Makerspace - A community makerspace located in Orlando, FL with the tools, resources and community to help you bring your idea to life!"
@@ -49,7 +49,7 @@ categories:
     name: Makerspace
 created-jotform: "2021-10-21 07:47:30"
 last-modified-jotform: "2021-10-28 05:50:53"
-last-exported: "2021-10-31 09:08:28"
+last-exported: "2021-11-02 08:15:43"
 sitemap: false
 
 ---
