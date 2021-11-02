@@ -6,7 +6,7 @@ slug: pinball-machine
 permalink: /exhibits/pinball-machine/
 exhibit-id: 21-183
 exhibit-zone: "Opportunity"
-space-number: "OA1, OB1, OC1"
+space-number: "OA1, OB1, OC1, OA2, OA3"
 description: "A pin ball machine that everyone can play and have fun with. "
 description-long: "The pinball machine in which a ball careens around the machine&#039;s interior, hitting various lights, bumpers, ramps, and other targets was made  inhouse at Boca Bearings. https://www.bocabearings.com/blogs/instructables-pinball-machine"
 image: /assets/images/exhibit-images/21-183-exhibit-pinball-machine-pinball-large.jpg
@@ -37,8 +37,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2021-10-22 10:38:58"
-last-modified-jotform: "2021-10-30 11:25:55"
-last-exported: "2021-10-31 09:08:27"
+last-modified-jotform: "2021-11-01 21:57:58"
+last-exported: "2021-11-02 08:09:27"
 sitemap: false
 
 ---

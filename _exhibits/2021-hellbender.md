@@ -8,13 +8,13 @@ exhibit-id: 21R-35
 exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: ""
 description: "Hellbender is a 12 pound hobbyweight combat robot.  "
-description-long: "Hellbender is a 12 pound hobbyweight combat robot.  Its primary weapon is a 4 inch vertical steel drum spinning over 8000 rpm."
-image: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-large.jpg
+description-long: "Hellbender is a 12 pound hobbyweight combat robot.  Its primary weapon is a 4 inch asymmetrical eggbeater spinning over 5000 rpm."
+image: /assets/images/exhibit-images/21R-35-exhibit-hellbender-hellbender-large.png
 image-primary: 
-  small: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-small.jpg
-  medium: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-medium.jpg
-  large: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-large.jpg
-  full: /assets/images/exhibit-images/21R-35-exhibit-hellbender-robot-full.jpg
+  small: /assets/images/exhibit-images/21R-35-exhibit-hellbender-hellbender-small.png
+  medium: /assets/images/exhibit-images/21R-35-exhibit-hellbender-hellbender-medium.png
+  large: /assets/images/exhibit-images/21R-35-exhibit-hellbender-hellbender-large.png
+  full: /assets/images/exhibit-images/21R-35-exhibit-hellbender-hellbender-full.png
 maker: 
   name: "Team Hellbender"
   description: "Team Hellbender was founded in 2021 by Ross Hutto. So far all we have accomplished is burning up speed controllers and 3d printing things that don&#039;t work. "
@@ -23,8 +23,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-08-08 17:14:59"
-last-modified-jotform: "2021-08-25 20:17:06"
-last-exported: "2021-10-31 09:08:23"
+last-modified-jotform: "2021-10-31 21:24:42"
+last-exported: "2021-11-02 08:09:24"
 sitemap: false
 
 ---

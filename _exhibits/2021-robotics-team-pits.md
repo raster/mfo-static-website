@@ -18,7 +18,7 @@ image-primary:
 maker: 
   name: "Repeat Robotics"
   description: "Repeat Robotics is a combat robotics team that is bringing a beetleweight robot to compete at Robot Ruckus"
-  image-primary: /assets/images/exhibit-images/21R-73-maker-robotics-team-pits-repeat-headers-bar-medium.png
+  image-primary: /assets/images/exhibit-images/21R-73-maker-robotics-team-pits-ablation-hero-medium.jpg
   website: http://repeat-robotics.com
   instagram: https://www.instagram.com/repeatrobotics/
   youtube: https://www.youtube.com/channel/ucjyh9vnm-xwonhr3vhhr5bg
@@ -26,8 +26,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-10-26 10:33:52"
-last-modified-jotform: "2021-10-31 12:01:44"
-last-exported: "2021-10-31 12:03:00"
+last-modified-jotform: "2021-11-01 18:01:52"
+last-exported: "2021-11-02 08:09:22"
 sitemap: false
 
 ---
