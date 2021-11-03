@@ -28,9 +28,9 @@ By purchasing a ticket to Maker Faire Orlando online by November 12th, 2021, you
 ![3D Printer giveaway](/assets/images/deltamaker-giveaway.jpg)
 
 ---
-## Maker Faire Orlando 2021
+## Maker Faire Orlando 2021 + Robot Ruckus Tournament
 
-Saturday, November 13th & Sunday, November 14th
+Saturday, November 13th & Sunday, November 14th  10AM to 5PM Both Days
 
 Central Florida Expo Center & Fairgrounds
 4603 W Colonial Dr, Orlando, FL 32808
@@ -39,7 +39,7 @@ Central Florida Expo Center & Fairgrounds
 
 Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
 
-
+Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https://ruckusvip.eventbrite.com) after hours on Saturday, November 13th.
 ---
 
 <div id="eventbrite-widget-container-164640154133"></div>
@@ -65,6 +65,7 @@ Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
 
 
 ---
+
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
