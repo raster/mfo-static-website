@@ -66,7 +66,7 @@ Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https:
 
 
 ---
-For more information on the [R]obot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://ruckusvip.eventbrite.com) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org]
+For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://ruckusvip.eventbrite.com) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org]
 ___
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
