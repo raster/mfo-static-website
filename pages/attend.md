@@ -40,6 +40,7 @@ Central Florida Expo Center & Fairgrounds
 Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
 
 Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https://ruckusvip.eventbrite.com) after hours on Saturday, November 13th.
+
 ---
 
 <div id="eventbrite-widget-container-164640154133"></div>
