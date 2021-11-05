@@ -18,7 +18,7 @@ carousel-slides:
 scrolltop: true
 ---
 
-# Attend Maker Faire Orlando 2021
+# Attend Maker Faire Orlando 2021 - Nov 13th & 14th
 Maker Faire Orlando is a non-profit, community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It’s an event where people show what they are making and share what they are learning. The individuals behind these exhibits are known as “Makers” and they range from tech enthusiasts to crafters to homesteaders to scientists to garage tinkerers. They are of all ages and backgrounds. The aim of Maker Faire is to entertain, inform, connect and grow this community.
 
 ---
