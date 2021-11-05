@@ -2,11 +2,12 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 21-180 #boombike
-  - exhibit-id: 21-147 #laser
-  - exhibit-id: 21-144 #void modular - synth
-  - exhibit-id: 21-143  #czartronics
-    
+  - exhibit-id: 21-145 #miga
+  - exhibit-id: 21-156 #Bindman
+  - exhibit-id: 21-132 #tylted
+  - exhibit-id: 21-75  #michael mcelroy
+
+
 
 
 #  - exhibit-id: 21-48 #k gentry art
