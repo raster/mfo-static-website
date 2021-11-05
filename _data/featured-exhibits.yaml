@@ -2,7 +2,7 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 21-145 #miga
+  - exhibit-id: 21-115 #ankita
   - exhibit-id: 21-156 #Bindman
   - exhibit-id: 21-132 #tylted
   - exhibit-id: 21-118 #Boudica Press
