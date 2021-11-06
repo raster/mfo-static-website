@@ -8,7 +8,8 @@ for (const param of params) {
 
 var cat = params.get('category')
 console.log(cat);
-var initFilter = ':not(.combat-robots)';
+var initFilter ='';
+//var initFilter = ':not(.combat-robots)';
 if (cat) {
   initFilter = '.' + cat;
   jQuery('.filters-select').val('.' + cat);
