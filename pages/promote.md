@@ -62,7 +62,7 @@ Looking for photos of Maker Faire Orlando? Check out the [Maker Faire Orlando F
 
 ---
 
-Facebook Cover Photo
+### Facebook Cover Photo
 
 <a href="/assets/images/site-branding/2021/MFO2021-FB-header-v2.png"><img src="/assets/images/site-branding/2021/MFO2021-FB-header-v2.png" alt="Maker Faire Orlando facebook cover photo" width="600"/></a>
 
