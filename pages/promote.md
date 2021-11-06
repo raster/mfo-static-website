@@ -60,6 +60,14 @@ Poster image is linked to high-res PDF.
 
 Looking for photos of Maker Faire Orlando? Check out the [Maker Faire Orlando Flickr group](https://www.flickr.com/groups/makerfaireorlando/ "Maker Faire Orlando on Flickr"). If you have photos of Maker Faire Orlando, please share them with us by joining the Flickr group, or [Email us](mailto:makers@makerfaireorlando.com) if you would transfer them using a different method.
 
+---
+
+Facebook Cover Photo
+
+<a href="/assets/images/site-branding/2021/MFO2021-FB-header-v2.png"><img src="/assets/images/site-branding/2021/MFO2021-FB-header-v2.png" alt="Maker Faire Orlando facebook cover photo" width="600"/></a>
+
+---
+
 Logos
 -----
 
