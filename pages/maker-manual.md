@@ -30,7 +30,7 @@ These details should not change, however we recommend checking this page in the 
 ## Load-in & Load-out
 ### Load-in Times
 * General load-in is on Friday from 10AM to 8PM (completed by 8PM please, not arriving at 8PM).
-* Saturday load-in is from 8AM to 9AM. Makers arriving after 8:30AM will need to park in general parking and bring their items in. Makers arriving late adds a lot of stress for the maker and for our crew. Please arrive before 8:30AM if you need to unload as the parking area becomes quite conjested after this point.
+* Saturday load-in is from 8AM to 9AM. Makers arriving after 8:30AM will need to park in general parking and bring their items in. Makers arriving late adds a lot of stress for the maker and for our crew. Please arrive before 8:30AM if you need to unload as the parking area becomes quite congested after this point.
 * On Sunday, exhibitors can arrive at 9AM, park in general parking and all exhibits should be ready for opening at 9:45AM.
 
 **We STRONGLY advise Friday setup.** If something is wrong, we can likely fix it on Friday. If you don’t arrive until Saturday morning, we have very limited ability to fix any issues. Friday night is also a GREAT time to meet other makers and to connect with your neighboring makers before the crowd arrives at the Maker Mixer (see below)!
