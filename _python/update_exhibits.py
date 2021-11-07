@@ -29,7 +29,6 @@ import datetime
 import os.path
 from os import path
 
-
 #settings
 eventYear = 2021
 formCFM = "Call For Makers MFO2021"
@@ -495,17 +494,66 @@ def export(outputAll):
             outfile.write("\n---\n")
             outfile.close()
 
+
     #output our illustrator space plan file
+
+    #order the list
+
+    spaceplanList = sorted(spaceplanList, key=lambda x:x[0])
     #print (spaceplanList)
 
+    #init the rows
     csvrowC = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
     csvrowS = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
     csvrowO = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+
+    #add blank spaces
+    cRows = ['A','B','C','D','E','F','G','H','I','J']
+    sRows = ['A','B','C','D','E','F','G','H','I','J','K','L']
+    oRows = ['A','B','C','D','E','F','G']
+    cNumCols = 6
+    sNumCols = 36
+    oNumCols = 29
+
+    for curRow in cRows:
+      for curCol in range(1,cNumCols + 1):
+        curSpace = "C" + curRow + str(curCol)
+
+        if any(e[0] == curSpace for e in spaceplanList) is False:
+          csvrowC[0].append(curSpace)
+          csvrowC[1].append("")
+          csvrowC[2].append("")
+          csvrowC[3].append("")
+          csvrowC[4].append("")
+
+    for curRow in sRows:
+      for curCol in range(1,sNumCols + 1):
+        curSpace = "S" + curRow + str(curCol)
+
+        if any(e[0] == curSpace for e in spaceplanList) is False:
+          csvrowS[0].append(curSpace)
+          csvrowS[1].append("")
+          csvrowS[2].append("")
+          csvrowS[3].append("")
+          csvrowS[4].append("")
+
+    for curRow in oRows:
+      for curCol in range(1,oNumCols + 1):
+        curSpace = "O" + curRow + str(curCol)
+
+        if any(e[0] == curSpace for e in spaceplanList) is False:
+          csvrowO[0].append(curSpace)
+          csvrowO[1].append("")
+          csvrowO[2].append("")
+          csvrowO[3].append("")
+          csvrowO[4].append("")
 
     unow = datetime.datetime.now()
     updated = unow.strftime("%Y-%m-%d-%-H:%M:%S")
     updatedList = ["updated", updated, updated, updated, updated]
 
+
+    #output by iterating the spaces
     for spc in spaceplanList:
       for row in range (0,5):
         #split by building
@@ -525,9 +573,6 @@ def export(outputAll):
     writeCSVFile("curiosity.csv", csvrowC);
     writeCSVFile("spirit.csv", csvrowS);
     writeCSVFile("opportunity.csv", csvrowO);
-
-
-
 
 
     #todo: count regular CFM vs Ruckus CFM separately and also give total
