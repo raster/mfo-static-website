@@ -35,4 +35,4 @@ You can register for open volunteer shifts by scrolling to the list of available
 ---
 ### Volunteer Shifts
 
-<iframe id="advanced_iframe" name="advanced_iframe" src="https://themakereffect.secure.force.com/volunteers/GW_Volunteers__VolunteersJobListingFS?ShowSkills=1&amp;ShowDescription=1&amp;ShowShifts=1" width="100%" height="2000" scrolling="auto" frameborder="0" allowtransparency="true" style=";width:100%;height:2000px;"></iframe>
+<iframe id="advanced_iframe" name="advanced_iframe" src="https://themakereffect.secure.force.com/volunteers/GW_Volunteers__VolunteersJobListingFS?ShowSkills=1&amp;ShowDescription=1&amp;ShowShifts=1" width="100%" height="2500" scrolling="auto" frameborder="0" allowtransparency="true" style=";width:100%;height:2000px;"></iframe>
