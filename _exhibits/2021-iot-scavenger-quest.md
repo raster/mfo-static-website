@@ -25,7 +25,7 @@ additional-images:
     medium: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-medium.jpg
     large: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-large.jpg
     full: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-full.jpg
-website: "https://docs.google.com/presentation/d/1BAficsWjdpYvO6A65L76i_Ho7n67y7Vp_XWqVrVBWbs/edit?usp=sharing"
+website: "https://docs.google.com/presentation/d/1BAficsWjdpYvO6A65L76i_Ho7n67y7Vp_XWqVrVBWbs/present"
 maker: 
   name: "Valencia College Embedded Workshop"
   description: "Faculty, students, and community members working and learning together about electronics, software and IoT/embedded microprocessor systems and applications."
@@ -43,8 +43,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2021-07-26 19:45:27"
-last-modified-jotform: "2021-11-07 17:04:56"
-last-exported: "2021-11-07 18:22:41"
+last-modified-jotform: "2021-11-07 20:33:23"
+last-exported: "2021-11-07 21:55:08"
 sitemap: false
 
 ---
