@@ -14,7 +14,7 @@ topnav:
       - page: Event Schedule
         url: /schedule/
       - page: Hands-On Workshops
-        url: /makers/?category=workshop
+        url: /makers/?category=hands-on-workshop
       - page: Power Racing Series
         url: /power-racing/
       - page: Robot Ruckus
