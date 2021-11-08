@@ -13,22 +13,23 @@ description-long: "Visiting Maker Faire? Document your travels through Maker Fai
 Are you an exhibitor and would you like to host an IoT Scavenger Quest Station? As an exhibitor all you have to do to host a station is agree is to let us put the station somewhere in your booth accessible to the public  
 
 Also keep an eye out for nodes in other fun locations as well.  We&#039;re hoping that the Scavenger Quest will encourage folks to roam more widely around Maker Faire, and bring them into contact with more exhibitors. "
-image: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-large.jpg
+image: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-scavengerhunt2021-large.jpg
 image-primary: 
-  small: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-small.jpg
-  medium: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-medium.jpg
-  large: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-large.jpg
-  full: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-new-makerfaire-box-full.jpg
+  small: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-scavengerhunt2021-small.jpg
+  medium: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-scavengerhunt2021-medium.jpg
+  large: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-scavengerhunt2021-large.jpg
+  full: /assets/images/exhibit-images/21-31-exhibit-iot-scavenger-quest-scavengerhunt2021-full.jpg
 additional-images: 
   - 1:
-    small: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-small.jpg
-    medium: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-medium.jpg
-    large: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-large.jpg
-    full: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-20211025-194601-full.jpg
+    small: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-small.jpg
+    medium: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-medium.jpg
+    large: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-large.jpg
+    full: /assets/images/exhibit-images/21-31-exhibit-addl1-iot-scavenger-quest-small-scavenger-station-full.jpg
+website: "https://docs.google.com/presentation/d/1BAficsWjdpYvO6A65L76i_Ho7n67y7Vp_XWqVrVBWbs/edit?usp=sharing"
 maker: 
   name: "Valencia College Embedded Workshop"
   description: "Faculty, students, and community members working and learning together about electronics, software and IoT/embedded microprocessor systems and applications."
-  image-primary: /assets/images/exhibit-images/21-31-maker-iot-scavenger-quest-vc-primary-web-medium.jpg
+  image-primary: /assets/images/exhibit-images/21-31-maker-iot-scavenger-quest-18-scavengerhunt2021-42-medium.jpg
   youtube: https://www.youtube.com/channel/uchs9ih9xj-2upmsvrn-nrma
 categories: 
   - slug: arduino
@@ -42,8 +43,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2021-07-26 19:45:27"
-last-modified-jotform: "2021-10-29 23:23:03"
-last-exported: "2021-11-06 20:12:49"
+last-modified-jotform: "2021-11-07 17:04:56"
+last-exported: "2021-11-07 18:22:41"
 sitemap: false
 
 ---
