@@ -56,7 +56,7 @@ sitemap: false
       </td>
     </tr>
   </table>
-  <div style="padding:20px; text-align:right; margin-bottom:20px; font-family:lato; font-weight:bold; font-size:12px">{{exhibit.exhibit-zone}} - {{exhibit.space-number}} - ID:{{exhibit.exhibit-id}}</div>
+  <div style="padding:20px; text-align:right; margin-bottom:20px; font-family:lato; font-weight:bold; font-size:12px">{{exhibit.exhibit-zone}} {{exhibit.space-number}} - ID:{{exhibit.exhibit-id}}</div>
 
 </div>
 
