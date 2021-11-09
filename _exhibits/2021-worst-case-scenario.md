@@ -6,7 +6,7 @@ slug: worst-case-scenario
 permalink: /exhibits/worst-case-scenario/
 exhibit-id: 21R-59
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Worst Case Scenario, a 4-bar lifter/flipper combat robot. "
 description-long: "A bot whose name came about as its first competition drew closer. With dream-designs in mind, realistic compromises must always be made. It name isn&#039;t intimidating, because it isn&#039;t YOUR worst case scenario, its own design is the worst-case, time-crunch compromise of what we want to build, and had reasonable time to build. Behold, The mediocrity! 
 
@@ -26,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 21:46:17"
 last-modified-jotform: "2021-09-22 20:16:48"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

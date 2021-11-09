@@ -6,7 +6,7 @@ slug: millex-cnc
 permalink: /exhibits/millex-cnc/
 exhibit-id: 21-153
 exhibit-zone: "Outside"
-space-number:
+space-number: Unassigned
 description: "Millex CNC, the cnc that all makers have been waiting for!"
 description-long: "Millex CNC is a new startup willing to revolutionize the makers community, bringing the opportunity to welcome everyone. Our main goal is to provide you the tools to create freely within a budget.
 
@@ -60,7 +60,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-09-28 17:15:38"
 last-modified-jotform: "2021-11-03 14:17:51"
-last-exported: "2021-11-09 14:54:36"
+last-exported: "2021-11-09 15:13:07"
 sitemap: false
 
 ---

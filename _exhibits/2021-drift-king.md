@@ -6,7 +6,7 @@ slug: drift-king
 permalink: /exhibits/drift-king/
 exhibit-id: 21R-26
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Heavyweight combat robot fighting at robot Ruckus "
 description-long: "Heavyweight combat robot fighting at robot Ruckus "
 image: /assets/images/exhibit-images/21R-26-exhibit-drift-king-9a45f565-68ee-4e97-bdf6-2c1cfb41f43d-large.jpeg
@@ -30,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-30 15:05:20"
 last-modified-jotform: "2021-08-25 20:23:32"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

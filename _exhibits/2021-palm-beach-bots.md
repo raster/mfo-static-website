@@ -6,7 +6,7 @@ slug: palm-beach-bots
 permalink: /exhibits/palm-beach-bots/
 exhibit-id: 21R-47
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Home of insect bots Skylift, Rainbow Poison, Gallo 12 & it&#039;s little brother Baby beater. "
 description-long: "Home of insect bots Skylift, Rainbow Poison, Gallo 12 & it&#039;s little brother Baby beater. "
 image: /assets/images/exhibit-images/21R-47-exhibit-palm-beach-bots-skylift-large.JPG
@@ -30,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-22 13:14:42"
 last-modified-jotform: "2021-08-25 20:07:27"
-last-exported: "2021-11-09 14:54:31"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: captain-shrederator
 permalink: /exhibits/captain-shrederator/
 exhibit-id: 21-202
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number:
+space-number: Unassigned
 description: "Team LOGICOM&#039;s Battlebots 2021 Entry"
 description-long: "Team LOGICOM has been competing in robot combat events since 2001, appearing in every domestic televised robot combat TV show since then. Even competing in several international televised events such as: Robot Wars (UK), King of Bots (CN), and This is Fighting Robots! (CN)
 With over 20 years of combat robot experience – and over 30 years engineering experience – our team provides the highest quality competition possible with the biggest and most explosive hits on the show. All while being a household name of the sport. Videos of our fights online have amassed over 5 million views alone."
@@ -27,7 +27,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-11-07 02:41:32"
 last-modified-jotform: "2021-11-07 11:16:54"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:06"
 sitemap: false
 
 ---

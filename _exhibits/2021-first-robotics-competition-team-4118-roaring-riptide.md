@@ -6,7 +6,7 @@ slug: first-robotics-competition-team-4118-roaring-riptide
 permalink: /exhibits/first-robotics-competition-team-4118-roaring-riptide/
 exhibit-id: 21-208
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number:
+space-number: Unassigned
 description: "Students from team 4118 will demo their competition robot."
 description-long: "The students on Roaring Riptide: FRC Team 4118, strive to raise awareness and excitement in STEM – Science, Technology, Engineering, and Math – through our local community, state, and national outreach efforts. We believe our outreach efforts help to foster the acquisition of softer skills such as teamwork, work ethics, flexibility, interpersonal skills, leadership skills, and adaptability.
 
@@ -41,7 +41,7 @@ categories:
     name: Robotics
 created-jotform: "2021-11-09 08:28:47"
 last-modified-jotform: "2021-11-09 09:14:49"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:05"
 sitemap: false
 
 ---

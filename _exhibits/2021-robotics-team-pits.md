@@ -6,7 +6,7 @@ slug: robotics-team-pits
 permalink: /exhibits/robotics-team-pits/
 exhibit-id: 21R-73
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "We are competing with a beetleweight robot at the Robot Ruckus competition"
 description-long: "We are competing at the Robot Ruckus combat robotics competition"
 image: /assets/images/exhibit-images/21R-73-exhibit-robotics-team-pits-mk2-technical-large.png
@@ -27,7 +27,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-10-26 10:33:52"
 last-modified-jotform: "2021-11-09 11:33:59"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

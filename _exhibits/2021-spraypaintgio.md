@@ -6,7 +6,7 @@ slug: spraypaintgio
 permalink: /exhibits/spraypaintgio/
 exhibit-id: 21-159
 exhibit-zone: "Outside"
-space-number:
+space-number: Unassigned
 description: "Spray painting "
 description-long: "Spray paintings on poster board and canvases "
 image: /assets/images/exhibit-images/21-159-exhibit-spraypaintgio-0abdee63-b799-4061-bbc6-d312562656f9-large.jpeg
@@ -32,7 +32,7 @@ categories:
     name: Art
 created-jotform: "2021-10-01 00:21:24"
 last-modified-jotform: "2021-11-05 21:12:24"
-last-exported: "2021-11-09 14:54:36"
+last-exported: "2021-11-09 15:13:07"
 sitemap: false
 
 ---

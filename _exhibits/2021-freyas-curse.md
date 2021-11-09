@@ -6,7 +6,7 @@ slug: freyas-curse
 permalink: /exhibits/freyas-curse/
 exhibit-id: 21R-24
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Antweight robot"
 description-long: "Antweight robot"
 image: /assets/images/exhibit-images/21R-24-exhibit-freyas-curse-43-freya-s-curse-1877-large.jpg
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-28 22:31:49"
 last-modified-jotform: "2021-08-25 20:25:07"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

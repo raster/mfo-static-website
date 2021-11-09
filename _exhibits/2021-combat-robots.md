@@ -6,7 +6,7 @@ slug: combat-robots
 permalink: /exhibits/combat-robots/
 exhibit-id: 21R-27
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "BackStabber(1lb), Project: Striker!(1lb), and Counter Attack(3lb)."
 description-long: "BackStabber is an Antweight crusher bot. The weapon uses an electric linear actuator to power the crusher which slowly pushes a sharp nail into the opponent. The weapon is so powerful that once we bite down on an opponent it is impossible for them to get away until we let go.
 BackStabber has accumulated a record of 2-4 at Robot Ruckus over the past two years but we believe this version has the potential to be a serious threat.
@@ -47,7 +47,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-31 11:16:46"
 last-modified-jotform: "2021-08-25 20:22:32"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

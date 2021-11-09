@@ -6,7 +6,7 @@ slug: crisis
 permalink: /exhibits/crisis/
 exhibit-id: 21R-72
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Crisis is a 3# combat robot making it&#039;s first ever debut at Robot Ruckus 2021!"
 description-long: "Crisis is a 3# combat robot making it&#039;s first ever debut at Robot Ruckus 2021!"
 image: /assets/images/exhibit-images/21R-72-exhibit-crisis-img-6283-large.jpg
@@ -25,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-10-26 00:32:03"
 last-modified-jotform: "2021-11-09 13:21:08"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

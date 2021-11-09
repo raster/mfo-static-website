@@ -5,7 +5,7 @@ title: "How do they make dinos these days?"
 slug: how-do-they-make-dinos-these-days
 permalink: /exhibits/how-do-they-make-dinos-these-days/
 exhibit-id: 21-210
-space-number:
+space-number: Unassigned
 description: "See how museums make dino copies, discover the dino family tree, and meet a life-sized Deinonychus!"
 description-long: "From Dinosaurs Will Always Be Awesome, see real casts and molds used by museums to recreate dinosaurs like Stegosaurus!   In a hands-on sensory activity, discover the dinosaur family tree, and meet a life-sized Deinonychus! "
 image: /assets/images/exhibit-images/21-210-exhibit-how-do-they-make-dinos-these-days-a58fd58a-17fc-4586-8c67-37a6b1ed5264-large.jpeg
@@ -59,7 +59,7 @@ categories:
     name: Science Fair
 created-jotform: "2021-11-09 14:16:04"
 last-modified-jotform: "2021-11-09 14:42:41"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:05"
 sitemap: false
 
 ---

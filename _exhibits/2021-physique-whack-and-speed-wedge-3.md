@@ -6,7 +6,7 @@ slug: physique-whack-and-speed-wedge-3
 permalink: /exhibits/physique-whack-and-speed-wedge-3/
 exhibit-id: 21R-75
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Physique Whack is a beetleweight eggbeater drum spinner. Speed Wedge 3 is a beetleweight wedge."
 description-long: "Physique Whack is a beetleweight eggbeater drum spinner. Speed Wedge 3 is a beetleweight wedge."
 image: /assets/images/exhibit-images/21R-75-exhibit-physique-whack-and-speed-wedge-3-43-hacr-logo-9785-large.png
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-11-01 15:01:37"
 last-modified-jotform: "2021-11-09 11:34:09"
-last-exported: "2021-11-09 14:54:29"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

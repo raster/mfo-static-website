@@ -6,7 +6,7 @@ slug: pirana
 permalink: /exhibits/pirana/
 exhibit-id: 21R-29
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Pirana is a 250 pound heavy weight combat robot. "
 description-long: "Pirana is a 2wd crusher robot, made from UHMW and mild steel.  "
 image: /assets/images/exhibit-images/21R-29-exhibit-pirana-robot-rendering-large.jpg
@@ -27,7 +27,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-01 16:15:35"
 last-modified-jotform: "2021-08-25 20:20:30"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: combat-robots-orly-and-strongjaw
 permalink: /exhibits/combat-robots-orly-and-strongjaw/
 exhibit-id: 21R-17
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "We will be competing with our 250 lb (Orly) and 30 Sportsman (Strongjaw) bots at Robot Ruckus. "
 description-long: "Orly, our 250 pound and Strongjaw, our 30 pound sportsman combat robots will be competing this year in Robot Ruckus. Orly is a turtle whose shell raises and lowers to hug its opponents. Strongjaw is a traditional wedge bot that will be slightly elongated. This will also be our first time at Robot Ruckus. "
 image: /assets/images/exhibit-images/21R-17-exhibit-combat-robots-orly-and-strongjaw-20210724-174802-large.jpg
@@ -33,7 +33,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-24 18:55:20"
 last-modified-jotform: "2021-09-08 19:33:08"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

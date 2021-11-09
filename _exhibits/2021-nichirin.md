@@ -6,7 +6,7 @@ slug: nichirin
 permalink: /exhibits/nichirin/
 exhibit-id: 21R-22
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "A fiery, antweight combat robot with a vertical spinner. "
 description-long: "Nichirin is a combat robot named after a sword type called Nichirin from the anime “Demon Slayer”"
 image: /assets/images/exhibit-images/21R-22-exhibit-nichirin-f238e852-06de-480f-bdd1-61582c034d57-large.jpeg
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-26 22:50:03"
 last-modified-jotform: "2021-08-25 20:29:44"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

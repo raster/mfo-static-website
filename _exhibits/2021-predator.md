@@ -6,7 +6,7 @@ slug: predator
 permalink: /exhibits/predator/
 exhibit-id: 21R-74
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "4 wheel drive hydraulic crushing robot that looks like a wolf "
 description-long: "Full AR500 welded frame, with 5 brushless motors running on 44v running on custom made wheels with custom made gearboxes "
 image: /assets/images/exhibit-images/21R-74-exhibit-predator-zq7czz2a-large.jpeg
@@ -31,7 +31,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-10-26 14:14:49"
 last-modified-jotform: "2021-10-31 12:01:40"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

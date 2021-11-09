@@ -6,7 +6,7 @@ slug: cfp-robot-team
 permalink: /exhibits/cfp-robot-team/
 exhibit-id: 21R-49
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "STEM/STEAM Students at Central Florida Prep are competing with a robot named Son of Marty"
 description-long: "STEM/STEAM Students at Central Florida Prep are competing with a robot named Son of Marty, named after Robot Marty of East Coast Robotics. Designed with an emphasis toward Art, the A in STEAM, we will wow the audience with innovation "
 image: /assets/images/exhibit-images/21R-49-exhibit-cfp-robot-team-43-cfp-5722-large.png
@@ -25,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-11 15:00:12"
 last-modified-jotform: "2021-09-22 20:25:02"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---

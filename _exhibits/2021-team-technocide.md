@@ -6,7 +6,7 @@ slug: team-technocide
 permalink: /exhibits/team-technocide/
 exhibit-id: 21R-43
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Two insect-weight fighting robots itching to create sparks and parts!"
 description-long: "&quot;Anti Matter&quot; is a one pound horizontal spinner determined to go home without (too much) damage.
 
@@ -55,7 +55,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-18 20:42:33"
 last-modified-jotform: "2021-10-31 12:00:25"
-last-exported: "2021-11-09 14:54:31"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---

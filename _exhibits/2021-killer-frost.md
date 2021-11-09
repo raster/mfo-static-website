@@ -6,7 +6,7 @@ slug: killer-frost
 permalink: /exhibits/killer-frost/
 exhibit-id: 21R-70
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Horizontal spinner."
 description-long: "A Fingertech Viper kit modified to include a horizontal spinner."
 image: /assets/images/exhibit-images/21R-70-exhibit-killer-frost-img-20210729-221438137-1-large.jpg
@@ -28,7 +28,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-27 00:32:46"
 last-modified-jotform: "2021-10-06 20:15:29"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

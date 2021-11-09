@@ -6,7 +6,7 @@ slug: marty
 permalink: /exhibits/marty/
 exhibit-id: 21R-64
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "30 pound combat robot."
 description-long: "After a 1 and 2 record in 2019, Marty is coming back to compete again. "
 image: /assets/images/exhibit-images/21R-64-exhibit-marty-img-7490-large.JPG
@@ -29,7 +29,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-20 19:58:52"
 last-modified-jotform: "2021-09-22 20:12:21"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

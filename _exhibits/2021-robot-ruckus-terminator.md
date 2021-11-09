@@ -6,7 +6,7 @@ slug: robot-ruckus-terminator
 permalink: /exhibits/robot-ruckus-terminator/
 exhibit-id: 21R-71
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "I will be participating in Robot Ruckus, and will not be having an exhibit besides the pit."
 description-long: "I will be participating in Robot Ruckus, and will not be having an exhibit besides the pit."
 image: /assets/images/exhibit-images/21R-71-exhibit-robot-ruckus-terminator-43-a-3549-large.png
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-10-23 12:54:11"
 last-modified-jotform: "2021-10-31 12:01:50"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

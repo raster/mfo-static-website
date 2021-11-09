@@ -6,7 +6,7 @@ slug: macaroni-cheese
 permalink: /exhibits/macaroni-cheese/
 exhibit-id: 21R-53
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Heavyweight Sportsman Entry - Macaroni & Cheese"
 description-long: "Macaroni & Cheese is a multibot, each of the twin robots weighs 125lbs, competing in the 250lb class.
 They feature high powered saw blades to slice through most materials and virtually impenetrable armor in this fighting class.
@@ -74,7 +74,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 18:36:47"
 last-modified-jotform: "2021-09-22 20:21:45"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---

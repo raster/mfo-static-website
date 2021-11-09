@@ -6,7 +6,7 @@ slug: grudge-frog
 permalink: /exhibits/grudge-frog/
 exhibit-id: 21R-18
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Robot Ruckus Competitor "
 description-long: "12lb horizontal spinning weapon two wheeled drive robot "
 image: /assets/images/exhibit-images/21R-18-exhibit-grudge-frog-untitled-large.JPG
@@ -25,7 +25,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-25 02:18:09"
 last-modified-jotform: "2021-08-25 20:32:59"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

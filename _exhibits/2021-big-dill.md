@@ -6,7 +6,7 @@ slug: big-dill
 permalink: /exhibits/big-dill/
 exhibit-id: 21R-50
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "250lb Combat Robot."
 description-long: "Big Dill is a 250lb combat robot. That has competed on the Tv show Battlebots. Big Dill is an electronic lifter capable of lifting over 300lbs."
 image: /assets/images/exhibit-images/21R-50-exhibit-big-dill-bigdill03-large.png
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-15 15:07:32"
 last-modified-jotform: "2021-09-22 20:23:45"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---

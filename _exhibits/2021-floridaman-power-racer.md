@@ -6,7 +6,7 @@ slug: floridaman-power-racer
 permalink: /exhibits/floridaman-power-racer/
 exhibit-id: 21-192
 exhibit-zone: "Power Racing Track"
-space-number:
+space-number: Unassigned
 description: "We took a sled, a battery module from a Chevy Volt and a chinese motor and made a racing kart! "
 description-long: "We took a sled, a battery module from a Chevy Volt and a chinese motor and made a racing kart! "
 image: /assets/images/exhibit-images/21-192-exhibit-floridaman-power-racer-floridaman-side-large.jpg
@@ -24,7 +24,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-10-30 14:42:44"
 last-modified-jotform: "2021-10-30 14:43:47"
-last-exported: "2021-11-09 14:54:35"
+last-exported: "2021-11-09 15:13:06"
 sitemap: false
 
 ---

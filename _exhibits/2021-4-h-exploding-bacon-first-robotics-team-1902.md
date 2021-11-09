@@ -6,7 +6,7 @@ slug: 4-h-exploding-bacon-first-robotics-team-1902
 permalink: /exhibits/4-h-exploding-bacon-first-robotics-team-1902/
 exhibit-id: 21-203
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number:
+space-number: Unassigned
 description: "Central Florida high school robotics team will demo robots"
 description-long: "4-H Exploding Bacon is a Central Florida high school robotics team that designs and builds robots that compete internationally through the FIRST Robotics Competition. Students will demo their robot and share STEM education materials."
 image: /assets/images/exhibit-images/21-203-exhibit-4-h-exploding-bacon-first-robotics-team-1902-5ba9c1ba-b709-404b-8b4d-fe2620a85704-large.jpeg
@@ -49,7 +49,7 @@ categories:
     name: Robotics
 created-jotform: "2021-11-07 22:52:46"
 last-modified-jotform: "2021-11-09 09:18:49"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:06"
 sitemap: false
 
 ---

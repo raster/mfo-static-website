@@ -6,7 +6,7 @@ slug: extinguisher
 permalink: /exhibits/extinguisher/
 exhibit-id: 21R-68
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Extinguisher is a 250lb combat robot that fought on Battlebots. "
 description-long: "Extinguisher is a 250lb combat robot that fought on Battlebots. The new revision of Extinguisher will be actively fighting in the Ruckus event and the old revision, as well as battle damaged parts, will be on display. "
 image: /assets/images/exhibit-images/21R-68-exhibit-extinguisher-43-124009316-760432281205289-3243703259059809150-n-7864-large.jpg
@@ -26,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-22 22:08:00"
 last-modified-jotform: "2021-10-06 20:16:29"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: axe-backwards
 permalink: /exhibits/axe-backwards/
 exhibit-id: 21R-61
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "250 lb full bodied drum spinner"
 description-long: "250 lb full bodied drum spinner"
 image: /assets/images/exhibit-images/21R-61-exhibit-axe-backwards-43-axe-backwards-bot-2020-1804-large.jpg
@@ -26,7 +26,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-20 09:51:56"
 last-modified-jotform: "2021-09-22 20:15:31"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

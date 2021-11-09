@@ -6,7 +6,7 @@ slug: elk-robotics
 permalink: /exhibits/elk-robotics/
 exhibit-id: 21R-41
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Miami based team fielding Cannibal Mini and Junkyard Mutant in the 12lb weight class."
 description-long: "Cannibal Mini: 12lb angled horizontal spinner wielding a 2.5lb asymmetrical AR500 bar. Due to the angle of the spinning bar the bot experiences unique gyroscopic effects that cause the front of he robot to lift up or be forced down in turns, depending of the turning direction. 
 
@@ -37,7 +37,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-15 14:46:06"
 last-modified-jotform: "2021-10-31 12:02:04"
-last-exported: "2021-11-09 14:54:31"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---

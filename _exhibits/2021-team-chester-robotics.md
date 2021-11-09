@@ -6,7 +6,7 @@ slug: team-chester-robotics
 permalink: /exhibits/team-chester-robotics/
 exhibit-id: 21R-37
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Two of my robots, Pulsar (one pound antweight) and UFO JOE (six pound beetleweight)"
 description-long: "Two of my robots, Pulsar and UFO JOE.  Pulsar is a dual disc veritcal spinning competing in the antweight division, while UFO JOE is a six pound walking ring spinner competing in the beetleweight division."
 image: /assets/images/exhibit-images/21R-37-exhibit-team-chester-robotics-arduino-robot-arm-3d-model-step-file-2021-jul-18-05-52-40pm-000-customizedview1070927126-large.png
@@ -35,7 +35,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-09 13:57:50"
 last-modified-jotform: "2021-08-25 20:15:38"
-last-exported: "2021-11-09 14:54:31"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: team-junk-yard-dog
 permalink: /exhibits/team-junk-yard-dog/
 exhibit-id: 21R-56
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "2 robots competing in robot ruckus"
 description-long: "Fight robots"
 image: /assets/images/exhibit-images/21R-56-exhibit-team-junk-yard-dog-43-20210919-192546-9173-large.jpg
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 19:28:25"
 last-modified-jotform: "2021-09-22 20:19:09"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:01"
 sitemap: false
 
 ---

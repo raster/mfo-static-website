@@ -6,7 +6,7 @@ slug: panzer-jagers
 permalink: /exhibits/panzer-jagers/
 exhibit-id: 21R-30
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Combat Robotics.
 Roma Rakhmatullin."
 description-long: "Combat Robotics Team Panzer Jagers.
@@ -30,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-08-01 17:49:49"
 last-modified-jotform: "2021-08-25 20:19:52"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

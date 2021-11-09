@@ -6,7 +6,7 @@ slug: pillow-fight
 permalink: /exhibits/pillow-fight/
 exhibit-id: 21-205
 exhibit-zone: "Power Racing Track"
-space-number:
+space-number: Unassigned
 description: "Pillow fight would like to participate in the PowerWheels Race"
 description-long: "Entry for the power racing series. Pillow fight is relatively new power wheels (first race was participating in Akron) and would like to enter her third event (she has also participated in Milwaukee)."
 image: /assets/images/exhibit-images/21-205-exhibit-pillow-fight-pillow-large.png
@@ -25,7 +25,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-11-08 11:30:12"
 last-modified-jotform: "2021-11-08 17:00:04"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:05"
 sitemap: false
 
 ---

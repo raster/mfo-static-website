@@ -6,7 +6,7 @@ slug: fast-food-a-la-kart
 permalink: /exhibits/fast-food-a-la-kart/
 exhibit-id: 21-200
 exhibit-zone: "Power Racing Track"
-space-number:
+space-number: Unassigned
 description: "I came here to serve up fries and win first place, and I already brought the fries."
 description-long: "Inspired by everyone&#039;s favorite greasy spoons, this driver is ready to serve up fast service and an even faster kart. Racing to a diner near you. Order up!"
 image: /assets/images/exhibit-images/21-200-exhibit-fast-food-a-la-kart-received-468251664583103-large.jpeg
@@ -32,7 +32,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-11-05 22:11:11"
 last-modified-jotform: "2021-11-05 22:13:26"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:06"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: arustocrats-power-racing-series-silly-electric-gokarts
 permalink: /exhibits/arustocrats-power-racing-series-silly-electric-gokarts/
 exhibit-id: 21-130
 exhibit-zone: "Power Racing Track"
-space-number:
+space-number: Unassigned
 description: "https://www.facebook.com/thearustocrats"
 description-long: "The aRUSTocrats are a band of jagoffs hailing from Pittsburgh, brought together without a true Hackerspace, but true heart N&#039;at for tinkering."
 image: /assets/images/exhibit-images/21-130-exhibit-arustocrats-power-racing-series-silly-electric-gokarts-12065989-435774133279759-704828850021955115-n-large.jpg
@@ -28,7 +28,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-09-06 19:53:15"
 last-modified-jotform: "2021-10-24 11:42:10"
-last-exported: "2021-11-09 14:54:37"
+last-exported: "2021-11-09 15:13:08"
 sitemap: false
 
 ---

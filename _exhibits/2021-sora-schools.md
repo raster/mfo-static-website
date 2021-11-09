@@ -6,7 +6,7 @@ slug: sora-schools
 permalink: /exhibits/sora-schools/
 exhibit-id: 21-191
 exhibit-zone: "Outside"
-space-number:
+space-number: Unassigned
 description: "Sora Schools is a project-based, virtual middle school and high school."
 description-long: "Sora Schools is the project-based, virtual high school that helps students soar. Our innovative curriculum takes online school from sitting-behind-your-desk school and turns it into an engaging experience for each student&#039;s unique needs.
 
@@ -37,7 +37,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2021-10-30 12:45:15"
 last-modified-jotform: "2021-10-30 14:45:44"
-last-exported: "2021-11-09 14:54:35"
+last-exported: "2021-11-09 15:13:06"
 sitemap: false
 
 ---

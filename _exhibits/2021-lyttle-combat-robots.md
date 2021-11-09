@@ -6,7 +6,7 @@ slug: lyttle-combat-robots
 permalink: /exhibits/lyttle-combat-robots/
 exhibit-id: 21R-16
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Two insect weight combat robots. "
 description-long: "Insect combat robots designed to to destroy or be destroyed. "
 image: /assets/images/exhibit-images/21R-16-exhibit-lyttle-combat-robots-23664f8d-b18b-4abb-b3c4-95dfa42a2163-large.jpeg
@@ -30,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-24 15:48:39"
 last-modified-jotform: "2021-08-25 20:42:47"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

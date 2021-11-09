@@ -6,7 +6,7 @@ slug: rotator
 permalink: /exhibits/rotator/
 exhibit-id: 21-201
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number:
+space-number: Unassigned
 description: "BattleBots"
 description-long: "Rotator is a 250lbs fighting robot from the tv show BattleBots on the Discovery Channel!"
 image: /assets/images/exhibit-images/21-201-exhibit-rotator-rotator-large.png
@@ -32,7 +32,7 @@ categories:
     name: Robotics
 created-jotform: "2021-11-06 18:35:42"
 last-modified-jotform: "2021-11-06 20:08:52"
-last-exported: "2021-11-09 14:54:34"
+last-exported: "2021-11-09 15:13:06"
 sitemap: false
 
 ---

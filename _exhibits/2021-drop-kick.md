@@ -6,7 +6,7 @@ slug: drop-kick
 permalink: /exhibits/drop-kick/
 exhibit-id: 21R-25
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "Vertical spinner "
 description-long: "Tall vertical bar spinner combat robot. "
 image: /assets/images/exhibit-images/21R-25-exhibit-drop-kick-3a447998-4c6f-48d2-aff5-e2c1cfe22b95-large.jpeg
@@ -24,7 +24,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-07-29 21:50:11"
 last-modified-jotform: "2021-10-31 12:02:16"
-last-exported: "2021-11-09 14:54:32"
+last-exported: "2021-11-09 15:13:03"
 sitemap: false
 
 ---

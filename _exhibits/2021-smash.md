@@ -6,7 +6,7 @@ slug: smash
 permalink: /exhibits/smash/
 exhibit-id: 21R-51
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: ""
+space-number: Unassigned
 description: "A 3lb combat robot, for your entertainment!"
 description-long: "A 3lb combat robot, for your entertainment!"
 image: /assets/images/exhibit-images/21R-51-exhibit-smash-pxl-20210904-180457083-large.jpg
@@ -30,7 +30,7 @@ categories:
     name: Combat Robots
 created-jotform: "2021-09-19 18:24:33"
 last-modified-jotform: "2021-09-22 20:23:12"
-last-exported: "2021-11-09 14:54:30"
+last-exported: "2021-11-09 15:13:02"
 sitemap: false
 
 ---
