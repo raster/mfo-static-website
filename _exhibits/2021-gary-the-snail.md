@@ -6,6 +6,7 @@ slug: gary-the-snail
 permalink: /exhibits/gary-the-snail/
 exhibit-id: 21-174
 exhibit-zone: "Power Racing Track"
+space-number:
 description: "2019 power wheels racing season champion, here to lay some slime"
 description-long: "2019 power wheels racing season champion, here to lay some slime"
 image: /assets/images/exhibit-images/21-174-exhibit-gary-the-snail-img-20190727-125309-large.jpg
@@ -28,7 +29,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-10-14 00:42:12"
 last-modified-jotform: "2021-10-24 11:37:40"
-last-exported: "2021-11-07 18:22:34"
+last-exported: "2021-11-09 14:54:35"
 sitemap: false
 
 ---

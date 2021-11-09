@@ -6,6 +6,7 @@ slug: the-candy-kart
 permalink: /exhibits/the-candy-kart/
 exhibit-id: 21-187
 exhibit-zone: "Power Racing Track"
+space-number:
 description: "The Kandy Kart will be competing in the Power Wheels Racing Series.
 "
 description-long: "How fast can $500 go? Well that is a great question that our Kart inspired by Venelope&#039;s awesome kart the Wreck-It It Ralf movie is going to answer.
@@ -36,7 +37,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-10-26 23:16:49"
 last-modified-jotform: "2021-10-30 10:46:20"
-last-exported: "2021-11-07 18:22:34"
+last-exported: "2021-11-09 14:54:35"
 sitemap: false
 
 ---

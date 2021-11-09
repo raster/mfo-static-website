@@ -6,6 +6,7 @@ slug: party-hero-games
 permalink: /exhibits/party-hero-games/
 exhibit-id: 21-194
 exhibit-zone: "Opportunity"
+space-number:
 description: "There are 5 original card games we created. Along with art prints and stickers based upon our games."
 description-long: "Each of the five card games is different. The first one is called Animenia it is an anime based matching game. The second is Politically Incorrect it is a conversation starter or debate game however you decide to play. The third is Famous Movie Lines it is a game based upon movie titles and quotes not trivia. The fourth is Swipe Right it is an adult game played like \"What do you Meme\". And lastly is Drink or Dare it is an adult drinking games to test the wild side of the party. We have created art prints and stickers based on the game Animenia. "
 image: /assets/images/exhibit-images/21-194-exhibit-party-hero-games-123-1-large.jpeg
@@ -55,7 +56,7 @@ categories:
     name: Illustration
 created-jotform: "2021-11-02 20:19:08"
 last-modified-jotform: "2021-11-07 14:56:51"
-last-exported: "2021-11-07 18:22:33"
+last-exported: "2021-11-09 14:54:35"
 sitemap: false
 
 ---

@@ -6,6 +6,7 @@ slug: nerdy-derby
 permalink: /exhibits/nerdy-derby/
 exhibit-id: 21-149
 exhibit-zone: "Curiosity"
+space-number:
 description: "Make and customize your individual race car!"
 description-long: "Use a shared set of materials and make your own individual race car. You can then race it against two other cars!"
 image: /assets/images/exhibit-images/21-149-exhibit-nerdy-derby-44146489990-e297d06ac1-c-large.jpg
@@ -45,7 +46,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-09-27 16:19:28"
 last-modified-jotform: "2021-11-01 19:15:44"
-last-exported: "2021-11-07 18:22:35"
+last-exported: "2021-11-09 14:54:36"
 sitemap: false
 
 ---

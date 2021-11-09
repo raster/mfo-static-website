@@ -6,6 +6,7 @@ slug: batmobile-by-lazygecko
 permalink: /exhibits/batmobile-by-lazygecko/
 exhibit-id: 21-199
 exhibit-zone: "Power Racing Track"
+space-number:
 description: "From out of the shadows, the Batmobile may BUBBLE up on a track near you!"
 description-long: "Having his own Batmobile has been a dream of Rick&#039;s since he was a kid. Power Racing has brought a perfect opportunity for him to bring that into realtit complete with gadgets."
 image: /assets/images/exhibit-images/21-199-exhibit-batmobile-by-lazygecko-20210926-153045-large.jpg
@@ -46,7 +47,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-11-05 21:45:23"
 last-modified-jotform: "2021-11-05 22:14:03"
-last-exported: "2021-11-07 18:22:33"
+last-exported: "2021-11-09 14:54:34"
 sitemap: false
 
 ---

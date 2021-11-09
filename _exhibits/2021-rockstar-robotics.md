@@ -6,6 +6,7 @@ slug: rockstar-robotics
 permalink: /exhibits/rockstar-robotics/
 exhibit-id: 21-82
 exhibit-zone: "Robot Ruckus"
+space-number:
 description: "Local area FIRST robotics team showcasing our past and present robotic endeavors.  "
 description-long: "Local FIRST FRC, FTC, FLL team.
 Showcasing Lego Robotics and First Robotics Competition robots.
@@ -61,7 +62,7 @@ categories:
     name: Robotics
 created-jotform: "2021-08-19 09:19:35"
 last-modified-jotform: "2021-10-24 11:51:08"
-last-exported: "2021-11-07 18:22:37"
+last-exported: "2021-11-09 14:54:39"
 sitemap: false
 
 ---

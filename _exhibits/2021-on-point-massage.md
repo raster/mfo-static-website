@@ -6,6 +6,7 @@ slug: on-point-massage
 permalink: /exhibits/on-point-massage/
 exhibit-id: 21-69
 exhibit-zone: "Outside"
+space-number:
 description: "Massages are available for $1 per minute for up to 20 minutes. "
 description-long: "Massages are available for $1 per minute for up to 20 minutes on a first come first serve basis. 
 
@@ -52,7 +53,7 @@ categories:
     name: Education
 created-jotform: "2021-08-11 13:31:21"
 last-modified-jotform: "2021-11-03 13:11:52"
-last-exported: "2021-11-07 18:22:38"
+last-exported: "2021-11-09 14:54:40"
 sitemap: false
 
 ---

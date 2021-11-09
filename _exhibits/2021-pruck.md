@@ -6,6 +6,7 @@ slug: pruck
 permalink: /exhibits/pruck/
 exhibit-id: 21-51
 exhibit-zone: "Outside"
+space-number:
 description: "1953 international truck repowered by toyota prius, with mahogany tilt bed "
 description-long: "repurposed antique vehicles into modern enjoyable and reliable art cars.
 visitors may climb aboard, touch and feel a blast from the past.
@@ -42,8 +43,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2021-08-05 08:55:06"
-last-modified-jotform: "2021-10-24 11:59:14"
-last-exported: "2021-11-07 18:22:38"
+last-modified-jotform: "2021-11-09 13:30:46"
+last-exported: "2021-11-09 14:54:40"
 sitemap: false
 
 ---

@@ -6,6 +6,7 @@ slug: human-energy-harvesters
 permalink: /exhibits/human-energy-harvesters/
 exhibit-id: 21-185
 exhibit-zone: "Outside"
+space-number:
 description: "Recumbent Bicycle Human Energy Harvesters/HEHs enable the production of DC electricity by pedaling."
 description-long: "The HEH enables a User to create DC power by pedaling, after making a seat adjustment for the User&#039;s height. The electrical output is shown in real time on an attached digital wattmeter, and provision is included to mount a cellphone to take Selfies while pedaling. 
 
@@ -48,7 +49,7 @@ categories:
     name: Sustainability
 created-jotform: "2021-10-24 21:41:05"
 last-modified-jotform: "2021-10-30 10:46:26"
-last-exported: "2021-11-07 18:22:34"
+last-exported: "2021-11-09 14:54:35"
 sitemap: false
 
 ---

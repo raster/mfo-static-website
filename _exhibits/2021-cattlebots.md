@@ -6,6 +6,7 @@ slug: cattlebots
 permalink: /exhibits/cattlebots/
 exhibit-id: 21-196
 exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number:
 description: "Demonstrating a robot we built to model construction technology for first technology competition."
 description-long: "Our robot is made to compete in the FIRST Robotics competition. We will be demonstrating it and explaining how its specific functions connect to real life problems. We would like to use this demonstration to inspire future engineers to participate in more STEM activities. "
 image: /assets/images/exhibit-images/21-196-exhibit-cattlebots-4bcaab07-163d-4782-8714-d84ad329f4ad-large.jpeg
@@ -31,7 +32,7 @@ categories:
     name: FIRST Robotics
 created-jotform: "2021-11-04 17:53:52"
 last-modified-jotform: "2021-11-05 14:51:03"
-last-exported: "2021-11-07 18:22:33"
+last-exported: "2021-11-09 14:54:34"
 sitemap: false
 
 ---

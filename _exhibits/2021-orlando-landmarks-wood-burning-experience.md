@@ -6,6 +6,7 @@ slug: orlando-landmarks-wood-burning-experience
 permalink: /exhibits/orlando-landmarks-wood-burning-experience/
 exhibit-id: 21-175
 exhibit-zone: "Outside"
+space-number:
 description: "This exhibit features a wood-burning traveling tag of Orlando&#039;s famous landmarks."
 description-long: "The wood-burning tag is a laser etching of Orlando&#039;s famous landmarks.  Those who purchase this item can customize it by adding a name, emojis, or a short quote.
 This is a learning experience that will focus on teaching individuals the basics and safety of wood-burning."
@@ -39,7 +40,7 @@ categories:
     name: Woodworking
 created-jotform: "2021-10-15 13:19:15"
 last-modified-jotform: "2021-10-24 11:39:19"
-last-exported: "2021-11-07 18:22:34"
+last-exported: "2021-11-09 14:54:35"
 sitemap: false
 
 ---

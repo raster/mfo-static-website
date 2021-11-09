@@ -6,6 +6,7 @@ slug: gecko-kart
 permalink: /exhibits/gecko-kart/
 exhibit-id: 21-90
 exhibit-zone: "Power Racing Track"
+space-number:
 description: "The test bed for Lazy Gecko Kart Developments."
 description-long: "Gecko Kart has traditionally been the stable and steady kart of Team Lazy Gecko. This year, with the newly designed Gen3 Gecko drive, Gecko Kart will be looking to go head to head with Raphael."
 image: /assets/images/exhibit-images/21-90-exhibit-gecko-kart-38197374-1515360545275460-2893009963934810112-n-large.jpg
@@ -49,7 +50,7 @@ categories:
     name: Power Racing
 created-jotform: "2021-08-23 10:08:38"
 last-modified-jotform: "2021-10-24 11:48:20"
-last-exported: "2021-11-07 18:22:37"
+last-exported: "2021-11-09 14:54:39"
 sitemap: false
 
 ---

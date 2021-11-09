@@ -6,6 +6,7 @@ slug: pendulum-driven-art-as-unique-as-the-individual
 permalink: /exhibits/pendulum-driven-art-as-unique-as-the-individual/
 exhibit-id: 21-151
 exhibit-zone: "Outside"
+space-number:
 description: "Three pendulums are set in motion in varying directions to create art that is random, yet harmonic."
 description-long: "With direct input through the individual, three pendulums are set in motion in varying directions to create art that is random, yet harmonic. The art becomes as unique as the individual, representing that individuals inner beauty and creativity."
 image: /assets/images/exhibit-images/21-151-exhibit-pendulum-driven-art-as-unique-as-the-individual-img-20201008-135206351-large.jpg
@@ -51,7 +52,7 @@ categories:
     name: SteamPunk
 created-jotform: "2021-09-27 20:28:00"
 last-modified-jotform: "2021-10-24 11:40:34"
-last-exported: "2021-11-07 18:22:34"
+last-exported: "2021-11-09 14:54:36"
 sitemap: false
 
 ---
