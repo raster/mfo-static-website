@@ -396,7 +396,15 @@ def export(outputAll):
               outfile.write("exhibit-zone: " + '"' + exhibitZone + '"' + "\n")
 
             if spaceNumber is not None:
-              outfile.write("space-number: " + '"' + spaceNumber + '"' + "\n")
+              if len(spaceNumber) > 0:
+                outfile.write("space-number: " + '"' + spaceNumber + '"' + "\n")
+              else: #its not none, but still empty
+                outfile.write("space-number: Unassigned\n")
+            else: #it is none
+              outfile.write("space-number: Unassigned\n")
+
+
+
 
             outfile.write("description: " + '"' + descShort + '"' + "\n")
             outfile.write("description-long: " + '"' + descLong + '"' + "\n")
