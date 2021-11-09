@@ -34,13 +34,8 @@
       </div>
       <p><b>Exhibit Zone:</b> {{page.exhibit-zone}}</p>
 
-      {% assign thesize = page.space-number.size %}
+      <p><b>Exhibit Space:</b> {{page.space-number}} {% if page.space-number != "Unassigned" %}(Subject to Change){%endif%}</p>
 
-      {% if page.space-number > 1 %}
-        <p><b>Exhibit Space:</b> {{page.space-number}} (Subject to Change)</p>
-      {% elsif %}
-        <p><b>Exhibit Space:</b> Unassigned</p>
-      {% endif %}
       <p><b>Exhibit Number:</b> {{page.exhibit-id}}</p>
 
 
