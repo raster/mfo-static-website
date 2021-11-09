@@ -15,7 +15,7 @@ permalink: /makers-json/
       "promo_url": "{{ exhibit.url | absolute_url  | escape }}",
       "project_short_summary": {{exhibit.description | smartify | jsonify }},
       {% if exhibit.categories %}"exhibit_category": "{% for category in exhibit.categories %}{% if category.name != nil %}{% if forloop.first %}{% else %},{% endif %}{{ category.name }}{% endif %}{% endfor %}",{% endif %}{% if exhibit.categories == nil %} "categories"  : [],  {% endif %}
-      "location": "{{exhibit.location}}",
+      "location": "{{exhibit.exhibit-zone}}",
       "photo_link": "{{ exhibit.image | absolute_url }}",
       "maker":{
         "name": {{exhibit.maker.name | smartify | jsonify }},
