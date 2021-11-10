@@ -6,7 +6,7 @@ slug: familab-hackerspace
 permalink: /exhibits/familab-hackerspace/
 exhibit-id: 21-171
 exhibit-zone: "Opportunity"
-space-number: "OC10"
+space-number: "OA26"
 description: "Hackerspace in Longwood, Florida"
 description-long: "FamiLAB welcomes makers, artists, thinkers, hackers*, crafters, and everyone else – come wield your imagination in any (legal and ethical) way you see fit. Think of FamiLAB as a club for geeks!  Whether you are an art geek, hardware geek, photography geek, code geek, lab geek, or any geek in between–we would like you to join us at the lab and teach a class, lead a lecture, or simply work on a project while surrounded by awesome people. If you can think of it, come build and share it the lab."
 image: /assets/images/exhibit-images/21-171-exhibit-familab-hackerspace-familab-exhibit-image-large.png
@@ -37,8 +37,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2021-10-12 21:24:35"
-last-modified-jotform: "2021-10-30 12:07:53"
-last-exported: "2021-11-09 15:13:06"
+last-modified-jotform: "2021-11-09 21:25:14"
+last-exported: "2021-11-10 08:48:57"
 sitemap: false
 
 ---
