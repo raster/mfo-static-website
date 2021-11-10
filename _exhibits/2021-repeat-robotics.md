@@ -17,12 +17,12 @@ Notable finishes include -
 2nd - CROK Maker Faire Tulsa 2021
 2nd - CROK Tinkertober 2021
 5th - Smashbots LA 2021"
-image: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-8407-large.png
+image: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-large.png
 image-primary: 
-  small: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-8407-small.png
-  medium: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-8407-medium.png
-  large: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-8407-large.png
-  full: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-8407-full.png
+  small: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-small.png
+  medium: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-medium.png
+  large: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-large.png
+  full: /assets/images/exhibit-images/21R-73-exhibit-repeat-robotics-mk2-technical-full.png
 maker: 
   name: "Repeat Robotics"
   description: "Repeat Robotics is a combat robotics team that is bringing a beetleweight robot to compete at Robot Ruckus"
@@ -34,8 +34,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-10-26 10:33:52"
-last-modified-jotform: "2021-11-10 08:48:27"
-last-exported: "2021-11-10 08:48:48"
+last-modified-jotform: "2021-11-10 09:55:26"
+last-exported: "2021-11-10 10:29:57"
 sitemap: false
 
 ---
