@@ -18,13 +18,13 @@ image-primary:
 maker: 
   name: "Russell Williams"
   description: "Member of Purple Fore Robotics at Florida Polytechnic University"
-  image-primary: /assets/images/exhibit-images/21R-58-maker-insomnia-20210910-135430-medium.jpg
+  image-primary: /assets/images/exhibit-images/21R-58-maker-insomnia-18-insomnia-8-1-21-6531-medium.PNG
 categories: 
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2021-09-19 20:53:30"
-last-modified-jotform: "2021-09-22 20:17:54"
-last-exported: "2021-11-09 15:13:01"
+last-modified-jotform: "2021-11-11 11:11:18"
+last-exported: "2021-11-11 12:55:33"
 sitemap: false
 
 ---
