@@ -106,3 +106,8 @@ sponsors:
     logo: beta-fpv-transparent.png
     level: 4
     active: true
+  - name: Fulament
+    url: https://www.fulament.com
+    logo: fulament-logo.png
+    level: 4
+    active: true
