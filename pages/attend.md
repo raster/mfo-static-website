@@ -67,13 +67,13 @@ Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https:
 
 ---
 
-**Robot Ruckus** The [Robot Ruckus](https://www.robotruckus.org) Tournament at Maker Faire Orlando runs the entire length of the event in two arenas. For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://ruckusvip.eventbrite.com) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org]
+**Robot Ruckus** The [Robot Ruckus](https://www.robotruckus.org) Tournament at Maker Faire Orlando runs the entire length of the event in two arenas. For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://ruckusvip.eventbrite.com) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org)
 
 ___
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
-**COVID Guidelines** Based on the most recent guidance for Orange County, FL, face coverings are strongly recommended for all participants while indoors (does not apply to children under 2). We will continue to monitor guidance and update our COVID plan as guidance changes.
+**COVID Guidelines** Based on the most recent guidance for Orange County, FL, face coverings are strongly recommended for all participants while indoors (does not apply to children under 2). 
 
 **Homeschool educators receive free admission** to Maker Faire Orlando 2021 with identification and documentation.
 Please see our [Homeschool Programs page](/homeschool) for more information including requirements and restrictions.
