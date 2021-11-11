@@ -66,7 +66,9 @@ Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https:
 
 
 ---
+
 **Robot Ruckus** The [Robot Ruckus](https://www.robotruckus.org) Tournament at Maker Faire Orlando runs the entire length of the event in two arenas. For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://ruckusvip.eventbrite.com) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org]
+
 ___
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
