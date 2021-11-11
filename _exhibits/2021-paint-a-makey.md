@@ -6,7 +6,7 @@ slug: paint-a-makey
 permalink: /exhibits/paint-a-makey/
 exhibit-id: 21-214
 exhibit-zone: "Curiosity"
-space-number: Unassigned
+space-number: "CH6, CI6"
 description: "Add your creative flair by painting our 2021 artwork!"
 description-long: "Using our 2021 Makey artwork, add your own creative flair to our giant cutout version of it where you paint in sections using our supplies, this experience is free of charge and should be running during the entire event."
 image: /assets/images/exhibit-images/21-214-exhibit-paint-a-makey-paint-a-makey-large.jpg
@@ -40,8 +40,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2021-11-09 21:18:55"
-last-modified-jotform: "2021-11-09 22:28:07"
-last-exported: "2021-11-10 08:48:54"
+last-modified-jotform: "2021-11-10 21:08:21"
+last-exported: "2021-11-10 21:08:35"
 sitemap: false
 
 ---

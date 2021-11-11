@@ -6,7 +6,7 @@ slug: dorado-graphix-wide-format-techology
 permalink: /exhibits/dorado-graphix-wide-format-techology/
 exhibit-id: 21-160
 exhibit-zone: "Opportunity"
-space-number: "OD24, OE24"
+space-number: "OD25, OE25"
 description: "Showing how to create products using large format printing, finishing equipment, software and media."
 description-long: "We are showing the different applcations of large format printing &amp; finishing equipment, software &amp; media as tools to help Makers make what they create. You can do so much more than print large banners!"
 image: /assets/images/exhibit-images/21-160-exhibit-dorado-graphix-wide-format-techology-img-20181109-185935676-large.jpg
@@ -42,8 +42,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2021-10-02 13:23:34"
-last-modified-jotform: "2021-10-29 23:32:16"
-last-exported: "2021-11-09 15:13:07"
+last-modified-jotform: "2021-11-10 20:56:05"
+last-exported: "2021-11-10 21:01:37"
 sitemap: false
 
 ---
