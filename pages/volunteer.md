@@ -13,6 +13,10 @@ carousel-slides:
     url:
 ---
 
+# Thanks for Volunteering for Maker Faire Orlando 2021
+The event is now underway and we have closed volunteer registration. If you've already registered and have questions, please email us at <volunteers@themakereffect.org>
+
+{%comment%}
 # We Need You!
 Volunteering at Maker Faire Orlando is a great way to give back to your local community AND to attend the event without needing to buy a ticket!
 
@@ -36,3 +40,6 @@ You can register for open volunteer shifts by scrolling to the list of available
 ### Volunteer Shifts
 
 <iframe id="advanced_iframe" name="advanced_iframe" src="https://themakereffect.secure.force.com/volunteers/GW_Volunteers__VolunteersJobListingFS?ShowSkills=1&amp;ShowDescription=1&amp;ShowShifts=1" width="100%" height="2500" scrolling="auto" frameborder="0" allowtransparency="true" style=";width:100%;height:2000px;"></iframe>
+
+
+{%endcomment%}
