@@ -12,7 +12,7 @@ scrolltop: true
 
 <p>Interested in Exhibiting at Maker Faire Orlando? <a href="/exhibit-at-maker-faire-orlando/">Learn more about exhibiting!</a> </p>
 
-<p>Want to see all the BattleBots and other combat robots participating in <a href="https://robotruckus.org">Robot Ruckus</a>? Head over to the <a href="https://robotruckus.org">Robot Ruckus website</a> for details and check out the <a href="/makers/?category=combat-robots">Combat Robots category</a> on this page!</p>
+<p>Want to see all the BattleBots and other combat robots participating in <a href="https://www.robotruckus.org">Robot Ruckus</a>? Head over to the <a href="https://www.robotruckus.org">Robot Ruckus website</a> for details and check out the <a href="/makers/?category=combat-robots">Combat Robots category</a> on this page!</p>
 </div>
 
 <div class="mtm">
